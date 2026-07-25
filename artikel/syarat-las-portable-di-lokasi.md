@@ -1,0 +1,181 @@
+---
+article_id: BKL-13-A01
+title: "Las Portable di Lokasi: Syarat sebelum Tim Berangkat"
+slug: "syarat-las-portable-di-lokasi"
+description: "Confirm scope, survey, access, isolation, power, weather, combustibles, permit, fire control, ventilation, lifting, and cleanup responsibilities"
+status: outline
+publication_date: "2026-01-18"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: BKL-13
+primary_intent: "Prepare a field welding job"
+reader_community: "Bengkel.co.id"
+reader_address: "Sobat Bengkel.co.id"
+final_route: "/artikel/syarat-las-portable-di-lokasi.html"
+technical_review: required
+sources:
+  - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
+  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
+  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
+  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
+  - "https://www.iso.org/standard/64835.html"
+  - "https://www.iso.org/standard/64838.html"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Las Portable di Lokasi: Syarat sebelum Tim Berangkat
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”
+- **Reader and situation:** Customer considering `/las-portable.html`
+- **Reader outcome:** Confirm scope, survey, access, isolation, power, weather, combustibles, permit, fire control, ventilation, lifting, and cleanup responsibilities
+- **Primary intent:** Prepare a field welding job
+- **Reader community:** `Bengkel.co.id`
+- **Primary friendly address:** `Sobat Bengkel.co.id`
+- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** No hot-work authorization or technical weld procedure; BKL-15 and BKL-08 own those controls
+- **Final public route:** `/artikel/syarat-las-portable-di-lokasi.html`
+- **Appointed CMS date:** `2026-01-18` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Las Portable di Lokasi: Syarat sebelum Tim Berangkat**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-14
+
+- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
+- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
+- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
+- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
+
+### KR-10
+
+- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
+- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
+- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
+- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
+
+### KR-13
+
+- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 12944-3:2017 — official ISO abstract](https://www.iso.org/standard/64835.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
+- **Purpose for this article:** Treat gates, railings, stairs, canopies, grilles, frames, furniture, and similar products as installed systems rather than decorative workshop objects.
+- **Safe grounded facts:** Function and risk can depend on use, users, geometry, edges and entrapment, load and impact, support/anchor substrate, drainage and water traps, dissimilar materials, exposure, access, operation/hardware, coating repair, erection, and future maintenance.
+- **Limits:** The cited sources do not provide application-specific dimensions, loads, anchors, child-safety rules, accessibility requirements, or local approvals. Resolve those from the actual project and current governing rules.
+
+## Evidence gates
+
+- **TOPIC-GATE:** GATE-02, GATE-04, GATE-08, GATE-09
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/las-portable.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/las-stainless-steel-aluminium.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/las-besi-baja.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/las` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/las/teralis` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/las/tangki-silinder` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `BKL-13-A02` → `/artikel/site-survey-pekerjaan-bengkel-di-lokasi.html` — Site Survey untuk Pekerjaan Bengkel di Rumah, Pabrik, atau Area Komersial
+- `BKL-13-A03` → `/artikel/melindungi-area-terpakai-saat-pekerjaan-bengkel.html` — Melindungi Area Terpakai dari Percikan, Debu, Asap, dan Kerusakan
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Jawaban singkat dan salah paham utama
+
+- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
+- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Definisi dan batas objek
+
+- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
+- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Cara kerjanya
+
+- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
+- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Faktor yang mengubah hasil
+
+- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
+- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Contoh keputusan praktis
+
+- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
+- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kesalahan umum dan cara memeriksanya
+
+- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
+- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
