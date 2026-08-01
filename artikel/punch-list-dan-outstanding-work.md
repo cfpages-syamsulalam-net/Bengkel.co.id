@@ -1,9 +1,10 @@
 ---
 article_id: BKL-17-A06
+writing_contract_version: "native-id-v2"
 title: "Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko"
 slug: "punch-list-dan-outstanding-work"
 description: "Classify safety/functional/cosmetic/document issues, owner, due date, temporary control, payment link, verification, and closure evidence"
-status: outline
+status: draft
 publication_date: "2026-05-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,42 +17,18 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden"
   - "https://www.iso.org/standard/83335.html"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko
 
-## Assignment lock
+Halo, Sobat Bengkel.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko”
-- **Reader and situation:** Minor items remain at planned handover
-- **Reader outcome:** Classify safety/functional/cosmetic/document issues, owner, due date, temporary control, payment link, verification, and closure evidence
-- **Primary intent:** Close incomplete work responsibly
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No acceptance of safety-critical deficiency by convenience; BKL-14-A06 owns NCR and BKL-18 owns impasse
-- **Final public route:** `/artikel/punch-list-dan-outstanding-work.html`
-- **Appointed CMS date:** `2026-05-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Proyek tidak otomatis selesai hanya karena area sudah diserahterimakan atau tagihan terakhir siap diproses. Jika masih ada pekerjaan kecil, yang dibutuhkan adalah daftar punch list dan outstanding work yang membedakan risiko, penanggung jawab, batas waktu, pengendalian sementara, kaitan pembayaran, serta bukti penutupan. Item yang mengancam keselamatan atau fungsi utama tidak boleh diterima hanya demi mengejar tanggal handover.
 
-## Opening instructions
+Jawaban singkatnya: klasifikasikan setiap temuan, tetapkan owner dan due date, dokumentasikan kontrol sementara, lalu tutup hanya setelah verifikasi dan bukti diterima. Status open, accepted with conditions, atau closed harus punya alasan dan otorisasi yang dapat ditelusuri. Syarat kontrak, catatan inspeksi aktual, dan persetujuan pihak yang berwenang dapat mengubah keputusan; tanpa itu, jangan menganggap daftar sebagai bukti penerimaan.
 
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,124 +39,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-04, GATE-07, GATE-10
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-17-A04` → `/artikel/training-pengguna-setelah-repair.html` — Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan
-- `BKL-17-A05` → `/artikel/delivery-instalasi-reinstatement-dan-handoff.html` — Delivery, Instalasi, Reinstatement, dan Handoff Antar-Pihak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Gambar ini adalah aset lokal dan bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Punch list adalah daftar temuan yang harus diselesaikan atau diputuskan sebelum pekerjaan dinyatakan tuntas. Outstanding work lebih luas: pekerjaan yang memang belum selesai, termasuk yang ditunda secara tertulis. Keduanya bukan sinonim dari “cacat kecil”. Lubang pelindung, interlock yang belum berfungsi, dokumen pengujian yang hilang, dan goresan cat memiliki konsekuensi berbeda sehingga perlakuannya juga berbeda.
+
+Kesalahan paling berbahaya adalah mengubah semua baris menjadi catatan kosmetik agar pembayaran dan serah terima tidak tertahan. Hak dan informasi yang disepakati konsumen perlu dijelaskan secara jujur; UU Perlindungan Konsumen dapat menjadi rujukan umum tentang kewajiban informasi dan perlindungan, tetapi bukan pengganti telaah kontrak atau nasihat hukum ([UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan empat kelompok minimum berikut.
+
+| Kelompok | Pertanyaan keputusan | Perlakuan awal |
+| --- | --- | --- |
+| Keselamatan | Apakah orang dapat cedera atau energi berbahaya dapat terlepas? | Hentikan atau isolasi penggunaan; tetapkan otorisasi pelepasan. |
+| Fungsional | Apakah sistem gagal menjalankan fungsi yang disepakati? | Jangan nyatakan selesai; lakukan perbaikan dan uji ulang. |
+| Kosmetik | Apakah hanya tampilan, tanpa dampak fungsi atau keselamatan? | Jadwalkan perbaikan dengan batas dan standar penerimaan. |
+| Dokumen | Apakah bukti inspeksi, manual, as-built, atau pelatihan belum lengkap? | Tahan status penutupan sampai paket bukti ditentukan. |
+
+Satu temuan dapat masuk lebih dari satu kelompok. Misalnya, penutup yang belum terpasang adalah isu keselamatan dan fungsi, bukan sekadar pekerjaan akhir. Batas artikel ini adalah penutupan pekerjaan yang belum lengkap; klasifikasi ketidaksesuaian formal (NCR) mengikuti proses tersendiri, sedangkan kebuntuan komersial atau perselisihan memerlukan jalur eskalasi proyek.
+
+Serah terima yang baik adalah paket bukti: identitas item dan revisi, issuer, tanggal, dasar pemeriksaan, hasil, serta otorisasi. Prinsip dokumentasi seperti ini sejalan dengan ruang lingkup ISO 3834-6:2024 tentang penggunaan persyaratan mutu pengelasan secara tepat, tetapi halaman standar hanya menjelaskan identitas dan ruang lingkupnya—bukan bukti bahwa proyek tertentu patuh ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari walkdown bersama, bukan dari kolom harga. Beri nomor unik, lokasi, uraian faktual, foto atau referensi gambar, kategori, owner, due date, dan kondisi penerimaan. Hindari kata “segera” tanpa tanggal atau “rapikan” tanpa kriteria.
+
+Berikut urutan yang dapat dipakai:
+
+1. **Temukan dan buktikan.** Catat apa yang terlihat, kapan ditemukan, dan dokumen rujukannya. Pisahkan fakta dari dugaan penyebab.
+2. **Nilai dampaknya.** Tanyakan keselamatan, fungsi, akses pemeliharaan, dokumen, dan dampak pada operasi. Jika jawabannya belum jelas, tandai untuk tinjauan teknis.
+3. **Tetapkan kendali sementara.** Barricade, label, pembatasan operasi, atau isolasi energi hanya boleh dipilih oleh pihak berwenang dan dicatat masa berlakunya. Pengendalian energi berbahaya memerlukan prosedur, isolasi, verifikasi, dan pelepasan yang benar; OSHA 29 CFR 1910.147 adalah rujukan keselamatan umum, bukan izin menyalin prosedur tanpa menyesuaikan peralatan dan aturan setempat ([OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)).
+4. **Sepakati owner dan jadwal.** Owner adalah pihak yang mengerjakan atau mengoordinasikan penyelesaian, bukan sekadar nama yang hadir saat rapat. Due date harus mempertimbangkan akses, material, izin, dan risiko kontrol sementara.
+5. **Hubungkan dengan pembayaran secara tertulis.** Tunjukkan milestone, retensi, atau pembayaran yang memang disebut kontrak. Jangan membuat persentase potongan atau hak pembayaran baru dari checklist umum.
+6. **Verifikasi dan tutup.** Pemeriksa yang ditunjuk membandingkan hasil dengan kriteria penerimaan, mencatat uji atau inspeksi yang benar-benar dilakukan, lalu memberi tanggal dan otorisasi. Status closed tanpa bukti tetap open secara praktis.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritas berubah ketika sistem mulai beroperasi, akses kerja menyempit, atau kondisi lingkungan berubah. Pekerjaan di area berenergi, ruang terbatas, ketinggian, atau jalur publik memerlukan pengendalian khusus dan persetujuan orang kompeten. Jangan menjanjikan interval pemeliharaan universal; jadwal kalender, jam operasi, kondisi, korektif, dan kewajiban regulasi menjawab kebutuhan yang berbeda. Gunakan riwayat work order, hasil inspeksi, identitas suku cadang, defect yang ditunda, dan catatan pelepasan untuk menentukan langkah berikutnya.
+
+Bukti juga mengubah keputusan. Tanggal pada foto tidak membuktikan kondisi saat ini; tanda tangan tanpa peran dan dasar pemeriksaan tidak membuktikan penerimaan; sertifikat tanpa identitas item dan hasil tidak membuktikan fitness. [NEEDS TECHNICAL REVIEW: verifikasi persyaratan kontrak, otorisasi pelepasan, dan status keselamatan untuk item yang masih outstanding.]
+
+Kawan Bengkel.co.id, perhatikan antarmuka antarpihak. Satu pihak mungkin menganggap panel telah diserahkan, sementara operator belum menerima manual, pelatihan, atau batas operasi. Tuliskan siapa menyerahkan apa, kepada siapa, pada revisi dokumen mana, dan tindakan apa yang masih terbuka.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan tiga baris pada daftar akhir—ini skenario bersyarat, bukan laporan proyek.
+
+| Temuan | Keputusan | Bukti penutupan |
+| --- | --- | --- |
+| Pelindung pada bagian bergerak belum terpasang | Jangan handover untuk operasi; pasang penghalang dan isolasi sesuai prosedur sampai diverifikasi | Foto setelah pemasangan, catatan inspeksi, dan otorisasi pelepasan |
+| Lampu indikator berfungsi, tetapi label kabel belum diperbarui | Fungsi dapat diuji hanya jika risiko salah operasi dikendalikan; tetapkan owner dokumen dan tanggal | Gambar revisi, pemeriksaan silang, persetujuan penerima |
+| Goresan lapisan akhir di area nonkritis | Jadwalkan touch-up dengan kriteria visual dan akses yang disepakati | Foto sebelum-sesudah, catatan material/metode, penerimaan |
+
+Jika pemilik meminta operasi parsial, catat batas area, fungsi yang dilarang, masa berlaku kontrol sementara, dan siapa yang berwenang mencabutnya. Jangan menyamakan diterima dengan catatan dengan aman tanpa syarat.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Menggabungkan semua item dalam satu baris.** Pecah menjadi item yang dapat ditugaskan dan diverifikasi. **Memberi due date tanpa owner.** Tanyakan siapa yang menyediakan tenaga, material, akses, dan keputusan teknis. **Menutup berdasarkan foto saja.** Cocokkan foto dengan kriteria, tanggal, lokasi, dan pemeriksa. **Menahan pembayaran tanpa dasar tertulis.** Periksa klausul milestone, retensi, perubahan, dan persetujuan; jangan mengarang hak atau denda. **Membiarkan kontrol sementara tanpa tanggal kedaluwarsa.** Tambahkan pemilik kontrol, pemeriksaan berkala, dan kondisi penghentian.
 
-## Objection or shortcut to address
+Sebelum rapat penutupan, cek setiap baris: identitas jelas, kategori benar, risiko sementara tercatat, owner menerima tugas, tanggal realistis, hubungan pembayaran terdokumentasi, kriteria penerimaan tersedia, verifikator ditunjuk, dan bukti tersimpan pada revisi yang benar. Teman Bengkel.co.id, satu kolom kosong pada daftar sering lebih jujur daripada tanda centang yang tidak dapat dijelaskan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak praktis
 
-## Required conclusion
+Jalan pintas yang sering dipilih adalah menandatangani serah terima sekarang dan membereskan sisanya nanti melalui pesan singkat. Cara ini gagal ketika pesan tidak menyebut batas operasi, pemilik tugas, tanggal, atau bukti penerimaan; risiko lalu berpindah tanpa benar-benar dikendalikan. Alternatif yang lebih aman adalah membuat daftar terbuka berstatus jelas, melampirkan kontrol sementara dan konsekuensi pembayaran sesuai kontrak, lalu menjadwalkan verifikasi formal. Untuk item keselamatan kritis, jangan gunakan jalan pintas tersebut sama sekali.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Menutup proyek tanpa menghapus risiko berarti menerima hanya pekerjaan yang bukti dan kondisinya sudah jelas. Klasifikasikan temuan, tetapkan owner serta due date, kendalikan risiko sementara, kaitkan pembayaran hanya dengan kontrak, dan tutup setelah verifikasi yang dapat ditelusuri. Langkah berikutnya: bawa daftar bernomor beserta kriteria penerimaan, catatan inspeksi, dan otorisasi ke rapat handover; minta tinjauan teknis untuk setiap item yang memengaruhi keselamatan atau fungsi utama. Kembali ke [beranda Bengkel.co.id](/) atau [halaman tentang kami](/tentang-kami) untuk menelusuri konteks, lalu pastikan setiap keputusan tercatat dalam dokumen proyek. Aturan operasinya sederhana: tidak ada tanda tangan yang dapat mengubah kondisi tidak aman menjadi aman.

@@ -2,8 +2,9 @@
 article_id: BKL-17-A02
 title: "As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi"
 slug: "as-built-test-report-dan-foto-akhir"
-description: "Explain revision status, asset ID, location, hidden work, measurement/test source, photos, deviations, file naming, and retention"
-status: outline
+description: "Panduan menyusun rekaman acuan teknis dari status revisi, ID aset, lokasi, pekerjaan tersembunyi, sumber pengukuran, foto, deviasi, penamaan berkas, dan retensi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,7 @@ sources:
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi”
-- **Reader and situation:** Owner needs future maintenance and dispute evidence
-- **Reader outcome:** Explain revision status, asset ID, location, hidden work, measurement/test source, photos, deviations, file naming, and retention
-- **Primary intent:** Create a reusable technical baseline
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No reconstruction of missing evidence after the fact; BKL-07-A06 owns revision and BKL-14 owns test validity
-- **Final public route:** `/artikel/as-built-test-report-dan-foto-akhir.html`
-- **Appointed CMS date:** `2026-04-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,125 +33,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Bengkel.co.id! Baseline yang dapat dipakai untuk perawatan dan penyelesaian sengketa bukan sekadar map berisi gambar dan foto. Ia adalah paket yang mengikat identitas aset, lokasi, revisi, pekerjaan tersembunyi, hasil ukur, dan status penerimaan pada waktu yang jelas. Jika salah satu pengikat itu hilang, orang berikutnya hanya menerima cerita, bukan titik acuan.
 
-### KR-18
+Jawaban singkatnya: susun as-built, test report, dan foto akhir sebagai satu rekaman berindeks. Cantumkan siapa menerbitkan dokumen, kapan, dengan alat atau metode apa, item mana yang diperiksa, penyimpangan apa yang masih terbuka, serta siapa yang mengizinkan rilis. Serahkan hanya setelah perbedaan antara rancangan, kondisi terpasang, dan hasil uji dinyatakan. Jika catatan lapangan tidak ada, jangan merekonstruksi seolah-olah ada; tandai kekosongannya untuk ditinjau.
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-04, GATE-07, GATE-10
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-17-A01` → `/artikel/checklist-dokumen-serah-terima-bengkel.html` — Checklist Dokumen Serah Terima Pekerjaan Bengkel
-- `BKL-17-A03` → `/artikel/membaca-garansi-bengkel.html` — Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy
-- `BKL-17-A04` → `/artikel/training-pengguna-setelah-repair.html` — Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi ini adalah aset lokal dan bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+As-built adalah catatan kondisi yang benar-benar terpasang pada tanggal tertentu, bukan salinan gambar desain. Test report adalah rekaman pengukuran atau pengujian tertentu beserta sumber datanya, bukan janji bahwa seluruh sistem pasti aman atau sesuai. Foto akhir mengikat tampilan dan penanda lokasi, tetapi tidak menggantikan ukur, pemeriksaan, atau bukti pekerjaan yang tertutup setelah akses ditutup.
+
+Ketiganya menjadi baseline bila setiap halaman menjawab: aset apa, berada di mana, versi berapa, diperiksa terhadap acuan apa, hasilnya apa, dan status tindak lanjutnya apa. Paket serah-terima yang baik juga menjelaskan cakupan garansi, syarat, pengecualian, jalur respons, dan tanggung jawab bukti secara eksplisit. Prinsip keterbukaan informasi dan kesesuaian yang wajar dalam hubungan konsumen perlu dibaca bersama kontrak serta persetujuan pihak yang bertanggung jawab; lihat [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden). Itu bukan dasar untuk mengarang hak, batas waktu, atau hasil sengketa.
+
+Batas pentingnya: artikel ini tidak memvalidasi metode uji, mengesahkan instalasi, atau memutuskan bahwa aset boleh dioperasikan. Validitas pengujian berada pada dokumen metode, kompetensi pelaksana, alat, kondisi pengujian, dan persetujuan proyek. [NEEDS GATE-04/GATE-07/GATE-10: koordinator perlu mengonfirmasi bukti penerimaan, validitas uji, dan kelengkapan rekaman sebelum publikasi.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan register aset. Beri ID yang stabil, misalnya kode area-sistem-nomor, lalu tulis lokasi fungsional dan penanda fisik yang dapat ditemukan tanpa menebak. Catat nomor seri atau tag bila memang tersedia. Jangan memakai nama file sebagai satu-satunya identitas.
+
+Berikutnya, bekukan status revisi. Pada lembar muka as-built tulis nomor revisi, tanggal berlaku, penyusun, pemeriksa, pemberi persetujuan, dan daftar perubahan dari revisi sebelumnya. Bila ada deviasi, hubungkan ke nomor permintaan perubahan, alasan, dampak waktu/biaya, dan keputusan penerimaannya. Format metadata sertifikat dan rekaman yang mengidentifikasi item, revisi, penerbit, tanggal, basis, hasil, serta otorisasi selaras dengan cara [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) menjelaskan panduan penggunaan bagian-bagian standar; halaman abstrak itu tidak membuktikan kepatuhan proyek tertentu.
+
+Kemudian kumpulkan bukti pekerjaan tersembunyi sebelum ditutup: rute pipa atau kabel, sambungan, lapisan, torsi, atau material yang memang diwajibkan kontrak. Setiap foto harus punya ID aset, arah atau titik pengambilan, tanggal, dan kaitan ke lembar inspeksi. Foto yang tidak dapat dipetakan ke lokasi hanya menjadi ilustrasi, bukan bukti.
+
+Test report disusun per item dan per metode. Tulis alat yang digunakan, identitas atau status kalibrasinya bila dipersyaratkan, kondisi saat uji, nilai yang terbaca, satuan, kriteria penerimaan dari dokumen proyek, nama pelaksana, saksi, dan keputusan: diterima, ditolak, atau menunggu tindakan. Jangan mengubah angka setelah ditandatangani; koreksi dibuat sebagai revisi yang dapat dilacak.
+
+Terakhir, lakukan handover berbasis daftar isi dan indeks. Simpan file sumber yang diperlukan untuk membaca hasil, bukan hanya PDF terkunci. Pisahkan dokumen “as accepted”, dokumen terbuka, dan riwayat revisi. Tetapkan pemilik register, hak akses, format cadangan, dan masa retensi mengikuti kontrak, kebijakan organisasi, serta kewajiban yang berlaku—bukan angka universal.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi pelaksanaan menentukan seberapa kuat baseline. Perubahan rute karena akses, penggantian material, pekerjaan ulang, atau bagian yang belum selesai harus muncul sebagai deviasi, meski fungsi terlihat normal. Tanpa itu, teknisi berikutnya dapat memilih suku cadang atau titik isolasi yang keliru.
+
+Kondisi pengukuran juga penting. Alat, metode, rentang, lingkungan, dan orang yang membaca hasil memengaruhi makna angka. Sobat Bengkel.co.id, untuk pekerjaan dengan energi berbahaya, prosedur isolasi, pelepasan energi tersimpan, verifikasi nol energi, dan otorisasi pelepasan harus dapat ditelusuri; rujuk [OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147) sebagai panduan kontrol energi, bukan pengganti aturan dan prosedur setempat.
+
+Kebutuhan pemeliharaan pun berbeda. Kalender, jam operasi, kondisi, korektif, dan pekerjaan wajib hukum menjawab pertanyaan yang berbeda. Work order, kode kegagalan, pembacaan inspeksi, identitas komponen, cacat tertunda, hasil uji, dan otoritas rilis memungkinkan tren ditinjau. Interval, ambang alarm, sisa umur, jumlah suku cadang, dan keputusan restart harus berasal dari manual OEM, riwayat aset, konteks operasi, persyaratan yang berlaku, serta persetujuan penanggung jawab. [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016) dan [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026) perlu diperiksa sesuai jenis pekerjaan dan status hukumnya saat proyek berjalan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pemilik menerima tiga berkas: “final.pdf”, foto bernama “IMG_0042.jpg”, dan tabel angka tanpa ID aset. Keputusan yang aman bukan langsung mengarsipkannya sebagai baseline. Minta pemilik dokumen menjawab empat pertanyaan berikut.
+
+| Pertanyaan | Jika jawabannya ada | Jika jawabannya tidak ada |
+|---|---|---|
+| Revisi dan tanggal berlaku jelas? | Simpan sebagai versi kandidat dan catat pemeriksa. | Tahan penerimaan; minta lembar revisi. |
+| Angka uji terhubung ke alat, metode, dan item? | Tinjau terhadap kriteria proyek. | Tandai hasil sebagai tidak terverifikasi. |
+| Foto dapat dipetakan ke lokasi dan waktu? | Hubungkan ke as-built atau inspeksi. | Jangan pakai sebagai bukti pekerjaan tersembunyi. |
+| Deviasi dan otorisasi penutupan tercatat? | Masukkan status terbuka/diterima. | Buka daftar tindakan sebelum rilis. |
+
+Penamaan file dapat membantu, misalnya `ASB-[AssetID]-R02-2026-04-26.pdf` dan `TR-[AssetID]-[Metode]-R01.pdf`. Itu hanya konvensi; register induk tetap menjadi sumber hubungan antarberkas. Untuk setiap perubahan, simpan alasan, konsekuensi biaya/waktu, pihak yang menyetujui, dan tanggalnya sehingga perbandingan tetap adil—selaras dengan kebutuhan informasi yang jelas dalam [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyebut gambar desain sebagai as-built tanpa verifikasi lapangan. Periksa satu per satu item yang berubah dan beri status “belum terkonfirmasi” bila catatan penutup tidak tersedia. Kesalahan kedua adalah menganggap tanda tangan sama dengan hasil lulus. Tanda tangan hanya bermakna jika penandatangan, kewenangan, basis, dan hasilnya jelas.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menyatukan foto tanpa indeks. Ambil ulang hanya bila pekerjaan memang dapat dibuka secara sah; jika tidak, simpan penanda keterbatasan dan jangan mengisi detail yang tidak terlihat. Kesalahan keempat adalah memberi masa retensi atau interval servis yang seragam. Tanyakan kontrak, kebijakan rekaman, manual OEM, kewajiban hukum, dan kebutuhan investigasi sebelum menetapkan jadwal.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut “cukup kirim satu PDF final” tampak cepat, tetapi memutus hubungan antara data mentah, revisi, dan aset. Alternatif yang lebih andal adalah paket berindeks dengan daftar dokumen, register revisi, matriks aset-foto-uji, daftar deviasi, dan log akses. Jika bukti utama hilang, nyatakan kehilangan itu; jangan membuat narasi pengganti.
 
-## Required conclusion
+## Kesimpulan dan langkah berikutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+As-built, test report, dan foto akhir menjadi baseline yang bisa dipakai lagi ketika identitas, lokasi, revisi, sumber ukur, kondisi tersembunyi, deviasi, dan otorisasi tersambung dalam satu register. Sebelum menerima paket, pilih satu aset, telusuri dari ID ke gambar, foto, hasil uji, dan keputusan rilis. Untuk orientasi layanan dan dokumen terkait, mulai dari [ruang lingkup konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html) lalu baca [tentang Bengkel.co.id](/tentang-kami) setelah data proyek siap. Minta pemeriksaan profesional untuk validitas teknis, persyaratan keselamatan, dan kewajiban hukum yang tidak dapat dibuktikan oleh berkas ini.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Bengkel.co.id, tetapkan satu pemilik register dan satu aturan operasi: tidak ada perubahan, pengujian, atau penutupan pekerjaan tanpa ID, tanggal, sumber bukti, dan status tindak lanjut. Jika salah satunya belum ada, baseline masih berstatus draf dan harus ditinjau—bukan dipoles menjadi seolah lengkap.

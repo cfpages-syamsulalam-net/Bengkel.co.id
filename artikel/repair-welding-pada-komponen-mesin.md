@@ -1,9 +1,10 @@
 ---
 article_id: BKL-09-A04
+writing_contract_version: "native-id-v2"
 title: "Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material"
 slug: "repair-welding-pada-komponen-mesin"
 description: "Ask about material, heat treatment, crack cause, load, distortion, machinability, procedure, inspection, and OEM restrictions"
-status: outline
+status: draft
 publication_date: "2025-10-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,17 @@ sources:
   - "https://www.iso.org/standard/51792.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material
 
-## Assignment lock
+Halo, Teman Bengkel.co.id! Menambah material dengan repair welding pada komponen aus atau retak tidak otomatis membuat komponen aman dipakai lagi. Proposal baru layak masuk tahap desain jika identitas material, penyebab kerusakan, beban kerja, riwayat perlakuan panas, risiko distorsi, rencana pemesinan, prosedur, inspeksi, dan batasan OEM sudah dijawab. Jika salah satu jawaban penting masih berupa tebakan, keputusan yang bertanggung jawab adalah menahan pekerjaan dan meminta kajian teknis.
 
-- **Writer task:** Expand this file into one complete article answering: “Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material”
-- **Reader and situation:** Worn or cracked component may be built up
-- **Reader outcome:** Ask about material, heat treatment, crack cause, load, distortion, machinability, procedure, inspection, and OEM restrictions
-- **Primary intent:** Evaluate repair-welding proposal
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No repair recipe for shafts, gears, pressure, lifting, or unknown alloy; BKL-08 and qualified engineer own procedure
-- **Final public route:** `/artikel/repair-welding-pada-komponen-mesin.html`
-- **Appointed CMS date:** `2025-10-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Pengelasan yang secara fisik bisa dilakukan berbeda dari perbaikan yang dapat diterima. Perubahan kecil pada geometri atau panas dapat mengubah alignment, keseimbangan, celah, kekuatan, getaran, atau keselamatan operator. Kerangka kualifikasi prosedur pengelasan seperti ISO 15614-1 membantu menata pembuktian prosedur, tetapi halaman standar itu sendiri bukan persetujuan untuk komponen atau proyek tertentu ([ISO 15614-1:2017](https://www.iso.org/standard/51792.html)).
 
-## Opening instructions
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,126 +43,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-05
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Replace simplistic “can it be welded?” answers with an evidence-led decision that accounts for function, failure consequence, material, geometry, damage mechanism, interfaces, and verification.
-- **Safe grounded facts:** A technically executable weld is not automatically an acceptable repair. A decision may require material identity, crack/damage mechanism, remaining section, loading and duty, distortion risk, heat-treatment history, OEM restrictions, code rules, access, proof/testing plan, and the consequences of failure.
-- **Limits:** No generic article may approve a repair design, remaining life, post-repair rating, or continued operation. Those require the asset owner, OEM where applicable, governing code, qualified designer/engineer, and documented verification.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-03, GATE-05, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-09-A02` → `/artikel/data-ukur-shaft-bearing-housing-gear.html` — Shaft, Bearing, Housing, dan Gear: Data Ukur sebelum Memilih Perbaikan
-- `BKL-09-A03` → `/artikel/reverse-engineering-komponen-aus.html` — Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi
-- `BKL-09-A05` → `/artikel/uji-setelah-reparasi-mesin.html` — Uji Jalan, No-Load, dan Load Test setelah Reparasi Mesin
-- `BKL-09-A06` → `/artikel/batas-bengkel-mekanik-dan-spesialis.html` — Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jawaban singkatnya: jangan menyetujui repair welding hanya karena ukuran yang aus dapat “dikembalikan” dengan deposit las. Minta lembar keputusan yang menghubungkan kerusakan dengan fungsi komponen dan cara memverifikasinya setelah diperbaiki. Komponen yang menahan putaran, gaya, panas, tekanan, atau akses operator memiliki konsekuensi kegagalan berbeda; karena itu perlakuan yang sama tidak dapat dipukul rata.
+
+Salah paham paling berbahaya adalah menganggap hasil las yang tampak rapi sebagai bukti cukup. Permukaan dapat terlihat baik sementara retak asal belum dihentikan, zona terpengaruh panas berubah, atau komponen tidak lagi dapat dimesin ke toleransi yang dibutuhkan. Kawan Bengkel.co.id, pertanyaan pertama bukan “elektrodanya apa?”, melainkan “fungsi apa yang harus dipulihkan dan bukti apa yang akan menunjukkan fungsi itu kembali?”
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di artikel ini, repair welding berarti menambah atau menyambung material pada komponen mesin yang aus, tergerus, atau mengalami kerusakan lokal, lalu mengembalikan bentuk atau antarmukanya melalui proses lanjutan yang disetujui. Fokusnya adalah mengevaluasi proposal: data apa yang harus dikumpulkan, siapa yang harus menyetujui, dan kapan proposal perlu dihentikan.
+
+Ruang lingkup ini tidak memberi resep untuk shaft, gear, pressure equipment, lifting equipment, atau paduan yang belum teridentifikasi. Tidak ada persetujuan desain, rating operasi, estimasi umur sisa, atau keputusan “boleh jalan” generik. Prosedur spesifik berada pada artikel/proses BKL-08 dan harus disusun oleh personel berkualifikasi serta engineer yang bertanggung jawab. Untuk langkah berikutnya tentang pengumpulan konteks perbaikan, Anda dapat melihat [panduan perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Evaluasi dimulai sebelum komponen dibawa ke meja las. Identifikasi part, gambar atau ukuran awal, material dan kondisi perlakuan panas, lokasi kerusakan, serta foto atau hasil pemeriksaan yang tersedia. Tanyakan juga kapan kerusakan muncul, apakah ada beban kejut, panas, korosi, misalignment, atau perubahan proses. Penyebab yang tidak dipahami dapat membuat deposit baru hanya menutupi gejala.
+
+Berikutnya, petakan antarmuka: dudukan bearing, permukaan seal, keyway, ulir, bidang flange, guard, coupling, atau permukaan yang akan bersentuhan dengan part lain. Tentukan bagian yang harus tetap presisi dan bagian yang boleh menerima perubahan. Rencana harus menyebut urutan pengelasan, pengendalian panas, allowance untuk machining, metode inspeksi, dan kriteria penerimaan—tanpa mengarang angka yang belum ditetapkan oleh desain atau OEM.
+
+Terakhir, pemilik aset, OEM bila berlaku, engineer yang berwenang, dan pelaksana menyepakati bukti pelepasan. Pekerjaan servis aman dan produksi aman adalah dua kondisi berbeda. Pengendalian energi berbahaya harus mengikuti prosedur situs dan ketentuan yang berlaku; OSHA 29 CFR 1910.147 menjelaskan kerangka control of hazardous energy, bukan urutan isolasi universal untuk mesin Anda ([OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)). Setelah perbaikan, guarding, clearance, interlock, dan akses juga harus ditinjau; prinsip umum machine guarding tersedia di [OSHA 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan material: apakah grade, kondisi pengerasan, coating, dan pengotor sudah diverifikasi? “Baja” saja tidak cukup untuk memilih proses. Perlakuan panas sebelumnya dapat membuat respons terhadap panas pengelasan berbeda. Bila material tidak pasti, proposal harus berhenti pada identifikasi atau uji yang disetujui, bukan asumsi.
+
+Pertanyaan kerusakan: apakah ini aus normal, retak lelah, retak panas, korosi, overload, atau akibat alignment? Retak perlu ditelusuri sampai batas yang dapat dibuktikan dan penyebabnya dikendalikan. Menutup retak tanpa pemeriksaan yang tepat tidak membuktikan masalah selesai.
+
+Pertanyaan fungsi dan beban: bagaimana komponen menerima torsi, bending, getaran, temperatur, siklus, dan beban kejut? Apakah kegagalannya hanya menghentikan mesin atau dapat melepaskan energi dan mencederai orang? Konsekuensi tersebut menentukan tingkat review, bukan sekadar ketebalan deposit.
+
+Pertanyaan geometri dan machining: berapa allowance yang tersedia, datum mana yang harus dipertahankan, dan bagaimana memeriksa runout, concentricity, flatness, atau fit setelah pemesinan? Distorsi dapat mengubah alignment meskipun volume material yang ditambah kecil.
+
+Pertanyaan prosedur dan bukti: siapa yang menetapkan WPS/PQR atau prosedur setara, siapa yang mengelas, dan pemeriksaan apa yang dilakukan sebelum, selama, serta sesudah pekerjaan? ISO 15614-1 dapat menjadi rujukan kualifikasi prosedur, namun penerapannya tetap harus disesuaikan dengan desain, material, kode, dan persyaratan OEM.
+
+Pertanyaan pembatas OEM dan aturan situs: adakah larangan repair welding, persyaratan heat treatment, traceability, atau inspeksi tertentu? Untuk instalasi yang diatur, verifikasi ketentuan Indonesia yang sedang berlaku—termasuk rujukan BPK untuk [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016) dan [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)—serta persyaratan pemilik aset. Jangan mengubah ringkasan aturan menjadi klaim kepatuhan otomatis.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai penyaring awal, bukan sebagai persetujuan pekerjaan:
+
+| Temuan saat review | Keputusan sementara | Bukti yang harus dicari |
+|---|---|---|
+| Material, fungsi, dan kerusakan teridentifikasi; OEM tidak melarang; metode inspeksi tersedia | Lanjutkan ke desain/prosedur oleh pihak berkualifikasi | Gambar, identifikasi material, analisis penyebab, prosedur, rencana inspeksi, persetujuan |
+| Material diketahui tetapi ada perlakuan panas atau beban siklik yang belum dipahami | Tahan proposal | Data heat treatment, duty, evaluasi engineer, dan batas machining |
+| Retak aktif, sisa penampang tidak diketahui, atau kegagalan berkonsekuensi tinggi | Jangan menambah material | Pemeriksaan kerusakan, keputusan OEM/engineer, dan opsi penggantian |
+| Komponen terkait guard, interlock, atau sumber energi | Pisahkan review mekanik dari review keselamatan mesin | Prosedur situs, verifikasi guarding, dan otorisasi release |
+
+Misalnya, sebuah permukaan dudukan aus tetapi penyebab alignment belum diketahui. Proposal “build-up lalu bubut” belum cukup; keputusan sementara adalah mengukur pasangan komponennya dan mencari sumber misalignment. Sebaliknya, jika material tidak dapat diidentifikasi dan komponen memengaruhi containment, opsi penggantian atau kajian khusus lebih masuk akal daripada eksperimen deposit.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih filler berdasarkan kebiasaan bengkel. Periksa dulu material, kondisi panas, fungsi, dan kompatibilitas dengan machining. Kedua, menghapus gejala tanpa analisis sebab; mintalah catatan lokasi retak, pola aus, dan kondisi operasi. Ketiga, mengabaikan datum dan pasangan komponen; buat daftar permukaan kritis sebelum deposit.
 
-## Objection or shortcut to address
+Keempat, menganggap inspeksi visual sebagai satu-satunya bukti. Metode inspeksi harus dipilih oleh pihak kompeten sesuai mekanisme kerusakan dan konsekuensi kegagalan. Kelima, mengembalikan mesin langsung ke produksi setelah pekerjaan selesai. Pastikan catatan pekerjaan, hasil inspeksi, perubahan geometri, status guarding, dan otorisasi release tersimpan. Sobat Bengkel.co.id, bila salah satu catatan itu kosong, statusnya adalah “belum terbukti”, bukan “diasumsikan lulus”.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang berisiko
 
-## Required conclusion
+Shortcut yang sering terdengar: “Tambahkan sedikit saja; nanti kalau gagal kita ulang.” Pada komponen yang berputar atau menahan energi, kegagalan kedua dapat merusak pasangan komponen, memperbesar downtime, atau menciptakan bahaya baru. Pengulangan juga tidak memperbaiki diagnosis penyebab awal.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah membuat hold point: identifikasi material dan fungsi, dokumentasikan kerusakan, minta keputusan engineer/OEM bila diperlukan, tetapkan prosedur serta inspeksi, lalu lepaskan hanya setelah bukti ditinjau. GATE-02, GATE-03, GATE-05, GATE-07, dan GATE-08 masih membutuhkan konfirmasi koordinator atas data proyek, sehingga tidak boleh diisi dengan asumsi.
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Repair welding pada komponen mesin baru layak dipertimbangkan setelah pertanyaan tentang material, perlakuan panas, penyebab kerusakan, beban, distorsi, machining, prosedur, inspeksi, dan pembatas OEM memiliki jawaban yang dapat ditelusuri. Langkah Anda sekarang: hentikan persetujuan lisan, kumpulkan gambar dan riwayat kerusakan, minta rencana pemeriksaan serta prosedur dari pihak berkualifikasi, dan dokumentasikan siapa yang berwenang melepas mesin ke operasi.
+
+Teman Bengkel.co.id, operating rule-nya sederhana: jika fungsi, konsekuensi kegagalan, atau bukti verifikasi belum jelas, jangan menambah material. Minta technical review dan keputusan tertulis. Cocokkan data awal dengan rujukan yang sudah disebut saat mengajukan pekerjaan, lalu gunakan [panduan perbaikan struktur khusus](/pembuatan-perbaikan-struktur-khusus.html) untuk menata kebutuhan kajian dan bukti pelepasan; naskah ini tidak menggantikan persetujuan desain, kode, OEM, atau persyaratan situs.

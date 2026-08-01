@@ -1,9 +1,10 @@
 ---
 article_id: BKL-17-A04
+writing_contract_version: "native-id-v2"
 title: "Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan"
 slug: "training-pengguna-setelah-repair"
 description: "Cover normal use, limits, checks, cleaning, prohibited actions, alarms, stop conditions, maintenance, records, and contact path"
-status: outline
+status: draft
 publication_date: "2026-05-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,8 @@ sources:
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan”
-- **Reader and situation:** Asset use or care changes after work
-- **Reader outcome:** Cover normal use, limits, checks, cleaning, prohibited actions, alarms, stop conditions, maintenance, records, and contact path
-- **Primary intent:** Plan owner/operator orientation
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No operator certification or replacement of OEM manual; BKL-15 owns emergencies
-- **Final public route:** `/artikel/training-pengguna-setelah-repair.html`
-- **Appointed CMS date:** `2026-05-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,126 +34,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Bengkel.co.id! Setelah fabrikasi atau repair, pengguna tidak cukup hanya diberi tahu bahwa aset sudah “selesai”. Training yang perlu dijelaskan adalah cara memakai dalam kondisi normal, batas yang tidak boleh dilampaui, pemeriksaan sebelum dan sesudah pemakaian, tindakan saat alarm atau gejala aneh muncul, serta siapa yang harus dihubungi.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Serah terima yang baik meninggalkan paket bukti: identitas aset dan revisinya, catatan pekerjaan, hasil pemeriksaan atau pengujian yang memang dilakukan, instruksi yang berlaku, batas garansi bila ada, dan jalur respons. Checklist atau sertifikat tanpa item, tanggal, penerbit, dasar pemeriksaan, hasil, dan otorisasi tidak otomatis membuktikan kelayakan. [NEEDS GATE-04: status penerimaan dan persetujuan pihak bertanggung jawab belum tersedia dalam paket proyek.] Rujukan [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) menempatkan dokumentasi dan komunikasi sebagai bagian dari pengendalian kualitas; persyaratan kontrak dan rekaman aktual tetap menjadi penentu.
 
-### KR-18
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-04, GATE-07, GATE-10
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-17-A02` → `/artikel/as-built-test-report-dan-foto-akhir.html` — As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi
-- `BKL-17-A03` → `/artikel/membaca-garansi-bengkel.html` — Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy
-- `BKL-17-A05` → `/artikel/delivery-instalasi-reinstatement-dan-handoff.html` — Delivery, Instalasi, Reinstatement, dan Handoff Antar-Pihak
-- `BKL-17-A06` → `/artikel/punch-list-dan-outstanding-work.html` — Punch List dan Outstanding Work: Menutup Proyek tanpa Menghapus Risiko
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Training pascarepair adalah orientasi penggunaan dan perawatan untuk operator atau pemilik aset tertentu. Materinya harus mengikuti manual OEM, desain yang disetujui, hasil pekerjaan, dan kondisi operasi aktual. Untuk konteks pekerjaan pada mesin atau komponennya, lihat [ruang lingkup perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html). Ia bukan sertifikasi operator, bukan izin untuk mengubah setting keselamatan, dan bukan pengganti prosedur tanggap darurat; urusan darurat berada pada prosedur khusus yang berlaku di lokasi. Untuk memahami konteks pekerjaan fabrikasi yang menjadi latar aset, Anda dapat melihat [penjelasan ruang lingkup konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html), lalu kembali ke instruksi aset spesifik.
+
+Pengajar perlu menyebutkan identitas aset, nomor tag, tanggal atau revisi instruksi, serta perubahan yang benar-benar dilakukan. Jika repair hanya menyentuh satu komponen, jelaskan bagian yang berubah dan antarmukanya dengan sistem lain, tanpa menyimpulkan seluruh sistem baru menjadi aman. Kawan Bengkel.co.id, jangan menghapus manual OEM hanya karena sudah ada lembar training.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan walkthrough singkat di depan aset. Tunjukkan urutan start, operasi normal, shutdown, dan isolasi yang diizinkan kepada pengguna yang berwenang. Untuk setiap langkah, jelaskan apa yang dilihat, suara atau kondisi apa yang dianggap normal menurut dokumen proyek, dan kapan pengguna harus berhenti. Hindari angka ambang yang tidak berasal dari manual atau persetujuan teknis.
+
+Gunakan siklus berikut:
+
+1. **Sebelum pakai:** cocokkan identitas aset, area bebas penghalang, pelindung terpasang, sambungan tampak utuh, dan indikator berada pada kondisi siap. Jangan menyentuh bagian bergerak atau berenergi untuk “memastikan” kondisi.
+2. **Saat pakai:** ikuti urutan dan batas beban, kecepatan, temperatur, atau media yang ditetapkan dokumen yang disetujui. Catat penyimpangan, bukan hanya kegagalan total.
+3. **Setelah pakai:** lakukan shutdown normal, pembersihan yang diizinkan, dan inspeksi visual. Cairan, kuas, atau bahan pembersih harus sesuai instruksi material; jangan menyemprot panel atau seal tanpa rujukan.
+4. **Jika perlu pekerjaan:** hentikan penggunaan, beri tahu penanggung jawab, dan pastikan isolasi energi dilakukan oleh personel berwenang. Prinsip pengendalian energi berbahaya dalam [OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147) menunjukkan mengapa penguncian dan verifikasi isolasi tidak boleh digantikan oleh sekadar mematikan tombol.
+
+Lembar hadir training sebaiknya mencatat peserta, aset, materi, demonstrasi, pertanyaan, dokumen yang dibagikan, dan penerimaan. Bila ada instruksi yang belum final, tulis sebagai terbuka dan jangan menyamarkannya sebagai selesai.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Isi training berubah menurut empat kelompok kondisi. Pertama, **jenis perubahan**: penggantian komponen, pengelasan ulang, coating, atau modifikasi kontrol memiliki risiko dan pemeriksaan berbeda. Kedua, **cara penggunaan**: beban, siklus, lingkungan korosif, akses operator, dan interaksi dengan alat lain memengaruhi apa yang harus diamati.
+
+Ketiga, **bukti dan kewenangan**. Manual OEM terbaru, as-built, hasil uji, daftar suku cadang, dan catatan defect menentukan batas yang boleh diajarkan. Untuk peralatan atau pekerjaan yang tunduk pada ketentuan keselamatan kerja, gunakan persyaratan yang berlaku dan verifikasi dengan penanggung jawab K3; [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016) dan [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026) tidak boleh diringkas menjadi jadwal atau ambang universal tanpa konteks.
+
+Keempat, **perubahan setelah handover**. Jika ada setting, komponen, bahan pembersih, atau cara operasi yang berubah, ulangi penilaian dan, bila perlu, training. [NEEDS GATE-07: manual OEM, riwayat aset, konteks operasi, dan kewajiban statutori proyek belum diverifikasi.] Tanpa data itu, jangan menjanjikan interval maintenance, sisa umur, jumlah spare, atau uptime.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pengguna melihat getaran yang tidak biasa setelah repair. Training yang benar tidak memberi vonis “masih aman”. Instruksinya: hentikan pada kondisi aman, jauhkan orang dari zona bahaya, catat waktu dan kondisi operasi, pasang tanda status, lalu hubungi jalur respons. Hanya pihak yang diberi wewenang dan memiliki dasar pemeriksaan boleh memutuskan inspeksi lanjutan atau pelepasan kembali.
+
+Contoh lain, permukaan perlu dibersihkan. Jika dokumen hanya menyebut “bersihkan berkala” tanpa metode, pengguna tidak boleh memilih solvent berdasarkan kebiasaan. Tahan pekerjaan, minta metode tertulis dari pihak teknis, lalu tambahkan metode, alat, APD, dan kriteria selesai ke lembar training.
+
+| Situasi | Tindakan pengguna | Bukti yang dicatat |
+|---|---|---|
+| Kondisi normal | Ikuti urutan operasi dan pemeriksaan harian yang disetujui | Tanggal, identitas aset, hasil cek |
+| Alarm atau gejala baru | Stop sesuai prosedur, amankan area, laporkan | Kode alarm, waktu, kondisi saat kejadian |
+| Kerusakan terlihat | Jangan bongkar atau bypass; eskalasi | Foto sesuai aturan lokasi, deskripsi defect |
+| Jadwal perawatan tiba | Verifikasi work order dan personel berwenang | Nomor pekerjaan, parts, hasil uji, otorisasi rilis |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap tanda tangan serah terima sama dengan pelatihan. Tanyakan: apakah operator mempraktikkan langkah normal, stop condition, dan jalur kontak, atau hanya menerima dokumen? Kesalahan kedua adalah memberi daftar interval tetap yang tidak bersumber. Bedakan pekerjaan berbasis kalender, runtime, kondisi, corrective, dan kewajiban statutori; gunakan riwayat work order, pembacaan inspeksi, identitas parts, defect tertunda, dan hasil tes untuk merencanakan pekerjaan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah mengizinkan bypass alarm atau pembersihan improvisasi demi mengejar operasi. Periksa apakah setiap larangan tertulis dengan alasan dan eskalasinya. Kesalahan keempat adalah menyimpan catatan tanpa revisi. Setiap perubahan permintaan, alasan, dampak waktu/biaya, persetujuan, dan revisi perlu terlacak. Hak dan informasi yang wajar bagi konsumen harus dikomunikasikan secara jelas; lihat [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden) untuk konteks perlindungan konsumen, tanpa menjadikannya nasihat sengketa atau janji garansi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut yang sering dipilih adalah video singkat tanpa sesi tanya jawab. Video dapat membantu pengulangan, tetapi tidak membuktikan pengguna memahami batas aset tertentu atau mengetahui siapa yang berwenang merilisnya kembali. Teman Bengkel.co.id, mintalah demonstrasi balik (pengguna menjelaskan dan menunjukkan ulang langkah yang aman), lalu catat pertanyaan yang belum terjawab.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Training setelah fabrikasi atau repair harus menjelaskan operasi normal, batas, pemeriksaan, pembersihan, larangan, alarm, kondisi berhenti, maintenance berbasis bukti, rekaman, dan jalur kontak—semuanya untuk aset dan revisi dokumen yang spesifik. Siapkan paket handover, cocokkan dengan manual OEM serta persetujuan proyek, lakukan demonstrasi balik, dan minta review penanggung jawab teknis/K3 sebelum pelepasan operasi. Materi latar konstruksi dan fabrikasi logam dapat membantu menyamakan istilah dengan pihak bengkel, tetapi tidak menggantikan dokumen aset. [NEEDS GATE-10: pihak pelepas operasi dan kriteria rilis belum ditetapkan.] Aturan praktisnya: bila batas, bukti, atau kewenangan belum jelas, jangan menebak dan jangan memulai ulang; tahan penggunaan dan eskalasikan melalui jalur resmi.

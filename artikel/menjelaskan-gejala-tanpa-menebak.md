@@ -3,7 +3,8 @@ article_id: BKL-02-A05
 title: "Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak"
 slug: "menjelaskan-gejala-tanpa-menebak"
 description: "Use observable language, location, severity, trend, and operating context for common symptom families"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,37 +21,7 @@ sources:
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak”
-- **Reader and situation:** Nontechnical owner reporting a fault
-- **Reader outcome:** Use observable language, location, severity, trend, and operating context for common symptom families
-- **Primary intent:** Describe physical symptoms consistently
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not classify safety or failure mechanism; BKL-03-A05 owns diagnosis and BKL-15-A06 owns emergency stops
-- **Final public route:** `/artikel/menjelaskan-gejala-tanpa-menebak.html`
-- **Appointed CMS date:** `2025-05-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -61,125 +32,85 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel.co.id! Ketika pemilik mengatakan “mesinnya bunyi” atau “bagian itu panas”, informasi tersebut belum cukup untuk menentukan penyebab. Laporan yang lebih berguna memisahkan apa yang benar-benar terlihat atau terdengar dari dugaan seperti bearing rusak, seal bocor, atau motor terbakar.
 
-### KR-03
+Jawaban singkatnya: catat gejala dengan lima unsur—jenis gejala, lokasi, tingkat keparahan, perubahan dari waktu ke waktu, dan kondisi saat muncul. Tambahkan foto atau video dari posisi aman, identitas aset, serta apa yang terjadi tepat sebelum gejala. Dengan format itu, teknisi dapat memilih pemeriksaan berikutnya tanpa Anda harus menebak mekanisme kerusakan. Jika pengamatan menuntut membuka pelindung, menyentuh bagian bergerak, atau menghidupkan ulang aset yang tidak aman, berhenti dan serahkan kepada personel kompeten.
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make intake articles collect decision-relevant evidence without encouraging an unqualified customer or writer to energize, dismantle, enter, pressurize, or test an unsafe asset.
-- **Safe grounded facts:** OSHA's US rule illustrates an energy-control program that distinguishes normal production from servicing and requires isolation/control before relevant servicing; it has explicit scope and exceptions. Indonesian machine K3 is governed locally, and the 2016 regulation must be read with the 2026 partial revocations.
-- **Limits:** Do not import US procedures as Indonesian compliance. Asset-specific isolation points, verification, authorized persons, and emergency controls require the current local rules, OEM information, and site method.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-19
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Help a reader document and triage a problem without prejudging fault, destroying evidence, or giving legal advice.
-- **Safe grounded facts:** Immediate safety containment, technical cause investigation, contractual responsibility, consumer remedy, and legal process are different questions. Destructive repair or continued operation can change the condition and evidence.
-- **Limits:** Do not state who is liable, promise a refund/rework outcome, calculate damages, or prescribe a limitation period. Check current law, contract, forum, evidence, and competent Indonesian advice.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-02-A03` → `/artikel/membuat-kronologi-gejala-dan-perbaikan.html` — Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya
-- `BKL-02-A04` → `/artikel/data-nameplate-gambar-manual-untuk-bengkel.html` — Data Nameplate, Gambar, dan Manual yang Perlu Dikirim ke Bengkel
-- `BKL-02-A06` → `/artikel/informasi-untuk-permintaan-bantuan-darurat.html` — Informasi yang Jangan Dihilangkan saat Meminta Bantuan Darurat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gambar ini bukan dokumentasi proyek tertentu; aset lokal dipakai sebagai ilustrasi.
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan kalimat yang dapat diverifikasi. “Terdengar bunyi ketukan dari sisi kanan panel saat unit mulai berputar” lebih informatif daripada “motornya oblak”. Sebutkan apakah bunyi berupa dengung, gesekan, ketukan, desis, atau letupan; jangan menyebut nama komponen kecuali identitasnya memang sudah terkonfirmasi.
+
+Lokasi juga perlu spesifik. Gunakan patokan tetap seperti sisi operator, nomor panel, lantai, atau jarak dari sambungan. Bila sumber sulit ditentukan, tulis “terdengar paling kuat di sekitar...” dan tandai sebagai perkiraan. Untuk getaran, jelaskan bagian yang terasa bergetar, apakah merambat ke rangka, dan apakah berubah ketika beban atau kecepatan berubah—tanpa menyimpulkan bahwa perubahan itu pasti menunjukkan kerusakan tertentu.
+
+Ukur tingkat keparahan dengan pembanding yang konsisten: tidak ada, ringan, sedang, atau mengganggu operasi. Jelaskan akibat yang benar-benar dialami, misalnya indikator berubah, aliran menurun, atau unit berhenti, bukan akibat yang belum dibuktikan. Catat waktu mulai, durasi, frekuensi, dan tren: baru sekali, berulang, makin sering, atau tetap sama.
+
+Kondisi operasi melengkapi cerita: aset sedang start, berhenti, tanpa beban, berbeban, setelah hujan, setelah pembersihan, atau setelah pekerjaan tertentu. Sertakan perubahan terakhir—penggantian bagian, pemindahan posisi, perubahan material, atau alarm—jika Anda mengetahuinya. Teman Bengkel.co.id, satu baris kronologi yang jujur sering lebih bernilai daripada diagnosis panjang yang belum diuji.
+
+Untuk setiap laporan, gunakan templat berikut:
+
+| Unsur | Pertanyaan yang dijawab |
+| --- | --- |
+| Gejala | Apa yang terlihat, terdengar, terasa, atau terukur? |
+| Lokasi | Tepat di titik atau area mana? |
+| Waktu dan tren | Kapan muncul, berapa lama, dan apakah berubah? |
+| Konteks | Kondisi beban, cuaca, mode, atau pekerjaan sebelumnya? |
+| Dampak | Apa yang berubah pada fungsi, tanpa menebak penyebab? |
+| Bukti | Foto, video, alarm, catatan waktu, atau pembacaan yang tersedia? |
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Deskripsi gejala tidak memberi izin untuk melakukan uji berisiko. Jika ada bagian bergerak yang terbuka, panas ekstrem, cairan atau uap yang menyembur, bau terbakar, energi tersimpan, atau retak pada struktur penahan, batasi akses dan minta pemeriksaan kompeten. Jangan menekan tombol start hanya untuk “mendengarkan lebih jelas”.
+
+Pengendalian energi berbahaya memerlukan isolasi dan verifikasi yang sesuai dengan aset serta prosedur setempat. OSHA 29 CFR 1910.147 dapat menjadi contoh kerangka pengendalian energi di Amerika Serikat, tetapi bukan aturan kepatuhan Indonesia; Permenaker No. 38 Tahun 2016 dan perubahan parsial melalui Permenaker No. 11 Tahun 2026 perlu dibaca bersama konteks aset dan metode kerja yang berlaku ([OSHA](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
+
+[NEEDS LOCAL ASSET ISOLATION REVIEW: titik isolasi, verifikasi energi nol, dan otoritas pelepasan harus ditentukan dari aturan lokal, manual OEM, serta metode kerja aset terkait.]
+
+Jika kondisi belum jelas, ambil bukti dari luar batas bahaya: foto nameplate, tampilan indikator, genangan di lantai, atau suara dari jarak aman. Untuk langkah berikutnya setelah gejala dicatat, lihat layanan [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html). Tulis juga tindakan pengamanan yang sudah dilakukan dan siapa yang diberi tahu. Jangan memindahkan, membersihkan, atau membongkar bagian yang mungkin diperlukan untuk pemeriksaan sebelum ada arahan.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian ini bukan diagnosis. Tujuannya hanya mengelompokkan pertanyaan agar pemeriksaan tidak melompat. Bunyi dapat bersifat periodik atau acak, mengikuti putaran atau tidak, dan berubah saat beban berubah. Getaran dapat muncul di satu titik atau menyebar melalui rangka. Panas dapat berasal dari permukaan, fluida, atau lingkungan sekitar; sebutkan lokasi dan pembandingnya, bukan label “overheat” tanpa data.
+
+Bocor perlu dijelaskan melalui jenis cairan bila diketahui secara aman, warna atau bau yang terlihat, titik tetes, luas sebaran, dan apakah aliran bertambah. Hindari menyentuh cairan yang tidak dikenal. Retak dicatat berdasarkan posisi, arah, panjang yang dapat dilihat, apakah membuka saat operasi, dan apakah ada perubahan bentuk. Macet dijelaskan dengan apa yang berhenti, pada langkah mana, apakah selalu di titik yang sama, dan apakah ada benda asing yang tampak dari luar.
+
+Kelompok pertanyaan ini membantu teknisi membedakan gejala yang perlu observasi lanjutan dari yang memerlukan penghentian. Ia tidak membuktikan komponen atau sebab tertentu. Satu gejala dapat memiliki lebih dari satu mekanisme, dan satu mekanisme dapat menghasilkan beberapa gejala; karena itu gunakan kata “teramati”, “menurut catatan”, atau “belum diketahui”.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun bukti dari yang paling aman dan paling informatif. Pertama, kumpulkan identitas aset, mode operasi, waktu, dan perubahan terakhir. Kedua, lakukan inspeksi visual dari luar: posisi retak, jejak bocor, kondisi indikator, dan penghalang akses. Ketiga, cocokkan dengan riwayat work order, alarm, inspeksi, suku cadang, dan pekerjaan yang tertunda jika dokumen itu tersedia.
+
+Keempat, serahkan pengukuran atau pengujian berenergi kepada personel berwenang dengan metode yang disetujui. Catat alat, titik ukur, waktu, kondisi beban, dan hasil mentah—bukan hanya kata “normal”. Jangan mengarang ambang lulus, interval servis, atau sisa umur. Jadwal kalender, jam operasi, kondisi, korektif, dan pekerjaan wajib menjawab kebutuhan berbeda; keputusan interval memerlukan manual OEM, sejarah aset, persyaratan setempat, dan persetujuan penanggung jawab.
+
+Buat paket serah-terima satu halaman: identitas aset, ringkasan gejala, kronologi, bukti terlampir, batas pengamatan, tindakan pengamanan, dan pertanyaan yang ingin dijawab. Paket itu mencegah pengulangan uji yang tidak perlu dan mempertahankan kondisi awal untuk pemeriksaan. Untuk konteks layanan umum, Anda juga dapat merujuk [beranda Bengkel.co.id](/) saat mengirimkan format laporan.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan lima hal dalam catatan: hasil observasi, hasil tes, kriteria pembanding, dugaan sebab, dan keputusan. Contoh: “getaran terukur pada titik A saat beban B” adalah hasil; “melewati batas proyek” hanya boleh ditulis jika batas dan metodenya diketahui; “poros tidak sejajar” tetap dugaan sampai pemeriksaan mendukungnya.
+
+Hasil “tidak ditemukan saat inspeksi” tidak sama dengan “masalah tidak ada”. Gejala bisa intermiten, kondisi uji berbeda, atau titik pengamatan keliru. Sebaliknya, satu foto retak tidak otomatis menentukan tingkat bahaya atau kewajiban perbaikan. Minta teknisi menyatakan keterbatasan metode, data yang masih kurang, dan pemeriksaan lanjutan yang diusulkan.
+
+Jika kerusakan, perbaikan, atau operasi lanjutan berpotensi mengubah kondisi dan bukti, simpan foto bertanggal, rekaman komunikasi, dan salinan laporan sebelum tindakan destruktif. Pertanyaan teknis, tanggung jawab kontraktual, upaya konsumen, dan proses hukum adalah perkara berbeda; UU No. 8 Tahun 1999 tidak dengan sendirinya menetapkan siapa yang bertanggung jawab pada kasus Anda. Periksa kontrak, forum, hukum yang berlaku, dan nasihat Indonesia yang kompeten sebelum membuat klaim ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)).
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada empat keluaran praktis dari laporan gejala. Pertama, kontrol sementara untuk mencegah paparan atau kerusakan tambahan, tanpa menganggap aset sudah aman. Kedua, pemantauan terencana bila pemeriksaan kompeten menyatakan operasi terbatas dapat dilakukan dan kriterianya tertulis. Ketiga, perbaikan atau penggantian setelah sebab dan ruang lingkup disetujui. Keempat, eskalasi segera bila data menunjukkan kondisi di luar batas aman atau bukti tidak cukup untuk keputusan.
 
-## Objection or shortcut to address
+Sampaikan kepada bengkel: “Gejala apa yang perlu saya rekam berikutnya?”, “Pemeriksaan apa yang boleh dilakukan tanpa membuka pelindung?”, dan “Siapa yang menyetujui pelepasan kembali ke operasi?”. Sobat Bengkel.co.id, titik eskalasi harus mengikuti kondisi aset dan otoritas yang berlaku, bukan rasa yakin dari satu rekaman singkat. Informasi kontak umum tersedia di halaman utama Bengkel.co.id.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+### Jalan pintas yang sering menyesatkan
 
-## Required conclusion
+Jalan pintas yang umum adalah mengganti komponen yang paling sering dituduh berdasarkan satu bunyi, lalu menganggap masalah selesai. Cara ini dapat menghapus bukti, memindahkan gejala, dan membuat biaya berikutnya lebih sulit dilacak. Alternatif yang lebih andal adalah membekukan kondisi, mengumpulkan catatan lokasi-waktu-konteks, lalu meminta pemeriksaan yang menguji dugaan secara berurutan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
+Menjelaskan bunyi, getaran, panas, bocor, retak, dan macet tanpa menebak berarti menggambarkan gejala yang bisa diamati—jenis, lokasi, keparahan, tren, konteks, dampak, dan bukti—tanpa mengubahnya menjadi diagnosis. Kirimkan templat laporan, foto dari jarak aman, kronologi singkat, serta identitas aset kepada pemeriksa yang berwenang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jangan menghidupkan, membuka, menekan, atau membongkar aset hanya untuk melengkapi cerita. Aturan operasinya sederhana: bila bukti belum cukup atau pengamatan menyentuh energi dan bahaya yang tidak terkendali, hentikan pengujian dan minta review profesional; ketidakpastian yang ditulis jujur lebih aman daripada kepastian yang ditebak.

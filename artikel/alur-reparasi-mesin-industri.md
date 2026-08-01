@@ -2,8 +2,9 @@
 article_id: BKL-09-A01
 title: "Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test"
 slug: "alur-reparasi-mesin-industri"
-description: "Map asset data, isolation, inspection, diagnosis, approval, parts, work, reassembly, test, handover, and follow-up"
-status: outline
+description: "Panduan tahapan pendataan, pengamanan, pemeriksaan, perbaikan, pengujian, serah terima, dan tindak lanjut mesin industri"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,7 @@ sources:
   - "https://www.iso.org/standard/51792.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test”
-- **Reader and situation:** Facility considering `/perbaikan-mesin-komponen-industri.html`
-- **Reader outcome:** Map asset data, isolation, inspection, diagnosis, approval, parts, work, reassembly, test, handover, and follow-up
-- **Primary intent:** Understand a controlled repair lifecycle
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No make/model procedure, energized work, or return-to-service verdict; OEM and qualified mechanical/electrical roles govern
-- **Final public route:** `/artikel/alur-reparasi-mesin-industri.html`
-- **Appointed CMS date:** `2025-10-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-006`
@@ -62,124 +33,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `reparasi mesin 2` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-006]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel.co.id! Reparasi mesin industri yang terkendali bukan sekadar membongkar komponen rusak lalu menyalakan kembali. Alurnya dimulai dari pengenalan aset dan kondisi awal, pengendalian seluruh energi, inspeksi, diagnosis, persetujuan metode, pekerjaan perbaikan, perakitan, pengujian, hingga serah terima dan tindak lanjut.
 
-### KR-10
+Jawaban singkatnya: tahan pekerjaan pada setiap gerbang bukti. Mesin baru boleh masuk ke tahap berikutnya jika identitas, bahaya, temuan, keputusan teknis, hasil kerja, dan otoritas pelepasan tercatat. Detail isolasi, dimensi pelindung, metode perbaikan, dan izin run test harus mengikuti OEM, prosedur lokasi, serta personel berwenang. Untuk konteks pekerjaan komponen, lihat [panduan perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html). [NEEDS TECHNICAL REVIEW: persyaratan isolasi, penerimaan reparasi, dan pelepasan operasi belum dapat diputuskan secara generik.]
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
+![Ilustrasi reparasi mesin 2](/wp-content/uploads/2024/07/reparasi-mesin-2.jpeg)
 
-### KR-05
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Replace simplistic “can it be welded?” answers with an evidence-led decision that accounts for function, failure consequence, material, geometry, damage mechanism, interfaces, and verification.
-- **Safe grounded facts:** A technically executable weld is not automatically an acceptable repair. A decision may require material identity, crack/damage mechanism, remaining section, loading and duty, distortion risk, heat-treatment history, OEM restrictions, code rules, access, proof/testing plan, and the consequences of failure.
-- **Limits:** No generic article may approve a repair design, remaining life, post-repair rating, or continued operation. Those require the asset owner, OEM where applicable, governing code, qualified designer/engineer, and documented verification.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-03, GATE-05, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-09-A02` → `/artikel/data-ukur-shaft-bearing-housing-gear.html` — Shaft, Bearing, Housing, dan Gear: Data Ukur sebelum Memilih Perbaikan
-- `BKL-09-A03` → `/artikel/reverse-engineering-komponen-aus.html` — Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; gambar ini bukan dokumentasi proyek tertentu..*
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat satu identitas kerja yang tidak ambigu: nomor aset, fungsi, lokasi, subkomponen yang diduga bermasalah, dan status operasi terakhir. Lampirkan manual OEM yang berlaku, gambar atau diagram yang disetujui, work order, serta riwayat gangguan. Tanyakan, “Apakah ini inspeksi terencana, corrective repair, atau respons terhadap kejadian?” Jawaban tersebut menentukan siapa yang harus menyetujui dan bukti apa yang dikumpulkan.
+
+Pisahkan tiga keadaan: mesin sedang beroperasi, sedang diservis, dan siap dinilai untuk pengoperasian kembali. Komponen yang sudah diperbaiki dapat mengubah alignment, balance, clearance, kekuatan, getaran, containment, atau interlock. Karena itu, status “pekerjaan mekanis selesai” bukan berarti status “aman diproduksikan”. Prinsip pengendalian energi berbahaya dan penjagaan mesin perlu dipertimbangkan dalam konteks aset lengkap, sebagaimana dirujuk dalam [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), dan [OSHA 29 CFR 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Diagnosis yang baik menghubungkan beban, lingkungan, material atau sistem, dan waktu tanpa menebak umur layanan. Misalnya, keausan dapat berhubungan dengan misalignment, pelumasan, kontaminasi, beban siklik, temperatur, atau getaran; retak dapat memiliki mekanisme yang berbeda dari deformasi. Catat gejala dan kondisi saat gejala muncul, bukan langsung menyimpulkan akar masalah.
+
+Kawan Bengkel.co.id, tanyakan apakah penyebab yang dicurigai masih aktif. Mengganti coupling tanpa memeriksa kondisi fondasi atau cara kerja bisa membuat kerusakan berulang. Catat hipotesis, bukti yang mendukung, bukti yang belum ada, dan konsekuensi jika hipotesis keliru. Bila perubahan komponen memengaruhi pelindung atau batas operasi, libatkan pemilik aset dan fungsi keselamatan sebelum metode dipilih.
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan baseline yang dapat dibandingkan: foto identifikasi dan posisi, dimensi yang relevan, kondisi permukaan, tanda panas atau kebocoran, hasil pengukuran getaran atau temperatur bila memang menjadi bagian prosedur lokasi, serta catatan konfigurasi sebelum dibongkar. Simpan satuan, alat, tanggal, pemeriksa, dan keterbatasan akses. Jangan mengubah pembacaan lapangan menjadi angka ambang universal.
+
+Setelah dibuka, tandai bagian, orientasi, shim, fastener, dan jalur kabel atau pipa sesuai sistem penandaan yang disetujui. Cocokkan temuan dengan riwayat work order dan failure code. Jika material, retak, atau sisa penampang belum teridentifikasi, hentikan keputusan desain sampai pemeriksaan yang kompeten melengkapinya. Data aset dan catatan pengujian inilah yang membuat tren bisa ditinjau kemudian, bukan kesan “terlihat baik”.
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pilihan dapat berupa pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian penggunaan. Pilih berdasarkan fungsi dan konsekuensi kegagalan, bukan karena satu metode paling cepat. Untuk pekerjaan las, kemampuan membuat sambungan secara teknis tidak otomatis membuatnya layak diterima. Evaluasi perlu mempertimbangkan identitas material, mekanisme kerusakan, sisa penampang, beban dan duty, risiko distorsi, riwayat perlakuan panas, batasan OEM, aturan kode yang berlaku, akses, serta rencana verifikasi. Ringkasan resmi [ISO 15614-1:2017](https://www.iso.org/standard/51792.html) dapat menjadi rujukan ruang lingkup kualifikasi prosedur, tetapi bukan persetujuan desain atau bukti bahwa suatu aset lulus.
+
+Dokumenkan opsi dan alasan menolaknya. Jika penggantian memerlukan perubahan interface, periksa kembali alignment, clearance, guarding, dan interlock. Untuk pekerjaan pada struktur penyangga atau interface khusus, lihat [pembuatan dan perbaikan struktur khusus](/pembuatan-perbaikan-struktur-khusus.html). Jika tidak ada bukti cukup untuk menilai remaining life atau rating pascaperbaikan, tandai sebagai pertanyaan untuk engineer atau OEM; jangan mengisinya dengan asumsi.
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan pekerjaan dari konsekuensi keselamatan dan lingkungan, urgensi kerusakan, kemampuan mengisolasi, dampak terhadap fungsi produksi, biaya siklus hidup, dan otoritas keputusan. Komponen yang kecil secara fisik tetap bisa menjadi prioritas tinggi bila kegagalannya melepaskan energi atau merusak containment. Sebaliknya, gangguan yang tidak kritis dapat menunggu inspeksi terencana bila statusnya jelas dan pengendalian sementara disetujui.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Gunakan rapat singkat atau lembar keputusan dengan kolom: risiko bila ditunda, bukti saat ini, tindakan sementara, pemilik keputusan, dan tanggal tinjau ulang. Teman Bengkel.co.id, jangan jadikan target uptime sebagai pengganti otorisasi teknis. Tidak ada interval, batas alarm, jumlah suku cadang, atau janji penghematan yang sah tanpa manual OEM, sejarah aset, konteks operasi, dan persyaratan setempat.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Rekaman, serah terima, dan pemicu pemeriksaan ulang
 
-## Objection or shortcut to address
+Paket serah terima minimal memuat identitas aset, temuan sebelum dan sesudah, gambar atau mark-up perubahan, material dan part number, metode kerja yang disetujui, nama serta kualifikasi pelaksana, alat ukur dan status kalibrasinya bila relevan, hasil inspeksi, hasil run test sesuai rencana, daftar deviasi, dan siapa yang memberi izin tahap berikutnya. Simpan juga kondisi awal isolasi dan konfirmasi bahwa pengaman, interlock, serta area kerja dikembalikan sesuai prosedur lokasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Run test adalah tahap verifikasi dengan batas, instrumen, pengamat, dan kriteria yang telah disetujui—bukan kesempatan untuk “mencoba sebentar”. Artikel ini tidak memberikan urutan energisasi atau verdict return-to-service. Pemilik aset, OEM bila berlaku, dan personel mekanikal/elektrikal yang berkualifikasi harus menetapkan otoritas pelepasan. Setelah handover, tetapkan pemicu pemeriksaan ulang: gejala berulang, perubahan beban atau produk, modifikasi interface, temuan inspeksi lanjutan, atau deviasi dari kondisi uji.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah langsung mengganti part dan menjalankan mesin karena kerusakan tampak jelas. Cara ini bisa gagal bila penyebab awal—misalignment, beban, kontaminasi, atau masalah safeguarding—belum diatasi. Ia juga menghapus baseline yang diperlukan untuk membandingkan hasil dan menyulitkan penelusuran ketika gejala kembali.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah membuat gerbang sederhana: data aset dan isolasi tervalidasi; temuan dan mekanisme kerusakan ditulis; metode dan part disetujui; pekerjaan serta inspeksi dicatat; kemudian reassembly dan run test dilakukan dalam rencana yang disetujui. Bila satu gerbang belum memiliki bukti, statusnya tetap “menunggu”, bukan diam-diam dianggap lulus.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: alur yang dapat diaudit
+
+Alur reparasi mesin industri bergerak dari identitas dan kondisi awal, pengendalian energi, inspeksi, diagnosis, persetujuan, parts dan pekerjaan, reassembly, run test terencana, lalu handover dan follow-up. Langkah berikut Anda adalah meminta work order, manual OEM, catatan isolasi, lembar temuan, dan rencana uji untuk aset yang spesifik; bawa paket itu kepada penanggung jawab dan tenaga berkualifikasi.
+
+Jangan menyatakan mesin siap kembali beroperasi hanya karena komponen telah terpasang. Gunakan daftar gerbang kerja ini, bukan sebagai izin operasi. Operating rule-nya: setiap tahap harus punya bukti dan otoritas yang jelas, sementara keputusan desain, keselamatan, dan return-to-service tetap menunggu review teknis proyek.

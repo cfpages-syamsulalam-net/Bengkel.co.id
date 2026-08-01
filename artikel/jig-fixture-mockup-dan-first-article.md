@@ -2,8 +2,9 @@
 article_id: BKL-07-A05
 title: "Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak"
 slug: "jig-fixture-mockup-dan-first-article"
-description: "Compare one-off layout, fixtures, templates, mockups, first-article approval, repeat quantity, and change cost"
-status: outline
+description: "Membandingkan layout satu kali, jig, fixture, template, mockup, persetujuan first article, jumlah pengulangan, dan biaya perubahan"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,37 +20,13 @@ sources:
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak
 
-## Assignment lock
+Halo, Teman Bengkel.co.id! Biaya jig, fixture, mockup, atau first article layak ketika alat dan proses itu menurunkan kesalahan berulang lebih besar daripada biaya pembuatannya. Untuk satu komponen yang hanya dibuat sekali, layout manual sering cukup. Begitu jumlah unit bertambah, posisi harus konsisten, atau perubahan desain mahal, alat bantu dan satu unit persetujuan awal mulai masuk akal.
 
-- **Writer task:** Expand this file into one complete article answering: “Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak”
-- **Reader and situation:** Custom or repeat production needs control
-- **Reader outcome:** Compare one-off layout, fixtures, templates, mockups, first-article approval, repeat quantity, and change cost
-- **Primary intent:** Choose repeatability aids
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes production capability claims owned by BKL-20-A04 and final testing owned by BKL-14
-- **Final public route:** `/artikel/jig-fixture-mockup-dan-first-article.html`
-- **Appointed CMS date:** `2025-09-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jangan menyamakan istilahnya. **Jig** membantu memandu posisi atau proses, **fixture** menahan benda kerja pada datum tertentu, **template** menjadi pola ukur atau penandaan, dan **mockup** memeriksa bentuk serta antarmuka sebelum produksi. **First article** adalah unit awal yang diperiksa dan disetujui terhadap dokumen kerja; persetujuan itu bukan bukti bahwa semua unit berikutnya otomatis benar. Keputusan akhirnya bergantung pada kuantitas, toleransi, frekuensi perubahan, risiko rework, dan siapa yang menerima hasil.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -60,118 +37,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-11
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-07-A03` → `/artikel/membaca-simbol-las.html` — Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain
-- `BKL-07-A04` → `/artikel/urutan-fabrikasi-untuk-mengendalikan-distorsi.html` — Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi
-- `BKL-07-A06` → `/artikel/revisi-gambar-dan-approval-bengkel.html` — Revisi Gambar dan Approval: Mencegah Bengkel Membuat Versi yang Salah
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari fungsi dan keputusan yang harus dibuat, bukan dari nama alat. Tulis apakah benda hanya perlu ditandai, diukur, ditahan, dirakit, atau diuji antarmukanya. Catat jumlah unit pada batch pertama dan perkiraan pengulangan, material, datum, area yang tidak boleh berubah, serta kondisi saat operator memasang dan melepas benda. Jika komponen bertemu struktur atau sistem lain, gambar antarmuka dan urutan pemasangannya ikut dilampirkan. Untuk konteks layanan umum dan kontak lanjutan, Anda dapat memakai [beranda Bengkel.co.id](/).
+
+Untuk melihat konteks pekerjaan yang sering membutuhkan alat bantu berulang seperti ini, buka juga halaman [konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html).
+
+Pisahkan hasil yang diharapkan:
+
+- Layout satu kali memberi ukuran dan tanda untuk satu pekerjaan; operator masih mengandalkan pengukuran ulang.
+- Template mempercepat penandaan atau pengecekan bentuk sederhana, tetapi tidak selalu menahan gaya proses.
+- Fixture menahan benda terhadap datum yang disepakati sehingga posisi antarkomponen dapat diulang.
+- Jig dapat memandu alat atau urutan operasi; kebutuhan pemandu harus ditulis, bukan diasumsikan dari istilahnya.
+- Mockup memeriksa ruang, akses, dan kecocokan antarmuka. Ia tidak menggantikan desain final atau uji kinerja.
+- First article menjadi sampel persetujuan: dimensi, material, identitas sambungan, dan catatan penyimpangan dibandingkan dengan dokumen yang disetujui.
+
+Teman Bengkel.co.id, minta penyedia mengulang definisi ini dalam penawarannya. Dokumen kerja yang terkendali seharusnya menyebut fungsi, dimensi dan datum, material, sambungan, toleransi, urutan fabrikasi, titik inspeksi, dasar penerimaan, serta cara menangani deviasi. Katalog BSN hanya mengonfirmasi identitas dan status SNI 1729:2020; detail klausul dan nilai penerimaan tetap harus diambil dari standar berlisensi dan dokumen proyek yang diterbitkan. [SNI 1729:2020 — katalog resmi BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta harga dipecah menjadi desain alat, material, machining atau pengelasan, pengukuran, first article, revisi, pengemasan, pengiriman, dan serah terima. Tanyakan apa yang termasuk dan tidak termasuk: apakah fixture hanya dibuat, atau juga dicoba dengan benda kerja; apakah mockup berupa model visual atau dibuat pada ukuran aktual; apakah first article mencakup laporan pengukuran; dan siapa menyediakan sampel, alat ukur, serta dokumen referensi.
+
+Gunakan tabel perbandingan sederhana agar dua penawaran tidak tampak murah hanya karena menghapus pekerjaan penting.
+
+| Komponen | Pertanyaan pembanding | Konsekuensi bila kosong |
+|---|---|---|
+| Scope alat | Apa yang dipandu, ditahan, atau hanya ditandai? | Alat tidak menyelesaikan masalah utama. |
+| Basis ukuran | Datum, toleransi, dan revisi gambar mana yang berlaku? | Unit pertama bisa dibuat dari versi berbeda. |
+| First article | Siapa memeriksa, dengan alat apa, dan rekamannya seperti apa? | Persetujuan sulit ditelusuri. |
+| Perubahan | Berapa putaran klarifikasi termasuk, dan kapan menjadi biaya tambahan? | Anggaran melonjak saat desain berubah. |
+| Logistik | Siapa menanggung akses, pengiriman, penyimpanan, dan pengembalian? | Biaya muncul setelah pekerjaan selesai. |
+
+Jika kuantitas masih satu atau dua unit dan bentuk sering berubah, bayar untuk layout terkontrol dan pemeriksaan awal mungkin lebih rasional. Jika ratusan unit memakai datum yang sama, biaya fixture dapat tersebar ke banyak unit—namun hitung ulang bila setiap batch berpotensi berganti desain. Tidak ada ambang jumlah universal; catat asumsi kuantitas dan minta simulasi biaya per unit untuk skenario satu, sepuluh, dan batch berulang.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Satu berkas tidak membuktikan semua hal. Gambar dan spesifikasi menjelaskan apa yang harus dibuat. Sertifikat material menjelaskan identitas material pada pengiriman tertentu. Laporan inspeksi menunjukkan hasil pemeriksaan pada sampel atau unit yang dicatat. Metode kerja menjelaskan cara operator bekerja, bukan jaminan bahwa hasilnya lulus. First-article report mengikat persetujuan pada unit dan revisi tertentu; ia tidak otomatis menjadi sertifikat kapasitas produksi.
+
+Mockup yang pas secara bentuk juga belum membuktikan kekuatan, stabilitas, ketahanan korosi, atau keselamatan sistem. Untuk pekerjaan yang terkait struktur, kecukupan tidak dapat ditentukan dari ukuran batang saja. Beban, kombinasi, geometri, sambungan, tumpuan, kondisi eksisting, urutan ereksi, toleransi, paparan, inspeksi, dan pemeliharaan perlu dinilai pada sistem lengkap. ISO 3834-6:2024 memberi kerangka informasi mutu pengelasan, tetapi halaman abstraknya bukan pengganti persyaratan proyek atau persetujuan profesional. [ISO 3834-6:2024 — abstrak resmi ISO](https://www.iso.org/standard/83335.html)
+
+Demikian pula, rencana perlindungan korosi harus menyebut lingkungan, persiapan permukaan, sistem pelapisan, dan inspeksinya. ISO 12944-8:2017 membahas pengembangan spesifikasi perlindungan korosi; abstrak tersebut tidak menetapkan sistem pelapisan untuk proyek Anda. [ISO 12944-8:2017 — abstrak resmi ISO](https://www.iso.org/standard/64838.html)
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menyetujui harga, minta jawaban tertulis atas pertanyaan berikut:
 
-## Red flag dan biaya yang sering tersembunyi
+1. Datum dan referensi revisi apa yang akan dipakai saat membuat alat?
+2. Bagian mana yang dapat disetel, dan bagaimana posisi setelan dikunci serta dicatat?
+3. Bagaimana penyedia membuktikan repeatability alat tanpa mengklaim hasil yang belum diukur?
+4. Apakah first article diukur oleh penyedia, pihak ketiga, atau tim Anda? Siapa menandatangani penerimaan?
+5. Berapa banyak klarifikasi dan revisi desain yang termasuk? Apa pemicu quotation baru?
+6. Apakah fixture dapat dirawat, dikalibrasi, dipindahkan, atau disimpan setelah batch pertama?
+7. Jika mockup menemukan benturan antarmuka, siapa yang berwenang mengubah gambar dan jadwal?
+8. Rekaman apa yang diserahkan: gambar as-built, daftar komponen, hasil ukur, instruksi penggunaan, dan riwayat revisi?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Bengkel.co.id, jawaban “bisa” belum cukup. Minta contoh format rekaman dan batas tanggung jawab, lalu cocokkan dengan kebutuhan penerimaan Anda. Klaim kemampuan produksi atau pengujian final berada di luar artikel ini dan memerlukan tinjauan teknis khusus.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Waspadai harga yang hanya menyebut “buat jig sesuai gambar” tanpa datum, toleransi, jumlah unit, atau kriteria first article. Tanda bahaya lain adalah janji “pasti presisi” tanpa metode ukur, penggantian material setara tanpa persetujuan, dan permintaan memulai fabrikasi sebelum revisi gambar dibekukan. Biaya tersembunyi biasanya muncul dari menunggu data, akses lokasi, pembuatan ulang setelah perubahan, pengiriman alat berat, penyimpanan, serta pekerjaan handover yang tidak didefinisikan.
+
+Jalan pintas yang sering dipilih adalah langsung membuat fixture dari sketsa percakapan agar produksi cepat berjalan. Ia dapat gagal ketika datum berubah atau komponen sebenarnya memiliki antarmuka yang belum terpetakan: fixture mengunci kesalahan, lalu setiap unit mengulanginya. Alternatif yang lebih aman adalah membayar layout atau mockup kecil, melakukan first article, membekukan revisi yang disetujui, baru memutuskan apakah fixture penuh memberi penghematan.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tentukan pemeriksa untuk setiap keluaran. Pemilik desain memeriksa kesesuaian terhadap gambar dan fungsi antarmuka; penyedia menyerahkan rekaman proses dan hasil ukur yang memang menjadi scope; tim mutu memeriksa format, identitas revisi, dan keterlacakan. Jangan menyebut “lulus SNI” hanya karena judul standar tercantum. Bila keputusan menyangkut struktur atau keselamatan, mintalah tinjauan profesional dan dokumen proyek yang berlaku sebelum melepas produksi. **[NEEDS PROJECT-SPECIFIC REVIEW: tetapkan datum, toleransi, kriteria first article, dan pihak penandatangan sebelum acceptance.]**
 
-## Objection or shortcut to address
+Pembayaran akhir layak dilakukan ketika alat atau mockup diterima sesuai daftar keluaran, first article memiliki catatan pemeriksaan yang dapat ditelusuri, dan semua deviasi disetujui tertulis. Simpan gambar final, nomor revisi, daftar komponen, instruksi penggunaan, dan keputusan perubahan bersama catatan batch. Jika alat tidak akan dipakai ulang, dokumentasikan alasan ekonominya agar keputusan tidak diulang tanpa data.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, kapan biayanya layak? Pilih layout atau template untuk pekerjaan sporadis dengan variasi tinggi; tambahkan mockup saat kecocokan ruang dan antarmuka berisiko; gunakan first article ketika Anda membutuhkan gerbang persetujuan yang dapat ditelusuri; dan investasikan jig atau fixture saat datum stabil, kuantitas berulang, serta biaya salah pasang lebih besar daripada biaya alat. Langkah berikutnya adalah membuat lembar scope satu halaman, meminta dua penawaran dengan asumsi yang sama, lalu menjadwalkan tinjauan teknis sebelum produksi berulang. Simpan lembar keputusan itu bersama dokumen proyek sebagai titik kembali saat tim melakukan review. Aturan operasinya: jangan membeli repeatability aid sebelum tahu apa yang harus diulang, bagaimana mengukurnya, dan siapa yang berhak menyatakan unit pertama diterima.

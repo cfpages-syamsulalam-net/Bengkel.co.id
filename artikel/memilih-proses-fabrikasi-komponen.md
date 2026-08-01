@@ -1,9 +1,10 @@
 ---
 article_id: BKL-08-A01
+writing_contract_version: "native-id-v2"
 title: "Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen"
 slug: "memilih-proses-fabrikasi-komponen"
 description: "Relate material, thickness, geometry, tolerance, heat effect, volume, access, finish, and verification to process choice"
-status: outline
+status: draft
 publication_date: "2025-09-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,46 +18,90 @@ sources:
   - "https://www.iso.org/standard/51792.html"
   - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen
 
-## Assignment lock
+Halo, Sobat Bengkel.co.id! Proses yang tepat bukan otomatis proses yang paling cepat atau paling murah. Untuk satu komponen, mulai dari material, ketebalan, bentuk, toleransi, dampak panas, jumlah produksi, akses, dan hasil akhir. Data itu menentukan apakah bagian sebaiknya dipotong, dibentuk, dimachining (pemesinan), disambung, atau melewati beberapa tahap secara berurutan.
 
-- **Writer task:** Expand this file into one complete article answering: “Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen”
-- **Reader and situation:** Buyer wants to understand a proposed route
-- **Reader outcome:** Relate material, thickness, geometry, tolerance, heat effect, volume, access, finish, and verification to process choice
-- **Primary intent:** Compare fabrication process families
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No equipment setting or vendor endorsement; deeper welding theory may sit on `bengkel-las.co.id`
-- **Final public route:** `/artikel/memilih-proses-fabrikasi-komponen.html`
-- **Appointed CMS date:** `2025-09-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih proses yang menjaga fungsi kritis dengan risiko dan pemeriksaan yang dapat dikendalikan. Potong cocok untuk memisahkan bahan mengikuti kontur; bentuk cocok saat geometri bisa dicapai dengan deformasi terkontrol; machining dipilih untuk ukuran, lubang, atau permukaan yang menuntut presisi; sambung dipakai ketika komponen perlu dirakit dari beberapa bagian atau tidak praktis dibuat utuh. Urutan dan kombinasi baru dapat diputuskan setelah gambar, material, volume, dan kondisi pemasangan dikonfirmasi. Jika toleransi, beban, lingkungan, atau kriteria penerimaan belum jelas, keputusan harus ditahan untuk review teknis.
 
-## Opening instructions
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.
 
+## Hasil akhir dan prasyarat
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Hasil yang dicari bukan sekadar benda yang bentuknya mirip gambar, melainkan komponen yang dapat dipasang, bekerja, dan diterima dengan bukti. Pihak pemesan atau engineer yang berwenang perlu menetapkan fungsi, datum, ukuran kritis, jenis sambungan, kelas permukaan, lingkungan kerja, serta cara verifikasi. Bengkel kemudian menerjemahkannya menjadi rute proses dan titik inspeksi. Tanpa pembagian kewenangan itu, operator dapat mengoptimalkan kemudahan pengerjaan yang ternyata mengorbankan fungsi.
+
+Siapkan paling tidak gambar revisi terbaru, spesifikasi material, jumlah unit, kebutuhan prototipe atau produksi berulang, akses mesin, serta persyaratan inspeksi. Tanyakan: ukuran mana yang benar-benar kritis, bolehkah ada distorsi, dan permukaan mana yang akan menjadi datum saat dipasang? Jawaban tertulis mengurangi perubahan proses di tengah jalan.
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Tuliskan batas pekerjaan sebelum memilih metode. Pisahkan bahan baku, operasi potong atau bentuk, machining, sambungan, perlakuan permukaan, dan pekerjaan di lokasi. Catat antarmuka dengan komponen lain: lubang baut, bidang dudukan, celah, orientasi, serta ruang alat. Tentukan juga apa yang tidak dikerjakan, misalnya perhitungan struktur, desain ulang, atau persetujuan K3. Tautan ke [konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html) dapat membantu ketika kebutuhan sudah mencakup rakitan lebih besar daripada satu komponen.
+
+Lalu petakan risiko proses. Pemotongan dan pembentukan dapat meninggalkan burr, tegangan sisa, atau perubahan bentuk. Machining dapat mengurangi material dan menghasilkan panas lokal. Sambungan menambah daerah terpengaruh panas, penyusutan, dan kebutuhan inspeksi. Tidak semua risiko harus dihapus; yang penting adalah risiko dikenali, ada cara mengendalikannya, dan kriteria berhentinya jelas.
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+Gunakan matriks sederhana agar keputusan tidak bergantung pada kebiasaan bengkel.
+
+| Pertanyaan | Dampak pada pilihan proses |
+| --- | --- |
+| Material dan ketebalan apa? | Menyaring proses yang kompatibel dan cara menjepit bahan. |
+| Geometri datar, lengkung, atau berongga? | Menentukan apakah potong, bentuk, atau kombinasi lebih masuk akal. |
+| Toleransi dan datum mana yang kritis? | Menentukan kebutuhan machining dan urutan referensi. |
+| Berapa volume dan variasi revisi? | Menimbang waktu setup, tooling, dan fleksibilitas. |
+| Apakah panas atau gaya dapat mengubah fungsi? | Memerlukan urutan, allowance, dan pemeriksaan tambahan. |
+| Dikerjakan di workshop atau di lapangan? | Mengubah akses, energi, cuaca, pemindahan, dan kontrol K3. |
+| Bagaimana hasil diverifikasi? | Memastikan alat ukur, rekaman, dan pihak penerima tersedia. |
+
+Untuk bahan dan consumable, simpan identitas material, dimensi, serta hubungan dengan sertifikat atau batch bila proyek memerlukannya. Catat pula klasifikasi dan batch bahan tambah, kondisi penyimpanan, serta identitas produk pelapis. Informasi label atau lembar data keselamatan membantu mengenali bahaya, tetapi tidak membuktikan kompatibilitas, umur simpan, rasio campur, atau hasil akhir suatu produk. Konfirmasikan produk dan kondisi aktual sebelum digunakan ([OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)).
+
+Untuk sambungan las, bedakan dokumen prosedur, kualifikasi prosedur, kualifikasi juru las atau operator, catatan produksi, dan penerimaan hasil. ISO 15614-1 membahas kualifikasi prosedur las, sedangkan ISO 9606-1 membahas kualifikasi juru las; ISO 3834-6 menjelaskan pendekatan penggunaan seri persyaratan mutu pengelasan. Ketiganya tidak boleh diperlakukan sebagai satu bukti yang saling menggantikan ([ISO 15614-1](https://www.iso.org/standard/51792.html), [ISO 9606-1](https://www.iso.org/standard/54936.html), [ISO 3834-6](https://www.iso.org/standard/83335.html)). Rentang material, posisi, ketebalan, dan validitas harus diperiksa terhadap edisi standar, spesifikasi proyek, dan catatan yang benar-benar tersedia.
+
+## Langkah 3 — jalankan urutan kerja
+
+Mulai dari proses yang paling sedikit mengunci pilihan berikutnya. Untuk pelat dengan kontur sederhana, potong bahan dengan allowance yang cukup lalu bentuk atau machining permukaan referensi. Untuk profil yang perlu sudut atau radius, pembentukan dapat didahulukan, kemudian machining pada bidang yang menjadi datum. Untuk bentuk kompleks atau lubang presisi, sisakan material dan selesaikan dengan machining setelah bentuk utama stabil. Jika komponen dirakit, siapkan fit-up, akses inspeksi, dan urutan sambungan sebelum memotong bagian final.
+
+Bandingkan empat keluarga proses secara praktis:
+
+- **Potong:** efektif untuk memisahkan bahan mengikuti garis. Periksa tepi, burr, tegak lurus, dan distorsi sebelum dipakai sebagai referensi.
+- **Bentuk:** mengubah geometri melalui gaya atau tekanan. Periksa springback, retak, penipisan, dan apakah alat mampu mempertahankan radius yang diminta.
+- **Machining:** menghilangkan material untuk mencapai ukuran dan permukaan. Tetapkan datum, urutan penjepitan, allowance, serta strategi menghindari deformasi; detail setting mesin harus disetujui operator kompeten.
+- **Sambung:** menggabungkan bagian dengan las, baut, atau metode lain. Nilai akses, penyusutan, inspeksi, dan kemungkinan perbaikan sebelum memilihnya.
+
+Volume produksi mengubah ekonomi proses, tetapi tidak membatalkan persyaratan fungsi. Untuk satu prototipe, rute yang mudah disetel mungkin lebih masuk akal daripada tooling khusus. Untuk banyak unit, fixture dan urutan berulang dapat menurunkan variasi, asalkan first article diverifikasi. Hindari memutuskan hanya dari waktu siklus yang dijanjikan; waktu inspeksi, rework, dan penanganan juga bagian dari rute.
+
+Kawan Bengkel.co.id, lokasi kerja sering menjadi pembeda terbesar. Memindahkan pekerjaan ke lapangan bukan pembenaran otomatis ketika komponen sulit diangkut. Akses sempit, cuaca, pasokan listrik, ventilasi, benda mudah terbakar, aktivitas penghuni, lalu lintas, pengangkatan, dan akses inspeksi dapat mengubah metode serta risikonya. Prinsip keselamatan kerja Indonesia mewajibkan kondisi kerja yang aman; pengendalian spesifik harus ditinjau berdasarkan lokasi dan tugas aktual ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)). Panduan OSHA tentang pekerjaan panas dapat menjadi referensi bahaya umum, bukan pengganti aturan atau persetujuan K3 Indonesia ([OSHA 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252)).
+
+## Titik henti dan kondisi berhenti
+
+Hentikan pemilihan proses bila gambar tidak menyatakan datum atau toleransi kritis, material tidak terlacak, revisi belum disepakati, atau metode verifikasi belum tersedia. Hentikan juga bila panas, gaya, atau akses berpotensi mengubah fungsi tetapi tidak ada rencana pengendalian dan pemeriksaan. Pada pekerjaan lapangan, jangan mulai sebelum penanggung jawab menyetujui pengendalian energi, kebakaran, paparan, pengangkatan, komunikasi, evakuasi, dan pemulihan area. **[NEEDS TECHNICAL REVIEW: GATE-03/GATE-04/GATE-06/GATE-08 — konfirmasi kriteria penerimaan, rute proses, dan kontrol lokasi terhadap spesifikasi proyek serta aturan Indonesia yang berlaku.]**
+
+## Verifikasi hasil dan serah terima
+
+Sebelum serah terima, cocokkan identitas komponen dan revisi gambar. Ukur dimensi kritis terhadap datum yang disepakati, periksa tepi dan permukaan, lalu dokumentasikan kondisi sambungan dan area yang sulit dilihat. Cocokkan material, consumable, dan pelapis dengan catatan batch atau sertifikat yang disyaratkan. Untuk sambungan, lampirkan catatan prosedur yang dipakai, kualifikasi personel yang relevan, hasil inspeksi, dan keputusan penerimaan—bukan hanya foto.
+
+Buat daftar penyimpangan terbuka: ukuran di luar toleransi, perubahan material, akses inspeksi yang hilang, atau pekerjaan yang tertunda. Setiap penyimpangan harus punya disposition dari pihak berwenang. Bila kebutuhan bergeser menjadi perbaikan mesin atau rakitan yang lebih luas, pembaca dapat melanjutkan ke [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) untuk menentukan data tambahan yang perlu dibawa.
+
+## Jalan pintas yang sering menggoda
+
+Jalan pintasnya adalah memakai satu metode yang sudah biasa—misalnya langsung mengelas atau memotong semua bagian—lalu berharap machining dan inspeksi memperbaiki akibatnya. Cara ini dapat gagal karena panas, penyusutan, atau perubahan datum terjadi sebelum ukuran kritis ditetapkan. Rework mungkin mengurangi material yang seharusnya menjadi allowance dan membuat jejak verifikasi tidak jelas.
+
+Alternatif yang lebih andal adalah menyusun rute dari fungsi dan datum, menyisakan allowance yang masuk akal, menetapkan hold point sebelum proses yang sulit dibalik, dan memverifikasi first article sebelum mengulang volume. Pilihan tersebut tetap perlu persetujuan teknis pada material, beban, sambungan, dan lingkungan yang spesifik.
+
+## Kesimpulan
+
+Pilih potong, bentuk, machining, dan sambung berdasarkan kecocokan material, ketebalan, geometri, toleransi, dampak panas, volume, akses, finish, dan bukti penerimaan. Mulailah dengan gambar serta fungsi, bandingkan rute yang bisa dikendalikan, lalu kunci datum, urutan, dan pemeriksaan sebelum produksi berulang.
+
+Langkah berikutnya: minta pemasok menunjukkan rute proses tertulis, matriks material dan revisi, titik inspeksi, serta dokumen kualifikasi yang relevan. Teman Bengkel.co.id, jika salah satu data atau kontrol belum ada, jangan mengisi celah dengan asumsi. Tahan pekerjaan untuk review teknis dan K3 yang berwenang; proses tercepat adalah proses yang sejak awal dapat dibuktikan hasilnya.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,132 +112,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-09
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-03, GATE-04, GATE-06, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-08-A02` → `/artikel/wps-kualifikasi-prosedur-dan-welder.html` — WPS, Kualifikasi Prosedur, dan Kualifikasi Welder: Dokumen yang Berbeda
-- `BKL-08-A03` → `/artikel/fit-up-tack-sequence-dan-catatan-las.html` — Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

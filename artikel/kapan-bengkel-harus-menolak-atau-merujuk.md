@@ -2,8 +2,9 @@
 article_id: BKL-01-A06
 title: "Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan"
 slug: "kapan-bengkel-harus-menolak-atau-merujuk"
-description: "Identify competence, missing data, unsafe condition, regulation, equipment, and conflict triggers for referral or pause"
-status: outline
+description: "Panduan mengenali batas kompetensi, data yang hilang, kondisi tidak aman, dan alasan merujuk atau menghentikan pekerjaan bengkel."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-04-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,40 +20,9 @@ sources:
   - "https://www.iso.org/standard/83335.html"
   - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/75614.html"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan”
-- **Reader and situation:** Customer or workshop faces unsupported risk
-- **Reader outcome:** Identify competence, missing data, unsafe condition, regulation, equipment, and conflict triggers for referral or pause
-- **Primary intent:** Recognize referral and stop conditions
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes emergency controls owned by BKL-15 and legal dispute advice owned by BKL-18
-- **Final public route:** `/artikel/kapan-bengkel-harus-menolak-atau-merujuk.html`
-- **Appointed CMS date:** `2025-04-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,124 +33,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel.co.id! Bengkel tidak wajib menerima semua pekerjaan yang datang. Pekerjaan harus ditolak atau dirujuk ketika kompetensi, data, peralatan, kewenangan, atau kendali keselamatan yang dibutuhkan tidak tersedia. Pekerjaan yang sudah berjalan harus dihentikan bila kondisi lapangan berubah menjadi tidak aman atau hasilnya tidak dapat diverifikasi.
 
-### KR-01
+Keputusan itu bukan berarti menghindari pelanggan. Bengkel dapat menerima tahap yang memang dikuasai—misalnya pengukuran awal atau pembuatan komponen sesuai gambar—sambil merujuk desain, pemeriksaan khusus, atau persetujuan akhir kepada pihak berwenang. Jawaban berubah hanya setelah bukti yang relevan tersedia dan ditinjau: identitas aset, gambar revisi, kondisi aktual, prosedur kerja, personel, alat ukur, serta aturan lokasi. Tanpa bukti itu, jangan menjanjikan diagnosis, kelulusan, keselamatan, atau kepatuhan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze what `bengkel.co.id` is allowed to cover and prevent the broad word “bengkel” from drifting into unsupported automotive, engineering, certification, or workshop-capability claims.
-- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
-- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Anchor workshop-safety content in current Indonesian law and prevent reliance on pre-July-2026 copies of sector K3 regulations.
-- **Safe grounded facts:** The 2026 record identifies partial revocations affecting, among others, workplace environment, electrical work, pressure vessels and tanks, powered/production machinery, lifting equipment, work at height, and confined spaces. A legacy regulation may still be in force while some provisions no longer are.
-- **Limits:** This register does not perform legal consolidation or interpret amended clauses. Recheck BPK and official Kemnaker text at outline approval and obtain competent Indonesian legal/K3 review for prescriptive claims.
-
-### KR-21
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html), [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Turn vague claims such as “professional,” “certified,” “experienced,” or “SNI” into verifiable, scope-matched evidence.
-- **Safe grounded facts:** A person certificate has a defined method/process/range and validity; it does not certify the whole company or project. A quality-system claim does not prove a particular design, welder, NDT technician, machine, material, joint, result, or statutory approval.
-- **Limits:** No vendor or `bengkel.co.id` capability is evidenced here. Do not publish badges, client names, project photos, certifications, addresses, response times, or warranties without current attributable primary evidence and permission. ## Hard evidence gates | Gate | Required evidence before a definitive claim | Claims blocked while unresolved | | --- | --- | --- | | GATE-01 — Current Indonesian rule | Current consolidated national regulation, applicable local/site rule, scope/applicability check, and competent interpretation where needed | Legal duty, mandatory procedure, credential, inspection route, interval, permit, approval, or compliance | | GATE-02 — Asset and site baseline | Asset/item identity, owner, location, function, condition, history, symptom chronology, operating state, environment, access, interfaces, photographs, and available drawings/manuals | Diagnosis, cause, repair scope, safe continued use, schedule, price, or suitability | | GATE-03 — Exact material, part, consumable, or chemical | Manufacturer/producer identity, designation, batch/heat where relevant, certificate/report, current technical data and SDS, compatibility, storage, and approved substitution | Material grade, weldability, compatibility, coating life, chemical control, part equivalence, or disposal | | GATE-04 — Governing design and acceptance basis | Contract/project specification, licensed current standard/code, drawings and revisions, loads/duty, tolerances, acceptance criteria, and responsible approving party | Dimension, capacity, connection, tolerance, inspection extent, test value, acceptance, or “meets SNI/ISO” | | GATE-05 — Qualified design and intervention approval | Named responsible professional/engineer, verified competence/authority, calculations/assessment, approved design or repair disposition, and consequence review | Structural, pressure, rotating, lifting, fatigue, safety-critical, remaining-life, reinforcement, or fitness claim | | GATE-06 — Welding process and personnel | Applicable WPS and supporting qualification, exact process/material/range, qualified welder/operator, validity/continuity, consumable/equipment control, and project acceptance | Welding parameter, approved procedure, personnel capability, or acceptable production/repair weld | | GATE-07 — Inspection, NDT, and measurement | Inspection/test plan, method/technique, extent, written procedure, qualified personnel scope, equipment identity and current calibration/verification, report traceability, and governing acceptance basis | Defect/no-defect, measurement accuracy, pass/fail, repair closeout, or fitness | | GATE-08 — Task and site K3 controls | Current task/site risk assessment, authorization, energy isolation, guarding, electrical/gas/chemical controls, hot-work controls, access/lifting/weather/public interfaces, emergency/rescue, and handback | Safe method, safe-to-start, safe-to-enter, safe-to-operate, or adequate PPE/control | | GATE-09 — Pressure and confined-space controls | Equipment/content/history, governing pressure code and statutory route, positive isolation/decontamination, entry classification, atmosphere controls, rescue, qualified repair/design/inspection, approved test, and release | Tank/vessel/pipe entry, hot work, repair detail, test pressure, interval, or return to service | | GATE-10 — Commercial and handover evidence | Comparable written scope, assumptions, quantities, inclusions/exclusions, price basis, revisions/change approvals, schedule, warranty, inspection/records index, acceptance, and aftercare contacts | Price comparison, lowest-cost claim, fixed scope, completion, warranty, or handover adequacy | | GATE-11 — Consumer, complaint, and legal review | Current law, contract, chronology, item/evidence custody, independent technical findings where needed, claimed loss, requested remedy, forum, and competent legal advice | Liability, entitlement, refund/rework outcome, damages, deadline, or dispute prediction | | GATE-12 — Environmental and waste route | Exact stream/product identity, contamination/classification evidence, quantities, controls, current national/local rules, authorized transporter/receiver where required, and disposition records | B3/non-B3 classification, storage/transport/disposal instruction, recyclable claim, or quantified sustainability benefit | | GATE-13 — Vendor-specific capability | Current attributable business identity, personnel/procedure/equipment scope, similar-work evidence, system records, subcontractor roles, capacity, approvals, validity, and permission to publish | “Certified,” “SNI,” “professional,” service area, equipment, experience, client/project, response time, or provider capability | ## Parent-topic coverage matrix | Topic family | Topic title | Coverage objective | Primary evidence | Mandatory gates | | --- | --- | --- | --- | --- | | BKL-01 | Workshop scope, vocabulary, and referral boundaries | Define what the site covers, distinguish informational from commercial intent, and route regulated/specialist work correctly | KR-01, KR-02, KR-21 | GATE-01, GATE-13 | | BKL-02 | Customer intake and symptom reporting | Collect safe, decision-relevant facts while separating report, observation, and diagnosis | KR-03, KR-17, KR-19 | GATE-02, GATE-08 | | BKL-03 | Survey, inspection, measurement, and diagnosis | Build an evidence ladder from survey through test and uncertainty to escalation | KR-04, KR-03, KR-15 | GATE-02, GATE-07, GATE-08 | | BKL-04 | Repair, reinforce, remanufacture, replace, or defer | Compare interventions by damage mechanism, consequence, verification, and ownership | KR-05, KR-17 | GATE-02, GATE-04, GATE-05, GATE-07 | | BKL-05 | Scope, quotation, price structure, and change control | Make quotations comparable and preserve assumptions, exclusions, approval, and revision history | KR-06, KR-18 | GATE-02, GATE-10, GATE-11 | | BKL-06 | Parts, metals, consumables, coatings, and traceability | Link exact identity and records to compatibility, execution, safety, and later maintenance | KR-07, KR-20 | GATE-03, GATE-04, GATE-12 | | BKL-07 | Requirements, drawings, tolerances, and fabrication planning | Turn functions and interfaces into controlled documents, revisions, hold points, and approvals | KR-08, KR-11 | GATE-02, GATE-04, GATE-05 | | BKL-08 | Welding and fabrication methods with execution control | Explain controlled process selection without publishing universal welding recipes | KR-09, KR-07, KR-14, KR-16 | GATE-03, GATE-04, GATE-06, GATE-08 | | BKL-09 | Industrial machine and component repair | Treat the component within its machine, energy, guarding, duty, and commissioning system | KR-10, KR-05, KR-17 | GATE-02, GATE-03, GATE-05, GATE-07, GATE-08 | | BKL-10 | Structural metal fabrication and repair | Preserve load-path, connection, temporary-stability, durability, and professional-design boundaries | KR-11, KR-08, KR-15 | GATE-02, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08 | | BKL-11 | Pipe, tank, cylinder, pressure, and confined space | Enforce pressure, contents, isolation, entry, repair, inspection, and release-to-service gates | KR-12, KR-14, KR-15 | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09 | | BKL-12 | Residential and architectural fabricated metalwork | Cover installed function, users, supports, exposure, safety, finish, and maintenance | KR-13, KR-11, KR-07 | GATE-02, GATE-03, GATE-04, GATE-05, GATE-08 | | BKL-13 | Portable/on-site versus workshop work | Compare control, access, interfaces, environment, permits, inspection, and restoration | KR-14, KR-10, KR-13 | GATE-02, GATE-04, GATE-08, GATE-09 | | BKL-14 | QA, testing, NDT, calibration, and nonconformance | Separate quality level, test method, personnel, equipment, acceptance, and disposition | KR-15, KR-04, KR-18 | GATE-04, GATE-06, GATE-07 | | BKL-15 | K3 for hot work, electrical, gas, chemicals, and emergencies | Apply a systems hierarchy of controls and task/site emergency planning | KR-16, KR-02, KR-14 | GATE-01, GATE-03, GATE-08, GATE-09 | | BKL-16 | Inspection, preventive maintenance, reliability, and downtime | Build asset-specific tasks and records without universal intervals or savings promises | KR-17, KR-04, KR-10 | GATE-01, GATE-02, GATE-03, GATE-07, GATE-08 | | BKL-17 | Handover, warranty, records, and aftercare | Make completion traceable to approved scope, results, unresolved items, warranty, and maintenance | KR-18, KR-17, KR-06 | GATE-04, GATE-07, GATE-10 | | BKL-18 | Complaints, disputes, consumer rights, and remedy | Preserve safety and evidence, maintain a neutral chronology, and separate technical from legal findings | KR-19, KR-06, KR-18 | GATE-02, GATE-07, GATE-10, GATE-11 | | BKL-19 | Waste, scrap, emissions, noise, chemicals, and circularity | Use exact stream/product evidence and authorized disposition; qualify environmental benefits | KR-20, KR-07, KR-16 | GATE-01, GATE-03, GATE-08, GATE-12 | | BKL-20 | Vendor capability, business evidence, and accountability | Verify that people, procedures, equipment, systems, capacity, and claims match the actual scope | KR-21, KR-06, KR-09, KR-15 | GATE-01, GATE-06, GATE-07, GATE-10, GATE-13 | ## Source-status and volatility notes - `Permenaker No. 11 Tahun 2026` is the controlling current-status checkpoint for this research. It took effect on 3 July 2026 and partially revoked provisions across several older K3 regulations. Writers must not quote an older regulation without checking the consolidated effect. - `ISO 15614-1:2017` and `ISO 9606-1:2012` were published/current at verification but ISO marks both as expected to be revised. Recheck edition status before an outline relies on them. - `ISO 12944-5:2019` is published but ISO marks it “to be revised.” Use the current selected paint manufacturer's documents and the governing project specification in addition to the applicable full standards. - The OSHA sources are United States regulations. They are retained only as direct government explanations of energy-control, guarding, hazard-communication, and hot-work concepts; they create no Indonesian compliance claim. - BSN and ISO public pages do not expose the complete normative text. Their presence in this register never authorizes copying hidden tables or inventing requirements. ## Pre-publication stop rules Stop the outline or article and obtain additional evidence if any of the following is true: 1. The article would diagnose a live asset, approve continued operation, or prescribe disassembly without `GATE-02` and `GATE-08`. 2. It would state a dimension, load, capacity, connection, tolerance, inspection extent, acceptance value, test pressure, or repair procedure without `GATE-04` and any applicable specialist gate. 3. It would cover structural, pressure-retaining, rotating, lifting, fatigue-sensitive, overhead, or other safety-critical work without named professional responsibility under `GATE-05`. 4. It would publish welding variables or qualification claims without `GATE-06`. 5. It would call an indication acceptable/rejectable or a result calibrated/certified without `GATE-07`. 6. It would describe hot work, entry, isolation, electrical work, lifting, or emergency arrangements as safe without the current task/site evidence in `GATE-08` and, where relevant, `GATE-09`. 7. It would name a price, warranty, service capability, certification, customer/project, location, response time, or provider result without `GATE-10` and `GATE-13`. 8. It would promise a legal remedy, assign blame, or classify/dispose of waste without `GATE-11` or `GATE-12`. When a gate cannot be resolved, the safe article pattern is to explain the decision inputs, evidence to request, questions to ask, warning signs, stop conditions, and the qualified party who must decide—without filling the gap with a rule of thumb.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-01, GATE-13
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-01-A04` → `/artikel/bengkel-workshop-tukang-teknisi-fabrikator.html` — Bengkel, Workshop, Tukang, Teknisi, dan Fabrikator: Siapa Mengerjakan Apa
-- `BKL-01-A05` → `/artikel/pekerjaan-di-bengkel-atau-di-lokasi.html` — Pekerjaan di Bengkel atau di Lokasi: Kapan Harus Dipindahkan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; gambar ini bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menolak berarti tidak menerima lingkup yang tidak dapat dikendalikan sejak awal. Menghentikan berarti menahan langkah berikutnya ketika prasyarat yang semula ada hilang atau muncul bahaya baru. Merujuk berarti mengalihkan keputusan teknis atau pekerjaan tertentu kepada profesional, laboratorium, inspektor, atau penyedia yang memiliki kewenangan dan bukti kompetensi yang sesuai.
+
+Artikel ini membahas keputusan operasional pada pekerjaan fabrikasi, perbaikan, inspeksi, dan pekerjaan di lokasi. Ini bukan instruksi tanggap darurat dan bukan nasihat untuk menentukan siapa yang bersalah dalam sengketa. Jika ada keadaan gawat, ikuti rencana darurat pemilik lokasi. Jika sudah menjadi perselisihan, simpan catatan faktual dan minta nasihat hukum yang kompeten.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan rapat singkat penerimaan. Minta nomor aset atau gambar, fungsi dan beban, riwayat kerusakan, lokasi kerja, batas akses, bahan yang akan dipakai, hasil yang diminta, serta siapa pemberi persetujuan. Bedakan laporan pelanggan ("retak terlihat") dari diagnosis ("penyebabnya lelah material"). Diagnosis memerlukan pemeriksaan dan data, bukan tebakan dari foto.
+
+Lalu cocokkan empat hal: kemampuan orang, metode yang disetujui, alat yang memadai, dan kondisi tempat. Sertifikat personel selalu punya metode, rentang, dan masa berlaku tertentu; sertifikat pengelas tidak otomatis membuktikan perusahaan, desain, material, atau proyek telah memenuhi syarat ([ISO 9606-1](https://www.iso.org/standard/54936.html)). Kerangka mutu pengelasan membantu mengatur proses, tetapi bukan bukti bahwa sambungan tertentu sudah lulus ([ISO 3834-6](https://www.iso.org/standard/83335.html)).
+
+Untuk pemeriksaan tak merusak (NDT), pastikan teknik, personel, alat, kalibrasi, dan kriteria penerimaan tertulis. Ringkasan ISO 9712 menjelaskan skema kualifikasi personel NDT; itu tidak mengubah laporan tanpa metode dan kriteria menjadi keputusan lulus/gagal ([ISO 9712](https://www.iso.org/standard/75614.html)). Jika satu mata rantai tidak ada, hentikan klaim hasil dan rujuk bagian tersebut.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa pemicu hampir selalu membutuhkan jeda atau rujukan:
+
+1. **Kompetensi tidak cocok.** Pekerjaan menyentuh struktur penahan beban, bejana tekan, mesin berputar, pengangkatan, kelistrikan, ruang terbatas, atau sambungan keselamatan, tetapi tidak ada penanggung jawab profesional dan personel dengan lingkup yang sesuai. Bengkel boleh membantu bagian nonkritis, bukan menyetujui desain atau sisa umur.
+2. **Data dasar hilang.** Tidak ada identitas aset, gambar revisi, spesifikasi, riwayat, atau akses untuk memeriksa kondisi. Tawarkan survei sebagai pekerjaan terpisah; jangan mengunci harga, metode, atau jadwal berdasarkan asumsi.
+3. **Kondisi tidak aman.** Energi belum diisolasi, isi pipa atau tangki tidak diketahui, pelindung mesin dilepas, akses dan cuaca mengganggu, atau jalur publik tidak terkendali. Stop dan minta pengendalian dari pemilik lokasi. UU Keselamatan Kerja dan catatan status Permenaker terbaru perlu dicek bersama aturan situs sebelum membuat klaim kewajiban spesifik ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970); [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
+4. **Peralatan atau rekaman tidak memadai.** Alat ukur tidak teridentifikasi atau verifikasinya kedaluwarsa; WPS, catatan bahan, rencana inspeksi, atau laporan tidak tersedia. Hasil boleh disebut indikasi awal saja, bukan bukti penerimaan.
+5. **Aturan dan tujuan bertentangan.** Pemilik meminta mengabaikan gambar, mengganti material tanpa persetujuan, atau menutup temuan. Tulis penyimpangan, tahan pekerjaan, dan minta keputusan pihak yang berwenang.
+6. **Lingkup melebar.** Permintaan awal berubah menjadi desain, sertifikasi, pengujian resmi, atau pekerjaan di area yang tidak termasuk penawaran. Terbitkan perubahan tertulis atau rujuk; jangan menyamarkan tambahan sebagai "bantuan kecil".
+
+Sobat Bengkel.co.id, satu pertanyaan sederhana membantu: “Bukti apa yang membuat keputusan ini dapat ditelusuri enam bulan lagi?” Jika jawabannya tidak jelas, status pekerjaan seharusnya jeda, bukan lanjut.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Situasi | Keputusan awal | Yang harus diminta sebelum lanjut |
+|---|---|---|
+| Pelanggan membawa rangka retak tanpa gambar atau riwayat beban | Tolak diagnosis dan pengelasan langsung | Identitas aset, survei kondisi, gambar, dan penanggung jawab desain |
+| Tangki bekas akan dipotong atau dilas | Hentikan dan rujuk | Isi terakhir, isolasi/dekontaminasi, klasifikasi ruang, rencana izin, inspeksi, dan persetujuan profesional |
+| Diminta NDT tetapi hanya ada operator tanpa lingkup metode yang sesuai | Rujuk pemeriksaan | Prosedur, teknik, kualifikasi personel, alat terverifikasi, dan kriteria penerimaan |
+| Gambar tersedia, tetapi mesin bengkel tidak mampu mencapai toleransi | Tolak lingkup itu atau ubah desain dengan persetujuan | Kapabilitas alat, toleransi revisi, dan penerimaan tertulis |
+| Pemilik meminta tetap bekerja saat pelindung dan isolasi energi belum siap | Stop-work | Pengendalian energi, izin kerja, guarding, dan handback dari pemilik lokasi |
+
+Catat siapa yang meminta, fakta yang terlihat, keputusan, dan dokumen yang masih kurang. Catatan netral melindungi pelanggan dan bengkel tanpa menebak hasil akhir.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Bengkel Harus Menolak, Menghentikan, atau Merujuk Pekerjaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap pengalaman umum sama dengan kompetensi spesifik. Periksa ruang lingkup sertifikat, masa berlaku, metode, material, dan peran personel. Kesalahan kedua adalah memakai label “sesuai standar” tanpa standar edisi, gambar, dan kriteria penerimaan. Mintalah dokumen yang menjadi dasar persetujuan; halaman ringkasan standar tidak membuka seluruh persyaratan teknis.
 
-## Objection or shortcut to address
+Kesalahan ketiga, menganggap alat tersedia berarti hasil sah. Tanyakan identitas alat, status verifikasi, metode, dan siapa yang menandatangani laporan. Keempat, meneruskan pekerjaan karena uang muka atau tenggat. Hentikan dengan pemberitahuan tertulis dan jelaskan prasyarat objektif. Kelima, menyebut rujukan sebagai penolakan total. Nyatakan bagian yang masih dapat dikerjakan dan bagian yang harus diputuskan pihak lain.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kawan Bengkel.co.id, gunakan daftar pemeriksaan sebelum memberi tanggal mulai: lingkup tertulis, data aset, gambar revisi, bahan terlacak, personel dan prosedur, alat terverifikasi, kontrol K3 lokasi, kriteria penerimaan, serta jalur persetujuan. Satu kotak kosong tidak selalu membatalkan seluruh pekerjaan, tetapi harus menghasilkan pertanyaan atau rujukan yang terdokumentasi.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Kalau ditolak, pelanggan pindah ke bengkel lain.” Kekhawatiran itu nyata, tetapi menerima pekerjaan tanpa kendali memindahkan risiko ke orang, aset, dan reputasi. Alternatif yang lebih sehat adalah menawarkan tahap yang aman dan terukur: survei, pembersihan untuk inspeksi, pembuatan bagian sesuai gambar, atau pengumpulan dokumen. Jelaskan batasnya secara tertulis dan berikan daftar pihak atau kompetensi yang perlu dicari, tanpa mengklaim vendor tertentu.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Bengkel harus menolak bila lingkup berada di luar kompetensi atau kewenangannya; menghentikan bila kondisi, data, alat, atau kontrol keselamatan tidak lagi memenuhi prasyarat; dan merujuk bila keputusan membutuhkan desain, inspeksi, sertifikasi, atau penafsiran aturan dari pihak yang berwenang. Sebelum melanjutkan, kumpulkan identitas aset, dokumen desain, kondisi lokasi, metode, personel, alat, dan kriteria penerimaan. [NEEDS TECHNICAL/K3 REVIEW: verifikasi aturan Indonesia yang berlaku dan penerapan spesifik situs sebelum publikasi preskriptif.]
+
+Aturan operasionalnya sederhana: jika keputusan tidak bisa ditelusuri ke bukti dan penanggung jawab yang tepat, tahan pekerjaan pada batas aman dan rujuk bagian yang belum terbukti. Untuk konteks layanan dan topik terkait, mulai dari [beranda Bengkel.co.id](/), baca panduan [las dan fabrikasi](/las), atau pelajari [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html).

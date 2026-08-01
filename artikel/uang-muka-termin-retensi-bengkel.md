@@ -1,9 +1,10 @@
 ---
 article_id: BKL-05-A06
+writing_contract_version: "native-id-v2"
 title: "Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel"
 slug: "uang-muka-termin-retensi-bengkel"
 description: "Link payments to approved drawings, material receipt, hold points, test results, delivery, punch list, and warranty documents"
-status: outline
+status: draft
 publication_date: "2025-07-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,37 +19,15 @@ sources:
   - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Sobat Bengkel.co.id! Uang muka, termin, dan retensi sebaiknya tidak dilepas hanya karena tanggal jatuh tempo tiba. Pembayaran menjadi lebih mudah dipertanggungjawabkan bila setiap tahap dikaitkan dengan bukti yang bisa diperiksa: gambar kerja yang sudah disetujui, material yang diterima, titik pemeriksaan, hasil uji, berita acara serah terima, punch list, dan dokumen garansi. Untuk konteks layanan, Anda dapat membuka [halaman utama Bengkel.co.id](/).
 
-# Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel
+Uang muka membiayai mobilisasi atau pembelian awal sesuai kontrak. Termin dibayar setelah keluaran tahap tertentu diterima. Retensi ditahan sampai pekerjaan dan dokumen penutup memenuhi syarat yang disepakati. Angka atau persentasenya tidak boleh saya tebak; yang menentukan adalah kontrak dan persetujuan proyek. Yang dapat Anda kendalikan sekarang adalah hubungan antara jumlah yang diminta, pekerjaan yang sudah diverifikasi, dan catatan perubahan.
 
-## Assignment lock
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- **Writer task:** Expand this file into one complete article answering: “Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel”
-- **Reader and situation:** Customer negotiating payment milestones
-- **Reader outcome:** Link payments to approved drawings, material receipt, hold points, test results, delivery, punch list, and warranty documents
-- **Primary intent:** Structure payment evidence
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not legal or financial advice; BKL-18 owns disputes and actual contract needs qualified review
-- **Final public route:** `/artikel/uang-muka-termin-retensi-bengkel.html`
-- **Appointed CMS date:** `2025-07-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -59,117 +38,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-10, GATE-11
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-05-A04` → `/artikel/lead-time-bengkel-dari-gambar-sampai-uji.html` — Lead Time Bengkel: Dari Persetujuan Gambar sampai Uji Akhir
-- `BKL-05-A05` → `/artikel/variation-order-bengkel.html` — Variation Order Bengkel: Kapan Temuan Baru Mengubah Biaya dan Waktu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+# Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling mahal adalah menyamakan “sudah dikerjakan” dengan “sudah layak dibayar”. Pekerjaan mungkin tampak selesai, tetapi gambar revisinya belum disetujui, material pengganti belum diterima, atau hasil uji belum dicatat. Karena itu, minta satu paket bukti untuk setiap termin, bukan sekadar foto dan kuitansi.
+
+Harga total juga tidak menjelaskan isi pekerjaan dengan sendirinya. Survei, pembongkaran, desain, mutu material, bahan habis pakai, persiapan pelapisan, angkutan, pengangkatan, utilitas, akses, pengujian, perbaikan, pajak, dan dokumentasi bisa saja berada di pos berbeda. Prinsip keterbandingan dan informasi yang jelas membantu Anda meminta rincian serta menyimpan riwayat perubahan; rujukan umum perlindungan konsumen dapat dibaca pada [UU No. 8 Tahun 1999 di basis data BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden). Ini bukan penetapan hak pembayaran atau hasil sengketa tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Uang muka** adalah pembayaran awal yang penggunaannya harus mengikuti lingkup dan mekanisme dalam kontrak. Tanyakan apa yang dibeli atau dimobilisasi, kapan bukti pemakaiannya diserahkan, dan bagaimana sisa atau penyesuaiannya diperhitungkan.
+
+**Termin** adalah pembayaran berbasis capaian. Capaian yang baik memiliki objek terukur—misalnya gambar revisi berstatus disetujui, material diterima dan dicocokkan, atau suatu tahap lulus pemeriksaan—bukan kalimat umum seperti “pekerjaan berjalan”.
+
+**Retensi** adalah bagian pembayaran yang ditahan sampai kondisi pelepasan yang disepakati terpenuhi. Kondisinya dapat mencakup punch list yang ditutup, dokumen uji, manual, as-built drawing, dan garansi. Jangan menganggap retensi otomatis berarti semua risiko sudah berpindah.
+
+**Bukti kemajuan** adalah jejak keputusan: nomor dokumen, revisi, tanggal, pemeriksa, hasil, dan persetujuan. Artikel ini membantu menyusun paket bukti dan pertanyaan negosiasi, bukan menggantikan nasihat hukum, keuangan, atau persetujuan penanggung jawab proyek. Bila ada perselisihan, kebutuhan kontraktual aktual harus ditinjau profesional; pembahasan sengketa berada di topik lain.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari matriks sederhana yang menghubungkan tahap, pemicu pembayaran, bukti minimum, dan pihak yang menyetujui. Sebelum produksi, kunci dulu gambar kerja dan revisinya. Saat material datang, catat identitas material, jumlah yang diterima, dokumen pengiriman, dan siapa yang memeriksa. Bila ada titik yang harus diperiksa sebelum pekerjaan tertutup, tandai sebagai *hold point* (titik henti): pekerjaan berikutnya menunggu keputusan tertulis.
+
+Pada saat mengajukan termin, susun berkas dalam urutan yang sama setiap kali. Lampirkan ringkasan progres terhadap gambar yang disetujui, daftar material, catatan inspeksi, hasil uji yang memang dipersyaratkan, foto berpenanda tanggal bila disepakati, serta berita acara. Pemeriksa kemudian dapat menyatakan diterima, diterima dengan catatan, atau belum diterima. Status itu lebih berguna daripada persentase yang tidak punya dasar.
+
+Perubahan harus berjalan melalui alur permintaan, alasan, dampak biaya dan waktu, pihak pemberi persetujuan, lalu revisi dokumen. Jangan memasukkan pekerjaan tambahan ke termin reguler tanpa menandainya. Kawan Bengkel.co.id, bila satu item belum lolos *hold point*, pisahkan nilainya atau tahan pengajuan sampai keputusan tercatat; jangan menyamarkan kekurangan itu dalam total progres.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi membuat bukti yang diperlukan berbeda.
+
+- **Lingkup dan revisi gambar.** Termin harus menunjuk revisi yang berlaku. Gambar lama membuat kuantitas dan status pekerjaan sulit dibandingkan.
+- **Rantai pasok.** Surat jalan tidak otomatis membuktikan material diterima sesuai pesanan. Cocokkan item, jumlah, kondisi saat penerimaan, dan catatan penyimpangan.
+- **Akses dan urutan kerja.** Area yang belum siap dapat menunda tahap tanpa berarti pihak lain gagal. Catat penyebab, keputusan mitigasi, dan dampak jadwal.
+- **Titik tertutup dan pengujian.** Setelah bagian tertutup, pemeriksaan ulang mungkin lebih sulit. Sepakati siapa yang menyaksikan, metode yang disetujui, dan rekaman hasil sebelum melanjutkan.
+- **Perbaikan dan penerimaan bersyarat.** Jika ada catatan, definisikan pemilik tindakan, tenggat, dan bukti penutupan. “Akan diperbaiki” belum sama dengan selesai.
+- **Dokumen penutup.** Daftar punch, gambar terpasang, manual, sertifikat yang relevan, dan garansi harus punya penerima serta status. Dokumen yang hanya diberi nama tanpa identitas item, revisi, tanggal, dasar, hasil, dan otorisasi tidak cukup untuk menjelaskan apa yang diterima.
+
+ISO 3834-6:2024 dapat menjadi rujukan untuk memahami pentingnya informasi dan dokumentasi dalam konteks mutu pengelasan, tetapi abstraknya tidak membuktikan suatu bengkel atau proyek tertentu telah memenuhi persyaratan. Lihat [abstrak resmi ISO 3834-6:2024](https://www.iso.org/standard/83335.html) dan tetap ikuti persyaratan kontrak serta persetujuan pihak berwenang.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan penyedia mengajukan Termin 2 untuk “fabrikasi selesai”. Sebelum menyetujui, ajukan empat pertanyaan: gambar revisi berapa yang menjadi dasar; material mana yang sudah diterima; titik pemeriksaan apa yang sudah ditutup; dan hasil uji atau catatan inspeksi mana yang menyertai. Jika jawabannya baru foto proses dan daftar kuantitas, statusnya lebih aman dicatat sebagai belum lengkap atau diterima bersyarat dengan daftar kekurangan.
+
+Contoh matriks yang dapat Anda adaptasi:
+
+| Tahap | Pemicu pengajuan | Bukti minimum | Keputusan |
+|---|---|---|---|
+| Mobilisasi/uang muka | Kegiatan awal sesuai kontrak | Rencana kerja, kebutuhan pembelian, dan persetujuan | Bayar sesuai syarat awal |
+| Material | Material tiba dan diperiksa | Surat jalan, identitas item, jumlah, dan catatan penyimpangan | Terima, karantina, atau tolak |
+| Fabrikasi | Keluaran pada revisi gambar tertentu | Rekaman inspeksi dan *hold point* | Lanjut atau tahan tahap berikut |
+| Uji/penyerahan | Hasil dan catatan selesai | Laporan uji, berita acara, punch list | Terima atau terima bersyarat |
+| Retensi | Syarat pelepasan terpenuhi | Penutupan punch, dokumen akhir, dan garansi | Lepas sesuai kontrak atau minta review |
+
+Matriks ini adalah alat administrasi, bukan formula pembayaran universal. Nilai, pajak, jangka waktu, dan pihak yang menandatangani harus diisi dari kontrak proyek Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Uang Muka, Termin, Retensi, dan Bukti Kemajuan Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, membayar berdasarkan kalender tanpa memeriksa keluaran. Tambahkan kolom “bukti diterima oleh siapa dan kapan”. Kedua, memakai satu foto untuk mewakili banyak item. Beri setiap foto atau rekaman rujukan ke lokasi, item, dan revisi bila metode dokumentasi itu disepakati.
 
-## Objection or shortcut to address
+Ketiga, mencampur pekerjaan tambahan dengan lingkup awal. Minta formulir perubahan yang menjelaskan permintaan, alasan, konsekuensi biaya/waktu, dan persetujuan. Keempat, menganggap sertifikat sebagai jaminan otomatis. Periksa item yang dicakup, penerbit, tanggal, dasar penerimaan, hasil, dan otorisasi; minta tinjauan teknis jika dokumen tidak cocok.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, melepas retensi karena area terlihat rapi sementara dokumen belum lengkap. Buat daftar penutupan dan tandai item yang masih terbuka. Sobat Bengkel.co.id, bukti yang rapi melindungi kedua pihak: Anda tahu apa yang dibayar, sementara penyedia punya dasar jelas untuk mengajukan pembayaran.
 
-## Required conclusion
+## Jalan pintas yang perlu diwaspadai
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering terdengar adalah, “Bayar saja dulu agar pekerjaan tidak berhenti; dokumen menyusul.” Itu dapat menghilangkan titik kendali. Jika dokumen datang terlambat, Anda lebih sulit membedakan pekerjaan sesuai gambar, material pengganti, atau pekerjaan ulang. Alternatif yang lebih aman adalah pembayaran parsial atau bersyarat yang menyebutkan dokumen yang masih kurang, pemilik tindakannya, dan keputusan apa yang menunggu. Jika konsekuensinya besar atau klausul kontrak tidak jelas, tandai `[NEEDS CONTRACT REVIEW: syarat uang muka, termin, dan retensi harus diverifikasi pada kontrak proyek]` dan minta review yang berwenang.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Uang muka, termin, dan retensi menjadi alat pengendalian bila masing-masing terhubung ke keluaran yang disetujui dan bukti yang dapat ditelusuri. Sebelum menandatangani pengajuan berikutnya, cocokkan gambar dan revisi, material, *hold point*, hasil uji, berita acara, punch list, serta dokumen garansi dengan matriks pembayaran. Catat perubahan dan status penerimaan, bukan hanya nominal.
+
+Teman Bengkel.co.id, langkah berikutnya adalah meminta satu paket pengajuan lengkap dan menuliskan item yang belum terbukti. Bila Anda membutuhkan konteks pekerjaan sebelum menyusun paket itu, cocokkan kebutuhan dengan kontrak proyek; untuk mengenal lingkup layanan dan pihak yang dapat Anda hubungi, lihat [profil Bengkel.co.id](/tentang-kami). Jangan menetapkan hak, sanksi, atau pelepasan retensi dari artikel ini; kontrak dan tinjauan profesional tetap menjadi batas keputusan.

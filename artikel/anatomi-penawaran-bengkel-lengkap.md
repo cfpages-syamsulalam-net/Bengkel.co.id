@@ -2,8 +2,9 @@
 article_id: BKL-05-A01
 title: "Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan"
 slug: "anatomi-penawaran-bengkel-lengkap"
-description: "Identify survey basis, deliverable, quantity, materials, labor, access, tests, records, schedule, exclusions, payment, and warranty"
-status: outline
+description: "Panduan memeriksa dasar survei, keluaran, jumlah, material, tenaga kerja, akses, pengujian, rekaman, jadwal, pengecualian, pembayaran, dan garansi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,37 +19,13 @@ sources:
   - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan
 
-## Assignment lock
+Halo, Sobat Bengkel.co.id! Penawaran bengkel yang lengkap bukan sekadar satu angka total. Dokumen itu harus menjawab apa yang dikerjakan, berdasarkan survei atau data apa, dengan material dan jumlah berapa, siapa menanggung akses serta pengujian, kapan pekerjaan selesai, dan bukti apa yang dipakai saat serah terima. Jika unsur tersebut kabur, dua penawaran tidak benar-benar bisa dibandingkan—dan angka yang tampak murah dapat berubah setelah pekerjaan berjalan.
 
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan”
-- **Reader and situation:** Buyer requesting or reviewing an offer
-- **Reader outcome:** Identify survey basis, deliverable, quantity, materials, labor, access, tests, records, schedule, exclusions, payment, and warranty
-- **Primary intent:** Understand a complete quote
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No price list or enquiry conversion; `/kontak-kami` owns requests and BKL-05-A03 owns cost structure
-- **Final public route:** `/artikel/anatomi-penawaran-bengkel-lengkap.html`
-- **Appointed CMS date:** `2025-07-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Cara membacanya sederhana: cocokkan kebutuhan dengan lingkup pekerjaan, pisahkan yang termasuk dan tidak termasuk, lalu tetapkan bukti penerimaan sebelum menyetujui. Harga baru bermakna setelah asumsi, pengecualian, pajak, perubahan, dan tanggung jawab ditulis. Undang-Undang Perlindungan Konsumen dapat menjadi rujukan umum agar informasi transaksi tidak menyesatkan, tetapi artikel ini bukan pendapat hukum dan tidak menetapkan hak, tenggat, atau ganti rugi tertentu. [NEEDS REVIEW: persyaratan kontrak dan hukum proyek spesifik harus diperiksa oleh pihak berwenang.]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -59,117 +36,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-10, GATE-11
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-05-A02` → `/artikel/membandingkan-penawaran-bengkel-setara.html` — Cara Membandingkan Penawaran Bengkel dengan Lingkup yang Setara
-- `BKL-05-A03` → `/artikel/komponen-biaya-reparasi-dan-fabrikasi.html` — Komponen Biaya Reparasi dan Fabrikasi Tanpa Menebak Harga Pasar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal ini bukan dokumentasi proyek tertentu.
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari fungsi dan kondisi, bukan dari format tabel penyedia. Tuliskan benda atau area yang ditangani, kondisi awal yang diketahui, kuantitas atau ukuran, batas pekerjaan, antarmuka dengan pekerjaan lain, dan hasil yang akan dianggap selesai. Sertakan dasar survei: tanggal kunjungan, gambar, daftar kerusakan, ukuran lapangan, atau data yang disediakan pemilik. Bila kondisi tersembunyi belum dapat diverifikasi, nyatakan sebagai asumsi dan jelaskan cara menanganinya bila temuan berbeda.
+
+Sebagai pemesan, ajukan pertanyaan berikut sebelum meminta revisi harga:
+
+- Bagian mana yang termasuk pemeriksaan, pembongkaran, pembersihan, perbaikan, pelapisan, dan pemasangan kembali?
+- Satuan kuantitasnya apa, dan bagaimana kelebihan atau kekurangan volume diukur?
+- Hasil akhirnya diperiksa dengan kriteria apa, oleh siapa, dan pada tahap kapan?
+
+Rincian ini melindungi kedua pihak dari “scope creep”, yaitu pekerjaan melebar tanpa keputusan tertulis. Kawan Bengkel.co.id, jangan menyamakan deskripsi “perbaikan lengkap” dengan daftar deliverable; minta keluaran yang dapat diperiksa, seperti komponen terpasang, gambar revisi, laporan inspeksi, atau catatan pengukuran.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Penawaran yang setara memiliki susunan yang bisa dicocokkan baris demi baris. Setidaknya minta bagian berikut:
+
+1. **Lingkup dan deliverable.** Uraikan aktivitas, batas antarmuka, jumlah unit, serta dokumen atau benda yang diserahkan.
+2. **Material dan tenaga kerja.** Cantumkan jenis atau grade yang disepakati, consumables (bahan habis pakai), metode pengerjaan, dan pihak yang menyediakan alat maupun operator. Data produk tidak otomatis membuktikan kinerja sistem terpasang.
+3. **Akses dan logistik.** Tegaskan siapa menyiapkan area kerja, listrik, air, lifting, transportasi, izin masuk, pengamanan, serta waktu tunggu karena area belum siap.
+4. **Pengujian dan rekaman.** Sebut metode, titik pemeriksaan, alat atau laboratorium bila relevan, format laporan, dan siapa mengesahkan hasil. Jangan menulis hasil lulus sebelum tes benar-benar dilakukan.
+5. **Jadwal dan ketergantungan.** Tulis tanggal atau durasi yang disepakati, prasyarat dari pemilik, urutan kerja, serta dampak bila akses atau material terlambat.
+6. **Inklusi, eksklusi, dan asumsi.** Daftar pekerjaan yang termasuk, yang sengaja tidak termasuk, serta kondisi yang dapat memicu variasi pekerjaan.
+7. **Komersial.** Tampilkan dasar pengukuran, pajak atau biaya lain, masa berlaku penawaran, termin pembayaran, prosedur perubahan, dan riwayat revisi.
+
+Harga total tanpa rincian tersebut tidak menunjukkan apakah survei, bongkar-pasang, persiapan permukaan, transportasi, utilitas, pengujian, rework (pengerjaan ulang), atau dokumentasi sudah diperhitungkan. Untuk perubahan, simpan permintaan, alasan, konsekuensi waktu dan biaya, persetujuan, serta nomor revisi. Prinsip keterbukaan informasi transaksi dalam [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden) mendukung kebiasaan membandingkan isi penawaran, bukan menebak dari total.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta setiap bukti dengan fungsi yang jelas. Lembar data atau sertifikat material menjelaskan identitas dan karakteristik produk dari penerbitnya; itu bukan bukti bahwa pemasangan di lokasi memenuhi kebutuhan. Metode kerja menjelaskan rencana, bukan hasil. Laporan inspeksi atau tes menunjukkan pemeriksaan tertentu pada item, tanggal, metode, dan hasil yang benar-benar dicatat. Rekam pengalaman menunjukkan pekerjaan yang pernah diklaim, bukan jaminan hasil untuk kondisi Anda.
+
+Untuk serah terima, paket dokumen sebaiknya menyebut item, nomor revisi, penerbit, tanggal, dasar pemeriksaan, hasil, dan pihak yang mengesahkan. [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) dapat membantu memahami pentingnya dokumentasi mutu sebagai paket yang teridentifikasi; abstrak standar itu tidak membuktikan bahwa pekerjaan tertentu telah memenuhi seluruh persyaratan kontrak.
+
+Garansi pun harus dibaca sebagai batas tanggung jawab: cakupan, durasi, kondisi berlaku, pengecualian, jalur respons, dan bukti yang perlu disediakan. Jangan menerima frasa “garansi penuh” tanpa rincian. Bila persyaratan kontrak, persetujuan penanggung jawab, atau rekaman aktual belum tersedia, tandai [NEEDS REVIEW: dokumen penerimaan dan kewajiban garansi proyek ini belum terverifikasi].
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kirim pertanyaan yang memaksa jawaban dapat diaudit, bukan sekadar “bisa dikerjakan?”
 
-## Red flag dan biaya yang sering tersembunyi
+- Survei apa yang menjadi dasar penawaran, kapan dilakukan, dan data apa yang masih diasumsikan?
+- Siapa yang mengukur kuantitas, menyetujui material, dan memutuskan pekerjaan tambahan?
+- Apa saja yang tidak termasuk: akses, lifting, utilitas, pembersihan, pembuangan, pajak, pengujian, atau pekerjaan sipil pendukung?
+- Bagaimana penyedia memberi tahu temuan baru, menghitung dampak, dan memperoleh persetujuan sebelum berubah?
+- Rekaman apa yang diberikan saat selesai, siapa pemeriksa dari masing-masing pihak, dan berapa tahap pemeriksaannya?
+- Apa syarat garansi, pengecualian, waktu tanggap, serta bukti yang harus disimpan pemilik?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Bengkel.co.id, minta jawaban itu masuk ke penawaran atau lampiran bernomor. Percakapan lisan boleh menjadi awal, tetapi keputusan yang memengaruhi lingkup, waktu, atau pembayaran perlu jejak revisi yang dapat dirujuk.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Waspadai kata “standar”, “lengkap”, atau “sesuai kondisi” tanpa definisi. Red flag lain adalah satuan kuantitas yang tidak jelas, material tanpa identitas, jadwal tanpa prasyarat akses, tes disebut tetapi format laporan tidak ada, serta pengecualian yang baru muncul setelah pekerjaan dimulai. Ini bukan otomatis berarti penyedia tidak mampu; artinya Anda belum memiliki dasar perbandingan yang cukup.
+
+Biaya tersembunyi biasanya muncul dari mekanisme yang dapat diprediksi: area belum siap membuat tenaga menunggu, akses sempit membutuhkan alat tambahan, temuan tersembunyi memicu bongkar ulang, atau dokumen yang terlambat menahan penerimaan. Minta setiap risiko ditulis sebagai asumsi dan tindakan: siapa melakukan apa, kapan, dengan dasar pengukuran apa, dan bagaimana persetujuannya. Jangan mengisi celah dengan angka perkiraan tanpa bukti pasar lokal yang bertanggal.
+
+Shortcut yang sering dipilih adalah menyetujui penawaran terendah lalu “bereskan detail di lapangan”. Cara ini gagal karena detail yang belum disepakati menjadi sengketa tentang scope, mutu, dan waktu. Alternatif yang lebih aman ialah menyamakan brief, meminta klarifikasi tertulis, dan menandai item yang masih memerlukan keputusan atau survei lanjutan sebelum penerbitan pesanan kerja.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penawaran Bengkel yang Lengkap: Lingkup hingga Penerimaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tetapkan matriks penerimaan sebelum pekerjaan dimulai. Untuk tiap deliverable, catat kriteria, bukti yang diperiksa, pemeriksa dari kedua pihak, tanggal, status, dan tindakan koreksi. Pemeriksaan fisik, verifikasi kuantitas, tinjauan dokumen, dan pengujian dapat memiliki penanggung jawab berbeda; jangan menganggap tanda tangan pengiriman sebagai penerimaan mutu.
 
-## Objection or shortcut to address
+Pembayaran atau acceptance layak diproses ketika lingkup yang disepakati selesai, temuan terbuka memiliki keputusan, dan paket rekaman dapat ditelusuri. Jika ada kekurangan, tulis daftar punch list (daftar pekerjaan tersisa), batas waktu dan pemilik tindakannya, serta apakah bagian tersebut menghalangi penggunaan atau pembayaran menurut kontrak. Pastikan revisi akhir penawaran, pesanan, gambar, laporan tes, foto atau catatan inspeksi, berita acara, dan ketentuan garansi merujuk item yang sama.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan: satu dokumen, banyak keputusan yang bisa diperiksa
 
-## Required conclusion
+Anatomi penawaran bengkel yang lengkap mencakup dasar survei, lingkup dan keluaran, kuantitas, material, tenaga kerja, akses, pengujian, rekaman, jadwal, eksklusi, pembayaran, perubahan, dan garansi. Total harga hanyalah hasil akhir setelah semua batas itu terang.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: kirimkan brief tertulis, lihat [konstruksi dan fabrikasi logam Bengkel.co.id](/konstruksi-fabrikasi-logam.html) sebagai titik awal, lalu cocokkan setiap baris dengan matriks penerimaan dan daftar dokumen serah terima. Bila perlu, lanjutkan ke [layanan perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) untuk meminta klarifikasi layanan. Jika kondisi, standar kontrak, atau konsekuensi keselamatan belum jelas, berhenti pada asumsi yang ditandai dan minta tinjauan profesional yang berwenang. Aturan operasionalnya: jangan menyetujui angka yang tidak dapat ditelusuri kembali ke pekerjaan dan bukti penerimaannya.

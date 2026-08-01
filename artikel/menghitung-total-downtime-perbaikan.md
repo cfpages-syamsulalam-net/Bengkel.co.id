@@ -1,9 +1,10 @@
 ---
 article_id: BKL-04-A05
+writing_contract_version: "native-id-v2"
 title: "Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel"
 slug: "menghitung-total-downtime-perbaikan"
 description: "Account for diagnosis, approval, parts, mobilization, work, cure/cool, test, reinstatement, contingency, and ramp-up"
-status: outline
+status: draft
 publication_date: "2025-06-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,21 @@ sources:
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel
 
-## Assignment lock
+Halo, Kawan Bengkel.co.id! Jika teknisi berkata pekerjaan selesai dalam dua hari, itu belum tentu berarti aset hanya berhenti dua hari. Waktu diagnosis, menunggu persetujuan, mencari dan menerima komponen, mobilisasi, isolasi energi, pengerjaan, masa cure atau cool, pengujian, pemasangan kembali, dan kenaikan beban bertahap dapat membuat jendela berhenti jauh lebih panjang.
 
-- **Writer task:** Expand this file into one complete article answering: “Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel”
-- **Reader and situation:** Facility comparing repair options
-- **Reader outcome:** Account for diagnosis, approval, parts, mobilization, work, cure/cool, test, reinstatement, contingency, and ramp-up
-- **Primary intent:** Estimate lifecycle downtime
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes promised schedule owned by BKL-05-A04 and fabricated financial savings
-- **Final public route:** `/artikel/menghitung-total-downtime-perbaikan.html`
-- **Appointed CMS date:** `2025-06-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Cara yang lebih jujur adalah menjumlahkan semua fase sejak aset dikeluarkan dari operasi sampai dinyatakan kembali stabil. Secara sederhana:
 
-## Opening instructions
+`total downtime = diagnosis + keputusan/approval + parts + mobilisasi dan isolasi + pekerjaan + cure/cool + test + reinstatement + contingency + ramp-up`.
 
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Angka setiap fase harus berasal dari riwayat aset, konfirmasi pemasok, rencana kerja, dan otorisasi yang berlaku—bukan dari angka promosi atau tebakan. Bila data salah satu fase belum tersedia, tampilkan sebagai rentang atau `[NEEDS PROJECT DATA: durasi fase yang belum dikonfirmasi]`; jangan menyamarkannya sebagai waktu pengerjaan.
 
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,119 +47,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Replace simplistic “can it be welded?” answers with an evidence-led decision that accounts for function, failure consequence, material, geometry, damage mechanism, interfaces, and verification.
-- **Safe grounded facts:** A technically executable weld is not automatically an acceptable repair. A decision may require material identity, crack/damage mechanism, remaining section, loading and duty, distortion risk, heat-treatment history, OEM restrictions, code rules, access, proof/testing plan, and the consequences of failure.
-- **Limits:** No generic article may approve a repair design, remaining life, post-repair rating, or continued operation. Those require the asset owner, OEM where applicable, governing code, qualified designer/engineer, and documented verification.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05, GATE-07
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pembuatan-perbaikan-struktur-khusus.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-04-A03` → `/artikel/menilai-perbaikan-sementara.html` — Menilai Perbaikan Sementara: Batas Waktu, Monitoring, dan Stop Condition
-- `BKL-04-A04` → `/artikel/memindahkan-aset-atau-memperbaiki-di-tempat.html` — Memindahkan Aset ke Bengkel atau Memperbaiki di Tempat
-- `BKL-04-A06` → `/artikel/kapan-menunda-perbaikan-dengan-bertanggung-jawab.html` — Kapan Tidak Melakukan Apa-Apa Masih Menjadi Keputusan yang Bertanggung Jawab
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan mendefinisikan aset yang benar-benar dihitung: nomor identifikasi, fungsi, batas sistem, lokasi, dan kondisi operasi saat ini. “Mesin berhenti” dapat berarti komponen utama tidak berputar, seluruh lini tidak boleh diberi energi, atau produksi sudah bisa berjalan tetapi belum pada beban normal. Ketiganya menghasilkan titik mulai dan titik selesai yang berbeda.
+
+Tuliskan juga tahap siklus hidupnya. Aset yang baru mengalami gejala, aset yang sudah gagal, dan aset yang sedang menunggu inspeksi lanjutan tidak boleh memakai asumsi downtime yang sama. Catat apakah pekerjaan bersifat korektif, inspeksi terjadwal, penggantian, atau perbaikan sementara. Untuk pekerjaan las atau perbaikan struktur, kemampuan teknis mengerjakan sambungan tidak otomatis berarti desain tersebut layak dipakai. Identitas material, mekanisme kerusakan, beban, geometri, akses, distorsi, dan rencana verifikasi perlu dinilai oleh pihak berwenang; ringkasan lingkup ISO 15614-1 dapat menjadi titik rujuk untuk kualifikasi prosedur, bukan persetujuan desain aset tertentu ([ISO 15614-1:2017](https://www.iso.org/standard/51792.html)).
+
+Tetapkan dua cap waktu: kapan operasi benar-benar berhenti dan kapan fungsi kembali diterima. Jika tim masih menunggu data, alat ukur, atau izin, downtime tetap berjalan meskipun teknisi belum menyentuh aset.
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Downtime memanjang ketika mekanisme kerusakan belum jelas. Retak, aus, korosi, misalignment, kontaminasi, atau gangguan kontrol bisa tampak serupa dari luar, tetapi meminta langkah diagnosis dan verifikasi yang berbeda. Lingkungan, pola beban, material, dan riwayat perubahan proses ikut menentukan apakah pekerjaan dapat dilakukan sekali jalan atau memerlukan pembongkaran tambahan.
+
+Pisahkan waktu untuk menemukan penyebab dari waktu untuk memperbaikinya. Misalnya, pengukuran awal mungkin menunjukkan gejala, tetapi keputusan mengganti komponen baru dapat ditunda sampai spesifikasi dan penyebab kegagalan dikonfirmasi. Menambahkan waktu diagnosis ke dalam total membuat pilihan “perbaikan cepat” bisa dibandingkan secara adil dengan penggantian atau intervensi lain.
+
+Kawan Bengkel.co.id, jangan mengurangi fase cure atau cool hanya karena alat sudah selesai dipakai. Material atau pelapis yang perlu waktu untuk mencapai kondisi aman, pemeriksaan kebocoran, alignment, atau uji fungsi adalah bagian dari pemulihan. Waktu ini harus ditulis sebagai aktivitas tersendiri agar tidak hilang saat jadwal diringkas.
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat baseline sebelum pekerjaan dimulai. Minimal catat:
+
+- status operasi dan alasan penghentian;
+- tanggal-jam diagnosis dimulai, keputusan disetujui, material dipesan, dan pekerjaan dimulai;
+- identitas komponen, material, revisi gambar atau instruksi, serta pemasok;
+- hasil inspeksi, foto, pengukuran, gejala, dan kerusakan yang benar-benar teramati;
+- kebutuhan akses, alat khusus, tenaga kompeten, isolasi, dan izin kerja;
+- kriteria uji, hasil uji, daftar punch list, waktu reinstatement, dan otoritas pelepasan;
+- periode ramp-up: beban atau fungsi yang boleh dinaikkan, pengamatan yang diwajibkan, dan siapa yang menerima hasilnya.
+
+Untuk pekerjaan yang melibatkan mesin, penjagaan titik bahaya dan pengendalian energi bukan formalitas administratif. Rujukan OSHA tentang machine guarding menjelaskan tujuan umum perlindungan terhadap bahaya pada titik operasi dan bagian bergerak ([29 CFR 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212)). Prosedur isolasi energi, pelepasan, dan verifikasi keadaan aman juga harus mengikuti prosedur lokasi serta persyaratan yang berlaku; prinsip lockout/tagout dijelaskan dalam ([29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)). Untuk konteks Indonesia, minta penanggung jawab K3 memeriksa peraturan yang berlaku, termasuk rujukan BPK untuk Permenaker No. 38 Tahun 2016 dan Permenaker No. 11 Tahun 2026, sebelum jadwal dianggap final ([Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016); [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bandingkan pilihan dengan tabel fase yang sama, bukan hanya kolom “lama pengerjaan”. Pemantauan mungkin memiliki waktu kerja singkat tetapi menambah observasi dan pembatasan operasi. Perawatan terencana membutuhkan persiapan dan suku cadang. Perbaikan atau penguatan bisa menambah cure/cool dan pengujian. Penggantian dapat mengurangi pekerjaan di tempat tetapi menambah waktu pengadaan dan konfigurasi. Penghentian sementara tanpa intervensi menghindari pekerjaan langsung, namun tidak menghapus risiko dan kebutuhan keputusan berikutnya.
+
+Untuk tiap pilihan, minta pemilik aset mengisi: fase yang pasti, fase yang bergantung pemasok, prasyarat keselamatan, bukti penerimaan, dan kondisi yang memicu kembali ke tahap diagnosis. Gunakan rentang untuk hal yang belum dikonfirmasi. Jangan menyebut pilihan sebagai “paling cepat” bila komponen, akses, kompetensi, atau kriteria uji belum tersedia.
+
+Jika Anda perlu memahami konteks pekerjaan komponen secara lebih spesifik, gunakan panduan [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html). Untuk bentuk yang tidak standar, [pembuatan dan perbaikan struktur khusus](/pembuatan-perbaikan-struktur-khusus.html) dapat membantu merumuskan kebutuhan teknis sebelum waktu dihitung.
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritas tidak sama dengan durasi terpendek. Beri bobot pada konsekuensi kegagalan, urgensi keselamatan, akses, ketersediaan suku cadang, ketergantungan pada pemasok, biaya siklus hidup, dan otoritas yang dapat menyetujui pelepasan. Sebuah opsi dengan pekerjaan bengkel lebih lama bisa memiliki total downtime lebih rendah jika suku cadang sudah tersedia dan pengujian dapat dilakukan di lokasi; itu tetap harus dibuktikan oleh data proyek.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Susun rapat keputusan dengan satu lembar per opsi. Kolomnya: titik mulai, titik selesai, asumsi, bukti pendukung, pemilik aksi, tanggal konfirmasi, dan risiko yang belum tertutup. Tandai fase paralel hanya bila benar-benar bisa berlangsung bersamaan tanpa mengganggu isolasi, akses, atau kualitas verifikasi. Jangan menjumlahkan waktu yang sama dua kali, tetapi jangan menghapus waktu tunggu yang menahan jalur kritis.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Total Downtime, Bukan Hanya Lama Pengerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Bengkel.co.id, simpan juga skenario kontingensi: apa yang terjadi bila hasil inspeksi memperluas lingkup, komponen salah spesifikasi, uji gagal, atau ramp-up menunjukkan gejala berulang. Kontingensi bukan janji durasi; ia adalah pengingat bahwa keputusan kapasitas dan komunikasi harus memiliki pemicu yang jelas.
 
-## Objection or shortcut to address
+## Rekaman, serah terima, dan pemicu pemeriksaan ulang
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Handover harus memungkinkan orang berikutnya memahami mengapa aset dinyatakan siap. Serahkan kronologi cap waktu, work order, identitas material dan komponen, catatan isolasi, hasil inspeksi dan uji, punch list, batas operasi awal, serta nama otoritas yang menerima.
 
-## Required conclusion
+Pisahkan “selesai dikerjakan” dari “diterima untuk operasi”. Jika pemeriksaan akhir, dokumentasi, atau pengamatan ramp-up belum selesai, statusnya belum pulih penuh. Tetapkan pemicu pemeriksaan ulang: alarm atau gejala yang berulang, hasil uji di luar kriteria, perubahan beban, kebocoran, getaran, temperatur, atau temuan baru yang relevan. Nilai ambang dan interval harus berasal dari manual OEM, riwayat aset, prosedur site, atau keputusan teknis yang terdokumentasi—bukan angka universal dari artikel ini.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jangan memakai angka “lama pengerjaan” sebagai janji pulih
 
-## Draft completion checklist
+Shortcut yang sering dipilih adalah mengambil durasi tenaga kerja dari penawaran lalu mengumumkannya sebagai downtime. Cara itu gagal ketika persetujuan, pengadaan, isolasi, pengujian, atau ramp-up berada di luar lingkup bengkel. Ia juga menyulitkan pembanding karena setiap penyedia bisa memakai definisi “selesai” yang berbeda.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih aman adalah meminta jadwal berbasis fase dengan penanggung jawab dan bukti untuk setiap transisi. Minta bengkel menyatakan kapan mereka mulai menghitung waktu, aktivitas apa yang termasuk, apa yang menunggu pihak lain, dan kriteria serah terima. Bila keputusan menyentuh kelayakan desain, keselamatan, kepatuhan, atau izin operasi, hentikan klaim publik sampai pemilik aset, OEM bila relevan, dan tenaga ahli yang berwenang menyetujui dasar teknisnya.
+
+## Kesimpulan
+
+Total downtime adalah seluruh waktu dari penghentian nyata sampai fungsi diterima dan stabil, bukan sekadar jam tangan teknisi. Pecah menjadi diagnosis, keputusan, parts, mobilisasi dan isolasi, pekerjaan, cure/cool, test, reinstatement, contingency, serta ramp-up; lalu isi tiap fase dengan bukti atau tandai sebagai `[NEEDS PROJECT DATA]`.
+
+Langkah berikutnya: minta satu lembar baseline untuk aset yang dipilih, kumpulkan cap waktu dan kriteria penerimaan, lalu adakan review bersama penanggung jawab operasi, K3, dan teknis sebelum memilih opsi. Aturan operasinya sederhana: tidak ada angka downtime final sebelum titik mulai, titik selesai, bukti transisi, dan otoritas pelepasan disepakati; artikel ini tidak menggantikan persetujuan proyek atau keputusan profesional.

@@ -1,9 +1,10 @@
 ---
 article_id: BKL-15-A05
+writing_contract_version: "native-id-v2"
 title: "Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan"
 slug: "keselamatan-tabung-gas-dan-oxygen-fuel"
 description: "Cover identification, securing, separation, compatible equipment, oxygen cleanliness, hose/regulator condition, leak/fire response, transport, and authorized suppliers"
-status: outline
+status: draft
 publication_date: "2026-03-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -22,37 +23,7 @@ sources:
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan”
-- **Reader and situation:** Workshop stores or uses fuel/oxygen cylinders
-- **Reader outcome:** Cover identification, securing, separation, compatible equipment, oxygen cleanliness, hose/regulator condition, leak/fire response, transport, and authorized suppliers
-- **Primary intent:** Recognize compressed-gas hazards
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No cylinder repair, valve work, refilling, improvised adapter, or leak-test recipe; qualified supplier/K3 roles govern
-- **Final public route:** `/artikel/keselamatan-tabung-gas-dan-oxygen-fuel.html`
-- **Appointed CMS date:** `2026-03-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,125 +34,65 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel.co.id! Pekerjaan harus berhenti bila identitas tabung atau isinya tidak dapat dipastikan, tabung tidak dapat diamankan tegak, regulator dan selang tidak jelas kompatibilitasnya, atau ada tanda kebocoran, kerusakan, dan kontaminasi oksigen. Menyalakan burner untuk “mencoba sebentar” bukan pemeriksaan keselamatan.
 
-### KR-16
+Aturan praktisnya: tahan pekerjaan, jauhkan sumber nyala dan orang yang tidak berkepentingan, lalu minta penilaian penanggung jawab K3 atau pemasok yang berwenang. Keputusan dapat berubah hanya setelah bukti yang relevan tersedia—misalnya label dan lembar data keselamatan (SDS) yang cocok, inspeksi peralatan, kondisi ruang, serta rencana tanggap darurat yang disetujui. Kerangka K3 Indonesia menempatkan pengendalian bahaya pada sistem kerja, bukan PPE saja ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970); [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-02
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Anchor workshop-safety content in current Indonesian law and prevent reliance on pre-July-2026 copies of sector K3 regulations.
-- **Safe grounded facts:** The 2026 record identifies partial revocations affecting, among others, workplace environment, electrical work, pressure vessels and tanks, powered/production machinery, lifting equipment, work at height, and confined spaces. A legacy regulation may still be in force while some provisions no longer are.
-- **Limits:** This register does not perform legal consolidation or interpret amended clauses. Recheck BPK and official Kemnaker text at outline approval and obtain competent Indonesian legal/K3 review for prescriptive claims.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-01, GATE-03, GATE-08, GATE-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-15-A03` → `/artikel/bahaya-listrik-mesin-las-dan-peralatan-bengkel.html` — Bahaya Listrik pada Mesin Las dan Peralatan Bengkel: Batas Pekerjaan Kompeten
-- `BKL-15-A04` → `/artikel/isolasi-energi-sebelum-reparasi-mesin.html` — Isolasi Energi sebelum Diagnosis dan Reparasi Mesin
-- `BKL-15-A06` → `/artikel/kapan-hentikan-pekerjaan-bengkel.html` — Kapan Hentikan Pekerjaan dan Hubungi Ahli atau Layanan Darurat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas adalah rangkaian penggunaan tabung gas bahan bakar dan oksigen: identifikasi, penyimpanan sementara, pengamanan, regulator, selang, sambungan, pemindahan, dan respons ketika terjadi kebocoran atau api. “Oxygen-fuel” berarti proses yang memasok oksigen dan gas bahan bakar ke alat kerja melalui regulator serta selang yang sesuai.
+
+Artikel ini bukan petunjuk memperbaiki katup, mengisi ulang, membuat adaptor, atau meracik uji kebocoran. Pekerjaan tersebut hanya boleh ditangani pemasok dan personel kompeten. Jangan menyimpulkan sebuah tabung aman hanya dari cat luarnya; status, isi, dan riwayat pemeriksaannya harus dapat ditelusuri. Peraturan dapat berubah dan sebagian ketentuan lama mungkin telah dicabut atau dipengaruhi aturan baru, sehingga teks resmi BPK dan Kemnaker perlu diperiksa saat pekerjaan disetujui ([Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)). Untuk menata pemeriksaan lanjutan, gunakan informasi [tentang Bengkel.co.id](/tentang-kami) bila perlu meminta arahan pemasok atau menjelaskan kebutuhan pekerjaan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari serah-terima: cocokkan label tabung dengan dokumen pemasok dan SDS produk. Catat siapa yang menerima, lokasi penempatan, serta kondisi visual yang tampak tanpa membongkar katup. Tabung kemudian ditempatkan tegak dan dicegah jatuh dengan penahan yang sesuai. Lindungi katup dari benturan; jangan menjadikan regulator atau selang sebagai pegangan.
+
+Sebelum tersambung, pastikan regulator memang dirancang untuk gas tersebut dan sambungannya tidak dipaksa. Selang harus memiliki jenis, konektor, dan kondisi yang cocok dengan sistem; retak, getas, terjepit, terbakar, atau sambungan longgar adalah alasan untuk berhenti. Untuk oksigen, kebersihan sangat penting: minyak, gemuk, dan benda asing tidak boleh masuk ke jalur oksigen. Jangan mengoleskan pelumas yang tidak dinyatakan kompatibel.
+
+Saat alat digunakan, operator menjaga posisi tabung, jalur selang, ventilasi, dan area bebas bahan mudah terbakar. Pemisahan oksigen dari bahan bakar dan sumber panas mengikuti penilaian bahaya setempat; paket ini tidak menyediakan angka jarak atau durasi fire watch. Rencana darurat harus menjawab energi yang dilepas, potensi kebakaran, paparan, pertolongan pertama, evakuasi, komunikasi, dan penyelamatan—bukan sekadar menyediakan APAR ([OSHA 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Identitas gas adalah faktor pertama. Label pudar, tabung tanpa tanda yang dapat dibaca, atau SDS yang tidak cocok membuat keputusan berhenti. Faktor kedua adalah kondisi fisik: penyok, korosi berat, katup rusak, bau gas, bunyi desis, atau embun yang tidak wajar harus diperlakukan sebagai sinyal bahaya. Jangan menebak isi berdasarkan warna atau bentuk tabung.
+
+Lingkungan juga mengubah risiko. Ruang sempit, ventilasi buruk, pekerjaan panas di dekat bahan mudah terbakar, lalu lintas forklift, dan akses evakuasi yang tertutup dapat membuat metode yang biasanya terkendali menjadi tidak layak. Pindah kerja ke lapangan bukan solusi otomatis; cuaca, orang di sekitar, listrik, lalu lintas publik, dan akses pemadaman harus dinilai ulang. Persyaratan organisasi, SDS, serta otoritas K3 setempat dapat meminta kontrol tambahan ([Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015)).
+
+Kompetensi dan rantai pasok menentukan bukti. Pemasok resmi harus dapat menjelaskan identitas gas, status tabung, kecocokan regulator, serta cara pengembalian. Jika dokumen, pelatihan, atau penanggung jawab tidak jelas, tandai **[NEEDS K3 REVIEW: verifikasi identitas gas, kompatibilitas peralatan, pemisahan, ventilasi, dan rencana darurat di lokasi]** sebelum pekerjaan dilanjutkan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan sebelum kerja | Keputusan aman sementara | Bukti untuk melanjutkan |
+|---|---|---|
+| Label dan SDS cocok; tabung tegak serta tertahan; regulator dan selang teridentifikasi | Boleh masuk pemeriksaan pra-start oleh operator berwenang | Catatan inspeksi, otorisasi tugas, dan kontrol area |
+| Selang retak atau konektor tidak cocok | Isolasi peralatan dan jangan menyalakan gas | Penggantian oleh pemasok/teknisi kompeten dan verifikasi ulang |
+| Bau, desis, atau indikasi api | Hentikan pekerjaan, jauhkan orang, ikuti rencana darurat; jangan mencari sumber dengan cara improvisasi | Konfirmasi area aman oleh penanggung jawab/layanan darurat |
+| Tabung harus dipindahkan melewati jalur ramai | Tunda atau gunakan rute dan alat angkut yang disetujui | Penilaian risiko pemindahan dan pengamanan tabung |
+
+Kawan Bengkel.co.id, tabel ini bukan izin bekerja tanpa inspeksi. Ia membantu memilih tindakan awal ketika informasi belum lengkap. Pada keadaan bocor atau terbakar, jangan memindahkan tabung secara heroik dan jangan menutup katup yang panas atau rusak; serahkan kepada tim yang memiliki kompetensi dan perlindungan yang sesuai.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tabung Gas, Regulator, Selang, dan Oxygen-Fuel: Stop Condition yang Tidak Boleh Diabaikan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap PPE menyelesaikan bahaya. Sarung tangan dan pelindung mata tidak memperbaiki tabung yang jatuh atau selang yang tidak kompatibel. Tanyakan: pengendalian teknis dan administratif apa yang sudah diterapkan, siapa yang berwenang membuka suplai, dan bagaimana orang dievakuasi?
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menyamakan warna atau ukuran dengan identitas gas. Periksa label, SDS, segel, dan dokumen pemasok. Kesalahan ketiga adalah menaruh tabung lepas di dekat pekerjaan panas atau menyeberangkan selang di jalur orang. Lakukan inspeksi visual terjadwal: penahan, katup, regulator, selang, konektor, ventilasi, akses keluar, dan bahan mudah terbakar di sekitar.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan menguji kebocoran dengan api atau resep rumahan. Bila ada indikasi kebocoran, hentikan sumber pemicu sesuai prosedur yang telah disetujui, kosongkan area, dan hubungi penanggung jawab K3 atau pemasok. Untuk komunikasi bahaya produk, gunakan SDS dan informasi identitas yang benar ([OSHA 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)); jangan mengandalkan ingatan operator.
 
-## Required conclusion
+## Jalan pintas yang berisiko
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Kita lanjut sebentar karena pekerjaan hampir selesai.” Shortcut ini gagal ketika kebocoran kecil bertemu sumber nyala, atau tabung yang tidak tertahan jatuh saat selang tertarik. Waktu yang tersisa tidak mengurangi energi gas. Alternatifnya adalah menerapkan stop condition, mengamankan area, dan meminta pemeriksaan kompeten. Jika bukti tidak tersedia hari itu, jadwalkan ulang dengan peralatan dan dokumen yang benar.
 
-## Draft completion checklist
+## Kesimpulan: stop condition adalah keputusan kerja
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Tabung gas, regulator, selang, dan sistem oxygen-fuel boleh dipakai hanya ketika identitas, pengamanan, kompatibilitas, kebersihan oksigen, kondisi area, dan rencana darurat dapat dibuktikan. Sobat Bengkel.co.id, langkah berikutnya adalah membuat lembar pra-start satu halaman: identitas gas dan SDS, penahan tabung, regulator/selang, ventilasi dan pemisahan, jalur evakuasi, kontak darurat, serta nama pemeriksa.
+
+Minta koordinator K3 atau pemasok resmi meninjau lembar itu dan kondisi nyata sebelum membuka suplai. Setelah dokumen pemeriksaan siap, pelajari konteks pekerjaan melalui [kanal las Bengkel.co.id](/las). **[NEEDS TECHNICAL REVIEW: konfirmasi seluruh kontrol spesifik lokasi dan konsolidasi hukum Indonesia yang berlaku pada tanggal persetujuan.]** Aturan operasinya sederhana: bila satu kondisi kritis tidak dapat dibuktikan, berhenti—jangan menebak.

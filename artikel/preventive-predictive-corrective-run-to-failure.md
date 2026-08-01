@@ -2,8 +2,9 @@
 article_id: BKL-16-A04
 title: "Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi"
 slug: "preventive-predictive-corrective-run-to-failure"
-description: "Compare consequence, detectability, data, planned downtime, spares, skills, cost, and failure opportunity by asset class"
-status: outline
+description: "Panduan memilih strategi perawatan berdasarkan konsekuensi, gejala, data, waktu henti, dan sumber daya aset."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,44 +16,14 @@ final_route: "/artikel/preventive-predictive-corrective-run-to-failure.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi”
-- **Reader and situation:** Facility prioritizing limited resources
-- **Reader outcome:** Compare consequence, detectability, data, planned downtime, spares, skills, cost, and failure opportunity by asset class
-- **Primary intent:** Choose maintenance strategy
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve run-to-failure for safety-critical assets; qualified asset owner and BKL-15 stops govern
-- **Final public route:** `/artikel/preventive-predictive-corrective-run-to-failure.html`
-- **Appointed CMS date:** `2026-04-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,126 +34,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel.co.id! Memilih strategi perawatan bukan soal mencari satu metode yang paling modern. Mulailah dari akibat bila aset gagal, seberapa cepat gejalanya bisa ditemukan, data yang tersedia, dan apakah penghentian terencana lebih murah daripada gangguan mendadak. Aset dengan konsekuensi keselamatan atau kepatuhan tidak boleh otomatis dimasukkan ke run-to-failure.
 
-### KR-17
+Secara praktis, preventive (berdasarkan waktu atau jam operasi) cocok ketika pola aus cukup dapat diperkirakan; predictive (berdasarkan kondisi) cocok ketika ada indikator yang bisa diukur dan ditindaklanjuti; corrective dipilih saat ditemukan penyimpangan atau kerusakan; run-to-failure hanya masuk akal untuk aset berkonsekuensi rendah, mudah diganti, dan tidak menimbulkan bahaya lanjutan. Keputusan dapat berubah setelah riwayat work order, mode kegagalan, kewajiban pemeriksaan, manual OEM, dan persetujuan pemilik aset ditinjau. Jangan menetapkan interval, ambang alarm, jumlah spare, atau janji uptime tanpa data tersebut.
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-01, GATE-02, GATE-03, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-16-A02` → `/artikel/inspeksi-rutin-gejala-kerusakan.html` — Inspeksi Rutin Retak, Korosi, Longgar, Bocor, Getaran, dan Panas
-- `BKL-16-A03` → `/artikel/menentukan-interval-inspeksi-berbasis-risiko.html` — Menentukan Interval Inspeksi dari Risiko, Pemakaian, dan Lingkungan
-- `BKL-16-A05` → `/artikel/kerusakan-berulang-setelah-repair.html` — Kerusakan Berulang setelah Repair: Dari Keluhan ke Root Cause dan Pencegahan
-- `BKL-16-A06` → `/artikel/spare-kritis-consumable-dan-obsolescence.html` — Spare Kritis, Consumable, dan Obsolescence untuk Mengurangi Downtime
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat daftar aset pada tingkat yang berguna untuk keputusan: mesin lengkap, subsistem, atau komponen yang punya mode kegagalan berbeda. Catat fungsi, kondisi awal, lingkungan, pola beban, akses inspeksi, dan tahap siklus hidupnya. Unit baru mungkin memerlukan verifikasi pemasangan dan baseline; unit menua mungkin memerlukan keputusan penggantian, bukan sekadar menambah jadwal.
+
+Untuk setiap aset, jawab empat pertanyaan: apa fungsi yang hilang ketika gagal, siapa yang terdampak, apakah ada energi berbahaya, dan berapa lama pemulihan realistis berdasarkan sumber daya yang tersedia? Aturan keselamatan kerja dan pengendalian energi harus mengikuti ketentuan Indonesia yang berlaku serta prosedur lokasi; OSHA 1910.147 dapat menjadi rujukan umum tentang pengendalian energi berbahaya, bukan pengganti persyaratan setempat ([OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)).
+
+Jika jawabannya menyentuh cedera, pelepasan energi, kebakaran, containment, atau fungsi proteksi, tandai sebagai aset safety-critical. Teman Bengkel.co.id, klasifikasi ini adalah rem keputusan: run-to-failure tidak boleh disahkan hanya karena biaya preventive terlihat lebih tinggi.
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hubungkan cara aset dipakai dengan cara ia gagal. Beban berulang, kontaminasi, korosi, misalignment, pelumasan yang tidak sesuai, panas, getaran, dan perubahan proses dapat mengubah laju penurunan kinerja. Hindari menganggap umur kalender sebagai bukti umur sisa. Preventive mengurangi peluang kegagalan tertentu melalui pekerjaan terjadwal, tetapi pekerjaan terlalu sering juga dapat menambah kesalahan perakitan atau downtime.
+
+Predictive baru bernilai jika sinyal kondisi memiliki metode ukur, kualitas data, dan tindakan yang jelas. Satu pembacaan atau gejala visual bukan diagnosis lengkap. ISO 17635 menjelaskan bahwa metode, cakupan, teknik, personel, peralatan, kondisi permukaan, verifikasi, pelaporan, dan dasar penerimaan adalah bukti terpisah; abstraknya juga mengingatkan bahwa level penerimaan NDT tidak diterjemahkan satu banding satu dari ISO 5817 ([ISO 17635:2025](https://www.iso.org/standard/85705.html)).
+
+Corrective dapat bersifat terencana setelah anomali ditemukan, atau tidak terencana setelah fungsi hilang. Bedakan keduanya di sistem work order agar biaya, waktu tunggu spare, dan kesempatan perbaikan akar masalah dapat dibandingkan. Run-to-failure berarti menerima kegagalan fungsional sebagai titik intervensi yang direncanakan—bukan mengabaikan inspeksi, guarding, atau kewajiban hukum.
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tetapkan baseline sebelum membandingkan tren: identitas aset dan komponen, kondisi operasi saat ukur, instrumen, metode, lokasi pengukuran, hasil, foto atau sketsa yang relevan, serta nama pemeriksa. Catat juga failure code, penyebab yang diduga, parts identity, pekerjaan tertunda, dan hasil uji setelah pekerjaan. Personel NDT harus memiliki kompetensi yang sesuai dengan metode dan tugasnya; ISO 9712 mendeskripsikan skema kualifikasi dan sertifikasi personel NDT, bukan nilai penerimaan untuk aset tertentu ([ISO 9712:2021](https://www.iso.org/standard/75614.html)).
+
+Gunakan tabel keputusan sederhana berikut sebagai penyaring awal, bukan skor otomatis:
+
+| Pertanyaan | Jika “ya” | Arah awal |
+|---|---|---|
+| Kegagalan membahayakan orang, lingkungan, atau fungsi proteksi? | Konsekuensi tinggi | Preventive/predictive dengan otoritas kompeten; jangan run-to-failure |
+| Gejala berkembang dapat diukur sebelum fungsi hilang? | Detectability ada | Predictive, bila metode dan tindak lanjut tervalidasi |
+| Pola aus cukup konsisten dan downtime bisa dijadwalkan? | Predictability ada | Preventive berbasis waktu atau jam operasi |
+| Dampak rendah, komponen modular, dan penggantian siap? | Failure opportunity dapat diterima | Run-to-failure dengan inspeksi dasar dan spare yang disetujui |
+| Ada penyimpangan atau kerusakan yang sudah ditemukan? | Kondisi aktual berubah | Corrective terencana, lalu evaluasi akar penyebab |
+
+Kawan Bengkel.co.id, “data ada” tidak sama dengan “data siap dipakai”. Periksa konsistensi satuan, kalibrasi atau verifikasi, cakupan, dan siapa yang berwenang menetapkan penerimaan. [NEEDS SITE REVIEW: interval, ambang kondisi, remaining-life estimate, dan jumlah spare harus ditetapkan dari manual OEM, riwayat aset, konteks operasi, serta persyaratan statutory yang berlaku.]
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk aset berkonsekuensi tinggi, gabungkan pemantauan kondisi dengan preventive yang memang diwajibkan dan pemeriksaan fungsional. Tetapkan siapa yang boleh menunda pekerjaan, siapa yang mengisolasi energi, dan siapa yang mengizinkan kembali beroperasi. Permenaker yang berlaku dan persyaratan pengawasan alat harus diverifikasi pada versi terkini ([Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016); [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
+
+Untuk aset menengah, pilih kombinasi yang menyeimbangkan planned downtime, keterampilan, dan biaya siklus hidup. Inspeksi kondisi dapat memicu corrective terencana ketika akses shutdown tersedia, sementara komponen consumable mengikuti penggantian terjadwal bila pola pemakaiannya cukup stabil. Jangan mengganti komponen hanya karena jadwal tiba jika inspeksi, fungsi, dan manual tidak mendukung keputusan itu.
+
+Run-to-failure memerlukan rencana sebelum gagal: identitas spare yang benar, waktu pengadaan yang masuk akal, alat dan kompetensi, cara menangani energi, serta batas kapan operasi harus dihentikan. Strategi ini tidak cocok untuk guard, interlock, perangkat proteksi, containment, atau aset yang kegagalannya dapat memicu kerusakan berantai. OSHA 1910.212 menempatkan machine guarding sebagai perlindungan terhadap bahaya mesin; detail guard dan restart tetap harus berasal dari desain serta prosedur spesifik lokasi ([OSHA 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212)).
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun prioritas dengan urutan: konsekuensi, kemampuan mendeteksi, peluang kegagalan, waktu pemulihan, dan sumber daya. Konsekuensi keselamatan mengalahkan penghematan jangka pendek. Setelah itu bandingkan downtime terencana dengan downtime darurat, ketersediaan spare, kebutuhan keahlian, akses inspeksi, dan dampak ke aset lain. Pemilik aset yang ditunjuk harus menyetujui trade-off; teknisi tidak seharusnya mengubah klasifikasi sendirian.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Saat sumber daya terbatas, mulai dari failure mode yang paling merugikan, bukan dari mesin yang paling mudah diinspeksi. Tinjau backlog deferred defect setiap rapat perencanaan. Jika mode kegagalan berulang setelah corrective, hentikan pola “ganti bagian yang rusak” dan minta analisis penyebab, verifikasi alignment atau guarding, serta pemeriksaan independen yang relevan sebelum mengembalikan fungsi.
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Preventive, Predictive, Corrective, dan Run-to-Failure: Memilih Strategi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Rekaman, serah terima, dan pemicu pemeriksaan ulang
 
-## Objection or shortcut to address
+Satu rekaman minimum harus menjawab: aset mana, masalah apa, kondisi dan data apa yang mendasari keputusan, pekerjaan apa yang dilakukan, parts mana yang terpasang, hasil verifikasi, siapa yang menyetujui, dan kapan pemeriksaan ulang dipicu. Handover juga perlu menyebut perubahan konfigurasi, batas operasi, pekerjaan tertunda, serta dokumen OEM atau statutory yang dipakai.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Picu peninjauan kembali ketika terjadi perubahan beban atau proses, relokasi, modifikasi, kegagalan berulang, perubahan personel, hasil inspeksi yang tidak konsisten, atau perubahan peraturan. Catatan lengkap membuat strategi dapat dikoreksi tanpa mengarang tren dari ingatan.
 
-## Required conclusion
+## Jalan pintas yang sering menggoda
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah memberi satu interval preventive untuk semua mesin, lalu menyebut aset lain “biarkan sampai rusak”. Ini gagal karena konsekuensi dan detectability tiap aset berbeda; pekerjaan terjadwal bisa tidak efektif, sedangkan kegagalan yang tampak murah dapat merusak sistem atau membuka energi berbahaya. Alternatif lebih aman adalah membuat klasifikasi aset, menautkan tiap keputusan pada bukti kondisi dan fungsi, lalu meminta tinjauan pemilik aset yang kompeten. Sobat Bengkel.co.id, bila bukti belum cukup, keputusan yang jujur adalah menahan persetujuan dan menandai kebutuhan pemeriksaan—bukan mengisi angka dengan tebakan.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Preventive, predictive, corrective, dan run-to-failure bukan empat tingkat kematangan yang harus diterapkan seragam. Pilih berdasarkan konsekuensi kegagalan, kemampuan mendeteksi, kualitas data, peluang menjadwalkan downtime, spare, keterampilan, dan biaya siklus hidup. Untuk konteks tambahan tentang penanganan aset industri, lihat [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html). Run-to-failure hanya dapat dipertimbangkan untuk aset non-kritis dengan pemulihan terkendali; aset safety-critical memerlukan persetujuan dan kontrol lebih ketat.
+
+Langkah berikutnya: buat register aset, isi failure mode dan konsekuensinya, kumpulkan riwayat work order serta baseline inspeksi, lalu minta pemilik aset dan peninjau keselamatan memeriksa rancangan strategi. Anda dapat mulai dari [beranda Bengkel.co.id](/) untuk menata konteks pekerjaan, lalu kembali ke register aset sebelum rapat persetujuan. Jangan menetapkan interval, ambang alarm, keputusan restart, atau klaim kelayakan sebelum manual OEM, persyaratan Indonesia yang berlaku, prosedur tertulis, dan bukti aset-spesifik tersedia. Gunakan halaman utama Bengkel.co.id sebagai titik handover dokumen, bukan sebagai pengganti tinjauan teknis. Aturan operasinya sederhana: strategi boleh berubah mengikuti bukti, tetapi batas keselamatan tidak boleh dinegosiasikan.

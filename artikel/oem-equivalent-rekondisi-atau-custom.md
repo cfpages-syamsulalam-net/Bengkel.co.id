@@ -1,9 +1,10 @@
 ---
 article_id: BKL-06-A05
+writing_contract_version: "native-id-v2"
 title: "OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen"
 slug: "oem-equivalent-rekondisi-atau-custom"
-description: "Compare specification control, availability, warranty, reverse engineering, validation, lead time, and lifecycle risk"
-status: outline
+description: "Panduan membandingkan kendali spesifikasi, ketersediaan, garansi, validasi, waktu tunggu, dan risiko siklus hidup komponen."
+status: draft
 publication_date: "2025-08-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,43 +16,18 @@ final_route: "/artikel/oem-equivalent-rekondisi-atau-custom.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen
 
-## Assignment lock
+Halo, Kawan Bengkel.co.id! Komponen pengganti yang paling murah belum tentu pilihan paling aman, dan komponen OEM (original equipment manufacturer) pun tidak otomatis paling tepat. Keputusan yang baik dimulai dari fungsi, antarmuka, beban, lingkungan kerja, serta bukti yang dapat ditelusuri—baru kemudian membandingkan harga dan waktu datang.
 
-- **Writer task:** Expand this file into one complete article answering: “OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen”
-- **Reader and situation:** Spare is costly, unavailable, or obsolete
-- **Reader outcome:** Compare specification control, availability, warranty, reverse engineering, validation, lead time, and lifecycle risk
-- **Primary intent:** Compare part sourcing paths
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No counterfeit determination or IP opinion; BKL-04-A02 owns intervention class and BKL-09-A03 owns custom component workflow
-- **Final public route:** `/artikel/oem-equivalent-rekondisi-atau-custom.html`
-- **Appointed CMS date:** `2025-08-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih OEM ketika identitas dan spesifikasi kritis harus dipertahankan serta rantai pasoknya masih sehat; pilih equivalent ketika spesifikasi dan antarmuka dapat dibuktikan setara; pilih rekondisi ketika kerusakan dan sisa umur dapat diperiksa; pilih custom ketika part sudah obsolete atau kebutuhan proses memang unik. Jika data dimensional, material, beban, atau validasi tidak lengkap, keputusan harus ditahan untuk review teknis, bukan ditutup dengan asumsi.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,118 +38,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-## Evidence packet
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-20
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-03, GATE-04, GATE-12
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-06-A03` → `/artikel/stainless-steel-grade-kontaminasi-finishing.html` — Stainless Steel: Grade, Kontaminasi, Finishing, dan Lingkungan Pemakaian
-- `BKL-06-A04` → `/artikel/aluminium-untuk-fabrikasi.html` — Aluminium untuk Fabrikasi: Paduan, Distorsi, Korosi Galvanik, dan Finish
-- `BKL-06-A06` → `/artikel/persetujuan-substitusi-material-dan-part.html` — Persetujuan Substitusi Material dan Part: Bukti sebelum Setuju
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Istilah “setara” sering dipakai seolah-olah hanya berarti ukuran sama. Padahal, komponen harus cocok pada lebih dari satu bidang: geometri dan titik sambung, fungsi dan kapasitas, material serta perlakuan, toleransi, lingkungan, cara pemasangan, dan dukungan purnajual. Equivalent tanpa matriks pembanding hanyalah label pemasaran.
+
+Rekondisi juga bukan sinonim “bekas yang dibersihkan”. Kondisinya perlu dibuktikan melalui inspeksi, pengukuran, penggantian bagian aus, dan uji yang relevan dengan fungsi. Custom bukan jalan pintas untuk mengabaikan desain; justru gambar, spesifikasi, dan persetujuan menjadi lebih penting karena tidak ada riwayat produk massal yang bisa langsung dirujuk.
+
+Kawan Bengkel.co.id, bila kegagalan satu part dapat menghentikan proses atau mencederai orang, jangan membandingkan empat opsi hanya dari harga satuan. Bandingkan risiko siklus hidup: pemasangan, inspeksi, suku cadang berikutnya, dokumentasi, dan kemampuan menelusuri penyebab bila terjadi masalah.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+OEM adalah part dari pembuat peralatan asli atau jaringan yang ditunjuk, dengan identitas dan konfigurasi yang mengikuti sistem asal. Equivalent adalah produk atau rancangan lain yang diklaim memenuhi kebutuhan yang sama; klaim itu harus diuji terhadap data part asli dan kondisi pemakaian. Rekondisi adalah part yang dikembalikan ke kondisi kerja melalui proses pemeriksaan dan perbaikan. Custom adalah part yang dibuat atau dimodifikasi khusus untuk kebutuhan tertentu.
+
+Artikel ini membahas sumber komponen dan cara membandingkan buktinya. Ini bukan penentuan barang palsu, pendapat hak kekayaan intelektual, atau persetujuan desain akhir. Kelas intervensi dan alur pembuatan custom memerlukan review teknis tersendiri. Untuk mesin yang kritis, keputusan juga harus mengikuti manual, persetujuan pemilik, dan pemeriksaan profesional yang berwenang.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan “requirement sheet” satu halaman: fungsi part, dimensi antarmuka, beban dan siklus, temperatur atau korosi, toleransi, material yang dipersyaratkan, metode inspeksi, serta dokumen penerimaan. Tandai mana yang *critical-to-function* dan mana yang masih dapat dinegosiasikan.
+
+Lalu minta paket bukti dari tiap pemasok. Untuk OEM, bukti biasanya berupa nomor part, revisi, asal, dan garansi. Untuk equivalent, minta gambar, lembar data, pernyataan deviasi, dan dasar validasi. Untuk rekondisi, minta catatan kondisi awal, ukuran setelah perbaikan, bagian yang diganti, dan hasil uji. Untuk custom, minta gambar terkontrol, material, proses, titik inspeksi, dan rencana penerimaan.
+
+Catatan material, batch, sertifikat, consumable, dan identitas penggantian membuat fabrikasi, inspeksi, pemeliharaan, serta investigasi kegagalan lebih dapat ditelusuri. Prinsip pengendalian mutu dan dokumentasi pada pekerjaan pengelasan dibahas dalam abstrak resmi ISO 3834-6:2024; gunakan sebagai rujukan lingkup, bukan sebagai bukti bahwa part tertentu telah lulus. ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html))
+
+Setelah bukti diperiksa, lakukan *fit check* dan validasi sesuai risiko. “Lolos pasang” hanya menjawab antarmuka awal; ia tidak membuktikan umur, ketahanan lingkungan, atau keselamatan. Simpan keputusan substitusi, siapa yang menyetujui, dan batas penggunaan pada catatan aset.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kendali spesifikasi.** OEM unggul bila revisi dan konfigurasi asli harus dipertahankan. Equivalent memerlukan perbandingan baris demi baris, termasuk deviasi. Custom memberi kendali desain terbesar, tetapi juga memindahkan beban definisi dan verifikasi kepada pemesan.
+
+**Ketersediaan dan lead time.** Part obsolete dapat membuat OEM tidak realistis. Rekondisi mungkin lebih cepat, tetapi waktu inspeksi dan ketersediaan inti harus dihitung. Custom sering memiliki waktu desain, pengadaan material, pembuatan, dan pengujian yang lebih panjang daripada estimasi pengerjaan saja.
+
+**Garansi dan tanggung jawab.** Tanyakan dengan jelas apa yang dijamin: fungsi, kebocoran, dimensi, atau hanya penggantian bila rusak saat datang. Garansi tidak menggantikan penerimaan teknis dan tidak menghapus kewajiban menyimpan rekaman.
+
+**Reverse engineering.** Pengukuran part lama dapat menemukan dimensi, tetapi tidak selalu mengungkap material, perlakuan panas, porositas, atau sejarah beban. Jadikan hasil ukur sebagai input desain, bukan bukti lengkap spesifikasi asli.
+
+**Lingkungan dan keselamatan.** Coating, bahan pembersih, pelumas, atau consumable perlu diidentifikasi per produk dan batch. Lembar data keselamatan dan label membantu komunikasi bahaya; OSHA 29 CFR 1910.1200 adalah contoh aturan Amerika Serikat, bukan hukum Indonesia. Verifikasi persyaratan lokal dan instruksi produk yang berlaku. ([OSHA Hazard Communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200))
+
+**Akhir masa pakai.** Pilihan sumber dapat mengubah jenis limbah, kontaminasi, penyimpanan, transportasi, dan pihak penerima. PP No. 22 Tahun 2021 serta Permenaker No. 5 Tahun 2018 perlu dibaca bersama konteks lokasi dan karakterisasi aktual; jangan menyimpulkan semua serpihan logam otomatis aman atau dapat didaur ulang. ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021); [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018))
+
+[NEEDS GATE-03/GATE-04/GATE-12: klasifikasi limbah, persyaratan paparan kerja, dan rute pembuangan harus dikonfirmasi koordinator berdasarkan lokasi, karakterisasi, dan aturan Indonesia yang berlaku.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan persetujuan otomatis:
+
+| Kondisi | Opsi awal | Bukti minimum sebelum pesan |
+|---|---|---|
+| Part kritis masih tersedia dan revisinya jelas | OEM | Nomor part, revisi, asal, garansi, dan penerimaan |
+| OEM berhenti, tetapi antarmuka dan kebutuhan terdokumentasi | Equivalent | Matriks spesifikasi, deviasi, sampel/fit check, rencana uji |
+| Rumah part masih layak dan gejala kerusakan dapat diukur | Rekondisi | Laporan inspeksi, ukuran, bagian pengganti, batas umur, uji |
+| Tidak ada part standar atau kebutuhan khusus | Custom | Gambar terkontrol, material, proses, inspeksi, persetujuan desain |
+
+Misalnya sebuah pompa berhenti karena seal dan sleeve aus. Jika nomor part OEM tersedia dan waktu tunggu tidak mengganggu operasi, OEM mungkin paling sederhana. Jika obsolete, equivalent hanya layak setelah material seal, dimensi, media, temperatur, dan metode pemasangan dibandingkan. Rekondisi rumah pompa membutuhkan pengukuran keausan dan pemeriksaan retak. Custom menjadi pilihan terakhir bila tidak ada sumber yang dapat memberi bukti memadai—dengan validasi yang disepakati sebelum produksi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “OEM, Equivalent, Rekondisi, atau Custom: Memilih Sumber Komponen”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan dimensi luar dengan kesetaraan. Periksa datum, toleransi, kekasaran, arah putar, pola baut, dan ruang servis. Kedua, menerima sertifikat tanpa mencocokkan nomor heat atau batch dengan barang yang datang. Ketiga, menganggap hasil uji pemasok otomatis mewakili kondisi instalasi Anda. Minta metode, batas penerimaan, dan siapa yang menyaksikan.
 
-## Objection or shortcut to address
+Kesalahan keempat adalah memesan custom sebelum gambar dan revisinya disetujui. Bekukan identitas dokumen sebelum pemesinan. Kelima, menghapus rekaman setelah part terpasang. Simpan foto identitas, laporan inspeksi, deviasi, persetujuan substitusi, dan tanggal pemasangan agar penggantian berikutnya tidak dimulai dari nol.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut “yang penting bisa dipasang hari ini” dapat menggeser kegagalan ke waktu operasi. Sobat Bengkel.co.id, bila data kritis belum tersedia, langkah aman adalah menahan pemakaian, meminta pemeriksaan teknis, atau memasang kontrol sementara yang disetujui—bukan menyebut part tersebut setara tanpa batasan.
 
-## Required conclusion
+## Kesimpulan dan langkah berikutnya
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Pilih OEM untuk kesinambungan spesifikasi yang terdokumentasi; equivalent untuk substitusi yang benar-benar dibandingkan; rekondisi untuk aset yang kondisinya dapat diukur dan dipulihkan; custom untuk kebutuhan unik atau part obsolete dengan desain serta validasi yang dikendalikan. Tidak ada opsi yang menang hanya karena harga atau lead time.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: buat requirement sheet, minta paket bukti dari kandidat pemasok, isi matriks deviasi, lalu minta persetujuan teknis sebelum pembelian atau pemasangan. Jika komponen terkait mesin, Anda dapat melanjutkan ke [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) untuk menata pemeriksaan dan perbaikannya, atau mulai dari [beranda Bengkel.co.id](/) untuk menyiapkan kebutuhan teknis. Teman Bengkel.co.id, aturan kerjanya sederhana: tanpa identitas, batas penggunaan, dan bukti penerimaan yang dapat ditelusuri, keputusan sumber komponen belum selesai.

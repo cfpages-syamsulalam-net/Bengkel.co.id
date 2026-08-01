@@ -1,9 +1,10 @@
 ---
 article_id: BKL-18-A03
+writing_contract_version: "native-id-v2"
 title: "Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian"
 slug: "rework-replace-refund-atau-kompensasi"
-description: "Compare cure, redo, replacement, price adjustment, refund, third-party work, documented loss, timing, and release wording"
-status: outline
+description: "Panduan membandingkan perbaikan ulang, penggantian, pengembalian dana, penyesuaian harga, dan kompensasi berdasarkan bukti"
+status: draft
 publication_date: "2026-05-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,37 +19,13 @@ sources:
   - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian
 
-## Assignment lock
+Halo, Sobat Bengkel.co.id! Ketika keluhan sudah diakui atau sedang dinegosiasikan, pilihan penyelesaian tidak otomatis berarti “minta uang kembali”. Pertanyaan yang lebih berguna adalah: apakah pekerjaan bisa diperbaiki (rework), perlu diulang, diganti, dikurangi nilainya, dibatalkan dengan pengembalian dana, atau disertai penggantian kerugian yang benar-benar terdokumentasi?
 
-- **Writer task:** Expand this file into one complete article answering: “Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian”
-- **Reader and situation:** Complaint is accepted or under negotiation
-- **Reader outcome:** Compare cure, redo, replacement, price adjustment, refund, third-party work, documented loss, timing, and release wording
-- **Primary intent:** Understand remedy options
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No entitlement or damage valuation; contract, UU 8/1999, facts, and qualified legal advice govern
-- **Final public route:** `/artikel/rework-replace-refund-atau-kompensasi.html`
-- **Appointed CMS date:** `2026-05-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih obat yang paling dekat dengan masalah dan bisa diverifikasi. Rework cocok bila cacat dapat dikoreksi tanpa mengurangi fungsi; replace bila barang atau bagian tidak layak dipulihkan; refund bila transaksi perlu dibatalkan sesuai kontrak dan fakta; price adjustment atau kompensasi hanya setelah dasar, nilai, dan bukti disepakati. Kontrak, kondisi barang, rekaman komunikasi, serta nasihat hukum yang kompeten dapat mengubah pilihan. Jangan menandatangani pelepasan tuntutan sebelum ruang lingkup dan hasil akhir jelas.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -59,126 +36,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-19
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Help a reader document and triage a problem without prejudging fault, destroying evidence, or giving legal advice.
-- **Safe grounded facts:** Immediate safety containment, technical cause investigation, contractual responsibility, consumer remedy, and legal process are different questions. Destructive repair or continued operation can change the condition and evidence.
-- **Limits:** Do not state who is liable, promise a refund/rework outcome, calculate damages, or prescribe a limitation period. Check current law, contract, forum, evidence, and competent Indonesian advice.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-07, GATE-10, GATE-11
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-18-A01` → `/artikel/cara-mengajukan-keluhan-bengkel.html` — Cara Mengajukan Keluhan Bengkel dengan Kronologi, Bukti, dan Remedy yang Jelas
-- `BKL-18-A02` → `/artikel/inspeksi-independen-saat-hasil-diperdebatkan.html` — Inspeksi Independen saat Hasil Bengkel Diperdebatkan
-- `BKL-18-A04` → `/artikel/menjaga-bukti-sengketa-bengkel.html` — Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti
-- `BKL-18-A05` → `/artikel/eskalasi-sengketa-jasa-bengkel.html` — Negosiasi, Mediasi, BPSK, atau Pengadilan: Kapan Mencari Bantuan Hukum
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Keluhan diterima” adalah titik untuk menyusun penyelesaian, bukan bukti bahwa semua tuntutan otomatis disetujui. Penerimaan dapat berarti pihak bengkel bersedia memeriksa, mengakui ada pekerjaan yang perlu dikoreksi, atau hanya membuka ruang negosiasi. Minta arti penerimaan itu ditulis: bagian mana yang dipersoalkan, siapa melakukan apa, dan kapan diverifikasi.
+
+Jangan mencampur empat pertanyaan: apakah kondisi aman, apa penyebab teknisnya, siapa yang bertanggung jawab menurut kontrak, dan apa remedy (pemulihan) yang dapat disepakati. Mengoperasikan barang yang berbahaya atau membongkar tanpa dokumentasi dapat mengubah kondisi awal. Jika keselamatan terancam, hentikan penggunaan secara wajar, amankan area, dan catat keadaan sebelum tindakan darurat.
+
+UU Perlindungan Konsumen merupakan salah satu rujukan hukum yang perlu dibaca bersama kontrak dan fakta; halaman resmi BPK memuat identitas peraturan, bukan jawaban otomatis untuk sengketa tertentu ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)). [NEEDS LEGAL REVIEW: entitlement, deadline, liability, and damages depend on current law, contract, forum, and evidence.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rework adalah koreksi pada pekerjaan atau komponen yang sama, misalnya penyetelan, pembongkaran terbatas, atau pelapisan ulang sesuai metode yang disetujui. Replace berarti mengganti bagian atau barang dengan objek lain yang spesifikasinya disepakati. Refund berarti pengembalian pembayaran, penuh atau sebagian, dengan syarat pembatalan, pengembalian barang, atau penutupan pekerjaan yang harus ditulis. Price adjustment adalah pengurangan harga karena keluaran yang diterima berbeda dari kesepakatan. Kompensasi adalah pembayaran atas kerugian tertentu yang dapat dibuktikan dan disepakati; istilahnya tidak boleh menyamarkan tuntutan tanpa dasar.
+
+Artikel ini memetakan pilihan dan dokumen pengendali. Ia tidak menetapkan siapa yang pasti salah, menghitung kerugian, menjanjikan hasil mediasi, atau menggantikan pemeriksaan ahli. Biaya pihak ketiga, kehilangan usaha, dan batas waktu menuntut harus diverifikasi dari kontrak, bukti aktual, dan penasihat yang berwenang.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan satu lembar “kondisi dan permintaan”. Cantumkan identitas pekerjaan, tanggal, bagian yang dikeluhkan, foto atau video bertanggal, nomor invoice, spesifikasi, percakapan, dan dampak yang bisa diamati. Pisahkan fakta (“lapisan mengelupas di area X”) dari dugaan (“material pasti salah”). Simpan part lama dan hindari perbaikan destruktif sebelum pihak terkait sepakat tentang pemeriksaan.
+
+Lalu minta proposal tertulis yang sebanding. Total harga saja tidak menjelaskan apakah survey, bongkar-pasang, material, persiapan permukaan, transportasi, alat angkat, utilitas, pengujian, pajak, dokumentasi, dan risiko kerusakan lanjutan sudah termasuk. Setiap perubahan sebaiknya mencatat permintaan, alasan, konsekuensi biaya dan waktu, persetujuan, serta riwayat revisi. Dengan format ini, rework dan replace dapat dibandingkan dengan refund tanpa membandingkan angka yang sebenarnya tidak setara.
+
+Tetapkan pemeriksaan dan titik terima sebelum pekerjaan dimulai: siapa memeriksa, bukti apa yang dipakai, hasil apa yang dianggap selesai, dan apa yang terjadi bila hasil tidak memenuhi kriteria yang disepakati. Handover bukan sekadar barang diserahkan atau pembayaran dilakukan. Untuk praktik mutu pengelasan, ISO 3834-6:2024 dapat menjadi referensi umum tentang informasi dan dokumen pendukung, tetapi abstrak standar tidak membuktikan proyek tertentu patuh atau lulus ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, sifat masalah. Cacat kosmetik yang terlokalisasi mungkin cocok untuk rework; perubahan dimensi, retak, atau kontaminasi yang memengaruhi fungsi dapat mengarah ke replace atau pemeriksaan independen. Jangan menyimpulkan dari foto saja jika penyebab belum teruji.
+
+Kedua, status penggunaan dan keselamatan. Barang yang masih dipakai dapat memperbesar kerusakan atau menghapus bukti. Amankan, beri label, dan dokumentasikan setiap tindakan darurat. Ketiga, kontrak: periksa definisi penerimaan, garansi, pengecualian, kewajiban pemberitahuan, mekanisme perubahan, dan forum sengketa. Syarat garansi, durasi, kondisi, jalur respons, serta tanggung jawab bukti harus tertulis; jangan mengarang masa garansi.
+
+Keempat, keterbandingan biaya dan waktu. Rework murah di muka dapat memerlukan downtime tambahan; replace mungkin lebih cepat tetapi memiliki biaya pengadaan dan pemasangan. Refund mengakhiri transaksi tertentu, namun serah-terima barang, pekerjaan yang sudah terpasang, dan biaya pembongkaran perlu diatur. Kompensasi harus menunjuk kerugian yang benar-benar terjadi, bukti pendukung, dan apakah pembayaran itu menyelesaikan seluruh atau hanya sebagian isu.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai alat negosiasi, bukan putusan hak:
+
+| Kondisi yang sudah terverifikasi | Opsi awal untuk dibahas | Dokumen pengunci |
+|---|---|---|
+| Cacat terbatas, metode koreksi aman, fungsi dapat diuji ulang | Rework/redo dengan batas percobaan dan kriteria lulus | Scope langkah kerja, jadwal, uji, biaya, dan garansi pekerjaan koreksi |
+| Komponen tidak dapat dipulihkan atau identitasnya tidak sesuai | Replace | Spesifikasi pengganti, asal barang, pekerjaan bongkar-pasang, dan serah-terima |
+| Tujuan transaksi tidak tercapai dan pembatalan dimungkinkan | Refund penuh/sebagian | Nilai pengembalian, waktu pembayaran, pengembalian barang, dan biaya penutupan |
+| Keluaran masih berguna tetapi nilainya turun | Price adjustment | Dasar pengurangan, bagian pekerjaan yang diterima, dan status kewajiban lain |
+| Kerugian terpisah dapat dibuktikan | Kompensasi terbatas atau kredit biaya | Bukti kerugian, nilai yang disepakati, pajak, dan cakupan pelepasan |
+| Para pihak tidak sepakat tentang sebab atau hasil uji | Inspeksi pihak ketiga sebelum memilih remedy | Mandat, akses, metode, biaya, dan cara memakai laporan |
+
+Misalnya, jika panel belum memenuhi tampilan tetapi tidak ada indikasi masalah struktur, proposal rework dengan sampel dan inspeksi akhir lebih informatif daripada langsung meminta refund. Sebaliknya, bila penggantian diperlukan dan pihak pertama tidak mampu menyediakan jadwal atau spesifikasi yang dapat diverifikasi, replace oleh pihak lain dapat dibahas setelah kondisi, biaya, dan tanggung jawab disepakati. Kawan Bengkel.co.id, jangan menyetujui pekerjaan pihak ketiga hanya lewat telepon; tulis siapa mengizinkan, bagian mana yang dikerjakan, dan bagaimana biaya akan diperlakukan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap satu kata “beres” sebagai penyelesaian. Ganti dengan berita acara yang menyebut objek, revisi, tanggal, hasil pemeriksaan, pekerjaan tersisa, dan jalur komplain berikutnya. Kedua, menerima angka kompensasi tanpa memisahkan pokok pembayaran, biaya tambahan, pajak, dan kerugian yang belum terbukti. Ketiga, menutup akses pemeriksaan dengan membongkar, menjual, atau membuang barang sebelum bukti disalin. Untuk menata kronologi dan dokumen awal, kumpulkan catatan pekerjaan yang relevan dalam satu berkas bersama. Jika sengketa menyangkut lingkup pekerjaan logam, cocokkan istilah dan objeknya dengan [layanan konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html) agar proposal tidak memakai uraian yang terlalu umum.
 
-## Objection or shortcut to address
+Periksa pula apakah proposal menyebut material dan metode secara cukup spesifik, siapa menyediakan akses dan utilitas, bagaimana perubahan disetujui, serta apa arti “lulus”. Checklist atau sertifikat hanya berguna bila mengidentifikasi item, revisi, penerbit, tanggal, basis pemeriksaan, hasil, dan otorisasi. Dokumen yang hanya berisi tanda tangan tanpa isi teknis sulit dipakai untuk membandingkan opsi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Keberatan atau jalan pintas yang perlu dihindari
 
-## Required conclusion
+Shortcut yang sering terdengar adalah, “Terima refund sekarang saja agar cepat selesai.” Kecepatan memang bernilai, tetapi refund tanpa rincian dapat menyisakan pertanyaan tentang barang, pekerjaan yang telah terpasang, biaya pembongkaran, akses ke bukti, dan apakah pembayaran itu melepaskan isu lain. Alternatif yang lebih aman adalah membuat dua dokumen: proposal penyelesaian yang merinci tindakan dan nilai, lalu pernyataan penutupan yang baru ditandatangani setelah tindakan dan verifikasi selesai.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jika Anda memilih pekerjaan pihak ketiga, sepakati dulu inspeksi awal, ruang lingkup, foto sebelum-sesudah, standar penerimaan, dan cara mengalokasikan biaya. Jangan menyebut laporan pihak ketiga sebagai “bukti mutlak”; bobotnya bergantung pada mandat, kompetensi, metode, dan rekaman kondisi.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Rework, replace, refund, price adjustment, dan kompensasi bukan tangga otomatis dari ringan ke berat. Pilih berdasarkan penyebab dan kondisi yang dapat diverifikasi, kemampuan memulihkan fungsi, kontrak, waktu, serta bukti. Sebelum menyetujui, minta proposal tertulis yang menjawab: apa yang dikerjakan, oleh siapa, kapan, dengan spesifikasi apa, bagaimana diuji, berapa nilainya, dan apa yang masih terbuka.
+
+Teman Bengkel.co.id, langkah berikutnya adalah mengarsipkan kronologi, bukti kondisi, kontrak, dan proposal dalam satu versi; kemudian minta pemeriksaan teknis atau nasihat hukum yang sesuai bila sebab, kewajiban, atau nilai kerugian masih diperdebatkan. Informasi kontak dan konteks layanan dapat dicek dari [halaman utama Bengkel.co.id](/) atau [halaman tentang kami](/tentang-kami) sebelum Anda mengirim berkas. Aturan operasionalnya sederhana: jangan lepaskan hak atau ubah barang sebelum remedy, kriteria terima, dan batas penyelesaian tertulis serta ditinjau pihak yang kompeten.

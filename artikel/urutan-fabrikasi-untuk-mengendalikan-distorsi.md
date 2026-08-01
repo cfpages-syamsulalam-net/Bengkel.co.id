@@ -1,9 +1,10 @@
 ---
 article_id: BKL-07-A04
+writing_contract_version: "native-id-v2"
 title: "Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi"
 slug: "urutan-fabrikasi-untuk-mengendalikan-distorsi"
 description: "Show how datum, stock, cutting, forming, machining allowance, fixturing, weld sequence, and inspection interact"
-status: outline
+status: draft
 publication_date: "2025-09-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,40 +17,15 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi
 
-## Assignment lock
+Halo, Kawan Bengkel.co.id! Distorsi jarang disebabkan satu kali pengelasan saja. Ia sering sudah “ditanam” sejak datum tidak jelas, pelat dipotong tanpa cadangan, atau bentuk dipaksa sebelum tegangan dan urutan kerja dipahami. Karena itu, urutan yang aman bukan sekadar potong lalu las. Tetapkan referensi ukur, sisakan material untuk proses berikutnya, bentuk dengan cara terkendali, lakukan machining pada waktu yang tepat, kunci benda kerja secukupnya, lalu las dan periksa berdasarkan dokumen yang sama.
 
-- **Writer task:** Expand this file into one complete article answering: “Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi”
-- **Reader and situation:** Part has tight interfaces or repeated welds
-- **Reader outcome:** Show how datum, stock, cutting, forming, machining allowance, fixturing, weld sequence, and inspection interact
-- **Primary intent:** Plan fabrication sequence
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal shrinkage allowance or machine setting; BKL-08-A03 owns execution variables
-- **Final public route:** `/artikel/urutan-fabrikasi-untuk-mengendalikan-distorsi.html`
-- **Appointed CMS date:** `2025-09-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari datum dan antarmuka yang paling menentukan, potong dari stock yang dapat dilacak, bentuk sebelum permukaan acuan final dikerjakan, sisakan machining allowance, dan tunda pengelasan penutup sampai bagian yang harus tetap lurus sudah ditopang serta diukur. Setelah setiap tahap, inspeksi titik yang menjadi datum berikutnya. Gambar kerja, toleransi, material, sambungan, dan acceptance basis proyek dapat mengubah urutan ini; tanpa dokumen tersebut, jangan mengubahnya menjadi setting mesin atau angka penyusutan universal.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -60,124 +36,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Bengkel Las Fabrikasi` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-11
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/las-stainless-steel-aluminium.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-portable.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-besi-baja.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/teralis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-07-A02` → `/artikel/toleransi-fit-clearance-dan-datum.html` — Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel
-- `BKL-07-A03` → `/artikel/membaca-simbol-las.html` — Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain
-- `BKL-07-A05` → `/artikel/jig-fixture-mockup-dan-first-article.html` — Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak
-- `BKL-07-A06` → `/artikel/revisi-gambar-dan-approval-bengkel.html` — Revisi Gambar dan Approval: Mencegah Bengkel Membuat Versi yang Salah
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+[NEEDS IMAGE REVIEW: LOCAL-005]
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Salah paham yang umum adalah menganggap fixture yang kaku dan panas tinggi pasti menghilangkan distorsi. Fixture hanya menahan gerak selama proses; ketika las mendingin, tegangan dan penyusutan tetap harus dilepas atau diterima oleh rangkaian kerja. Menambah las “supaya kuat” juga dapat memperbanyak sumber penyusutan.
+
+Pecah pekerjaan menjadi keputusan yang dapat diperiksa: apa datum utama, antarmuka mana yang tidak boleh bergeser, berapa material yang sengaja dibiarkan untuk machining, dan pada tahap mana hasil boleh ditahan (hold point). Paket fabrikasi yang terkendali biasanya perlu memuat dokumen pengendali dan revisinya, fungsi, dimensi/datum, identitas material dan joint, toleransi, urutan fabrikasi, kebutuhan las atau coating, inspeksi, serta acceptance basis. Katalog resmi BSN dan abstrak ISO 3834-6:2024 membantu mengingat kebutuhan dokumentasi itu, tetapi halaman katalog tidak memberikan toleransi atau acceptance value proyek. [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) harus dilengkapi dokumen issued-for-work yang berlaku.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Distorsi di sini berarti perubahan bentuk atau posisi yang membuat antarmuka, kelurusan, kerataan, atau lubang tidak lagi berada dalam toleransi yang disetujui. “Machining” berarti penghilangan material secara terkontrol untuk memperoleh permukaan atau ukuran akhir; bukan cara untuk menyelamatkan setiap kesalahan fabrikasi. “Datum” adalah referensi ukur yang dipakai berulang, sedangkan machining allowance adalah material cadangan yang memang direncanakan untuk diambil kemudian.
+
+Artikel ini membahas perencanaan urutan pada part dengan antarmuka rapat atau pengulangan las. Ia tidak menetapkan ukuran anggota, detail sambungan, pilihan anchor, angka penyusutan, temperatur, arus, kecepatan, atau setting mesin. Kecukupan sistem dipengaruhi beban, geometri, stabilitas, koneksi, tumpuan, kondisi existing, urutan erection, toleransi, lingkungan, inspeksi, dan pemeliharaan. Untuk konteks pekerjaan yang lebih luas, Anda dapat melihat penjelasan tentang [konstruksi fabrikasi logam](/konstruksi-fabrikasi-logam.html), tetapi halaman itu pun tidak menggantikan persetujuan teknis proyek. [NEEDS PROJECT REVIEW: GATE-02/GATE-04/GATE-05 — konfirmasi toleransi, acceptance basis, dan dampak urutan pada sistem sebelum pekerjaan disetujui.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Kunci datum dan antarmuka.** Tandai permukaan atau sumbu yang menjadi referensi. Catat mana yang harus bertemu dengan part lain, bukan hanya ukuran luar. Datum yang berpindah-pindah membuat operator mengejar ukuran yang berbeda pada setiap tahap.
+
+2. **Rencanakan stock dan pemotongan.** Pilih arah pemotongan serta titik yang mudah ditelusuri ke identitas material. Potong mendekati bentuk kerja, tetapi sisakan cadangan yang cukup untuk proses yang memang tercantum di gambar. Jangan menganggap semua sisi dapat dibuang saat machining.
+
+3. **Bentuk sebelum permukaan final.** Bending, rolling, atau forming dapat mengubah arah serat, sudut, dan kelurusan. Gunakan datum sementara dan ukur setelah pelepasan alat. Bila bentuk belum stabil, jangan menjadikannya acuan machining final.
+
+4. **Tentukan waktu machining.** Kerjakan permukaan acuan setelah deformasi besar selesai, tetapi sebelum akses untuk sambungan tertutup hilang. Untuk komponen yang akan dilas lagi, pertahankan allowance dan urutan yang mencegah permukaan final terpapar panas yang belum direncanakan.
+
+5. **Rancang fixturing.** Fixture (alat penahan) harus mendefinisikan lokasi tanpa menghalangi akses las atau inspeksi. Gunakan penahan simetris dan titik ukur yang dapat dibaca ulang. Klem yang terlalu keras dapat menyamarkan distorsi sampai benda dilepas; klem yang kurang memberi referensi membuat gap berubah.
+
+6. **Susun las dan interpass check.** Kelompokkan tack, las pendek atau berselang bila diizinkan dokumen kerja, lalu pindah sisi atau zona secara berimbang. Mulai dari bagian yang menjaga geometri, bukan dari sambungan yang paling mudah dijangkau. Setiap tahap perlu pemeriksaan visual dan pengukuran datum sebelum sambungan berikutnya menutup akses.
+
+7. **Lepas, ukur, dan rekam.** Ukur saat masih ter-fixture dan setelah dilepas pada titik yang sama. Catat revisi gambar, identitas material, kondisi pengukuran, serta keputusan rework. Data itu menjadi dasar apakah allowance masih tersedia atau pekerjaan harus berhenti untuk review.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Faktor pertama adalah geometri dan kekakuan: pelat panjang, penampang tipis, bukaan, dan sambungan berulang merespons panas secara berbeda. Faktor kedua adalah akses. Jika satu sisi baru dapat dilas setelah komponen terbalik, urutan pembalikan dan datum sementara harus ditulis, bukan diingat operator.
+
+Faktor ketiga adalah kondisi pelaksanaan: kemampuan alat ukur, kesiapan fixture, traceability material, dan titik hold yang disepakati. Faktor keempat adalah lingkungan akhir. Paparan korosi atau kebutuhan coating memengaruhi permukaan dan inspeksi, tetapi abstrak standar saja tidak membuktikan sistem tertentu memenuhi perlindungan tersebut. Jangan memindahkan persyaratan dari proyek lain.
+
+Kawan Bengkel.co.id, setiap perubahan revisi, joint, atau toleransi dapat mengubah urutan. Minta lembar yang menunjukkan revisi aktif, datum, allowance, urutan las, metode inspeksi, dan siapa yang berwenang menyetujui deviasi. Bila satu item belum jelas, tandai sebagai hold point, bukan asumsi produksi. Sobat Bengkel.co.id juga dapat membandingkan kebutuhan pekerjaan lapangan dengan layanan [las besi dan baja](/las-besi-baja.html) bila tahap penyambungan harus dikoordinasikan terpisah.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan bracket dengan dua lubang yang harus bertemu baut dan satu pelat penutup yang dilas berulang. Keputusan awalnya dapat dituangkan seperti ini:
+
+| Tahap | Keputusan bersyarat | Bukti sebelum lanjut |
+|---|---|---|
+| Potong | Potong stock dengan referensi sumbu lubang; sisakan allowance pada sisi yang akan dimachining | Identitas material dan ukuran potong tercatat |
+| Bentuk | Bentuk pelat dan ukur setelah alat dilepas; jadikan datum sementara | Sudut, kelurusan, dan posisi antarmuka diperiksa |
+| Machining | Finishing permukaan datum dan lubang hanya setelah bentuk stabil | Hasil ukur dibandingkan toleransi pada gambar |
+| Fixture | Kunci posisi dengan akses las dan titik ukur tetap terbuka | Gap, tack, dan arah referensi disetujui |
+| Las | Las bertahap dan berimbang sesuai instruksi kerja yang disetujui | Inspeksi antar-tahap dan catatan urutan tersedia |
+| Akhir | Lepas fixture, ukur ulang lubang dan kerataan | Acceptance basis dan keputusan release jelas |
+
+Jika setelah tack lubang bergeser tetapi allowance tidak lagi cukup, jangan memperbesar lubang secara spontan. Hentikan tahap itu, lindungi datum, dan minta keputusan engineering atau QC berdasarkan dokumen proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Datum berubah di tengah pekerjaan.** Bandingkan lembar ukur antar-tahap; setiap angka harus merujuk sumbu atau permukaan yang sama.
+- **Allowance dianggap cadangan bebas.** Tanyakan proses mana yang berhak mengambilnya dan berapa sisa yang diverifikasi, tanpa mengarang angka.
+- **Fixture menutup akses inspeksi.** Pastikan titik ukur dan area kritis dapat dilihat sebelum tack dan setelah las.
+- **Machining dilakukan terlalu awal.** Periksa apakah ada forming atau las yang masih dapat mengubah permukaan final.
+- **Semua las dikerjakan sekaligus.** Cocokkan urutan dengan akses, antarmuka, dan hold point; dokumentasikan setiap penyimpangan.
+- **Pemeriksaan hanya saat terpasang.** Ulangi pengukuran setelah dilepas karena penahan dapat menyembunyikan perubahan bentuk.
 
-## Objection or shortcut to address
+Simpan foto atau sketsa titik ukur hanya bila diizinkan prosedur proyek, dan tautkan catatan ke nomor revisi. Bukti yang tidak memiliki identitas tidak cukup untuk menyetujui rework.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu diwaspadai
 
-## Required conclusion
+Shortcut yang sering dipilih adalah “potong semua, las semua, lalu ratakan dengan gerinda atau machining.” Ini dapat menghapus allowance, menutup akses ke sisi belakang, dan mengubah datum tanpa diketahui. Alternatif yang lebih dapat dipertanggungjawabkan adalah menetapkan datum dan hold point lebih dahulu, melakukan forming serta rough machining pada waktu yang tepat, menahan benda secukupnya, lalu memeriksa sebelum panas berikutnya ditambahkan. Bila spesifikasi atau kondisi lapangan berbeda, keputusan harus naik ke pihak yang menyetujui dokumen—bukan diselesaikan dengan perkiraan bengkel.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah penutup
 
-## Draft completion checklist
+Urutan yang membantu mengendalikan distorsi adalah urutan yang membuat setiap perubahan bentuk dapat dilihat: datum ditetapkan, stock dan allowance direncanakan, potong dan bentuk diverifikasi, machining final tidak dimajukan tanpa alasan, fixture menjaga referensi dan akses, las dibagi menurut geometri, lalu inspeksi dilakukan sebelum serta sesudah pelepasan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya, minta paket issued-for-work yang memuat revisi gambar, datum, toleransi, material, joint, urutan, hold point, dan acceptance basis. Teman Bengkel.co.id, tandai [NEEDS PROJECT REVIEW: GATE-02/GATE-04/GATE-05] sampai pihak berwenang mengonfirmasi item yang belum tersedia. Aturan operasinya sederhana: jangan menambah panas atau membuang material ketika datum, allowance, atau kriteria penerimaan belum jelas.

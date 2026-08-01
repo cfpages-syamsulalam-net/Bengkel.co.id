@@ -2,8 +2,9 @@
 article_id: BKL-10-A01
 title: "Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer"
 slug: "alur-pembuatan-dan-perbaikan-struktur-logam"
-description: "Map survey, load/path review, design, drawings, material, procedure, temporary work, fabrication, erection, inspection, and handover"
-status: outline
+description: "Panduan tahapan survei, peninjauan beban, desain, fabrikasi, pemasangan, pemeriksaan, dan serah terima struktur logam bersama engineer"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,43 +17,13 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/64838.html"
   - "https://www.iso.org/standard/80209.html"
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
+  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer”
-- **Reader and situation:** Buyer evaluating existing structural claims
-- **Reader outcome:** Map survey, load/path review, design, drawings, material, procedure, temporary work, fabrication, erection, inspection, and handover
-- **Primary intent:** Understand structural responsibility
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No sizing, repair detail, or fitness statement; qualified structural engineer and project requirements govern
-- **Final public route:** `/artikel/alur-pembuatan-dan-perbaikan-struktur-logam.html`
-- **Appointed CMS date:** `2025-11-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-007`
@@ -63,127 +34,95 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Pembuatan Perbaikan Furniture Logam` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel.co.id! Alur yang aman bukan dimulai dari memotong profil atau mengelas bagian yang tampak retak. Engineer perlu lebih dulu memahami kondisi lapangan, jalur beban, fungsi struktur, dan batas pekerjaan. Setelah itu barulah ia menerbitkan kriteria desain, gambar kerja, persyaratan material dan prosedur, serta titik pemeriksaan yang menjadi acuan bengkel dan tim erection.
 
-### KR-11
+Urutannya secara ringkas adalah survei dan pengumpulan data, peninjauan beban serta jalur gaya, desain atau verifikasi oleh engineer, penerbitan gambar dan spesifikasi, pengadaan material, persetujuan prosedur, perencanaan pekerjaan sementara, fabrikasi, erection, inspeksi dan pengujian, lalu serah terima dokumen. Ukuran batang yang terlihat besar tidak dengan sendirinya membuktikan struktur aman; geometri, sambungan, tumpuan, kondisi eksisting, urutan pemasangan, dan lingkungan juga menentukan sistem lengkap. Katalog resmi [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) hanya memberi identitas dan status standar, bukan izin untuk membuat ukuran atau kapasitas sendiri.
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
+![Ilustrasi Pembuatan Perbaikan Furniture Logam](/wp-content/uploads/2024/07/Pembuatan-Perbaikan-Furniture-Logam.jpg)
 
-### KR-08
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/pembuatan-perbaikan-struktur-khusus.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/furniture-logam` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-10-A02` → `/artikel/dokumen-struktur-baja.html` — Dokumen Struktur Baja: Gambar, Material, Sambungan, dan ITP
-- `BKL-10-A03` → `/artikel/hold-point-fabrikasi-dan-erection-struktur-baja.html` — Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Engineer memegang keputusan teknis yang menghubungkan kebutuhan pemilik dengan perilaku struktur. Bengkel bertanggung jawab mengerjakan paket yang sudah didefinisikan, mendokumentasikan material dan proses, serta menghentikan pekerjaan ketika kondisi lapangan menyimpang. Inspektor atau personel pengujian menyediakan bukti sesuai rencana mutu, tetapi hasil uji bukan pengganti keputusan engineer.
+
+Salah paham yang sering mahal adalah menganggap “bahan sama dan lasnya rapi” berarti perbaikan sudah memulihkan kapasitas. Perbaikan dapat mengubah kekakuan, eksentrisitas, aliran gaya, atau beban pada fondasi. Karena itu setiap perubahan pada elemen utama, sambungan, atau tumpuan memerlukan peninjauan profesional dan persetujuan dokumen. [NEEDS ENGINEER REVIEW: keputusan kecukupan struktur dan detail perbaikan harus berasal dari engineer yang ditunjuk proyek.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Struktur logam di sini mencakup rangka, balok, kolom, bracing, pelat, sambungan, angkur, dan elemen pendukung yang bekerja sebagai satu sistem. “Pembuatan” berarti menerjemahkan desain menjadi komponen yang dapat dilacak dan dipasang. “Perbaikan” berarti mengubah atau mengganti bagian setelah kondisi aktual, kerusakan, atau perubahan penggunaan ditinjau.
+
+Artikel ini tidak memberikan ukuran profil, detail sambungan, pilihan angkur, urutan pengelasan spesifik, atau pernyataan laik pakai. Beban rencana, kombinasi, stabilitas, toleransi, kebakaran, korosi, dan kriteria penerimaan harus diambil dari persyaratan proyek serta standar berlisensi. Jika data itu belum tersedia, hentikan keputusan eksekusi dan minta [NEEDS PROJECT REQUIREMENTS: dokumen beban, fungsi, lingkungan, dan kriteria penerimaan].
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### 1. Survei dan penetapan kondisi awal
+
+Tim mengumpulkan gambar yang tersedia, dimensi dan datum, posisi tumpuan, sambungan, akses, utilitas, serta catatan perubahan sebelumnya. Pada struktur eksisting, kondisi korosi, deformasi, retak, atau sambungan yang tidak dapat diakses dicatat sebagai fakta lapangan, bukan langsung dianggap penyebab. Setiap asumsi diberi penanda sehingga dapat dikonfirmasi sebelum desain.
+
+### 2. Tinjauan beban dan jalur gaya
+
+Engineer memetakan bagaimana beban bergerak dari elemen yang menerima gaya menuju sambungan, tumpuan, dan fondasi. Perubahan fungsi, tambahan peralatan, atau pembongkaran elemen dapat mengubah jalur tersebut. Bengkel sebaiknya meminta daftar antarmuka dan kondisi batas yang jelas; deskripsi lisan seperti “buat lebih kuat” belum menjadi instruksi kerja.
+
+### 3. Desain, gambar, dan paket kerja
+
+Hasil tinjauan diterjemahkan menjadi gambar, spesifikasi, daftar material, detail sambungan, toleransi, urutan pemasangan, dan batas deviasi. Paket terkontrol menyebut nomor revisi, datum, identitas joint, persyaratan las atau baut, pelapisan, titik hold point, serta pihak yang berwenang menerima perubahan. Pedoman mutu pengelasan [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) dapat menjadi rujukan umum untuk menata kebutuhan mutu, tetapi bukan pengganti prosedur proyek atau detail desain.
+
+### 4. Material dan prosedur
+
+Material datang dengan identitas yang dapat ditelusuri ke daftar yang disetujui. Sebelum produksi, prosedur pemotongan, fit-up, pengelasan, baut, pelapisan, penandaan, penyimpanan, dan penanganan disetujui sesuai paket kerja. Jika material pengganti diusulkan, jangan menganggap mutu nominalnya setara; minta evaluasi dan persetujuan engineer.
+
+### 5. Pekerjaan sementara dan fabrikasi
+
+Urutan lifting, penyangga sementara, bracing sementara, akses, serta batas beban selama fabrikasi dirancang sebelum komponen dipindahkan. Di workshop, pemeriksaan dimensi, identitas material, fit-up, dan kondisi permukaan dicatat pada titik yang disepakati. Perubahan yang memengaruhi geometri atau sambungan masuk ke proses deviasi, bukan keputusan spontan di lantai produksi. Untuk konteks umum pekerjaan [konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html), rujukan ini membantu memisahkan kegiatan fabrikasi dari otoritas desain struktur proyek.
+
+### 6. Erection dan pengendalian urutan
+
+Tim lapangan memeriksa tumpuan, datum, akses, kapasitas alat angkat yang ditetapkan proyek, serta kestabilan sementara sebelum melepas penyangga. Setiap komponen dipasang sesuai tanda dan revisi gambar. Bila kondisi aktual memaksa perubahan urutan, pekerjaan berhenti pada titik aman dan engineer menentukan tindakan; foto atau pesan singkat tidak otomatis menjadi persetujuan perubahan desain.
+
+### 7. Inspeksi, pengujian, dan serah terima
+
+Rencana mutu mengidentifikasi joint, metode dan cakupan pemeriksaan, personel, peralatan, kondisi permukaan, laporan, serta otoritas disposisi ketidaksesuaian. [ISO 5817:2023](https://www.iso.org/standard/80209.html) membahas tingkat mutu ketidaksempurnaan las, sedangkan [ISO 17635:2025](https://www.iso.org/standard/85705.html) dan [ISO 9712:2021](https://www.iso.org/standard/75614.html) berkaitan dengan pemilihan NDT dan kompetensi personel. Abstrak tersebut tidak menetapkan nilai penerimaan atau interval kalibrasi; gunakan edisi lengkap dan prosedur proyek. Paket serah terima memuat gambar as-built, catatan material, laporan inspeksi, daftar deviasi yang telah diputuskan, serta batas pemeliharaan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat kelompok kondisi perlu ditanyakan sejak awal. Pertama, penggunaan dan beban: fungsi baru, beban bergerak, getaran, atau perubahan tata letak dapat mengubah tuntutan. Kedua, lingkungan: kelembapan, atmosfer korosif, temperatur, dan paparan api memengaruhi perlindungan serta inspeksi; [ISO 12944-8:2017](https://www.iso.org/standard/64838.html) memberi kerangka informasi untuk pengembangan spesifikasi perlindungan korosi, bukan bukti bahwa suatu lapisan pasti cocok di lokasi tertentu.
+
+Ketiga, pelaksanaan: ruang gerak, akses pengelasan, cuaca, urutan lifting, toleransi, dan kebutuhan penyangga sementara dapat membuat metode awal tidak layak. Keempat, bukti: gambar lama yang tidak bertanggal, material tanpa identitas, atau laporan uji tanpa keterlacakan menurunkan tingkat keyakinan. Sobat Bengkel.co.id, perlakukan kekosongan bukti sebagai pekerjaan klarifikasi, bukan sebagai asumsi yang diam-diam dianggap benar.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pemilik menemukan lendutan pada balok dan meminta “tambahkan plat” agar cepat selesai. Keputusan pertama bukan memilih ketebalan plat, melainkan mengamankan area dan meminta engineer memeriksa beban, tumpuan, sambungan, kondisi material, serta penyebab lendutan. Jika data lengkap dan solusi diterbitkan, bengkel dapat menyiapkan prosedur, urutan penyanggaan, serta titik inspeksi. Jika data tidak lengkap, keputusan yang benar adalah menunda fabrikasi dan menandai [NEEDS FIELD DATA: pengukuran, akses sambungan, dan riwayat beban].
+
+Gunakan tabel keputusan berikut saat menilai penawaran:
+
+| Pertanyaan | Jika jawabannya “ya” | Tindakan |
+| --- | --- | --- |
+| Ada gambar berstatus revisi dan kriteria penerimaan? | Paket kerja dapat ditelusuri | Cocokkan semua aktivitas dengan revisi tersebut. |
+| Material dan joint memiliki identitas? | Bukti asal dan lokasi tersedia | Simpan catatan penerimaan dan penandaan. |
+| Perubahan lapangan disetujui tertulis? | Otoritas perubahan jelas | Lampirkan keputusan pada paket as-built. |
+| Hold point dan personel inspeksi ditetapkan? | Pemeriksaan tidak dilakukan setelah tertutup | Jadwalkan inspeksi sebelum tahap berikutnya. |
+
+Untuk pekerjaan komponen non-struktural, Anda dapat membandingkan ruang lingkupnya melalui [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html); jangan memindahkan prosedurnya ke struktur penahan beban tanpa tinjauan engineer.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai ukuran proyek lama sebagai jawaban. Periksa apakah fungsi, bentang, tumpuan, lingkungan, dan revisinya benar-benar sama. Kedua, menganggap sertifikat material menyelesaikan semua persoalan. Cocokkan identitas material dengan daftar, lokasi pemasangan, dan persyaratan sambungan. Ketiga, memanggil NDT setelah pengecatan atau penutupan sehingga permukaan dan akses tidak lagi sesuai prosedur. Tetapkan hold point sebelum pekerjaan menutup area pemeriksaan.
 
-## Objection or shortcut to address
+Keempat, mencampur laporan indikasi dengan keputusan penerimaan. Minta laporan yang menyatakan joint, metode, kondisi uji, hasil, dan siapa yang berwenang memutuskan disposisi. Kelima, melepas penyangga sementara tanpa tinjauan urutan. Pastikan engineer atau pihak berwenang proyek menyetujui tahap pelepasan. Untuk kebutuhan furniture atau elemen dekoratif, rute [las furniture logam](/las/furniture-logam) lebih tepat daripada menganggapnya sebagai struktur utama.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-## Required conclusion
+Shortcut yang paling menggoda adalah meminta workshop menyalin detail dari foto atau struktur yang “kelihatannya sama”. Foto tidak menunjukkan beban, kualitas material, kondisi tumpuan, toleransi, atau urutan erection. Salinan itu dapat menghasilkan sambungan yang tidak cocok dengan jalur gaya aktual dan menyulitkan inspeksi. Alternatif yang lebih andal adalah meminta paket gambar berstatus jelas, daftar pertanyaan lapangan, prosedur yang disetujui, dan titik penghentian ketika kondisi berbeda. Kawan Bengkel.co.id, kecepatan baru bernilai jika keputusan teknis dan buktinya tetap dapat ditelusuri.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Alur pembuatan atau perbaikan struktur logam yang melibatkan engineer bergerak dari data lapangan dan jalur beban menuju desain, gambar, material, prosedur, pekerjaan sementara, fabrikasi, erection, inspeksi, dan serah terima. Tanggung jawab tidak berhenti ketika las selesai; setiap tahap harus mengembalikan bukti kepada keputusan desain dan persyaratan proyek.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: minta engineer yang ditunjuk meninjau survei, paket gambar dan revisinya, daftar material, rencana mutu, urutan pekerjaan sementara, serta daftar dokumen serah terima. Jangan menyatakan struktur aman, laik, atau sesuai standar sebelum tinjauan dan persetujuan proyek tersedia. [NEEDS TECHNICAL REVIEW: verifikasi akhir oleh engineer dan koordinator teknis tetap diperlukan.]

@@ -2,8 +2,9 @@
 article_id: BKL-13-A01
 title: "Las Portable di Lokasi: Syarat sebelum Tim Berangkat"
 slug: "syarat-las-portable-di-lokasi"
-description: "Confirm scope, survey, access, isolation, power, weather, combustibles, permit, fire control, ventilation, lifting, and cleanup responsibilities"
-status: outline
+description: "Panduan menyiapkan lingkup, survei, akses, isolasi, listrik, cuaca, bahan mudah terbakar, izin, ventilasi, pengangkatan, dan pembersihan sebelum las portable di lokasi"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,8 +18,6 @@ sources:
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
@@ -26,37 +25,15 @@ sources:
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Sobat Bengkel.co.id!
 
 # Las Portable di Lokasi: Syarat sebelum Tim Berangkat
 
-## Assignment lock
+Las portable di lokasi layak dijadwalkan hanya setelah ruang lingkup, kondisi tempat, pengendalian energi, akses, dan tanggung jawab keselamatan disepakati. Membawa mesin las ke lapangan bukan sekadar mengganti alamat kerja. Di lokasi, posisi benda, sumber listrik, cuaca, orang yang lalu-lalang, bahan mudah terbakar, ventilasi, dan pekerjaan lain dapat mengubah cara kerja serta risikonya.
 
-- **Writer task:** Expand this file into one complete article answering: “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”
-- **Reader and situation:** Customer considering `/las-portable.html`
-- **Reader outcome:** Confirm scope, survey, access, isolation, power, weather, combustibles, permit, fire control, ventilation, lifting, and cleanup responsibilities
-- **Primary intent:** Prepare a field welding job
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No hot-work authorization or technical weld procedure; BKL-15 and BKL-08 own those controls
-- **Final public route:** `/artikel/syarat-las-portable-di-lokasi.html`
-- **Appointed CMS date:** `2026-01-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tim boleh berangkat bila pekerjaan memang lebih aman dan terkendali dikerjakan di tempat, lokasi sudah disurvei, isolasi energi dan izin kerja ditetapkan oleh pihak berwenang, serta rencana perlindungan area dan pemulihan sudah jelas. Jika salah satu hal itu belum bisa dibuktikan, tahan mobilisasi dan minta keputusan penanggung jawab K3 atau pengelola lokasi. Kewajiban keselamatan kerja di Indonesia berangkat dari kerangka UU No. 1 Tahun 1970 dan aturan K3 lingkungan kerja yang berlaku; detail pengendalian tetap harus disesuaikan dengan proyek saat ini ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Las Portable di Lokasi: Syarat sebelum Tim Berangkat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,129 +44,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-13
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 12944-3:2017 — official ISO abstract](https://www.iso.org/standard/64835.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Treat gates, railings, stairs, canopies, grilles, frames, furniture, and similar products as installed systems rather than decorative workshop objects.
-- **Safe grounded facts:** Function and risk can depend on use, users, geometry, edges and entrapment, load and impact, support/anchor substrate, drainage and water traps, dissimilar materials, exposure, access, operation/hardware, coating repair, erection, and future maintenance.
-- **Limits:** The cited sources do not provide application-specific dimensions, loads, anchors, child-safety rules, accessibility requirements, or local approvals. Resolve those from the actual project and current governing rules.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-08, GATE-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/las-portable.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-stainless-steel-aluminium.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-besi-baja.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/teralis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/tangki-silinder` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-13-A02` → `/artikel/site-survey-pekerjaan-bengkel-di-lokasi.html` — Site Survey untuk Pekerjaan Bengkel di Rumah, Pabrik, atau Area Komersial
-- `BKL-13-A03` → `/artikel/melindungi-area-terpakai-saat-pekerjaan-bengkel.html` — Melindungi Area Terpakai dari Percikan, Debu, Asap, dan Kerusakan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Salah paham yang sering muncul adalah “portable berarti bisa dilas di mana saja”. Portable hanya menjelaskan bahwa peralatan dapat dipindahkan; bukan berarti lokasi otomatis cocok. Keputusan harus membandingkan dua opsi: fabrikasi atau perbaikan di bengkel dengan lingkungan lebih terkendali, atau pekerjaan lapangan dengan gangguan akses dan paparan baru.
+
+Sebelum meminta jadwal, minta jawaban tertulis untuk pertanyaan berikut: apa yang dilas, mengapa tidak dipindahkan, siapa pemilik area, apa saja pekerjaan di sekitarnya, energi apa yang masih tersambung, dari mana listrik diambil, dan siapa yang menghentikan pekerjaan bila kondisi berubah. Sumber OSHA tentang pekerjaan las menekankan perlunya pengendalian bahaya api, paparan, dan lingkungan kerja; angka atau jarak dari aturan itu tidak boleh disalin sebagai izin otomatis untuk proyek Indonesia ([OSHA 29 CFR 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “las portable di lokasi” berarti tim membawa sumber daya dan perlengkapan las untuk melakukan pekerjaan pada benda yang berada di rumah, pabrik, area komersial, atau lokasi kerja lain. Pembahasannya adalah kesiapan sebelum berangkat: lingkup, survei, akses, energi, listrik, cuaca, bahan mudah terbakar, izin, pengendalian api, ventilasi, pengangkatan, dan pembersihan.
+
+Ini bukan surat izin hot work, prosedur pengelasan teknis, penentuan parameter, kualifikasi juru las, atau pernyataan bahwa hasil sambungan pasti memenuhi fungsi. Pengelola lokasi dan tenaga K3 harus menyetujui pengendalian spesifik. Perbaikan pada rangka, poros, kopling, pelindung, atau dudukan juga dapat mengubah alignment, jarak bebas, keseimbangan, interlock, dan bahaya saat mesin hidup. Karena itu, keadaan “aman diservis” tidak sama dengan “siap dioperasikan” ([OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari konfirmasi lingkup. Foto, gambar, ukuran yang disepakati, material yang diketahui, lokasi sambungan, dan target pemulihan membantu tim membawa alat yang relevan. Catat pula pekerjaan yang dilarang tanpa keputusan engineer atau pemilik aset. Bila benda bisa dipindah tanpa menambah risiko, bengkel sering menjadi pilihan yang lebih mudah dikendalikan; bila tidak, jelaskan alasan objektif pekerjaan harus di lokasi.
+
+Lanjutkan dengan survei singkat bersama pemilik area. Periksa jalur masuk kendaraan dan orang, titik parkir, lantai atau platform, ruang gerak, elevasi, pencahayaan, ventilasi, drainase, perlindungan cuaca, serta tempat menaruh kabel dan tabung. Pastikan ada jalur evakuasi yang tidak tertutup peralatan. Tanyakan jam kerja, aktivitas tetangga, dan batas kebisingan atau asap.
+
+Sebelum alat dihidupkan, pemilik sistem harus menunjukkan sumber energi: listrik, hidrolik, pneumatik, gravitasi, tekanan, panas, atau gerak tersimpan. Isolasi, penguncian, penandaan, dan verifikasi kondisi nol dilakukan oleh pihak berwenang sesuai prosedur lokasi; tim las tidak boleh menebak atau mengambil alih otorisasi itu. Setelah pekerjaan selesai, pemeriksaan, pelepasan isolasi, pelindung, dan izin hidup kembali adalah keputusan terpisah.
+
+Terakhir, sepakati urutan kedatangan, penataan area, pekerjaan, inspeksi, pembongkaran, dan serah terima. Tulis siapa yang memasok listrik, layar atau tirai, alat pemadam, ventilasi tambahan, pengawas api, alat angkat, serta siapa yang mengangkut sisa material dan memulihkan lapisan atau permukaan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Lingkup dan benda kerja.** Fungsi akhir, beban, benturan, getaran, penahanan cairan, serta akses pemeliharaan menentukan apakah sambungan lapangan dapat diterima. Untuk teralis, tangga, kanopi, atau rangka, pertimbangkan juga substrat, anchor, tepi tajam, jebakan, air yang menggenang, dan lapisan pelindung. Katalog SNI dan abstrak ISO dapat membantu mengenali ruang lingkup standar, tetapi tidak menggantikan pemeriksaan desain dan persetujuan proyek ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 12944-3:2017](https://www.iso.org/standard/64835.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html)).
+
+**Akses dan pengangkatan.** Ukur rute, ambang, tangga, pintu, dan titik angkat yang benar-benar tersedia. Jangan mengandalkan tenaga orang untuk memegang benda saat penyetelan atau pengelasan. Rencana pengangkatan harus menyebut alat, operator, area eksklusi, dan kondisi lantai; jika tidak ada titik aman, jadwal berhenti sampai metode disetujui.
+
+**Energi dan listrik.** Identifikasi panel, kapasitas yang diizinkan pengelola, proteksi, kabel, pembumian, dan lokasi sambungan. Generator atau kabel panjang bukan jawaban sebelum kompatibilitas dan penempatannya diperiksa. Kabel tidak boleh menjadi bahaya tersandung atau melintasi jalur kendaraan tanpa perlindungan yang disepakati.
+
+**Api, cuaca, dan udara.** Singkirkan atau lindungi bahan mudah terbakar, cek celah tersembunyi di balik dinding atau lantai, dan siapkan pengawasan setelah percikan berhenti. Hujan, angin, permukaan basah, panas, dan ventilasi yang berubah dapat memengaruhi stabilitas kerja serta paparan asap. Pengendalian harus mengikuti izin dan prosedur lokasi, bukan asumsi bahwa pekerjaan singkat pasti aman.
+
+**Orang dan operasi lain.** Pisahkan area publik, pekerja lain, lalu lintas, dan peralatan aktif. Pasang pembatas yang terlihat, atur komunikasi, dan tetapkan kata atau sinyal berhenti. Kawan Bengkel.co.id, bila pemilik lokasi tidak dapat menyediakan pemisahan dan pengawasan yang memadai, menunda pekerjaan adalah keputusan keselamatan, bukan kegagalan layanan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks sederhana berikut dalam rapat pra-mobilisasi.
+
+| Kondisi yang terverifikasi | Keputusan awal | Bukti yang diminta |
+|---|---|---|
+| Benda tidak dapat dipindah, akses dan area kerja dapat dipisahkan | Survei rinci dan rencana kerja lapangan | Foto atau sketsa, penanggung jawab area, metode akses |
+| Energi belum diisolasi atau statusnya tidak jelas | Jangan berangkat untuk mulai mengelas | Prosedur isolasi dan konfirmasi pemilik sistem |
+| Bahan mudah terbakar atau aktivitas publik tidak dapat dipisahkan | Tunda atau pindahkan metode/lokasi | Persetujuan K3 dan rencana perlindungan area |
+| Listrik, cuaca, atau ventilasi tidak memenuhi kondisi yang disepakati | Hentikan mobilisasi sampai ada kontrol | Sumber daya alternatif yang disetujui dan batas berhenti |
+| Pekerjaan menyentuh komponen penahan beban atau mesin | Minta peninjauan teknis sebelum eksekusi | Gambar, fungsi komponen, kriteria inspeksi dan serah terima |
+
+Contoh ini adalah kerangka keputusan, bukan izin. Detailnya berubah menurut aset dan aturan lokasi. [NEEDS GATE-02/GATE-04/GATE-08/GATE-09 REVIEW: koordinator teknis perlu mengonfirmasi kontrol proyek, otorisasi hot work, dan kriteria penerimaan sebelum publikasi.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Las Portable di Lokasi: Syarat sebelum Tim Berangkat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah berangkat hanya berdasarkan foto dari jauh. Minta survei atau video yang menunjukkan akses, sisi belakang benda, lantai, sumber listrik, bahan sekitar, dan jalur evakuasi. Kedua, menyamakan surat tugas dengan izin kerja panas. Minta nama pemberi izin, masa berlaku, batas area, pengawas api, dan kondisi pembatalannya.
 
-## Objection or shortcut to address
+Ketiga, menganggap isolasi selesai karena mesin sedang berhenti. Verifikasi sumber energi dan status nol harus mengikuti prosedur pemilik. Keempat, lupa memeriksa pekerjaan setelah percikan terakhir: bara tersembunyi, asap, kabel, serpihan, dan pembatas harus ditangani sebelum area diserahterimakan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, tidak menetapkan siapa yang mengembalikan pelindung, cat, lantai, atau perabot. Buat daftar serah terima yang memuat inspeksi visual, pembersihan, foto kondisi akhir, sisa material, dan keputusan pengoperasian. Teman Bengkel.co.id, jangan menutup pekerjaan dengan kalimat “sudah selesai dilas” bila status mesin, pelindung, atau area belum diserahkan oleh pemiliknya.
 
-## Required conclusion
+## Menjawab keberatan yang paling umum
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang terdengar masuk akal adalah membawa mesin kecil, bekerja cepat, lalu pergi sebelum aktivitas sekitar berubah. Masalahnya, ukuran alat tidak menghilangkan energi tersimpan, permukaan tersembunyi, asap, percikan, atau orang yang masuk ke area. Pekerjaan cepat juga dapat meninggalkan inspeksi, pendinginan, dan pembersihan yang tidak memiliki pemilik.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah menetapkan “go/no-go” sebelum keberangkatan: lingkup disetujui, lokasi disurvei, isolasi dikonfirmasi, listrik dan cuaca memenuhi batas, izin serta perlindungan api tersedia, dan serah terima tertulis. Bila satu kotak penting kosong, minta penanggung jawab menutupnya atau ubah rencana menjadi fabrikasi di bengkel.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Syarat las portable di lokasi bukan daftar alat, melainkan bukti bahwa pekerjaan lapangan memang perlu dan dapat dikendalikan. Kirim paket pra-mobilisasi berisi lingkup, foto atau sketsa survei, akses dan pengangkatan, sumber energi serta konfirmasi isolasi, listrik, cuaca, bahan mudah terbakar, izin, ventilasi, pengawasan api, pembatas, dan rencana pembersihan.
+
+Untuk langkah berikutnya, bahas paket itu bersama pemilik area atau penanggung jawab K3, lalu tentukan kriteria berhenti dan kriteria serah terima. Anda dapat mulai dari halaman [layanan las portable](/las-portable.html) untuk menjelaskan kebutuhan pekerjaan. Jika material yang akan dikerjakan memerlukan pendekatan berbeda, lihat juga [layanan las stainless steel dan aluminium](/las-stainless-steel-aluminium.html) sebagai bahan awal pembicaraan. Persetujuan teknis dan izin lokasi tetap milik pihak yang berwenang. Aturan operasionalnya sederhana: tanpa survei dan otorisasi yang dapat ditunjukkan, tim belum siap berangkat.

@@ -1,9 +1,10 @@
 ---
 article_id: BKL-06-A02
+writing_contract_version: "native-id-v2"
 title: "Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok"
 slug: "besi-dan-baja-untuk-reparasi-fabrikasi"
-description: "Explain grade, form, thickness, condition, weldability, load, corrosion, certificate, and finish questions"
-status: outline
+description: "Panduan mencocokkan mutu, bentuk, ketebalan, kondisi, kemampuan las, beban, korosi, sertifikat, dan finish besi atau baja."
+status: draft
 publication_date: "2025-08-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,7 @@ sources:
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok”
-- **Reader and situation:** Buyer reviewing `/las-besi-baja.html` claims
-- **Reader outcome:** Explain grade, form, thickness, condition, weldability, load, corrosion, certificate, and finish questions
-- **Primary intent:** Specify steel evidence
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No structural grade substitution or weld procedure; BKL-10 and BKL-08 own approvals
-- **Final public route:** `/artikel/besi-dan-baja-untuk-reparasi-fabrikasi.html`
-- **Appointed CMS date:** `2025-08-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -62,120 +33,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Las Besi Baja` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Bengkel.co.id! Baja yang tampak sama belum tentu boleh dipakai untuk pekerjaan yang sama. Untuk reparasi atau fabrikasi, keputusan yang dapat dipertanggungjawabkan membutuhkan kecocokan data: grade atau mutu, bentuk dan ukuran, ketebalan, kondisi material, kemampuan dilas, beban, lingkungan korosif, serta rekam jejak material dan bahan habis pakai. Foto permukaan atau tulisan “mild steel” saja tidak cukup.
 
-### KR-07
+Jawaban singkatnya: minta identitas material dan dimensi yang dapat ditelusuri, cocokkan dengan fungsi serta beban, lalu dokumentasikan proses las, pelapisan, dan pemeriksaan. Jika grade pengganti, prosedur pengelasan, atau klasifikasi limbah belum disetujui pihak berwenang, jangan menganggap pekerjaan otomatis aman. [NEEDS PROJECT REVIEW: grade struktural, prosedur las, dan persetujuan desain belum tersedia dalam paket ini.]
 
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
+![Ilustrasi Las Besi Baja](/wp-content/uploads/2024/07/Las-Besi-Baja.png)
 
-### KR-20
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-03, GATE-04, GATE-12
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/las-besi-baja.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-stainless-steel-aluminium.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-06-A01` → `/artikel/identitas-material-dan-part-sebelum-reparasi.html` — Identitas Material dan Part sebelum Reparasi: Jangan Mengandalkan Tampilan
-- `BKL-06-A03` → `/artikel/stainless-steel-grade-kontaminasi-finishing.html` — Stainless Steel: Grade, Kontaminasi, Finishing, dan Lingkungan Pemakaian
-- `BKL-06-A04` → `/artikel/aluminium-untuk-fabrikasi.html` — Aluminium untuk Fabrikasi: Paduan, Distorsi, Korosi Galvanik, dan Finish
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Besi dan baja” di sini berarti material yang akan dipotong, disambung, diperbaiki, atau diberi pelindung pada suatu pekerjaan. Data minimum bukan hanya nama bahan, melainkan designation/grade, bentuk (plat, pipa, profil, atau part), ukuran nominal, ketebalan, kondisi permukaan, dan identitas batch atau heat bila diwajibkan oleh proyek. Sertifikat atau laporan uji harus dapat ditautkan ke material yang benar, bukan sekadar file contoh dari pemasok.
+
+Artikel ini membantu Anda menyiapkan pertanyaan pembelian dan penerimaan barang. Ia tidak menetapkan penggantian grade struktural, menghitung kapasitas, atau memilih welding procedure. Persetujuan tersebut tetap milik penanggung jawab desain dan pemeriksa kompeten. Untuk konteks layanan, pembaca dapat melihat [lingkup pekerjaan las besi dan baja](/las-besi-baja.html), tetapi klaim di halaman layanan tetap perlu diuji terhadap dokumen pekerjaan Anda.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari fungsi part. Tanyakan beban statis atau berulang, arah gaya, sambungan yang sudah ada, temperatur, dan kemungkinan terkena air, garam, bahan kimia, atau gesekan. Dari sana, tetapkan data material yang harus dibuktikan. Bentuk dan ketebalan memengaruhi cara penanganan dan detail sambungan; kondisi seperti karat berat, cat lama, retak, atau deformasi memengaruhi inspeksi awal.
+
+Pada tahap penerimaan, cocokkan tanda pada material dengan surat jalan, daftar potong, dan sertifikat. Catat ukuran aktual, kondisi, nomor heat/batch bila tersedia, serta part yang dipakai. Untuk consumable, simpan klasifikasi filler atau elektroda, batch, kondisi penyimpanan, dan catatan pengeluaran. Pedoman mutu pengelasan menekankan pentingnya informasi yang dapat ditelusuri untuk fabrikasi, inspeksi, pemeliharaan, dan investigasi kegagalan; lihat ringkasan resmi [ISO 3834-6:2024](https://www.iso.org/standard/83335.html).
+
+Setelah material cocok, orang yang berwenang menetapkan metode dan urutan kerja. Operator memeriksa kebersihan, fit-up, dan akses; pemeriksa mencatat hasil pemeriksaan yang disepakati. Jangan membaca parameter las, kompatibilitas bahan, atau masa simpan dari label generik. Lembar data keselamatan (SDS) dan label membantu komunikasi bahaya, tetapi contoh aturan [OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200) bukan hukum Indonesia dan tidak menggantikan instruksi produk serta aturan setempat.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat kelompok faktor sering mengubah keputusan:
+
+1. **Material dan geometri.** Grade yang tidak terbukti, ketebalan berbeda, lubang bekas, atau profil yang sudah menipis membuat asumsi awal tidak berlaku. Jangan mengganti material hanya karena warna dan beratnya serupa.
+2. **Beban dan sambungan.** Beban berulang, getaran, konsentrasi tegangan, serta detail sambungan memerlukan peninjauan desain. Nilai beban dan penerimaan hasil tidak boleh diisi dari perkiraan bengkel.
+3. **Lingkungan dan finish.** Air, kabut garam, kondensasi, atau kontak dengan logam berbeda dapat mempercepat korosi. Sistem cat pelindung perlu ditetapkan berdasarkan persiapan permukaan, lingkungan, produk, dan rekam aplikasi; [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) memberi konteks umum tentang pemilihan sistem cat pelindung, bukan jaminan kinerja untuk semua lokasi.
+4. **Keselamatan dan sisa material.** Serpihan, residu cat, oli, atau bahan pembersih mengubah cara penyimpanan dan pembuangan. Identitas limbah, kontaminasi, asal kegiatan, pelabelan, pengangkutan, penerima, dan pencatatan harus diverifikasi terhadap ketentuan Indonesia yang berlaku, termasuk [PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021) dan [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018). [NEEDS LOCAL REVIEW: klasifikasi dan jalur limbah proyek belum ditentukan.]
+
+Sobat Bengkel.co.id, perhatikan antarmuka: material lama, logam pengisi, primer, topcoat, baut, dan sealant harus dilihat sebagai satu rangkaian. Bukti yang terpisah-pisah menyulitkan pemeriksaan ketika retak atau karat muncul beberapa bulan kemudian.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai percakapan penerimaan, bukan pengganti persetujuan teknis.
+
+| Temuan saat datang | Pertanyaan yang harus dijawab | Keputusan aman sementara |
+|---|---|---|
+| Grade dan heat/batch terbaca, ukuran sesuai | Apakah sertifikat tertaut ke lot ini? | Karantina sampai dokumen dicocokkan, lalu rilis oleh pemeriksa. |
+| Profil sesuai gambar tetapi permukaan berkarat | Seberapa jauh kehilangan penampang dan apakah ada retak? | Bersihkan dan inspeksi; jangan langsung mengelas atau mengecat. |
+| Material pengganti lebih mudah ditemukan | Siapa yang menyetujui substitusi dan dasar desainnya? | Hentikan substitusi sampai ada persetujuan tertulis. |
+| Cat lama tidak diketahui jenisnya | Apa bahaya dan instruksi SDS saat pengelasan/pengelupasan? | Kendalikan area dan ikuti SDS serta aturan K3 yang berlaku. |
+| Potongan tercampur oli atau residu | Bagaimana karakterisasi, label, dan penerima resminya? | Pisahkan dan minta penetapan jalur limbah; jangan mencampur. |
+
+Contoh bersyarat: jika pelat penguat akan menahan beban berulang, data ketebalan aktual dan kondisi logam induk harus tersedia sebelum detail sambungan diputuskan. Jika hanya dudukan nonstruktural, kebutuhan buktinya mungkin berbeda, tetapi fungsi dan batas bebannya tetap harus ditulis. Teman Bengkel.co.id, tuliskan asumsi itu di formulir kerja agar pembeli, pelaksana, dan pemeriksa membaca hal yang sama.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Besi dan Baja untuk Reparasi serta Fabrikasi: Data yang Harus Cocok”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan “ada sertifikat” dengan “material ini pasti cocok”. Periksa nomor dokumen, designation, dimensi, lot, tanggal, dan hubungan dokumen dengan part. Kesalahan kedua adalah memilih elektroda atau kawat dari kebiasaan. Minta klasifikasi, batch, penyimpanan, dan persetujuan prosedur yang relevan; jangan menebak kecocokan dari nama dagang.
 
-## Objection or shortcut to address
+Kesalahan ketiga ialah mengecat untuk menutupi karat tanpa mencatat persiapan permukaan. Simpan nama produk, batch, kondisi aplikasi, dan area yang dikerjakan. Kesalahan keempat adalah memasukkan semua offcut ke satu wadah. Pisahkan berdasarkan kontaminasi dan identitas sampai pihak yang berwenang menetapkan rute.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum pekerjaan dimulai, lakukan pemeriksaan singkat: (a) fungsi dan beban tertulis, (b) grade, bentuk, ukuran, dan kondisi tercatat, (c) sertifikat atau laporan tertaut, (d) consumable dan SDS tersedia, (e) prosedur las serta persetujuan desain jelas, (f) rencana inspeksi dan finish tercatat, dan (g) limbah dipisahkan serta jalurnya dikonfirmasi. Jika satu jawaban penting kosong, tandai sebagai kebutuhan review, bukan asumsi.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah “pakai stok yang ada, nanti dirapikan dengan las dan cat”. Ini dapat gagal karena grade, ketebalan, kontaminasi, dan sejarah beban tidak terlihat dari bentuk luar. Las yang tampak rapi juga tidak membuktikan sambungan memenuhi fungsi atau prosedur yang disetujui. Alternatif yang lebih andal ialah menahan material, meminta identitas dan dokumen, melakukan inspeksi kondisi, lalu memperoleh persetujuan substitusi sebelum fabrikasi berjalan. Untuk pekerjaan yang melibatkan rangkaian lebih luas, [konteks konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html) dapat membantu memetakan tahap koordinasinya.
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Besi dan baja untuk reparasi serta fabrikasi “cocok” bila data material, bentuk, ketebalan, kondisi, kemampuan las, fungsi-beban, lingkungan korosi, finish, dan rekam dokumennya saling menunjang—bukan sekadar karena tampilannya sama. Langkah berikutnya: minta daftar material, sertifikat/lot, SDS consumable dan coating, catatan inspeksi awal, serta persetujuan desain atau prosedur yang memang diwajibkan proyek. Kawan Bengkel.co.id, hentikan rilis bila identitas atau batas beban belum jelas. Penetapan grade struktural, prosedur las, dan jalur limbah tetap memerlukan review profesional dan aturan lokal yang mutakhir.

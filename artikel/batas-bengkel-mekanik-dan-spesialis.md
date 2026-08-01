@@ -2,8 +2,9 @@
 article_id: BKL-09-A06
 title: "Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis"
 slug: "batas-bengkel-mekanik-dan-spesialis"
-description: "Separate mechanical condition, electrical tests, controls, seals, alignment, balancing, and OEM service roles"
-status: outline
+writing_contract_version: "native-id-v2"
+description: "Membedakan kondisi mekanik, pengujian listrik, kontrol, seal, alignment, balancing, dan peran layanan OEM"
+status: draft
 publication_date: "2025-10-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,7 @@ sources:
   - "https://www.iso.org/standard/51792.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis”
-- **Reader and situation:** Workshop claim spans mechanical and electrical work
-- **Reader outcome:** Separate mechanical condition, electrical tests, controls, seals, alignment, balancing, and OEM service roles
-- **Primary intent:** Set referral boundaries for assemblies
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No electrical diagnosis or pump/gearbox make-model instruction; competent specialists own those scopes
-- **Final public route:** `/artikel/batas-bengkel-mekanik-dan-spesialis.html`
-- **Appointed CMS date:** `2025-10-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,124 +33,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel.co.id! Bengkel mekanik boleh menangani kondisi fisik motor, pompa, atau gearbox—misalnya dudukan, poros, kopling, rumah, pelindung, dan pelumasan—sepanjang kompetensinya memang mencakup pekerjaan itu. Batasnya muncul ketika pekerjaan menyentuh diagnosis listrik, pemrograman kontrol, seal bertekanan, balancing presisi, atau persetujuan OEM. Bagian-bagian tersebut perlu diserahkan kepada spesialis yang memiliki alat, kewenangan, dan prosedur pembuktian yang sesuai.
 
-### KR-10
+Jadi, jangan menentukan rujukan hanya dari nama komponennya. Satu unit dapat menggabungkan energi listrik, putaran, tekanan fluida, dan transmisi torsi. Kondisi “sudah diperbaiki” juga belum sama dengan “siap dioperasikan”. Perbaikan yang mengubah geometri, alignment, balance, celah, guard, atau interface dapat mengubah risiko seluruh mesin. Rujukan resmi tentang pengendalian energi berbahaya dan machine guarding mengingatkan bahwa servis aman dan produksi aman adalah dua keadaan yang harus diverifikasi terpisah ([OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212)).
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-05
-
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Replace simplistic “can it be welded?” answers with an evidence-led decision that accounts for function, failure consequence, material, geometry, damage mechanism, interfaces, and verification.
-- **Safe grounded facts:** A technically executable weld is not automatically an acceptable repair. A decision may require material identity, crack/damage mechanism, remaining section, loading and duty, distortion risk, heat-treatment history, OEM restrictions, code rules, access, proof/testing plan, and the consequences of failure.
-- **Limits:** No generic article may approve a repair design, remaining life, post-repair rating, or continued operation. Those require the asset owner, OEM where applicable, governing code, qualified designer/engineer, and documented verification.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-03, GATE-05, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-09-A04` → `/artikel/repair-welding-pada-komponen-mesin.html` — Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material
-- `BKL-09-A05` → `/artikel/uji-setelah-reparasi-mesin.html` — Uji Jalan, No-Load, dan Load Test setelah Reparasi Mesin
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Bengkel mekanik” dalam artikel ini berarti pihak yang memeriksa dan memperbaiki aspek fisik: keausan, korosi, retak yang terlihat, ulir, dudukan, poros, bearing, kopling, base, guard, dan kebocoran yang dapat dinilai dengan metode yang dikuasai. Itu bukan pengesahan desain, pengujian listrik, atau izin restart.
+
+“Spesialis” adalah pihak dengan ruang lingkup yang lebih sempit namun lebih dalam. Spesialis motor menangani winding, insulation, proteksi, dan pengujian listrik. Spesialis kontrol memeriksa panel, interlock, sensor, inverter, dan logika urutan. Spesialis pompa atau gearbox mengikuti karakteristik hidraulik, seal, rasio, backlash, serta instruksi pabrikan. OEM (original equipment manufacturer) menjadi rujukan ketika suku cadang, toleransi, metode pembongkaran, atau keputusan garansi bergantung pada data pabrikan.
+
+Batas objeknya praktis: bengkel dapat melaporkan temuan dan pekerjaan yang benar-benar dilaksanakan; spesialis menetapkan pengujian atau keputusan yang memerlukan kompetensi khusus. Jika kewenangan tidak jelas, hentikan pekerjaan pada titik aman dan minta pemilik aset menunjuk penanggung jawab teknis. [NEEDS TECHNICAL REVIEW: konfirmasi pembagian kewenangan dan persyaratan site/OEM sebelum rilis operasi.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari identitas aset dan gejala, bukan dari dugaan penyebab. Catat tag, jenis rakitan, kondisi saat ditemukan, energi yang terhubung, dan perubahan yang diminta. Sebelum membuka guard atau kopling, pemilik aset harus memastikan prosedur isolasi energinya berlaku; jangan menyalin urutan isolasi generik ke mesin tertentu. Kerangka pengendalian energi berbahaya OSHA dan ketentuan keselamatan kerja Indonesia dapat dijadikan rujukan awal, tetapi prosedur site dan manual OEM tetap harus diverifikasi ([Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
+
+Setelah inspeksi mekanik, pisahkan temuan menjadi tiga status: dapat dikerjakan bengkel, wajib diuji spesialis, atau menunggu keputusan desain/OEM. Contohnya, bengkel boleh mengganti bearing dengan identitas dan metode yang disetujui pemilik, tetapi hasil putaran, alignment, dan clearance perlu dibuktikan. Pengujian insulation motor, arah putaran, parameter proteksi, dan logika interlock bukan asumsi dari pekerjaan mekanik; minta laporan spesialis listrik dan kontrol.
+
+Untuk pompa, bedakan kebocoran pada sambungan yang terlihat dari kelayakan seal terhadap fluida, tekanan, temperatur, dan material. Untuk gearbox, bedakan suara atau backlash yang teramati dari keputusan tentang pola gigi, preload, dan pelumasan yang mengikuti manual pabrikan. Jangan menyimpulkan kapasitas atau sisa umur hanya dari putaran tangan di meja kerja.
+
+Tutup alur dengan serah-terima bukti: daftar komponen, identitas suku cadang, foto atau catatan kondisi (bila diizinkan), hasil ukur, pengujian spesialis, temuan tersisa, dan siapa yang memberi otorisasi operasi. Guard, akses, interlock, dan containment harus kembali dinilai sebagai bagian mesin, bukan aksesori belakangan ([OSHA 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi segera menggeser pekerjaan dari mekanik ke spesialis:
+
+- **Jenis energi dan konsekuensi gagal.** Motor berdaya besar, pompa fluida berbahaya, atau gearbox pada penggerak kritis memerlukan rencana isolasi, pengujian, dan rilis yang lebih ketat.
+- **Antarmuka yang berubah.** Pengelasan pada base, perubahan lubang baut, penggantian kopling, atau machining ulang dapat mengubah alignment, balance, kekuatan, dan celah. Kemampuan mengelas tidak otomatis berarti desain reparasinya dapat diterima. Keputusan repair perlu material, mekanisme kerusakan, beban, risiko distorsi, aturan yang berlaku, dan rencana verifikasi; ISO 15614-1 hanya menjadi rujukan kualifikasi prosedur, bukan persetujuan untuk aset tertentu ([ISO 15614-1:2017](https://www.iso.org/standard/51792.html)).
+- **Data yang hilang.** Tanpa nameplate, drawing, manual, riwayat vibrasi, atau kode komponen, bengkel harus menandai asumsi dan meminta data, bukan memilih substitusi berdasarkan bentuk yang mirip.
+- **Lingkungan operasi.** Debu, area basah, temperatur tinggi, bahan kimia, dan tuntutan sanitasi dapat mengubah pilihan seal, guard, pelumas, kabel, dan metode uji.
+- **Kewajiban dan rekaman.** Pemeriksaan berkala, catatan pekerjaan, defek tertunda, dan otorisasi restart mengikuti konteks aset serta ketentuan yang berlaku. Tidak ada interval universal yang aman untuk semua motor, pompa, atau gearbox.
+
+Kawan Bengkel.co.id, tanyakan selalu: “Bukti apa yang akan membuat pemilik aset menerima pekerjaan ini?” Pertanyaan itu memindahkan diskusi dari siapa yang paling cepat mengerjakan ke siapa yang kompeten membuktikan hasilnya.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan awal | Peran bengkel mekanik | Rujukan yang diperlukan sebelum operasi |
+|---|---|---|
+| Bearing aus, rumah dan poros masih perlu diukur | Bongkar, ukur, ganti sesuai identitas yang disetujui, lalu dokumentasikan | Pemeriksaan alignment dan uji putar/operasi oleh pihak yang ditunjuk site |
+| Motor trip setelah bearing diganti | Verifikasi pemasangan mekanik dan kondisi kopling tanpa membuka panel bertegangan | Spesialis listrik memeriksa insulation, proteksi, dan penyebab trip |
+| Pompa bocor di area seal | Identifikasi lokasi, kondisi permukaan, dan pemasangan mekanik | Spesialis pompa/OEM memastikan kompatibilitas seal dan batas operasi |
+| Gearbox berisik setelah pekerjaan kopling | Periksa alignment, baut, pelumasan yang terlihat, dan benda asing | Spesialis gearbox/OEM menilai backlash, pola gigi, dan keputusan beban |
+| Base retak dan perlu ditambah material | Hentikan pada inspeksi, kumpulkan data dan ukuran kerusakan | Pemilik aset, engineer berkualifikasi, dan bila perlu OEM menetapkan desain serta verifikasi repair |
+
+Contoh di atas adalah pembagian tanggung jawab, bukan izin kerja. Teman Bengkel.co.id, bila satu gejala dapat berasal dari dua domain—misalnya vibrasi akibat misalignment atau masalah listrik—minta kedua pihak menyepakati data yang sama sebelum komponen dikirim bolak-balik.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Motor, Pompa, dan Gearbox: Menentukan Batas Bengkel Mekanik dan Spesialis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap “bisa dibongkar” sama dengan “boleh dinyatakan baik”. Periksa apakah laporan membedakan temuan visual, hasil ukur, pengujian, dan keputusan penerimaan. Kedua, mengganti komponen dengan ukuran serupa tanpa memeriksa material, rating, seal, atau instruksi OEM. Minta nomor part, sumber, dan dasar kesesuaiannya.
 
-## Objection or shortcut to address
+Ketiga, menjalankan uji coba tanpa memastikan guard, interlock, dan seluruh sumber energi sudah dinilai. Minta penanggung jawab site menandatangani kondisi rilis sesuai prosedurnya; jangan membuat ambang restart sendiri. Keempat, menutup pekerjaan tanpa mencatat defek yang sengaja ditunda. Defek tertunda harus memiliki pemilik, batas waktu, dan keputusan risiko dari pihak berwenang.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Gunakan daftar singkat sebelum serah-terima: identitas aset cocok, scope mekanik jelas, pengujian spesialis terlampir, perubahan interface dicatat, guard dan akses diperiksa, manual/OEM dirujuk, defek tersisa disetujui, dan otorisasi operasi ditandatangani. Jika satu kotak tidak terjawab, statusnya belum siap rilis.
 
-## Required conclusion
+## Jalan pintas yang sebaiknya ditolak
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering terdengar adalah, “Bengkel sudah biasa menangani semua, jadi sekalian saja tes listrik dan nyalakan.” Ini gagal karena keahlian mekanik tidak membuktikan isolasi, insulation, proteksi, kontrol, containment, atau respons sistem terhadap beban. Satu hasil positif—misalnya poros berputar bebas—tidak menghapus risiko pada domain lain.
 
-## Draft completion checklist
+Alternatif yang lebih dapat diaudit adalah membuat batas scope tertulis sebelum pekerjaan: apa yang diperiksa bengkel, apa yang diserahkan ke spesialis, data apa yang harus dikembalikan, dan siapa yang berwenang merilis operasi. Bila data awal atau aturan site belum tersedia, tandai [NEEDS PROJECT/OEM EVIDENCE] dan tahan kesimpulan teknis sampai bukti diterima. Untuk menyiapkan pertanyaan dan mengirim temuan, gunakan [beranda Bengkel.co.id](/) lalu lihat [layanan perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html).
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Bengkel mekanik menentukan kondisi fisik yang memang dapat diukur dan dikerjakannya. Diagnosis listrik, kontrol, seal dan karakteristik pompa, balancing presisi, keputusan gearbox, serta batas OEM harus dimiliki spesialis terkait. Pemisahan ini bukan formalitas: perubahan kecil pada alignment, balance, guard, atau interface dapat mengubah perilaku mesin dan konsekuensi kegagalannya.
+
+Langkah berikutnya, Sobat Bengkel.co.id, adalah meminta paket serah-terima yang memuat identitas aset, scope, hasil ukur, laporan spesialis, defek tertunda, dan otorisasi rilis. Operasikan hanya setelah penanggung jawab site dan pihak kompeten menyatakan bukti cukup untuk mesin tertentu. Aturan kerjanya sederhana: kerjakan yang dapat Anda buktikan, dan rujuk sisanya sebelum energi disambungkan kembali.

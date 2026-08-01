@@ -2,8 +2,9 @@
 article_id: BKL-11-A02
 title: "Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki"
 slug: "isolasi-dan-gas-testing-sebelum-pekerjaan-tangki"
-description: "Explain contents history, positive isolation, drain/vent, cleaning plan, atmospheric test, re-test, permit, attendant, and emergency readiness"
-status: outline
+description: "Panduan prasyarat isolasi, pengosongan, pembersihan, dan uji atmosfer sebelum pekerjaan tangki"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,46 +17,22 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/146211/permenaker-no-37-tahun-2016"
   - "https://peraturan.bpk.go.id/Details/282464/permenaker-no-11-tahun-2023"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://www.iso.org/standard/80209.html"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki
 
-## Assignment lock
+Halo, Kawan Bengkel.co.id! Pekerjaan pada tangki tidak aman hanya karena pompa sudah dimatikan atau isi terlihat kosong. Keputusan mulai inspeksi atau repair baru layak dipertimbangkan setelah riwayat isi dipahami, semua sumber energi dan aliran diisolasi, sisa cairan atau gas dikendalikan, rencana pembersihan disetujui, lalu atmosfer diuji dengan alat yang sesuai. Hasil uji harus berlaku untuk kondisi dan waktu pekerjaan, bukan sekadar angka lama di selembar formulir.
 
-- **Writer task:** Expand this file into one complete article answering: “Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki”
-- **Reader and situation:** Owner preparing inspection or repair
-- **Reader outcome:** Explain contents history, positive isolation, drain/vent, cleaning plan, atmospheric test, re-test, permit, attendant, and emergency readiness
-- **Primary intent:** Understand prerequisites for tank work
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No gas-free certificate, entry, cleaning chemistry, or hot-work authorization from this guide; BKL-15 owns permits
-- **Final public route:** `/artikel/isolasi-dan-gas-testing-sebelum-pekerjaan-tangki.html`
-- **Appointed CMS date:** `2025-12-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutan praktisnya adalah: kumpulkan data isi dan konfigurasi, lakukan isolasi positif yang dapat diverifikasi, drain dan vent ke tujuan yang aman, bersihkan sesuai bahaya residu, uji atmosfer dari titik yang mewakili, siapkan izin kerja, pengawas/attendant, komunikasi, serta rencana darurat. Perubahan proses, pembukaan line lain, jeda kerja, atau hasil uji yang meragukan mengharuskan penilaian ulang dan re-test. Nilai ambang, metode sampling, dan keputusan boleh masuk atau tidak bukan angka yang dapat saya tetapkan dari artikel ini; penanggung jawab K3, engineering, inspeksi, dan aturan proyek harus mengesahkannya.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,125 +43,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-12
-
-- **Original sources:** [Permenaker No. 37 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146211/permenaker-no-37-tahun-2016), [Permenaker No. 11 Tahun 2023 tentang K3 di Ruang Terbatas — BPK](https://peraturan.bpk.go.id/Details/282464/permenaker-no-11-tahun-2023), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Create a hard boundary around pressure-retaining equipment, hazardous contents, entry, isolation, testing, and statutory inspection.
-- **Safe grounded facts:** Vessel/tank/pipe work can combine stored pressure, hazardous residue, oxygen deficiency/enrichment, toxic or flammable atmosphere, engulfment, hot work, line breaking, cleaning, ventilation, rescue, and integrity risks. “Empty” or “not operating” does not by itself establish a safe condition.
-- **Limits:** Do not provide a pressure design, repair detail, entry procedure, gas-test value, test pressure, interval, or return-to-service approval from this file. Specialist owner, K3, engineering, inspection, and legal review are required.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/las/tangki-silinder` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-11-A01` → `/artikel/pipa-tangki-silinder-dan-risiko-tinggi.html` — Pipa, Tangki, dan Silinder: Kapan Fabrikasi Biasa Menjadi Pekerjaan Berisiko Tinggi
-- `BKL-11-A03` → `/artikel/kebocoran-pipa-temuan-diagnosis-repair-uji.html` — Kebocoran Pipa: Bedakan Temuan, Diagnosis, Metode Repair, dan Uji Ulang
-- `BKL-11-A04` → `/artikel/repair-atau-ganti-bagian-tangki.html` — Repair atau Ganti Bagian Tangki: Data yang Harus Disetujui Engineer
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Isolasi” berarti memutus hubungan tangki dengan sumber bahaya—misalnya aliran masuk, tekanan, listrik, panas, atau agitator—dan membuktikan bahwa pemutusan itu tidak mudah berubah tanpa kendali. Menutup satu valve dari jarak jauh belum tentu merupakan isolasi positif. Blind atau pemisahan fisik mungkin diperlukan, tetapi pilihan dan titiknya bergantung pada gambar proses, inventaris energi, serta persetujuan teknis.
+
+“Pengosongan” bukan sekadar membuka drain. Cairan dapat tertahan di low point, kantong pipa, atau ruang mati; uap dapat tetap berada di atas permukaan atau terserap dalam endapan. “Pembersihan” adalah rencana untuk menghilangkan residu dengan cara yang kompatibel dengan bahaya dan material tangki. “Gas testing” adalah pengukuran atmosfer untuk keputusan kerja tertentu, oleh petugas berwenang dengan alat yang statusnya diketahui.
+
+Artikel ini membahas prasyarat sebelum pekerjaan tangki dimulai. Ia tidak menerbitkan gas-free certificate, tidak memberi prosedur masuk ruang terbatas, tidak memilih bahan kimia pembersih, dan tidak mengesahkan hot work. Untuk gambaran jenis objek dan faktor risikonya, Anda dapat melihat [ruang lingkup tangki dan silinder](/las/tangki-silinder); keputusan proyek tetap memerlukan review profesional.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari **contents history**: apa yang pernah disimpan, konsentrasi atau campurannya, suhu dan tekanan operasi, kapan terakhir dikuras, serta bahan pembersih atau proses yang pernah masuk. Jika riwayat tidak lengkap, perlakukan ketidakpastian itu sebagai bahaya yang belum terselesaikan, bukan sebagai bukti bahwa tangki netral.
+
+Berikut alur kendali yang dapat dipakai dalam rapat persiapan:
+
+1. **Identifikasi batas pekerjaan.** Tandai manhole, nozzle, drain, vent, instrument, jalur transfer, dan sumber energi. Tentukan apakah pekerjaan berupa inspeksi luar, pembukaan, pemotongan, pengelasan, atau pekerjaan lain; tiap aktivitas dapat mengubah persyaratan.
+2. **Isolasi dan lockout.** Tutup, kunci, dan label sumber yang relevan. Verifikasi di lapangan—misalnya dengan mencoba kondisi nol energi melalui metode yang disetujui—dan dokumentasikan siapa yang memasang serta melepas pengaman. Jangan mengandalkan komunikasi lisan antar-shift.
+3. **Drain dan vent terkendali.** Arahkan cairan, uap, dan gas ke sistem penerima yang aman. Pastikan tidak ada pelepasan yang menimbulkan paparan, pencemaran, atau tekanan balik. Setelah drain, periksa titik rendah dan ruang yang mungkin menyimpan sisa.
+4. **Pembersihan berbasis bahaya.** Rencana harus menyebut residu yang ditargetkan, metode, alat pelindung, ventilasi, pengelolaan limbah, dan kriteria selesai. Bahan kimia tidak boleh dipilih hanya karena mudah tersedia; kompatibilitas dan reaksi dengan residu atau logam perlu persetujuan ahli.
+5. **Uji atmosfer.** Petugas yang kompeten menggunakan instrumen teridentifikasi dan terawat untuk parameter yang relevan dengan riwayat isi serta pekerjaan. Sampling harus mewakili bagian atas, tengah, bawah, dan area yang sulit tercapai bila konfigurasi mengharuskannya. Catat waktu, lokasi, kondisi ventilasi, hasil, dan keputusan.
+6. **Izin dan kesiapan tim.** Izin kerja, penanggung jawab area, attendant di luar bila ada potensi ruang terbatas, jalur komunikasi, pengendalian akses, serta rencana penyelamatan harus jelas sebelum alat kerja dibawa masuk. Ini bukan pengganti prosedur ruang terbatas atau izin hot work.
+
+Kerangka keselamatan kerja Indonesia menempatkan pengendalian bahaya, pemeriksaan, dan tanggung jawab pemberi kerja sebagai hal yang harus diterapkan sesuai kondisi tempat kerja; lihat [UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970). Ketentuan khusus pesawat tenaga dan produksi serta ruang terbatas dapat berlaku sesuai objek dan aktivitas, sehingga status peralatan dan personel perlu dikonfirmasi pada regulasi yang berlaku, termasuk [Permenaker No. 37 Tahun 2016](https://peraturan.bpk.go.id/Details/146211/permenaker-no-37-tahun-2016) dan [Permenaker No. 11 Tahun 2023](https://peraturan.bpk.go.id/Details/282464/permenaker-no-11-tahun-2023).
+
+Untuk menyiapkan pekerjaan fabrikasi atau perbaikan terkait, Anda dapat mulai dari [beranda Bengkel.co.id](/) dan menelusuri panduan objek yang relevan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi membuat hasil gas testing cepat tidak representatif atau urutan kerja perlu diulang:
+
+- **Riwayat dan sifat residu.** Uap mudah terbakar, toksik, korosif, atau yang mengonsumsi oksigen membutuhkan parameter dan pengendalian berbeda. Bau bukan alat ukur dan ketiadaan bau bukan bukti aman.
+- **Geometri tangki.** Baffle, coil, endapan, kaki penyangga, dan dead leg dapat menyembunyikan kantong atmosfer berbeda dari lokasi sampling pertama.
+- **Ventilasi dan cuaca.** Kipas dapat mengencerkan satu titik sementara area lain tetap berbahaya. Arah angin, hujan, atau pekerjaan di sekitar vent juga dapat mengubah pembacaan.
+- **Antarmuka proses.** Transfer, sirkulasi, nitrogen blanketing, steam, pekerjaan line breaking, atau kendaraan yang lewat bisa memasukkan energi atau uap baru. Setiap perubahan harus memicu peninjauan isolasi dan, bila perlu, re-test.
+- **Jeda dan pergantian orang.** Hasil sebelum makan siang tidak otomatis berlaku setelah pekerjaan berhenti, penutup dibuka, atau shift berganti. Validitas waktu dan frekuensi ditetapkan oleh prosedur proyek serta petugas berwenang.
+- **Instrumen dan kompetensi.** Pastikan identitas alat, status kalibrasi/verifikasi, bump check atau pemeriksaan pra-pakai sesuai prosedur, serta kompetensi penguji tercatat. Jika alat gagal, alarm muncul, atau angka tidak stabil, hentikan pekerjaan dan eskalasi.
+
+[NEEDS TECHNICAL REVIEW: tetapkan parameter atmosfer, metode sampling, ambang keputusan, interval re-test, dan otoritas persetujuan berdasarkan riwayat isi serta prosedur proyek; jangan mengisi angka dari artikel ini.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan tangki yang sebelumnya menyimpan cairan mudah menguap. Operator telah menutup valve masuk dan menguras isi utama. Pada tahap ini, keputusan yang benar bukan “sudah kosong, lanjut buka manhole”, melainkan menanyakan: apakah ada pemisahan fisik dari jalur lain, apakah vent menuju tempat aman, apakah low point telah diperiksa, dan siapa yang menyetujui rencana pembersihan?
+
+Jika jawaban isolasi belum dapat dibuktikan, statusnya **tunda**. Jika isolasi terbukti tetapi riwayat residu tidak lengkap, statusnya **tunda dan lakukan identifikasi bahaya**. Jika pembersihan selesai dan hasil atmosfer memenuhi kriteria proyek pada seluruh titik, statusnya **siap untuk aktivitas yang memang tercakup izin**—bukan izin otomatis untuk masuk atau mengelas. Bila ventilasi berubah atau pekerjaan berhenti, kembali ke langkah verifikasi dan re-test.
+
+| Pertanyaan kendali | Bukti yang dicari | Keputusan bila belum ada |
+|---|---|---|
+| Apa isi terakhir dan bahayanya? | log operasi, SDS, serah-terima | Jangan menentukan metode pembersihan atau parameter uji |
+| Bagaimana aliran dan energi diputus? | daftar isolasi, lock/tag, verifikasi lapangan | Tahan pembukaan atau line breaking |
+| Ke mana drain dan vent diarahkan? | sketsa jalur, persetujuan area | Hentikan pengosongan |
+| Siapa menguji atmosfer dengan alat apa? | identitas petugas, alat, waktu, lokasi, log | Jangan menganggap atmosfer aman |
+| Apa yang terjadi saat alarm atau korban? | komunikasi, attendant, rencana darurat | Jangan mulai pekerjaan |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Isolasi, Pengosongan, Pembersihan, dan Gas Testing sebelum Pekerjaan Tangki”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap satu pembacaan di dekat manhole mewakili seluruh tangki. Periksa peta titik sampling dan alasan teknis pemilihannya. Kesalahan kedua adalah menyamakan valve tertutup dengan isolasi positif. Cocokkan setiap sumber pada diagram dengan bukti penguncian atau pemisahan fisik yang disetujui.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menghapus langkah re-test karena “hasil pagi masih bagus”. Tanyakan apa yang berubah sejak pembacaan itu: ventilasi, cuaca, isi pipa, konfigurasi penutup, aktivitas di sebelah, atau pergantian shift. Kesalahan keempat adalah menugaskan gas testing kepada orang tanpa kewenangan atau alat yang tidak jelas statusnya. Minta rekaman kompetensi dan pemeriksaan alat sebelum keputusan kerja.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sobat Bengkel.co.id, tanda bahaya lain adalah dokumen yang hanya berisi kata “clean” atau “gas free” tanpa riwayat isi, lokasi sampling, waktu, dan otorisasi. Dokumen seperti itu tidak memberi jejak untuk menilai apakah kondisi lapangan benar-benar sama dengan kondisi saat pengukuran.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah menghemat waktu dengan membuka manhole lebih dulu, lalu mengandalkan udara segar untuk “menghilangkan” sisa gas. Cara ini gagal bila sumber aliran belum terisolasi, residu masih menguap, atau ventilasi hanya menjangkau satu bagian. Alternatif yang lebih dapat dipertanggungjawabkan adalah menyelesaikan urutan isolasi–drain/vent–pembersihan, menguji atmosfer dengan rencana yang disetujui, lalu mengikat hasilnya pada izin dan pengawasan. Bila salah satu bukti tidak tersedia, keputusan aman adalah berhenti dan meminta review, bukan menebak.
 
-## Draft completion checklist
+## Langkah penutup
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum pekerjaan tangki, pastikan **isi dan bahayanya diketahui, isolasi positif terverifikasi, drain/vent terkendali, pembersihan disetujui, atmosfer diuji pada titik yang mewakili, dan tim siap memantau serta merespons perubahan**. Minta paket bukti itu ditinjau oleh penanggung jawab operasi, K3, engineering, dan inspeksi sebelum izin aktivitas diterbitkan.
+
+Kawan Bengkel.co.id, langkah berikutnya adalah membuat daftar isolasi dan peta sampling untuk tangki spesifik Anda, kemudian meminta persetujuan profesional atas parameter, ambang, re-test, dan batas pekerjaan. Simpan rujukan persiapan ini bersama paket izin agar mudah ditinjau ulang. Aturan operasinya sederhana: **jika kondisi berubah atau bukti terputus, hentikan pekerjaan dan evaluasi ulang; artikel ini tidak menggantikan keputusan proyek maupun persetujuan K3.**

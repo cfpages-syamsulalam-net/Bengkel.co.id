@@ -2,8 +2,9 @@
 article_id: BKL-07-A01
 title: "Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui"
 slug: "dari-kebutuhan-ke-gambar-kerja-fabrikasi"
-description: "Move from function and site survey to interfaces, dimensions, material, finish, revision, review, and approved-for-work status"
-status: outline
+description: "Alur dari fungsi dan survei lokasi menuju antarmuka, dimensi, material, finishing, revisi, pemeriksaan, dan status siap dikerjakan"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,37 +20,17 @@ sources:
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui
 
-## Assignment lock
+Halo, Teman Bengkel.co.id! Gambar kerja yang bisa disetujui bukan hasil dari kalimat “buatkan yang kuat dan rapi”. Ia lahir dari brief yang mengubah kebutuhan menjadi fungsi, kondisi lokasi, antarmuka, ukuran, material, proses, dan cara pemeriksaan yang dapat ditelusuri. Urutan ini mencegah bengkel menebak-nebak saat memotong material atau merakit.
 
-- **Writer task:** Expand this file into one complete article answering: “Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui”
-- **Reader and situation:** Buyer ordering custom metalwork
-- **Reader outcome:** Move from function and site survey to interfaces, dimensions, material, finish, revision, review, and approved-for-work status
-- **Primary intent:** Translate a need into a controlled drawing
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No structural or pressure design; BKL-10 and BKL-11 own those gates
-- **Final public route:** `/artikel/dari-kebutuhan-ke-gambar-kerja-fabrikasi.html`
-- **Appointed CMS date:** `2025-08-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari apa yang harus dilakukan benda itu, ukur kondisi nyata, catat titik sambung dan batas ruang, lalu tuangkan ke gambar ber-revisi. Gambar baru berstatus *approved for work* setelah pemilik kebutuhan dan pihak teknis yang berwenang memeriksa isi, asumsi, serta dampaknya. Jika beban, kestabilan, sambungan, angkur, atau kondisi eksisting menentukan keselamatan, [NEEDS PROFESSIONAL REVIEW: desain struktur, sambungan, dan persetujuan proyek belum menjadi keluaran artikel ini].
 
-## Opening instructions
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Gambar ini adalah aset lokal proyek untuk ilustrasi, bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -60,117 +41,59 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-11
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-07-A02` → `/artikel/toleransi-fit-clearance-dan-datum.html` — Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel
-- `BKL-07-A03` → `/artikel/membaca-simbol-las.html` — Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Brief fabrikasi adalah catatan keputusan yang menghubungkan kebutuhan pemesan dengan paket gambar dan instruksi kerja. Isinya bukan hanya tampak depan. Minimal, pembaca gambar perlu menemukan fungsi, dimensi dan datum (acuan ukur), material, identitas sambungan, toleransi, lapisan akhir, urutan fabrikasi, titik inspeksi, cara menangani dan memasang, serta aturan perubahan.
+
+Dokumen ini berbeda dari desain struktur atau desain bejana tekan. Ukuran profil yang tampak masuk akal tidak membuktikan kapasitas. Beban dan kombinasinya, geometri, kestabilan, sambungan, angkur atau tumpuan, kondisi eksisting, urutan ereksi, toleransi, paparan api atau korosi, inspeksi, dan pemeliharaan dapat mengubah keputusan sistem secara keseluruhan. Katalog resmi [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) hanya menjadi pintu identifikasi standar; klausul dan nilai penerapannya harus diambil dari dokumen berlisensi serta dokumen proyek yang diterbitkan.
+
+Karena itu, halaman ini membantu Anda mengendalikan aliran informasi untuk pekerjaan logam pesanan. Untuk konteks proses yang lebih luas, Anda dapat membaca [panduan konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html). Ia tidak memberi tabel bentang, ukuran anggota, detail sambungan, pilihan angkur, kapasitas, atau klaim “sudah sesuai SNI”. Untuk pekerjaan yang memengaruhi keselamatan, minta tinjauan profesional dan tetapkan siapa yang berwenang menyetujui.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Mulai dari fungsi dan batas keberhasilan.** Tulis apa yang harus ditopang, diarahkan, ditutup, dipisahkan, atau dilindungi; siapa yang mengoperasikan; seberapa sering; dan apa yang tidak boleh terganggu. Pisahkan kebutuhan wajib dari preferensi tampilan. Pertanyaan pembuka yang berguna: “Peristiwa apa yang membuat benda ini dianggap gagal?”
+
+2. **Lakukan survei lokasi yang dapat dibaca ulang.** Rekam ukuran, elevasi, orientasi, akses alat, ruang bongkar, permukaan tumpuan, utilitas yang berdekatan, dan kondisi yang mungkin berubah. Tandai mana ukuran hasil pengukuran dan mana asumsi. Foto boleh menjadi pendukung, tetapi datum dan angka harus muncul pada catatan survei atau gambar.
+
+3. **Petakan antarmuka.** Buat daftar apa yang menyentuh benda lain: pelat lantai, dinding, engsel, pipa, kabel, baut, las, atau komponen yang disediakan pihak lain. Untuk tiap antarmuka, tetapkan pemilik dimensinya, ruang bebas, arah pemasangan, dan data yang masih harus dikonfirmasi. Antarmuka yang tidak jelas biasanya memunculkan lubang bergeser, benturan, atau pekerjaan ulang.
+
+4. **Bekukan basis desain sebelum merinci.** Cantumkan nomor dokumen, tanggal, revisi, unit, sistem koordinat atau datum, material yang diizinkan, spesifikasi las atau pengikat yang dirujuk, persyaratan pelapisan, dan kriteria pemeriksaan. ISO 3834-6:2024 dapat dijadikan rujukan untuk menata informasi mutu pengelasan, tetapi abstraknya tidak memberikan prosedur proyek atau nilai penerimaan; gunakan dokumen yang berlaku untuk pekerjaan Anda ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
+
+5. **Susun gambar berlapis.** Lembar tata letak menjawab posisi dan ukuran keseluruhan. Detail menjawab potongan, lubang, tepi, sambungan, dan urutan yang memang perlu. Daftar material dan komponen mengikat identitas, jumlah, serta alternatif yang diizinkan. Tabel revisi menjelaskan apa yang berubah, mengapa, siapa yang memeriksa, dan apakah dampaknya sudah ditutup.
+
+6. **Tetapkan jalur review dan status.** Gunakan alur “untuk komentar”, “untuk persetujuan”, lalu “approved for work” hanya ketika komentar tertutup atau diterima secara tertulis. Stempel status tanpa nama, tanggal, dan ruang lingkup persetujuan bukan kendali perubahan. Perubahan setelah status kerja harus menjadi revisi baru; bengkel perlu menerima satu salinan terkendali dan menarik salinan lama.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi penggunaan menentukan data apa yang wajib ada. Benda yang hanya menjadi pelindung visual berbeda dari benda yang menerima beban berulang, panas, bahan kimia, atau akses operator. Lingkungan korosif memengaruhi persiapan permukaan, sistem cat, detail drainase, dan rencana perawatan. ISO 12944-8:2017 membahas pengembangan spesifikasi perlindungan korosi untuk struktur baja, namun halaman abstrak tidak menetapkan sistem cat untuk proyek tertentu ([ISO 12944-8:2017](https://www.iso.org/standard/64838.html)).
+
+Pelaksanaan juga mengubah gambar. Jika komponen harus masuk lewat pintu sempit, pecah menjadi modul dan nyatakan sambungan lapangan. Jika pengelasan dilakukan di lokasi, tandai akses, urutan, dan inspeksinya. Jika tumpuan lama belum terverifikasi, jangan mengunci detail angkur; tulis data yang harus diukur atau disetujui. Sobat Bengkel.co.id, setiap asumsi yang memengaruhi keselamatan harus terlihat sebagai asumsi, bukan disamarkan menjadi ukuran final.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan pemesan meminta rak logam untuk area produksi. Brief yang dapat ditinjau akan memuat fungsi rak, ukuran barang, cara memindahkan barang, ruang bebas, titik tumpu, lingkungan, dan batas permukaan akhir. Dari sana, keputusan bisa dicatat seperti berikut:
+
+| Pertanyaan | Jika jawabannya sudah ada | Jika belum ada |
+|---|---|---|
+| Apa yang diterima rak dan bagaimana bebannya bekerja? | Masukkan sebagai kebutuhan yang harus ditinjau pihak berwenang. | Tandai `[NEEDS LOAD DATA]`; jangan memilih profil dari kebiasaan. |
+| Di mana rak bertemu lantai atau dinding? | Ukur datum, elevasi, dan ruang pemasangan; rujuk detail antarmuka. | Jadwalkan survei dan jangan menerbitkan detail angkur final. |
+| Lingkungan seperti apa? | Tetapkan persiapan permukaan, lapisan, dan inspeksi sesuai spesifikasi proyek. | Tandai `[NEEDS EXPOSURE REVIEW]`; jangan menjanjikan umur lapisan. |
+| Siapa yang menyetujui gambar? | Cantumkan nama/peran, tanggal, revisi, dan komentar tertutup. | Status tetap “untuk komentar”, bukan “approved for work”. |
+
+Contoh ini sengaja tidak memberi ukuran atau kapasitas. Angka tersebut bergantung pada data proyek dan review desain. Kawan Bengkel.co.id, mintalah pemesan mengonfirmasi empat baris tabel itu sebelum bengkel mengunci material dan jadwal produksi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memulai dari foto contoh lalu menyalin ukuran. Periksa kembali fungsi, datum, dan antarmuka; foto tidak menggantikan survei. Kedua, mencampur ukuran terukur dengan perkiraan. Beri label “terukur”, “diberikan pemesan”, atau “menunggu konfirmasi”. Ketiga, menaruh semua keputusan pada satu lembar tanpa identitas revisi. Cocokkan nomor revisi di gambar, daftar material, instruksi kerja, dan lembar inspeksi.
 
-## Objection or shortcut to address
+Kesalahan keempat adalah menganggap material dan lapisan akhir otomatis menyelesaikan korosi. Periksa lingkungan, persiapan permukaan, kompatibilitas sistem, area yang terperangkap air, dan rencana perawatan. Kelima, menganggap tanda tangan administratif sebagai persetujuan teknis. Tanyakan apa yang benar-benar diperiksa, batas persetujuannya, serta komentar mana yang masih terbuka.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut yang sering dipilih adalah “langsung produksi dari sketsa WhatsApp agar cepat”. Ia bisa gagal karena satu ukuran yang berubah tidak mengalir ke detail, daftar potong, dan antarmuka lapangan. Alternatif yang lebih aman adalah menerbitkan sketsa untuk komentar, mengumpulkan koreksi pada satu daftar, lalu mengeluarkan satu revisi terkendali. Jika ada dampak struktur, tekanan, api, atau keselamatan, hentikan keputusan teknis dan kirimkan paket itu untuk review yang berwenang.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alur brief yang bisa disetujui bergerak dari fungsi dan survei, ke antarmuka serta datum, lalu ke material, proses, lapisan, inspeksi, revisi, dan status penerbitan. Approval berarti isi dan batasnya jelas, bukan sekadar ada tanda tangan.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: minta bengkel membuat daftar kebutuhan, lembar survei, daftar antarmuka, gambar ber-revisi, serta tabel komentar; kemudian minta pihak teknis yang berwenang menutup [NEEDS PROFESSIONAL REVIEW: beban, kestabilan, sambungan, angkur, dan persetujuan sistem]. Untuk menyiapkan percakapan awal, kunjungi [tentang Bengkel.co.id](/tentang-kami). Aturan operasionalnya sederhana: tidak ada pemotongan atau pengelasan berdasarkan dokumen yang status, revisi, dan pemilik keputusannya belum jelas.

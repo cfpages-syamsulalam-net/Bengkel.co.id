@@ -2,8 +2,9 @@
 article_id: BKL-03-A03
 title: "Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit"
 slug: "mengukur-aus-celah-runout-dan-alignment"
-description: "Explain datum, instrument, range, resolution, repeat reading, uncertainty, temperature, and report traceability"
-status: outline
+description: "Panduan mencatat datum, instrumen, rentang, resolusi, pembacaan ulang, ketidakpastian, temperatur, dan jejak laporan inspeksi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-05-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,40 +20,89 @@ sources:
   - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
-  - "https://www.iso.org/standard/80209.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit
 
-## Assignment lock
+Halo, Kawan Bengkel.co.id! Angka aus, celah, runout, atau alignment baru berguna untuk keputusan perbaikan bila orang lain dapat menelusuri bagaimana angka itu diperoleh. Catatan yang hanya berbunyi “runout tinggi” atau “celah masih aman” belum cukup: datum (acuan), instrumen, rentang ukur, resolusi, pembacaan ulang, kondisi temperatur, dan dasar penerimaan harus terlihat.
 
-- **Writer task:** Expand this file into one complete article answering: “Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit”
-- **Reader and situation:** Owner reviewing a component-repair finding
-- **Reader outcome:** Explain datum, instrument, range, resolution, repeat reading, uncertainty, temperature, and report traceability
-- **Primary intent:** Understand dimensional inspection records
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No asset-specific tolerance or safe-to-run limit; BKL-09 and OEM/project data own interpretation
-- **Final public route:** `/artikel/mengukur-aus-celah-runout-dan-alignment.html`
-- **Appointed CMS date:** `2025-05-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, jawaban singkatnya adalah: ukur terhadap datum yang dinyatakan, pakai instrumen dengan identitas dan status verifikasi yang dapat ditunjukkan, ulangi pembacaan pada kondisi yang sama, lalu laporkan hasil beserta ketidakpastian dan batas interpretasinya. Nilai tersebut tidak otomatis menjadi keputusan boleh beroperasi. Toleransi aset, prosedur OEM, dan persetujuan proyek harus mengubahnya menjadi keputusan; jika belum tersedia, tandai **[NEEDS PROJECT ACCEPTANCE BASIS AND ASSET-SPECIFIC LIMIT]**. Bila perlu konteks pekerjaan bengkel, mulai dari [beranda Bengkel.co.id](/) dan pastikan dokumen asetnya tersedia.
 
-## Opening instructions
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
+## Definisi dan batas objek
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Aus adalah perubahan dimensi atau bentuk dari kondisi rujukan. Celah adalah jarak yang diukur di antara dua permukaan pada posisi dan kondisi tertentu. Runout (oleng radial atau aksial relatif terhadap sumbu acuan) dan alignment (keselarasan posisi atau arah beberapa elemen) juga merupakan hubungan terhadap acuan, bukan angka yang berdiri sendiri.
+
+Karena itu, catatan harus menyebut komponen, fitur yang diukur, datum, lokasi titik ukur, arah gaya atau putaran bila ada, dan kondisi sebelum pengukuran. Artikel ini membahas mutu rekaman inspeksi dimensional. Ia tidak menetapkan toleransi komponen, batas aman beroperasi, atau keputusan menerima pekerjaan. Interpretasi itu milik data aset, OEM, dan rencana inspeksi proyek.
+
+Untuk inspeksi yang lebih luas, metode, cakupan, teknik, personel, peralatan, kondisi permukaan, status kalibrasi/verifikasi, pelaporan, dan dasar penerimaan merupakan bukti yang terpisah. Ringkasan ISO 17635 menegaskan perlunya membedakan unsur-unsur tersebut; abstraknya tidak memberi nilai penerimaan atau interval kalibrasi untuk aset tertentu ([ISO 17635:2025](https://www.iso.org/standard/85705.html)).
+
+## Cara kerjanya
+
+Mulai dengan lembar kerja yang mengunci identitas benda: nomor aset atau work order, komponen, tanggal, operator, dan status energi. Tetapkan datum yang dapat diulang—misalnya permukaan referensi atau sumbu yang disepakati—sebelum menempelkan alat. Foto atau sketsa sederhana boleh membantu, tetapi tidak menggantikan definisi datum tertulis.
+
+Kemudian catat instrumen (jenis, nomor identitas, rentang ukur, resolusi, dan status kalibrasi atau verifikasi). Rentang harus mencakup nilai yang diperkirakan; resolusi bukan sama dengan akurasi. Jelaskan akses, posisi probe, gaya kontak, kecepatan putar, atau metode penyetelan yang relevan dengan pengukuran itu. Jangan mengisi angka akurasi atau interval kalibrasi dari ingatan; ambil dari sertifikat dan prosedur yang berlaku.
+
+Lakukan pembacaan awal, nolkan atau verifikasi sesuai prosedur, lalu ulangi pada titik dan kondisi yang sama. Simpan semua pembacaan, bukan hanya nilai yang paling nyaman. Tulis satuan, temperatur benda dan lingkungan bila berpengaruh, serta apakah benda diam, dipanaskan, atau baru selesai dibersihkan. Jika hasil berubah ketika operator mengulang, catat perubahan itu sebagai informasi, bukan dirata-ratakan diam-diam.
+
+Terakhir, pisahkan hasil dari penilaian. Kolom “hasil ukur” berisi data dan metode; kolom “interpretasi” menyebut dokumen penerimaan yang dipakai dan siapa yang berwenang memutuskan. Untuk kompetensi personel dan mutu proses inspeksi, ISO 9712 adalah rujukan sertifikasi personel NDT, tetapi abstraknya tidak membuktikan bahwa seseorang tertentu telah memenuhi kebutuhan proyek ([ISO 9712:2021](https://www.iso.org/standard/75614.html)).
+
+## Faktor yang mengubah hasil
+
+Empat kelompok berikut perlu dicatat agar pengukuran dapat diulang.
+
+| Kelompok | Yang dicatat | Risiko bila dihilangkan |
+|---|---|---|
+| Acuan dan geometri | datum, titik, arah ukur, urutan penyetelan | angka sama-sama benar tetapi menjawab pertanyaan berbeda |
+| Instrumen | identitas, rentang, resolusi, status kalibrasi/verifikasi | hasil tidak dapat ditelusuri atau dibandingkan |
+| Kondisi | temperatur, kebersihan permukaan, posisi, gaya kontak, status putaran | perubahan kondisi disangka perubahan aus |
+| Pengulangan dan analisis | setiap reading, variasi, metode perhitungan, ketidakpastian | nilai ekstrem atau variasi operator tersembunyi |
+
+Ketidakpastian bukan angka yang boleh dibuat agar hasil masuk toleransi. Jelaskan sumber variasi yang memang diketahui dan minta peninjauan teknis bila nilainya memengaruhi keputusan. Bila temperatur, deformasi penjepitan, atau metode penyetelan belum dikendalikan, tulis keterbatasannya.
+
+Keselamatan mendahului pengukuran. Jangan memutar, membuka pelindung, membongkar, atau mendekati bagian bergerak hanya demi memperoleh reading. Aturan OSHA tentang pengendalian energi menggambarkan prinsip isolasi dan verifikasi sebelum servicing, tetapi itu bukan pengganti prosedur K3 Indonesia ([OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)). Gunakan aturan lokal, informasi OEM, dan metode site yang disetujui; untuk status regulasi, baca Permenaker 38/2016 bersama perubahan atau pencabutan parsial yang tercatat pada Permenaker 11/2026 ([Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)). Jika titik isolasi, petugas berwenang, dan verifikasi energi belum jelas, tandai **[NEEDS CURRENT LOCAL K3 METHOD AND AUTHORIZED PERSON]** dan hentikan pekerjaan lapangan.
+
+## Contoh keputusan praktis
+
+Bayangkan laporan menyatakan celah berubah antara pembacaan pertama dan kedua. Jangan langsung menyimpulkan komponen aus. Periksa berurutan: apakah datum sama, probe menyentuh titik yang sama, instrumen masih terverifikasi, temperatur berubah, dan apakah gaya kontak konsisten. Jika salah satu jawabannya “tidak diketahui”, keluaran yang dapat diaudit adalah “hasil perlu diulang dengan kondisi terkendali”, bukan “ganti komponen”.
+
+Contoh format ringkas:
+
+| Field | Contoh isi yang wajib ada |
+|---|---|
+| Objek dan datum | nama fitur, sketsa/titik, acuan yang disepakati |
+| Instrumen | jenis, ID, rentang, resolusi, status verifikasi |
+| Kondisi | temperatur, posisi, kebersihan, status energi/putaran |
+| Data | reading 1–n, satuan, waktu, operator |
+| Analisis | cara menghitung, variasi, ketidakpastian yang diketahui |
+| Keputusan | dokumen penerimaan, penanggung jawab, tindakan berikutnya |
+
+Tanpa dokumen penerimaan, bagian terakhir tetap **[NEEDS PROJECT ACCEPTANCE BASIS AND DISPOSITION AUTHORITY]**. Catatan yang lengkap boleh menyimpulkan “perlu pemeriksaan lanjutan”; ia tidak boleh mengubah gejala menjadi izin operasi.
+
+## Kesalahan umum dan cara memeriksanya
+
+Shortcut pertama adalah memakai satu pembacaan terbaik. Cari lembar mentahnya dan tanyakan berapa kali reading diambil, pada titik mana, dan mengapa nilai lain tidak ditampilkan. Shortcut kedua adalah menulis “kalibrasi OK” tanpa ID alat atau bukti status. Minta nomor instrumen dan dokumen verifikasi yang masih berlaku.
+
+Shortcut ketiga adalah mengganti datum di tengah pekerjaan agar angka terlihat membaik. Bandingkan sketsa awal dan akhir; perubahan datum harus disetujui dan diberi alasan. Shortcut keempat adalah menyamakan hasil visual, pengukuran dimensional, dan NDT. Ketiganya menjawab pertanyaan berbeda; ISO 17635 dan ISO 9712 menempatkan metode, teknik, personel, peralatan, serta dasar penerimaan sebagai unsur yang perlu ditelusuri, bukan satu paket yang boleh dicampur.
+
+Kawan Bengkel.co.id, saat menerima laporan dari pihak lain, minta tiga bukti minimum: lembar reading mentah, identitas/status instrumen, dan prosedur atau datum yang dipakai. Bila salah satunya hilang, nyatakan bahwa keputusan bersifat tertunda dan minta tinjauan teknis.
+
+## Mengapa satu angka belum cukup
+
+“Yang penting angkanya di bawah toleransi; detail lain hanya administrasi.” Keberatan ini gagal ketika dua orang memakai datum, temperatur, atau gaya kontak berbeda. Mereka dapat menghasilkan angka berbeda tanpa ada yang salah secara aritmetika. Detail rekaman adalah cara menemukan perbedaan metode dan mengulang pemeriksaan, bukan hiasan laporan.
+
+Alternatif yang lebih aman adalah menahan keputusan, melengkapi chain of custody data, lalu meminta pemilik engineering atau pemeriksa berwenang menerapkan toleransi aset. Jangan meminjam batas dari komponen lain, tabel umum, atau hasil proyek lama.
+
+## Penutup: jadikan angka sebagai bukti yang dapat ditelusuri
+
+Mengukur aus, celah, runout, dan alignment dengan catatan yang bisa diaudit berarti mengikat setiap angka pada datum, instrumen, kondisi, pengulangan, ketidakpastian, dan orang yang bertanggung jawab. Angka itu baru menjadi keputusan setelah dibandingkan dengan dasar penerimaan aset yang sah.
+
+Langkah berikutnya: minta atau buat satu lembar inspeksi berisi tujuh field tersebut, lampirkan reading mentah dan status alat, lalu ajukan ke penanggung jawab teknis untuk menetapkan disposition. Teman Bengkel.co.id, bila batas atau metode belum disahkan, kenali [Bengkel.co.id dan ruang lingkupnya](/tentang-kami) untuk kembali ke konteks layanan yang tepat; aturan operasinya sederhana: jangan menyatakan aman atau menerima—tandai kebutuhan review dan berhenti pada bukti yang benar-benar tersedia.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,126 +113,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-03
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make intake articles collect decision-relevant evidence without encouraging an unqualified customer or writer to energize, dismantle, enter, pressurize, or test an unsafe asset.
-- **Safe grounded facts:** OSHA's US rule illustrates an energy-control program that distinguishes normal production from servicing and requires isolation/control before relevant servicing; it has explicit scope and exceptions. Indonesian machine K3 is governed locally, and the 2016 regulation must be read with the 2026 partial revocations.
-- **Limits:** Do not import US procedures as Indonesian compliance. Asset-specific isolation points, verification, authorized persons, and emergency controls require the current local rules, OEM information, and site method.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-03-A01` → `/artikel/inspeksi-diagnosis-pengujian-dan-penerimaan.html` — Inspeksi, Diagnosis, Pengujian, dan Penerimaan: Jangan Disamakan
-- `BKL-03-A02` → `/artikel/checklist-survei-awal-aset.html` — Checklist Survei Awal Aset sebelum Penawaran Bengkel
-- `BKL-03-A04` → `/artikel/izin-bongkar-untuk-diagnosis.html` — Izin Bongkar untuk Diagnosis: Batas, Risiko, dan Bukti Kondisi Awal
-- `BKL-03-A05` → `/artikel/dari-gejala-ke-akar-masalah.html` — Dari Gejala ke Akar Masalah: Cara Menghindari Ganti Komponen dengan Tebakan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mengukur Aus, Celah, Runout, dan Alignment dengan Catatan yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

@@ -2,8 +2,9 @@
 article_id: BKL-14-A05
 title: "Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai"
 slug: "visual-dimensional-functional-dan-ndt"
-description: "Compare what each method can and cannot reveal, timing, access, surface/material limits, personnel, acceptance source, and record"
-status: outline
+description: "Panduan membandingkan bukti visual, ukuran, fungsi, dan NDT sesuai tujuan, akses, personel, dasar penerimaan, serta rekamannya"
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-02-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,40 +19,85 @@ sources:
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden"
-  - "https://www.iso.org/standard/83335.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai
 
-## Assignment lock
+Halo, Teman Bengkel.co.id! Memilih inspeksi bukan soal menumpuk singkatan di daftar pemeriksaan. Visual, dimensional, functional, dan non-destructive testing (NDT, pengujian tak merusak) menjawab pertanyaan yang berbeda. Visual mencari kondisi yang tampak, dimensional membandingkan ukuran atau posisi, functional membuktikan fungsi saat dioperasikan, sedangkan NDT mencari indikasi tertentu tanpa merusak benda uji.
 
-- **Writer task:** Expand this file into one complete article answering: “Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai”
-- **Reader and situation:** Quote lists tests without explaining purpose
-- **Reader outcome:** Compare what each method can and cannot reveal, timing, access, surface/material limits, personnel, acceptance source, and record
-- **Primary intent:** Select an inspection/test family
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No method/coverage or acceptance selection for a live weld; ISO 17635:2025, project code, and qualified NDT personnel govern
-- **Final public route:** `/artikel/visual-dimensional-functional-dan-ndt.html`
-- **Appointed CMS date:** `2026-02-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Urutan yang masuk akal biasanya dimulai dari dokumen dan visual, dilanjutkan pengukuran dimensi, uji fungsi bila sistem sudah aman dioperasikan, lalu NDT ketika risiko atau persyaratan proyek menuntut informasi di bawah permukaan. Namun urutan, cakupan, teknik, personel, dan keputusan terima tidak boleh diputuskan dari nama metode saja. Dasarnya harus berasal dari kode proyek, prosedur tertulis, kondisi objek, dan otoritas penerimaan. ISO 17635 menempatkan pemilihan metode dan tingkat pengujian dalam konteks persyaratan produk serta dokumen yang berlaku; abstraknya juga mengingatkan bahwa tingkat penerimaan NDT tidak diterjemahkan satu banding satu menjadi tingkat mutu ISO 5817. [ISO 17635:2025](https://www.iso.org/standard/85705.html)
 
-## Opening instructions
+Gambar berikut hanya ilustrasi ruang kerja, bukan dokumentasi proyek atau bukti hasil pemeriksaan tertentu.
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Definisi dan batas objek
+
+Visual inspection (pemeriksaan visual) menjawab: “Apa yang terlihat dari permukaan dan akses yang tersedia?” Ia dapat menemukan kondisi permukaan, kelengkapan yang tampak, atau perubahan yang bisa dibandingkan dengan gambar dan spesifikasi. Ia tidak otomatis mengungkap cacat internal, kekuatan sambungan, atau kesesuaian fungsi di bawah beban.
+
+Dimensional inspection menjawab: “Apakah ukuran, posisi, orientasi, dan celah berada pada basis yang disepakati?” Hasilnya bergantung pada datum, gambar revisi, alat ukur, resolusi, dan cara akses. Angka pengukuran tanpa referensi yang benar hanya menjadi angka, bukan keputusan.
+
+Functional test menjawab: “Apakah komponen atau sistem melakukan fungsi yang ditentukan pada kondisi uji yang aman?” Uji ini memerlukan batas operasi, urutan, pengamanan, dan kriteria hasil. Lulus fungsi tidak membuktikan semua dimensi benar atau tidak adanya indikasi internal.
+
+NDT mencakup keluarga teknik untuk mencari indikasi tanpa memotong atau merusak objek. Setiap teknik memiliki jangkauan, orientasi indikasi, kondisi permukaan, material, dan keterbatasan akses sendiri. Karena itu, “sudah NDT” belum menjelaskan teknik, cakupan, sensitivitas, personel, atau dasar penerimaannya. ISO 17635:2025 membahas pemilihan metode, teknik, dan tingkat pengujian untuk sambungan las; penerapannya tetap tunduk pada standar produk dan prosedur proyek. [ISO 17635:2025](https://www.iso.org/standard/85705.html)
+
+Batas pentingnya: artikel ini membantu memilih keluarga bukti, bukan menetapkan metode atau cakupan untuk las yang sedang dikerjakan. Untuk sambungan hidup, ISO 17635:2025, kode proyek, prosedur tertulis, dan personel NDT yang berkualifikasi harus menjadi pengendali. [NEEDS PROJECT ACCEPTANCE BASIS AND INSPECTION PLAN]
+
+## Cara kerjanya
+
+Mulailah dengan pertanyaan keputusan, bukan nama alat. Apakah yang hendak dipastikan adalah kondisi permukaan, geometri, fungsi, atau kemungkinan indikasi tertentu? Catat identitas objek, nomor gambar dan revisi, status pekerjaan, material yang diketahui, area yang dapat diakses, serta kondisi permukaan. Dari sini, penanggung jawab dapat menentukan bukti minimum dan kapan bukti itu harus diambil.
+
+Visual dan dimensional sering menjadi gerbang awal karena keduanya dapat dilakukan sebelum sistem diberi energi atau ditutup. Jika temuan visual atau ukuran menyimpang, hentikan asumsi bahwa uji berikutnya akan “menghapus” temuan tersebut; buat catatan ketidaksesuaian dan minta disposisi yang berwenang. Functional test dilakukan setelah prasyarat keselamatan, isolasi, pelumasan, sambungan, dan konfigurasi uji disetujui. Hasilnya harus merekam kondisi uji, instrumen atau indikator yang dipakai, hasil aktual, dan siapa yang mengesahkan.
+
+NDT dipilih berdasarkan mekanisme yang mungkin terjadi dan informasi yang dibutuhkan. Akses satu sisi, lapisan, bentuk geometri, temperatur, kebersihan, dan kondisi permukaan dapat membatasi teknik. Personel harus memiliki cakupan kompetensi yang sesuai; ISO 9712:2021 adalah standar untuk kualifikasi dan sertifikasi personel NDT, bukan bukti bahwa suatu objek telah lulus. [ISO 9712:2021](https://www.iso.org/standard/75614.html)
+
+Setiap hasil lalu dipertautkan ke acceptance basis (dasar penerimaan): spesifikasi, gambar, kode, atau prosedur proyek yang memang ditunjuk. ISO 5817:2023 memberi kerangka tingkat mutu untuk ketidaksempurnaan pada sambungan las, tetapi abstrak standar tidak menyediakan tabel yang boleh dipakai sembarangan untuk semua produk atau proyek. [ISO 5817:2023](https://www.iso.org/standard/80209.html) Jangan mengganti dasar tersebut dengan kebiasaan bengkel atau ambang dari laporan lama.
+
+## Faktor yang mengubah hasil
+
+Empat kelompok kondisi paling sering mengubah nilai bukti:
+
+- **Objek dan material.** Material, ketebalan, lapisan, bentuk, dan kemungkinan mekanisme kerusakan menentukan informasi yang dapat dicapai. Jangan menyimpulkan kemampuan teknik dari label “NDT” saja.
+- **Akses dan permukaan.** Area tertutup, kotor, basah, panas, atau terhalang dapat mengurangi cakupan visual maupun NDT. Catat batas area yang benar-benar diperiksa.
+- **Waktu dan status pekerjaan.** Pemeriksaan sebelum finishing, setelah perbaikan, atau sebelum serah terima menjawab pertanyaan berbeda. Identifikasi tahapnya di laporan agar hasil tidak tertukar.
+- **Sistem bukti.** Alat ukur harus teridentifikasi dan status kalibrasi atau verifikasinya masih berlaku sesuai pengendalian proyek. Laporan perlu menautkan objek, lokasi, metode, teknik, personel, kondisi uji, hasil, dan keputusan.
+
+Kawan Bengkel.co.id, perbedaan antara “indikasi ditemukan” dan “diterima” sangat penting. Indikasi adalah hasil pengamatan; penerimaan adalah keputusan terhadap kriteria yang disahkan. Keduanya dapat ditulis berurutan dalam satu laporan, tetapi tidak boleh diperlakukan sebagai hal yang sama.
+
+## Contoh keputusan praktis
+
+Gunakan tabel berikut sebagai kerangka pertanyaan, bukan sebagai acceptance table:
+
+| Pertanyaan yang harus dijawab | Bukti awal yang sesuai | Batas yang harus dicatat |
+|---|---|---|
+| Apakah kondisi permukaan dan kelengkapan tampak sesuai? | Visual | Akses, pencahayaan, area yang tertutup, dan acuan gambar |
+| Apakah posisi atau ukuran sesuai datum dan revisi gambar? | Dimensional | Datum, alat, resolusi, titik ukur, dan ketidakpastian yang diwajibkan proyek |
+| Apakah sistem menjalankan fungsi pada kondisi uji? | Functional | Prasyarat keselamatan, konfigurasi, parameter uji, dan otorisasi |
+| Apakah ada indikasi yang tidak dapat dinilai dari permukaan? | NDT yang dipilih oleh prosedur | Material, orientasi indikasi, cakupan, teknik, personel, dan acceptance basis |
+
+Misalnya, visual menemukan celah pada area yang akan ditutup. Langkah aman bukan langsung meminta NDT sebagai pembenaran, melainkan mendokumentasikan lokasi, memeriksa dimensi terkait, dan meminta keputusan terhadap gambar atau prosedur. Jika kode proyek meminta NDT, rencana pengujian menentukan teknik serta extent-nya. Jika sistem kemudian diuji fungsi, hasil fungsi menjadi bukti tambahan—bukan pengganti pemeriksaan yang diwajibkan.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah menulis “100% inspected” tanpa menjelaskan metode dan area. Tanyakan: 100% dari apa, pada tahap kapan, dengan akses mana, dan siapa yang mengesahkan? Kesalahan kedua adalah memasukkan angka hasil ukur tanpa datum atau revisi gambar. Minta identitas alat, titik ukur, dan acuan yang dipakai.
+
+Kesalahan ketiga ialah menganggap sertifikat personel sebagai sertifikat produk. Periksa kecocokan cakupan kompetensi personel dengan metode dan objek, lalu cari laporan pengujian aktual. Kesalahan keempat adalah menyalin acceptance level dari standar atau proyek lain. Verifikasi dokumen yang ditunjuk kontrak dan minta peninjauan teknis bila basisnya tidak jelas.
+
+Kesalahan terakhir adalah menganggap checklist serah terima sebagai bukti tunggal. Rekaman yang berguna harus mengidentifikasi item, revisi, penerbit, tanggal, dasar, hasil, dan otorisasi. Persyaratan garansi, tanggung jawab bukti, dan jalur respons juga perlu eksplisit dalam kontrak; Undang-Undang Perlindungan Konsumen menempatkan informasi dan tanggung jawab pelaku usaha dalam konteks hubungan konsumen, tetapi tidak menggantikan persetujuan teknis proyek. [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)
+
+## Saat pilihan minimum terasa cukup
+
+Shortcut yang sering dipilih adalah “cukup visual dan functional karena sistem sudah berjalan.” Cara itu gagal bila risiko yang hendak dikendalikan berada di bawah permukaan, pada geometri, atau pada area yang tidak terlihat saat operasi. Alternatif yang lebih dapat dipertanggungjawabkan adalah menuliskan pertanyaan keputusan, memetakan bukti yang menjawabnya, lalu meminta persetujuan atas metode, cakupan, personel, dan kriteria sebelum pemeriksaan dimulai.
+
+## Kesimpulan
+
+Teman Bengkel.co.id, pilih visual untuk kondisi yang dapat dilihat, dimensional untuk geometri terhadap datum, functional untuk perilaku sistem saat diuji, dan NDT untuk indikasi yang memerlukan teknik khusus tanpa merusak objek. Satukan hasilnya dalam rekaman yang tertelusur, tetapi jangan menyamakan hasil pengamatan dengan keputusan penerimaan.
+
+Langkah berikutnya: minta [inspection and test plan dari tim proyek](/konstruksi-fabrikasi-logam.html), tandai acceptance basis untuk setiap pemeriksaan, lalu pastikan identitas alat, personel, kondisi akses, cakupan, hasil, dan otorisasi tercatat. Untuk sambungan las atau keputusan berisiko, tahan pekerjaan pada batas yang aman dan serahkan penetapan metode serta penerimaan kepada peninjau teknis yang berwenang. Jika pemeriksaan berkaitan dengan komponen yang harus dikembalikan ke kondisi kerja, lihat juga panduan [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) sebagai konteks koordinasi pekerjaan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,125 +108,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-04, GATE-06, GATE-07
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-14-A03` → `/artikel/inspeksi-dimensi-fabrikasi.html` — Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan
-- `BKL-14-A04` → `/artikel/kalibrasi-verifikasi-dan-cek-alat-bengkel.html` — Kalibrasi, Verifikasi, dan Cek Harian Alat Bengkel: Bedanya Apa
-- `BKL-14-A06` → `/artikel/ncr-repair-concession-reject.html` — NCR, Repair, Concession, Reject: Menutup Ketidaksesuaian dengan Bukti
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

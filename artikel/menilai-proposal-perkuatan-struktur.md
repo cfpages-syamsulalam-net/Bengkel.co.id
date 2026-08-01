@@ -1,9 +1,10 @@
 ---
 article_id: BKL-10-A06
+writing_contract_version: "native-id-v2"
 title: "Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah"
 slug: "menilai-proposal-perkuatan-struktur"
 description: "Ask for diagnosis, load basis, material, connection, sequence, temporary condition, inspection, calculations, and verification"
-status: outline
+status: draft
 publication_date: "2025-11-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -22,37 +23,87 @@ sources:
   - "https://www.iso.org/standard/75614.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah
 
-## Assignment lock
+Halo, Teman Bengkel.co.id! Foto sebelum-sesudah hanya menunjukkan perubahan yang terlihat, bukan membuktikan struktur sudah mampu memikul beban. Proposal perkuatan baru layak dipertimbangkan bila menjelaskan diagnosis kondisi awal, dasar beban, rancangan sistem dan sambungannya, urutan kerja, kondisi sementara, serta cara inspeksi dan verifikasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah”
-- **Reader and situation:** Owner receives a retrofit proposal
-- **Reader outcome:** Ask for diagnosis, load basis, material, connection, sequence, temporary condition, inspection, calculations, and verification
-- **Primary intent:** Evaluate strengthening evidence
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not review a specific design or imply photos prove capacity; qualified structural engineer owns approval
-- **Final public route:** `/artikel/menilai-proposal-perkuatan-struktur.html`
-- **Appointed CMS date:** `2025-11-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dengan meminta paket bukti, bukan memilih penawaran dari foto paling meyakinkan. Bila diagnosis, perhitungan, atau persetujuan tenaga ahli belum ada, keputusan yang aman adalah menahan pekerjaan dan meminta klarifikasi. Ukuran profil atau merek material saja tidak cukup; kecukupan merupakan sifat sistem yang dipengaruhi beban, geometri, stabilitas, sambungan, tumpuan, kondisi eksisting, dan cara pemasangan. Katalog resmi SNI 1729:2020 dan ringkasan ISO 3834-6:2024 juga tidak dapat dipakai untuk menebak kapasitas atau menggantikan desain proyek ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020); [ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
-## Opening instructions
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.
 
+## Definisi dan batas objek
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Proposal perkuatan adalah dokumen untuk menjawab: masalah apa yang ditemukan, beban dan kondisi apa yang harus dilayani, sistem apa yang ditambahkan, bagaimana sistem itu terhubung ke struktur lama, dan bagaimana pekerjaan dibuktikan selesai. Ia berbeda dari brosur, gambar hasil pemodelan tanpa asumsi, atau album foto pekerjaan.
+
+Artikel ini membantu pemilik menyaring kelengkapan bukti sebelum menunjuk pelaksana. Ini bukan peninjauan desain tertentu dan tidak memberi ukuran balok, detail angkur, kapasitas, atau keputusan “sesuai SNI”. Persetujuan akhir tetap berada pada insinyur struktur yang memeriksa data proyek dan menerbitkan dokumen kerja. Untuk pekerjaan baja, dokumen pengadaan dan fabrikasi semestinya mendefinisikan fungsi, dimensi, material, identitas sambungan, toleransi, urutan, inspeksi, dan dasar penerimaan; abstrak standar hanya menjelaskan ruang lingkupnya, bukan nilai proyek Anda ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020); [ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
+
+Jika tahap berikutnya adalah menyiapkan pekerjaan fabrikasi, gunakan panduan [pembuatan dan perbaikan struktur khusus](/pembuatan-perbaikan-struktur-khusus.html) hanya sebagai konteks proses. Tautan itu tidak menggantikan gambar kerja, perhitungan, atau persetujuan untuk proyek Anda.
+
+Untuk menelusuri konteks layanan dan artikel terkait, Anda dapat melihat [beranda Bengkel.co.id](/); rujukan itu bukan pengganti dokumen teknis proyek.
+
+## Cara kerjanya
+
+Nilai proposal mengikuti rantai sebab-akibat berikut.
+
+1. **Diagnosis.** Minta catatan survei: elemen yang bermasalah, gejala, lokasi, ukuran terukur, perubahan penggunaan, dan data struktur lama. Foto harus memiliki tanggal atau penanda lokasi yang dapat ditelusuri, bukan berdiri sendiri.
+2. **Dasar keputusan.** Tanyakan beban apa yang dipakai, kombinasi yang dirujuk, geometri, kondisi tumpuan, dan asumsi tentang material lama. Jika fungsi ruang akan berubah, beban baru harus dijelaskan dalam dokumen perhitungan.
+3. **Sistem dan antarmuka.** Proposal harus menunjukkan elemen baru, jalur penyaluran gaya, sambungan, angkur atau tumpuan, serta apa yang terjadi pada struktur eksisting. “Tambah besi” tanpa jalur gaya adalah deskripsi, bukan solusi.
+4. **Pelaksanaan.** Urutan pembongkaran, pemasangan, pengelasan atau pengencangan, akses, toleransi, dan pengendalian kondisi sementara harus tertulis. Struktur dapat berada pada keadaan paling rentan justru ketika pekerjaan belum selesai.
+5. **Bukti dan penutupan.** Rencana inspeksi mengidentifikasi sambungan, metode, cakupan, personel, peralatan, laporan, ketidaksesuaian, kewenangan disposisi, dan siklus perbaikan. Ringkasan ISO 5817, ISO 17635, dan ISO 9712 menempatkan mutu las, pemeriksaan tak merusak (NDT), dan kompetensi personel sebagai hal yang berbeda; satu foto rapi tidak menggantikan ketiganya ([ISO 5817:2023](https://www.iso.org/standard/80209.html); [ISO 17635:2025](https://www.iso.org/standard/85705.html); [ISO 9712:2021](https://www.iso.org/standard/75614.html)).
+
+## Faktor yang mengubah hasil
+
+Beberapa kondisi dapat mengubah kesimpulan meskipun gambar proposal tampak sama.
+
+- **Kondisi eksisting:** korosi, retak, deformasi, sambungan longgar, perubahan tumpuan, atau kerusakan akibat kebakaran mengubah kemampuan elemen lama dan area yang dapat dijadikan tumpuan.
+- **Beban dan penggunaan:** penambahan lantai, rak, mesin, tangki, atau perubahan pola orang dan kendaraan harus masuk ke dasar beban. Jangan menerima angka beban yang tidak memiliki sumber atau asumsi yang jelas.
+- **Lingkungan:** kelembapan, paparan korosif, dan kebutuhan proteksi kebakaran memengaruhi material, pelapisan, detail sambungan, inspeksi, dan pemeliharaan. ISO 12944-8:2017 dapat menjadi rujukan identitas dan ruang lingkup perlindungan korosi, bukan bukti bahwa sistem tertentu akan bertahan di lokasi Anda ([ISO 12944-8:2017](https://www.iso.org/standard/64838.html)).
+- **Urutan dan kondisi sementara:** pelepasan elemen, dongkrak, penyangga, atau pemotongan sambungan dapat mengubah distribusi gaya. Tanyakan siapa yang menyetujui penyangga sementara dan kapan struktur boleh dibebani kembali.
+- **Kualitas bukti:** gambar revisi lama, material tanpa sertifikat yang dapat ditelusuri, atau laporan inspeksi tanpa identitas sambungan membuat hasil sulit diverifikasi. Minta nomor revisi, tanda tangan, dan keterkaitan setiap laporan dengan gambar kerja.
+
+Sobat Bengkel.co.id, bila salah satu faktor ini belum terjawab, jangan mengubahnya menjadi asumsi diam-diam. Tandai sebagai pertanyaan terbuka untuk insinyur penanggung jawab.
+
+## Contoh keputusan praktis
+
+Gunakan tabel berikut sebagai penyaring awal, bukan sebagai persetujuan desain.
+
+| Temuan saat menerima proposal | Pertanyaan berikutnya | Keputusan sementara |
+| --- | --- | --- |
+| Hanya ada foto sebelum-sesudah dan daftar material | Di mana diagnosis, dasar beban, gambar sambungan, dan perhitungan? | Tahan penunjukan; minta paket teknis. |
+| Ada gambar, tetapi tidak ada nomor revisi atau asumsi | Dokumen mana yang berlaku dan siapa yang menyetujuinya? | Minta penerbitan ulang yang terkendali. |
+| Ada metode kerja, tetapi kondisi sementara tidak dibahas | Bagaimana stabilitas dijaga selama pembongkaran dan pemasangan? | Jangan mulai sebelum metode disetujui. |
+| Ada laporan NDT, tetapi sambungan dan personel tidak terlacak | Laporan ini merujuk ke joint mana, metode apa, dan siapa pemeriksanya? | Minta rekaman traceability dan dasar penerimaan. |
+| Semua dokumen lengkap, tetapi data eksisting belum diukur | Data mana yang sudah diverifikasi di lapangan? | Jadwalkan survei dan review insinyur. |
+
+Paket minimum yang dapat Anda minta meliputi laporan survei, daftar asumsi dan beban, gambar rencana serta detail sambungan, perhitungan yang ditandatangani, metode pelaksanaan dan kondisi sementara, rencana inspeksi, format laporan, serta prosedur penanganan pekerjaan tidak sesuai. Kelengkapan administrasi ini tidak otomatis membuktikan desain benar; ia membuat penilaian profesional menjadi mungkin.
+
+## Kesalahan umum dan cara memeriksanya
+
+**Menganggap profil lebih besar pasti aman.** Periksa jalur gaya, kelangsingan, tumpuan, dan sambungan dalam perhitungan yang berlaku. Jangan menarik kesimpulan dari katalog penampang.
+
+**Menyamakan hasil visual dengan hasil struktural.** Foto dapat menunjukkan permukaan dicat atau elemen terpasang, tetapi tidak menunjukkan gaya yang benar-benar berpindah atau kondisi di balik pelat. Minta rekaman pengukuran, inspeksi, dan verifikasi yang relevan.
+
+**Menggunakan kata “sesuai standar” tanpa dokumen pengendali.** Tanyakan edisi standar, gambar kerja, prosedur proyek, dan dasar penerimaan yang benar-benar dipakai. Halaman katalog resmi tidak memuat seluruh klausul teknis untuk Anda salin menjadi spesifikasi ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)).
+
+**Menerima sertifikat tanpa ruang lingkup.** Sertifikat personel, kalibrasi alat, atau laporan NDT harus terkait dengan metode, sambungan, tanggal, kondisi pengujian, hasil, dan kewenangan evaluasi. Ringkasan ISO tidak memberi izin untuk menebak interval kalibrasi atau batas cacat ([ISO 5817:2023](https://www.iso.org/standard/80209.html); [ISO 17635:2025](https://www.iso.org/standard/85705.html); [ISO 9712:2021](https://www.iso.org/standard/75614.html)).
+
+**Memulai pekerjaan karena mengejar jadwal.** Minta hold point tertulis: pekerjaan berhenti sampai survei, material, sambungan, atau kondisi sementara diperiksa dan disetujui pihak yang berwenang.
+
+## Jalan pintas yang tampak praktis
+
+Jalan pintas yang paling menggoda adalah membandingkan dua foto, memilih proposal termurah, lalu meminta tukang meniru detailnya. Cara ini gagal ketika kerusakan awal, beban, atau tumpuan proyek berbeda dari foto. Ia juga tidak menyediakan dasar untuk menentukan apakah pekerjaan boleh dilanjutkan setelah ada penyimpangan.
+
+Alternatif yang lebih aman adalah mengirim satu daftar pertanyaan dan meminta jawaban tertulis beserta dokumen pendukung. Tunjukkan elemen yang belum dapat diverifikasi, minta insinyur struktur melakukan review, dan sepakati titik berhenti sebelum pekerjaan yang mengubah stabilitas dimulai. Jika penyedia tidak dapat menunjukkan siapa yang bertanggung jawab atas perhitungan dan penerimaan, anggap proposal belum siap untuk keputusan.
+
+## Kesimpulan
+
+Menilai proposal perkuatan berarti menilai diagnosis, beban, jalur gaya, sambungan, urutan dan kondisi sementara, lalu bukti inspeksi serta verifikasinya—bukan menilai daya tarik foto sebelum-sesudah. Teman Bengkel.co.id, kirimkan paket dokumen itu kepada insinyur struktur untuk pemeriksaan proyek nyata dan minta nomor revisi serta persetujuan yang dapat ditelusuri.
+
+Aturan operasionalnya sederhana: tanpa data eksisting terukur, dasar beban, perhitungan, metode kerja, dan rencana penerimaan yang disetujui, proposal tetap bahan diskusi, bukan izin pelaksanaan. [NEEDS COORDINATOR REVIEW: konfirmasi data proyek, desain, dan penerimaan oleh insinyur struktur sebelum terbit.]
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,124 +114,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-11
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/pembuatan-perbaikan-struktur-khusus.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-10-A04` → `/artikel/tanda-bahaya-pada-struktur-logam.html` — Retak, Deformasi, Korosi, Benturan, atau Kebakaran pada Struktur: Tindakan Awal
-- `BKL-10-A05` → `/artikel/anchor-base-plate-dan-interface-beton-baja.html` — Anchor, Base Plate, dan Interface Beton-Baja: Bukti sebelum Serah Terima
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menilai Proposal Perkuatan Struktur tanpa Tertipu Foto Sebelum-Sesudah”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

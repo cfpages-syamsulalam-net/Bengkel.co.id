@@ -3,7 +3,8 @@ article_id: BKL-12-A01
 title: "Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish"
 slug: "checklist-survei-pagar-dan-teralis"
 description: "Capture function, dimensions, openings, operation, egress, child interaction, substrate, anchor concept, corrosion, finish, and access"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -22,37 +23,13 @@ sources:
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish
 
-## Assignment lock
+Halo, Sobat Bengkel.co.id! Survei pagar atau teralis yang baik bukan sekadar mengukur lebar bidang. Hasil akhirnya adalah brief yang menjelaskan fungsi, siapa yang berinteraksi, bagaimana elemen bergerak, ke mana beban diteruskan, dan bagaimana permukaan dirawat. Dengan brief itu, bengkel dapat memberi penawaran yang dapat dibandingkan, sementara detail keselamatan dan kapasitas tetap diperiksa untuk kondisi proyek yang sebenarnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish”
-- **Reader and situation:** Homeowner using routed fabrication services
-- **Reader outcome:** Capture function, dimensions, openings, operation, egress, child interaction, substrate, anchor concept, corrosion, finish, and access
-- **Primary intent:** Prepare a fence/grille brief
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal security spacing or anchor design; `/las/pagar` and `/las/teralis` own quotes and engineer owns safety-critical details
-- **Final public route:** `/artikel/checklist-survei-pagar-dan-teralis.html`
-- **Appointed CMS date:** `2025-12-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dari penggunaan: apakah pagar menjadi batas, akses kendaraan, pintu pejalan kaki, atau pelindung bukaan? Catat ukuran aktual, arah ayunan atau geser, ruang bebas, kondisi dinding/lantai, serta akses untuk memasang dan merawat. Bukaan, jeruji, anchor, dan finish tidak boleh diputuskan terpisah. Fungsi, pengguna, geometri, tumpuan, paparan, operasi, serta pemeliharaan memengaruhi sistem terpasang, bukan hanya benda dekoratif di bengkel. Kerangka berpikir ini sejalan dengan pembahasan desain proteksi korosi untuk struktur baja pada [ISO 12944-3:2017](https://www.iso.org/standard/64835.html) dan perencanaan perlindungan untuk pekerjaan baru pada [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -63,125 +40,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Teralis` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Teralis](/wp-content/uploads/2024/07/Teralis.jpeg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-### KR-13
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 12944-3:2017 — official ISO abstract](https://www.iso.org/standard/64835.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Treat gates, railings, stairs, canopies, grilles, frames, furniture, and similar products as installed systems rather than decorative workshop objects.
-- **Safe grounded facts:** Function and risk can depend on use, users, geometry, edges and entrapment, load and impact, support/anchor substrate, drainage and water traps, dissimilar materials, exposure, access, operation/hardware, coating repair, erection, and future maintenance.
-- **Limits:** The cited sources do not provide application-specific dimensions, loads, anchors, child-safety rules, accessibility requirements, or local approvals. Resolve those from the actual project and current governing rules.
-
-### KR-11
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-03, GATE-04, GATE-05, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/las/teralis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/pagar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-12-A02` → `/artikel/pertanyaan-sebelum-memesan-kanopi-rangka-atap.html` — Kanopi dan Rangka Atap Logam: Pertanyaan sebelum Memesan
-- `BKL-12-A03` → `/artikel/furniture-logam-custom.html` — Furniture Logam Custom: Ergonomi, Stabilitas, Sambungan, dan Finish
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil survei yang siap dikirim adalah satu lembar brief dengan sketsa atau foto lokasi, daftar ukuran, fungsi tiap panel, cara operasi, kebutuhan akses, kondisi substrat, konsep titik tumpu, rencana perlindungan permukaan, dan daftar hal yang masih harus disetujui. Pemilik rumah mengumpulkan data awal; bengkel memeriksa kelayakan pembuatan; engineer atau profesional yang berwenang menilai detail keselamatan-kritis dan persetujuan yang diwajibkan proyek.
 
-## Langkah 1 — tetapkan scope
+Sediakan meteran, alat pencatat, kamera, denah bila ada, informasi utilitas tersembunyi, dan catatan kapan area dapat diakses. Jangan menganggap ukuran pada gambar lama sama dengan kondisi sekarang. Ukur beberapa titik dan tandai mana yang terhalang, miring, retak, atau baru bisa diukur setelah pembongkaran. Jika akses pengukuran belum aman, tulis sebagai prasyarat, bukan perkiraan.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan lingkup
+
+Tuliskan objek satu per satu: pagar batas, gerbang kendaraan, pintu pejalan kaki, atau teralis pada jendela dan tangga. Untuk setiap objek, jawab siapa pengguna utamanya, apakah perlu dikunci, apakah harus dibuka dari dua sisi, dan apakah menjadi jalur keluar. Bedakan pekerjaan yang termasuk (survei, fabrikasi, pemasangan, pengecatan atau pelapisan, penyetelan) dari yang tidak termasuk (perbaikan struktur bangunan, pemindahan utilitas, pekerjaan sipil, atau persetujuan keselamatan).
+
+Catat antarmuka dengan lantai, kolom, dinding, kusen, engsel, stopper, kunci, motor, dan drainase. Sistem terpasang dapat terpengaruh oleh urutan ereksi, toleransi, kondisi eksisting, dan stabilitas sementara; katalog [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) tidak boleh dipakai untuk menurunkan ukuran anchor atau kapasitas tertentu tanpa data proyek. Karena itu, sisakan kolom “menunggu keputusan profesional” untuk bentang, beban, sambungan, dan tumpuan yang belum terverifikasi.
+
+Jika kebutuhan Anda sudah spesifik sebagai pekerjaan teralis, arahkan brief dan pertanyaan harga melalui [layanan las teralis](/las/teralis). Untuk pagar dan gerbang, gunakan [layanan las pagar](/las/pagar). Tautan itu adalah langkah berikutnya untuk meminta penawaran, bukan pengganti pemeriksaan teknis di lokasi.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat tabel sederhana dengan kolom “data”, “sumber”, “tanggal”, dan “status”. Masukkan ukuran bukaan di atas, tengah, dan bawah; tinggi ambang; arah dan sudut ayunan; ruang parkir atau ruang lewat; serta posisi engsel, kunci, roda, stopper, dan sensor. Tanyakan juga apakah anak-anak, lansia, hewan, atau pengguna dengan keterbatasan gerak dapat menjangkau atau terjepit di area tertentu. Jangan mengubah pertanyaan ini menjadi angka jarak universal: kebutuhan bergantung pada fungsi, pengguna, dan aturan proyek.
+
+Periksa substrat: beton, pasangan bata, baja, kayu, atau material berlapis; terlihat utuh atau retak; kering atau sering terkena air. Foto harus diberi penanda lokasi dan arah pandang. Bila ada gambar utilitas, cocokkan sebelum menentukan titik bor. Untuk paparan korosi, catat lingkungan (dalam, luar, dekat laut, area kimia), genangan, celah penahan air, logam berbeda yang bersentuhan, serta area yang sulit dicat ulang.
+
+Minta identitas material dan produk yang benar-benar akan dipakai: spesifikasi material, nomor batch atau sertifikat bila disyaratkan, klasifikasi bahan tambah las, produk pelapis, dan catatan penggantian yang disetujui. [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) membantu menjelaskan pentingnya informasi mutu proses pengelasan, tetapi abstraknya tidak memberi parameter las atau jaminan hasil proyek. Untuk sistem cat, [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) dapat menjadi rujukan pemilihan sistem perlindungan, bukan bukti bahwa produk tertentu cocok tanpa verifikasi substrat, lingkungan, dan instruksi produsennya.
+
+Lembar data keselamatan dan label membantu mengelola bahan kimia di tempat kerja. Rujukan [OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200) adalah contoh aturan komunikasi bahaya Amerika Serikat, bukan hukum Indonesia. Minta lembar keselamatan dan instruksi produk yang berlaku di Indonesia; jangan menebak rasio campur, masa simpan, waktu curing, paparan, atau cara pembuangan dari label umum.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang mudah diaudit adalah: (1) petakan fungsi dan pengguna; (2) ukur bukaan serta ruang operasi; (3) cek jalur keluar, interaksi anak, dan titik jepit secara konseptual; (4) dokumentasikan substrat, utilitas, air, dan paparan; (5) tandai lokasi calon tumpuan tanpa menetapkan desain anchor; (6) sepakati hardware dan cara penyetelan; (7) susun konsep perlindungan permukaan dan akses perawatan; lalu (8) minta review teknis sebelum fabrikasi.
 
-## Hold point dan kondisi berhenti
+Pada tahap konsep anchor, cukup gambarkan gaya dan lokasi tumpuan yang perlu diperiksa: ke lantai, ke sisi dinding, atau ke rangka yang sudah ada. Jangan memilih jenis, diameter, kedalaman, atau jarak anchor hanya dari ukuran panel. Kecukupan sistem dipengaruhi beban, kombinasi, geometri, kestabilan, sambungan, kondisi penopang, urutan pemasangan, dan toleransi; [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) tidak mengubahnya menjadi tabel desain. Tandai `[NEEDS ENGINEER/PROFESSIONAL REVIEW: anchor, load, egress, and child-safety details]` bila data tersebut menentukan keputusan utama.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk finish, sepakati area yang harus dibersihkan, dipersiapkan, dilapisi, dan dapat diperbaiki. Pastikan desain tidak menciptakan kantong air atau celah yang tidak terjangkau alat. Simpan nama produk, batch, metode aplikasi, dan foto sebelum tertutup. Hindari janji “anti karat selamanya”; umur dan kinerja bergantung pada lingkungan, persiapan, pelaksanaan, inspeksi, dan pemeliharaan.
 
-## Verifikasi hasil dan handover
+## Titik berhenti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survei Pagar dan Teralis: Fungsi, Bukaan, Anchor, dan Finish”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pengukuran atau pemasangan bila tumpuan retak, utilitas tidak terpetakan, jalur keluar berpotensi terhalang, daun gerbang bergerak ke area publik, atau beban operasi belum jelas. Berhenti juga bila ada perbedaan antara denah dan kondisi lapangan yang memengaruhi anchor atau bukaan. Sobat Bengkel.co.id, jangan menyelesaikan titik ini dengan “nanti disesuaikan di lapangan” tanpa catatan siapa yang menyetujui dan dasar keputusannya.
 
-## Objection or shortcut to address
+Review teknis wajib sebelum memesan bila elemen menahan beban jatuh, berfungsi sebagai pagar pengaman, berada di tangga atau balkon, memakai motor, atau menjadi bagian jalur evakuasi. Tanyakan aturan lokal dan persetujuan bangunan yang berlaku. Jika tidak ada bukti yang cukup, pertahankan penanda `[NEEDS SITE EVIDENCE]` dan jangan mengubahnya menjadi klaim kepatuhan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Sebelum serah terima, cocokkan ukuran terpasang dengan brief dan catat penyimpangan. Periksa secara fungsional bahwa daun bergerak sesuai arah yang disepakati, stopper dan kunci bekerja, tidak ada gesekan yang belum diselesaikan, dan akses perawatan tetap tersedia. Pemeriksaan ini bukan uji kapasitas struktural atau sertifikat keselamatan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Serahkan sketsa final, foto titik tumpu yang sudah tertutup, daftar material dan batch, instruksi perawatan, jadwal inspeksi, serta daftar komponen pengganti. Catat siapa yang menerima keputusan tentang anchor, egress, bukaan, dan finish. Jika ada area yang belum dapat diverifikasi, jadikan item terbuka dengan pemilik tindakan dan tanggal tindak lanjut.
 
-## Draft completion checklist
+## Jalan pintas yang sering menggoda
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintasnya adalah mengirim satu ukuran lebar dan tinggi, lalu meminta bengkel “menentukan semuanya”. Itu bisa gagal karena arah bukaan, ruang manuver, substrat, utilitas, dan akses perawatan tidak terlihat dari dua angka. Panel mungkin muat tetapi mengganggu jalur keluar, sulit dibuka, atau menyulitkan perbaikan lapisan.
+
+Alternatif yang lebih andal adalah mengirim brief bertanda: ukuran dan toleransi yang benar-benar diukur, foto beranotasi, fungsi dan pengguna, kondisi tumpuan, paparan air/korosi, hardware yang diinginkan, serta pertanyaan yang sengaja menunggu review. Kawan Bengkel.co.id, brief yang jujur tentang hal yang belum diketahui biasanya mempercepat koreksi dan mencegah harga awal dibangun di atas asumsi.
+
+## Kesimpulan
+
+Checklist survei pagar dan teralis harus menghubungkan fungsi, bukaan, operasi, pengguna, substrat, konsep tumpuan, korosi, finish, dan akses perawatan dalam satu brief. Ukur dan dokumentasikan kondisi nyata, cocokkan identitas material serta produk, lalu tahan keputusan anchor, beban, egress, dan keselamatan anak sampai profesional proyek meninjaunya.
+
+Langkah berikutnya: kirim brief, foto beranotasi, dan daftar item terbuka kepada bengkel; minta mereka mengonfirmasi lingkup dan data yang kurang. Teman Bengkel.co.id, aturan operasinya sederhana: jangan fabrikasi atau pasang ketika keputusan keselamatan-kritis masih berupa tebakan.

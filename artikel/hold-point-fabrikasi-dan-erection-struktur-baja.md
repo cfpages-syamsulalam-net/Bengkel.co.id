@@ -1,9 +1,10 @@
 ---
 article_id: BKL-10-A03
+writing_contract_version: "native-id-v2"
 title: "Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja"
 slug: "hold-point-fabrikasi-dan-erection-struktur-baja"
-description: "Cover incoming material, layout, holes/connections, welds, dimensions, coating, trial fit, transport, lifting, stability, field connections, and final survey"
-status: outline
+description: "Panduan titik tahan untuk material masuk, layout, lubang dan sambungan, las, dimensi, coating, trial fit, transportasi, pengangkatan, kestabilan, sambungan lapangan, dan survei akhir"
+status: draft
 publication_date: "2025-11-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,38 +22,7 @@ sources:
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja”
-- **Reader and situation:** Project moves steelwork from shop to site
-- **Reader outcome:** Cover incoming material, layout, holes/connections, welds, dimensions, coating, trial fit, transport, lifting, stability, field connections, and final survey
-- **Primary intent:** Plan structural hold points
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No lifting plan or temporary stability design; BKL-15 and qualified engineer own authorization
-- **Final public route:** `/artikel/hold-point-fabrikasi-dan-erection-struktur-baja.html`
-- **Appointed CMS date:** `2025-11-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,128 +33,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Bengkel.co.id! Hold point struktur baja bukan sekadar tanda tangan sebelum pekerjaan lanjut. Ia adalah titik berhenti yang sengaja dipasang agar material, sambungan, ukuran, pelapisan, dan kondisi lapangan punya bukti yang dapat ditelusuri. Untuk pekerjaan yang berpindah dari workshop ke lokasi, buat hold point berurutan: material masuk, penandaan dan pemotongan, lubang serta sambungan, pengelasan, pemeriksaan dimensi, coating, trial fit, lalu pelepasan untuk transport. Di lapangan, tahan lagi pada penerimaan komponen, kesiapan tumpuan, pengangkatan, kestabilan sementara, sambungan final, dan survei akhir.
 
-### KR-11
+Urutan itu dapat berubah bila gambar kerja, revisi, lingkungan korosif, metode sambungan, atau urutan erection berbeda. Ukuran profil saja tidak membuktikan kecukupan struktur; beban, kombinasi, geometri, stabilitas, koneksi, angkur, tumpuan, toleransi, dan urutan pemasangan harus dinilai sebagai satu sistem. Katalog resmi [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) dan ringkasan [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) hanya mengidentifikasi standar serta ruang lingkupnya, bukan memberi angka kapasitas atau detail sambungan. Karena itu, [NEEDS LICENSED GOVERNING STANDARDS AND ISSUED-FOR-WORK PROJECT DOCUMENTS] sebelum hold point ditetapkan sebagai dasar penerimaan.
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-08
 
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/pembuatan-perbaikan-struktur-khusus.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-besi-baja.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-10-A01` → `/artikel/alur-pembuatan-dan-perbaikan-struktur-logam.html` — Alur Pembuatan dan Perbaikan Struktur Logam yang Melibatkan Engineer
-- `BKL-10-A02` → `/artikel/dokumen-struktur-baja.html` — Dokumen Struktur Baja: Gambar, Material, Sambungan, dan ITP
-- `BKL-10-A04` → `/artikel/tanda-bahaya-pada-struktur-logam.html` — Retak, Deformasi, Korosi, Benturan, atau Kebakaran pada Struktur: Tindakan Awal
-- `BKL-10-A05` → `/artikel/anchor-base-plate-dan-interface-beton-baja.html` — Anchor, Base Plate, dan Interface Beton-Baja: Bukti sebelum Serah Terima
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hold point adalah kondisi “belum boleh lanjut” sampai pemeriksaan dan bukti yang dipersyaratkan ditinjau pihak berwenang. Berbeda dari witness point, hold point memerlukan pelepasan formal; bila pemeriksa tidak hadir atau hasil belum lengkap, status tetap tertahan sesuai prosedur proyek. Buat matriks sederhana berisi aktivitas, prasyarat, pemeriksa, rekaman, kriteria penerimaan, dan pejabat yang berwenang menutup temuan.
+
+Artikel ini membahas pengendalian mutu dan koordinasi perpindahan dari workshop ke lapangan. Ini tidak menetapkan desain profil, kapasitas angkat, urutan crane, atau desain kestabilan sementara. Otorisasi lifting plan dan temporary stability tetap milik paket kerja BKL-15 dan insinyur yang berwenang. Sobat Bengkel.co.id, bila dokumen desain belum menjelaskan kondisi sementara, jangan mengubah hold point menjadi izin improvisasi.
+
+Paket fabrikasi yang terkendali biasanya mengikat dokumen dan revisi yang berlaku, fungsi komponen, datum dan ukuran, identitas material serta joint, antarmuka beban, toleransi, urutan fabrikasi, kebutuhan las/baut/coating, inspeksi, dasar penerimaan, penanganan, pemasangan, dan mekanisme deviasi. [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) dapat menjadi rujukan kerangka pemilihan dan penggunaan persyaratan mutu pengelasan, tetapi abstraknya tidak menggantikan prosedur proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan pemeriksaan material masuk. Cocokkan heat atau batch, penandaan, sertifikat material yang dipersyaratkan, kondisi fisik, dan jumlah dengan daftar material serta gambar revisi terakhir. Tahan material yang identitasnya kabur atau rusak; jangan “menyamakan” berdasarkan bentuk profil. Catat keputusan dan siapa yang menyetujuinya.
+
+Pada layout, transfer datum ke meja kerja dan tandai orientasi, titik referensi, serta nomor komponen. Hold point berikutnya memeriksa panjang, sudut, posisi lubang, edge distance menurut dokumen proyek, dan kecocokan pelat penyambung. Jangan mengandalkan pengukuran setelah semua bagian dilas karena akses dan kemampuan koreksinya sudah berkurang.
+
+Untuk sambungan las, verifikasi joint identity, WPS atau prosedur yang dipersyaratkan, kesiapan permukaan, urutan tack dan pengelasan, serta identitas juru las sesuai ruang lingkupnya. Rencana inspeksi perlu menyebut metode dan luas pemeriksaan, kondisi permukaan, alat, laporan, hasil, serta alur nonkonformitas. [ISO 5817:2023](https://www.iso.org/standard/80209.html) membahas tingkat mutu ketidaksempurnaan, sedangkan [ISO 17635:2025](https://www.iso.org/standard/85705.html) membahas aturan umum pemilihan metode uji tak merusak (NDT); abstrak keduanya tidak memberi batas penerimaan yang boleh ditebak. Kompetensi personel NDT perlu diverifikasi sesuai ruang lingkup sertifikasinya, dengan [ISO 9712:2021](https://www.iso.org/standard/75614.html) sebagai rujukan umum kompetensi personel.
+
+Setelah pengelasan dan pemeriksaan, ukur kembali dimensi, kelurusan, squareness, posisi lubang, dan interface yang akan bertemu komponen lain. Lanjutkan ke surface preparation dan coating hanya jika kondisi permukaan, sistem lapisan, area perbaikan, serta lingkungan pemakaian sudah ditetapkan. [ISO 12944-8:2017](https://www.iso.org/standard/64838.html) memberi kerangka penyusunan spesifikasi perlindungan korosi untuk struktur baja, bukan izin memilih ketebalan atau produk tanpa spesifikasi proyek.
+
+Trial fit (perakitan uji) digunakan untuk memeriksa apakah komponen dan sambungan benar-benar bertemu sebelum dikemas. Tandai shim, orientasi, titik angkat yang disetujui, dan urutan pembongkaran. Setelah itu, hold point pelepasan memeriksa packing, perlindungan coating, daftar komponen, berat dan dimensi untuk logistik, serta dokumen pengiriman. Tautkan pekerjaan ini dengan [alur konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html) bila Anda memerlukan gambaran antarmuka proses yang lebih luas.
+
+Di lapangan, tahan penerimaan sampai komponen, baut, pelat sambung, dan dokumen identifikasinya cocok dengan packing list. Periksa tumpuan, anchor atau embedment yang menjadi interface, akses kerja, zona eksklusi, cuaca, dan kesiapan alat sesuai rencana yang telah disetujui. Jangan menyusun urutan pengangkatan baru di tengah pekerjaan. Setelah komponen berada pada posisi, verifikasi sambungan sementara dan kestabilan sebelum melepas alat bantu; desain temporary stability berada di luar artikel ini dan memerlukan insinyur berwenang.
+
+Field connection ditutup melalui pemeriksaan pengencangan baut atau pengelasan lapangan, pemeriksaan ulang dimensi, dan penyelesaian coating yang rusak. Akhiri dengan final survey: elevasi, grid, plumb, posisi base plate, dan interface yang disepakati. Simpan data ukur, foto identifikasi, laporan inspeksi, daftar punch, serta bukti penutupan nonkonformitas sebagai satu paket turnover.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Revisi gambar dan perubahan desain mengubah seluruh hold point. Satu perubahan lubang dapat memengaruhi pelat, urutan las, coating, trial fit, bahkan packing. Tandai setiap revisi di daftar komponen dan hentikan pekerjaan pada detail yang belum memiliki status terkini.
+
+Lingkungan juga menentukan bukti yang diperlukan. Paparan korosi, area panas, ruang terbatas, atau interface dengan beton menuntut persyaratan permukaan dan inspeksi yang berbeda. Jangan memindahkan kriteria dari proyek lain. [NEEDS PROJECT-SPECIFIC ACCEPTANCE BASIS FOR TOLERANCES, COATING, AND FIELD CONNECTIONS].
+
+Kondisi pelaksanaan dapat mengubah akses, urutan, dan waktu tunggu, tetapi bukan alasan menghapus pemeriksaan. Jika hasil NDT menunjukkan indikasi, operator tidak boleh menetapkan sendiri apakah diterima. Minta disposisi engineering, dokumentasikan repair cycle, lalu ulangi pemeriksaan yang diwajibkan sampai closeout.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel keputusan berikut sebagai pemicu, bukan pengganti ITP proyek:
+
+| Temuan | Keputusan aman | Bukti minimum |
+|---|---|---|
+| Material cocok dan identitas terbaca | Lanjut ke layout | catatan penerimaan dan sertifikat yang dipersyaratkan |
+| Lubang atau datum berbeda dari gambar | Tahan, terbitkan NCR atau RFI | hasil ukur, revisi gambar, disposisi berwenang |
+| Las selesai tetapi laporan pemeriksaan belum lengkap | Tahan coating atau pelepasan | identitas joint, laporan, status personel dan alat |
+| Trial fit tidak bertemu | Jangan memaksa baut atau memotong di lokasi | catatan deviasi, analisis engineer, metode perbaikan disetujui |
+| Tumpuan atau kestabilan sementara belum disetujui | Jangan mengangkat atau melepas alat bantu | izin kerja dan rencana erection yang disahkan |
+| Final survey di luar kriteria proyek | Tahan serah terima | data ukur, evaluasi engineering, rekaman perbaikan |
+
+Kawan Bengkel.co.id, perhatikan bahwa setiap baris memisahkan fakta terukur dari keputusan. “Tampak pas” bukan hasil survey, dan “sudah dilas” bukan bukti penerimaan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Fabrikasi di Workshop dan Erection di Lapangan: Hold Point Struktur Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai checklist generik tanpa mengikat nomor gambar, joint, atau komponen. Perbaiki dengan identitas unik dan kolom revisi. Kedua, menganggap sertifikat material otomatis membuktikan komponen terpasang benar; cocokkan traceability dari material sampai part mark dan laporan.
 
-## Objection or shortcut to address
+Ketiga, mencampur pemeriksaan visual, NDT, evaluasi indikasi, dan kompetensi personel seolah-olah satu hal. Pisahkan metode, extent, alat, personel, hasil, dan otoritas penerimaan. Keempat, melakukan perbaikan lubang atau pemotongan lapangan tanpa deviasi tertulis. Setiap perubahan harus memiliki penilaian dampak dan persetujuan yang sesuai.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Terakhir, menghapus hold point karena jadwal pengiriman atau crane sudah tersedia. Jadwal tidak menggantikan bukti. Bila satu rekaman tertinggal, tandai komponen sebagai tertahan dan eskalasi melalui RFI/NCR, bukan lewat pesan lisan.
 
-## Required conclusion
+## Jalan pintas yang tampak menghemat waktu
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah memindahkan semua pemeriksaan ke akhir erection agar workshop segera mengirim. Cara ini gagal ketika lubang tidak segaris, coating menutupi cacat, atau akses inspeksi hilang setelah komponen bertemu. Biaya koreksi dan risiko kestabilan justru muncul di lokasi paling sulit dikendalikan.
 
-## Draft completion checklist
+Alternatifnya, tetapkan hold point kecil namun berurutan: material, layout, joint sebelum tertutup, dimensi sebelum coating, trial fit, release, penerimaan lapangan, sambungan final, dan survey. Hubungkan setiap pelepasan dengan nama pemeriksa, tanggal, revisi dokumen, serta status temuan. Untuk pekerjaan las, lihat juga [panduan pengelasan besi dan baja](/las-besi-baja.html); rujukan itu tetap bukan pengganti WPS, ITP, atau kriteria proyek.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Hold point struktur baja yang baik mengikuti perjalanan bukti: material masuk, geometri dan sambungan di workshop, las dan pemeriksaan, coating, trial fit, transport, lalu penerimaan, kestabilan, sambungan lapangan, dan final survey. Ia mengendalikan keputusan, bukan sekadar menambah tanda tangan.
+
+Langkah Anda berikutnya adalah meminta ITP atau quality plan yang mencantumkan setiap titik tahan, dasar penerimaan, identitas joint/komponen, rekaman yang wajib, dan pejabat pelepas. Cocokkan dengan gambar IFC, revisi terbaru, rencana erection, serta dokumen interface tumpuan. Teman Bengkel.co.id, bila salah satu dasar itu belum tersedia, sisakan status `[NEEDS TECHNICAL REVIEW]` dan minta insinyur berkualifikasi menetapkan keputusan. Jangan mengubah artikel ini menjadi izin lifting atau desain kestabilan sementara; kewenangan tersebut tetap berada pada paket proyek dan profesional yang ditunjuk.

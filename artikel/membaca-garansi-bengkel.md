@@ -1,9 +1,10 @@
 ---
 article_id: BKL-17-A03
+writing_contract_version: "native-id-v2"
 title: "Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy"
 slug: "membaca-garansi-bengkel"
 description: "Check warranted output, start/end, use and maintenance duties, exclusions, notice, inspection, labor/parts/travel, remedy, and evidence"
-status: outline
+status: draft
 publication_date: "2026-04-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,42 +17,10 @@ technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden"
   - "https://www.iso.org/standard/83335.html"
-  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy”
-- **Reader and situation:** Customer compares written coverage
-- **Reader outcome:** Check warranted output, start/end, use and maintenance duties, exclusions, notice, inspection, labor/parts/travel, remedy, and evidence
-- **Primary intent:** Evaluate warranty terms
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not legal interpretation or actual site terms; BKL-18 owns contested claims and commercial route owns its warranty
-- **Final public route:** `/artikel/membaca-garansi-bengkel.html`
-- **Appointed CMS date:** `2026-04-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,126 +31,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Bengkel.co.id! Garansi bengkel bukan sekadar tulisan “garansi sekian bulan”. Cara membacanya adalah mencocokkan keluaran yang dijamin, kapan masa berlaku dimulai dan berakhir, kewajiban pemakaian serta perawatan, pengecualian, cara memberi tahu masalah, pemeriksaan, lalu bentuk penyelesaiannya (*remedy*). Jika salah satu bagian itu kabur, Anda belum bisa membandingkan dua penawaran secara adil.
 
-### KR-18
+Jawaban singkatnya: pilih dokumen yang menyebut objek dan hasil yang dijamin secara terukur, pemicu tanggal yang dapat dibuktikan, syarat penggunaan/perawatan yang realistis, pengecualian yang terbatas dan jelas, serta alur klaim sampai biaya tenaga kerja, suku cadang, perjalanan, dan keputusan akhir. Bukti serah-terima, identitas pekerjaan, revisi dokumen, hasil pemeriksaan, dan otorisasi perlu disimpan sebagai satu paket; sertifikat tanpa identitas dan dasar pemeriksaan tidak otomatis membuktikan kesesuaian. [NEEDS CONTRACT REVIEW: bunyi garansi, pemicu mulai, pengecualian, dan remedy aktual harus dicocokkan dengan kontrak atau surat penawaran yang ditandatangani.]
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-04, GATE-07, GATE-10
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-17-A01` → `/artikel/checklist-dokumen-serah-terima-bengkel.html` — Checklist Dokumen Serah Terima Pekerjaan Bengkel
-- `BKL-17-A02` → `/artikel/as-built-test-report-dan-foto-akhir.html` — As-Built, Test Report, dan Foto Akhir: Membuat Baseline yang Bisa Dipakai Lagi
-- `BKL-17-A04` → `/artikel/training-pengguna-setelah-repair.html` — Training Pengguna setelah Fabrikasi atau Repair: Apa yang Harus Dijelaskan
-- `BKL-17-A05` → `/artikel/delivery-instalasi-reinstatement-dan-handoff.html` — Delivery, Instalasi, Reinstatement, dan Handoff Antar-Pihak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum membandingkan durasi, tetapkan dulu hasil yang ingin diterima. Apakah garansi mencakup pekerjaan fabrikasi, pemasangan, komponen pengganti, atau hanya cacat pengerjaan tertentu? Tuliskan identitas aset, nomor pekerjaan, revisi gambar atau spesifikasi, dan batas antarmuka dengan pihak lain. “Bengkel bertanggung jawab sampai berfungsi” terlalu luas jika tidak ada definisi fungsi, kondisi uji, dan siapa yang menyatakan penerimaan.
 
-## Langkah 1 — tetapkan scope
+Pihak yang berwenang juga harus jelas: siapa menyerahkan, siapa memeriksa, siapa menerima, dan siapa memutuskan bahwa perbaikan selesai. Undang-Undang Perlindungan Konsumen menekankan informasi yang benar dan tanggung jawab pelaku usaha; rujukan itu membantu menilai kejelasan informasi, bukan memberi saya dasar untuk menafsirkan sengketa tertentu. [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prasyarat praktisnya adalah dokumen yang bisa ditelusuri: surat penawaran, ruang lingkup, daftar material atau suku cadang, berita acara serah-terima, manual, catatan pengujian, dan kontak klaim. Standar ISO 3834-6:2024 dapat menjadi rujukan untuk memahami perlunya informasi dan dokumentasi mutu yang terstruktur, tetapi halaman katalog standar itu tidak membuktikan bahwa pekerjaan tertentu telah memenuhi persyaratan. [ISO 3834-6:2024](https://www.iso.org/standard/83335.html)
+
+## Langkah 1 — tetapkan batas pekerjaan
+
+Buat tabel sederhana “termasuk–tidak termasuk”. Masukkan objek, lokasi atau batas antarmuka, pekerjaan pembongkaran, pemasangan kembali, penyetelan, pengecatan, pengujian, dan pembersihan. Pisahkan pula kerusakan yang berasal dari pekerjaan bengkel dari kerusakan akibat modifikasi pihak lain, penggunaan di luar kondisi yang disepakati, kecelakaan, atau keterlambatan perawatan. Pengecualian harus menunjuk sebab dan batasnya; kalimat umum seperti “semua kerusakan karena pemakaian” sulit dipakai untuk memeriksa klaim.
+
+Scope juga menentukan apa yang dihitung sebagai awal garansi. Pilih pemicu yang memiliki bukti—tanggal berita acara penerimaan, tanggal pengujian diterima, atau tanggal pengiriman bila memang itu yang disepakati—bukan sekadar tanggal invoice. Catat masa berakhir, apakah ada perbaikan yang memperpanjang masa untuk bagian yang diperbaiki, dan bagaimana sisa masa dihitung. Jangan mengasumsikan perpanjangan tanpa klausul tertulis. Untuk pekerjaan yang menyangkut komponen industri, Anda dapat membandingkan batas pekerjaan dengan layanan [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) agar objek garansi tidak tertukar dengan pekerjaan lain.
+
+Kawan Bengkel.co.id, uji scope dengan pertanyaan: “Jika komponen ini gagal setelah serah-terima tetapi sebelum dipakai rutin, siapa melakukan apa, dan dengan biaya siapa?” Jika jawabannya hanya lisan, minta revisi dokumen sebelum pekerjaan dimulai.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baca syarat penggunaan dan perawatan sebagai pasangan dari janji garansi. Cari batas beban, lingkungan, operator, jadwal inspeksi, pelumas atau material yang disyaratkan, serta larangan membuka atau memodifikasi komponen tanpa persetujuan. Jangan mengubahnya menjadi jadwal universal: interval yang tepat bergantung pada manual OEM, riwayat aset, kondisi operasi, dan kewajiban yang berlaku.
+
+Untuk membuktikan perawatan, cocokkan nomor aset, tanggal, jam operasi bila tersedia, pekerjaan yang dilakukan, identitas suku cadang, hasil inspeksi, cacat yang ditunda, dan otorisasi pelepasan. Rujukan keselamatan seperti aturan pengendalian energi berbahaya OSHA menjelaskan pentingnya isolasi dan verifikasi sebelum pekerjaan tertentu; itu bukan izin untuk menyusun prosedur lokasi Anda tanpa penilaian orang berwenang. [OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)
+
+Susun berkas klaim berurutan: nomor pekerjaan, foto atau hasil ukur yang relevan, kronologi, kondisi saat masalah ditemukan, catatan penggunaan dan perawatan, serta komunikasi pemberitahuan. Cocokkan setiap lampiran dengan klausul yang dirujuk. Jika dokumen menyebut “hasil uji” tetapi tidak mencantumkan metode, tanggal, identitas alat, hasil, dan pemberi otorisasi, tandai sebagai bukti yang belum lengkap.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat masalah muncul, hentikan tindakan yang dapat memperparah kerusakan dan amankan area sesuai prosedur keselamatan setempat. Beri notifikasi melalui kanal dan batas waktu yang tertulis, sertakan identitas aset serta uraian gejala. Jangan langsung membongkar atau mengganti bagian yang masih diperlukan untuk pemeriksaan; minta instruksi inspeksi dan akses dari pihak yang ditunjuk.
 
-## Hold point dan kondisi berhenti
+Setelah inspeksi, pisahkan tiga keputusan: apakah kondisi berada dalam scope, apakah syarat garansi dipenuhi, dan remedy apa yang tersedia. Remedy dapat berupa perbaikan, penggantian bagian, pengerjaan ulang, atau pilihan lain yang memang tertulis. Pastikan dokumen menjawab siapa menanggung tenaga kerja, suku cadang, perjalanan, pengangkatan, pengujian ulang, dan biaya akses. Total harga awal tidak cukup untuk menyimpulkan komponen biaya tersebut termasuk; rincian scope dan perubahan harus menyebut alasan, konsekuensi waktu/biaya, persetujuan, serta revisinya.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika pekerjaan korektif menyentuh peralatan berenergi atau sistem yang berisiko, penjadwalan, isolasi, pengujian, dan pelepasan kembali memerlukan penanggung jawab yang kompeten. Jangan menjadikan garansi sebagai alasan untuk melewati *hold point* keselamatan atau memutuskan restart tanpa persetujuan yang dipersyaratkan.
 
-## Verifikasi hasil dan handover
+## Titik henti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Garansi Bengkel: Cakupan, Pengecualian, Mulai, dan Remedy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhenti dan minta review ketika pemicu awal tidak dapat dibuktikan, scope bertentangan dengan gambar atau berita acara, catatan perawatan hilang, penyebab kegagalan belum terpisah dari kerusakan lanjutan, atau pengecualian ditafsirkan secara berbeda oleh para pihak. Tahan pembongkaran yang menghilangkan bukti sampai metode inspeksi dan pihak pemeriksa disetujui.
 
-## Objection or shortcut to address
+GATE-04, GATE-07, dan GATE-10 memerlukan pemeriksaan koordinator karena paket ini tidak memuat syarat proyek aktual, rekaman klaim, atau keputusan hukum. [NEEDS TECHNICAL/CONTRACT REVIEW: jangan menyimpulkan hak, tenggat, tanggung jawab, atau hasil sengketa dari artikel ini.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Gunakan checklist penerimaan yang mengikat setiap janji dengan bukti. Periksa:
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+- objek, nomor pekerjaan, revisi dokumen, dan pihak penandatangan;
+- tanggal dan peristiwa yang memulai serta mengakhiri masa garansi;
+- hasil inspeksi atau uji, metode, tanggal, identitas alat, dan status diterima;
+- kewajiban penggunaan, perawatan, dan catatan pelaksanaannya;
+- daftar pengecualian, prosedur pemberitahuan, kontak, dan kebutuhan akses;
+- remedy, batas waktu respons yang tertulis, serta pembagian biaya tenaga kerja, bagian, perjalanan, dan pengujian;
+- status pekerjaan korektif, bukti penutupan, dan otorisasi untuk kembali beroperasi.
 
-## Draft completion checklist
+Serah-terima adalah status yang diterima bersama paket bukti, bukan sekadar barang berpindah tangan atau pembayaran selesai. Simpan revisi dan komunikasi agar perubahan dapat ditelusuri. Bila ada cacat terbuka atau dokumen kurang, tulis sebagai item terbuka dengan penanggung jawab dan kondisi penutup—bukan mengubahnya menjadi “diterima tanpa catatan”. Untuk menyiapkan pertanyaan lanjutan, Anda dapat mulai dari [halaman utama Bengkel.co.id](/?ref=garansi) dan membawa nomor pekerjaan serta revisi dokumen yang relevan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Jalan pintas yang tampak menarik
+
+Shortcut yang sering dipilih adalah mengambil penawaran dengan durasi garansi paling panjang, lalu mengabaikan scope dan pengecualian. Itu bisa gagal: masa panjang tidak membantu bila hanya berlaku untuk suku cadang, dimulai sejak pengiriman, atau gugur ketika catatan perawatan tidak lengkap. Bandingkan satu baris demi satu baris dalam tabel termasuk–tidak termasuk dan minta contoh alur klaim tertulis. Durasi baru bermakna setelah keluaran, pemicu, bukti, dan remedy sebanding.
+
+## Langkah berikutnya
+
+Teman Bengkel.co.id, garansi yang layak dibandingkan menjawab empat hal: apa yang dijamin, kapan mulai dan berakhir, syarat serta pengecualiannya, dan bagaimana remedy dibuktikan serta dibiayai. Sebelum menandatangani, minta pihak bengkel menandai klausul tersebut pada dokumen final dan cocokkan dengan berita acara, daftar material, serta rencana perawatan.
+
+Jika ada istilah yang bertentangan, bukti yang hilang, atau keputusan restart dan sengketa yang belum jelas, hentikan penerimaan dan minta review teknis atau hukum yang sesuai. Simpan salinan final bersama dokumen proyek agar konteks pekerjaan tidak terlepas dari pembahasan. Aturan operasionalnya sederhana: jangan menganggap klaim dapat dipenuhi hanya karena ada kata “garansi”; klaim harus dapat ditelusuri dari batas pekerjaan, kondisi, bukti, pemberitahuan, inspeksi, sampai remedy yang disetujui.

@@ -2,8 +2,9 @@
 article_id: BKL-18-A04
 title: "Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti"
 slug: "menjaga-bukti-sengketa-bengkel"
-description: "Explain safety isolation, condition record, custody, labels, part retention, non-destructive inspection, exports/backups, privacy, and authorized alteration"
-status: outline
+description: "Panduan menjaga barang rusak, part lama, foto, chat, dan dokumen tetap terlacak sebelum pemeriksaan atau perbaikan mengubah kondisinya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,37 +19,18 @@ sources:
   - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti
 
-## Assignment lock
 
-- **Writer task:** Expand this file into one complete article answering: “Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti”
-- **Reader and situation:** Repair or dispute may alter the item
-- **Reader outcome:** Explain safety isolation, condition record, custody, labels, part retention, non-destructive inspection, exports/backups, privacy, and authorized alteration
-- **Primary intent:** Preserve physical and digital evidence
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No unsafe storage, covert access, or guarantee of admissibility; qualified legal/technical reviewers decide
-- **Final public route:** `/artikel/menjaga-bukti-sengketa-bengkel.html`
-- **Appointed CMS date:** `2026-05-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Sobat Bengkel.co.id! Ketika barang rusak hendak dibongkar, part lama dibuang, atau chat dihapus, Anda bisa kehilangan pembanding yang paling penting. Jawaban singkatnya: amankan dulu kondisi, catat apa yang terlihat, simpan barang dan berkas dalam penguasaan yang jelas, lalu ubah hanya dengan persetujuan yang dapat dilacak. Bukti yang dijaga bukan jaminan diterima dalam proses hukum; penilaian teknis dan hukum tetap bergantung pada konteks, kontrak, serta pemeriksa yang berwenang.
 
-## Opening instructions
+Dokumentasikan sebelum ada pembersihan, penggantian, atau uji yang mengubah kondisi. Pisahkan pertanyaan keselamatan, penyebab teknis, tanggung jawab kontraktual, pemulihan konsumen, dan proses hukum. Keempatnya dapat memakai bukti yang sama, tetapi jawabannya tidak otomatis sama. [NEEDS REVIEW: kecukupan dan admissibility bukti harus dinilai profesional sesuai forum dan hukum yang berlaku.]
 
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -59,126 +41,54 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-19
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Help a reader document and triage a problem without prejudging fault, destroying evidence, or giving legal advice.
-- **Safe grounded facts:** Immediate safety containment, technical cause investigation, contractual responsibility, consumer remedy, and legal process are different questions. Destructive repair or continued operation can change the condition and evidence.
-- **Limits:** Do not state who is liable, promise a refund/rework outcome, calculate damages, or prescribe a limitation period. Check current law, contract, forum, evidence, and competent Indonesian advice.
-
-### KR-06
-
-- **Original sources:** [UU No. 8 Tahun 1999 tentang Perlindungan Konsumen — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Support fair, comparable workshop scopes without inventing market prices or presenting a generic checklist as legal advice.
-- **Safe grounded facts:** A total price alone does not show whether survey, dismantling, design, material grade, consumables, coating preparation, transport, lifting, utilities, access, testing, rework, taxes, or documentation are included. Changes should preserve request, reason, cost/time consequence, approval, and revision history.
-- **Limits:** Do not state a statutory entitlement, deadline, damages formula, or dispute outcome without current legal review. Price examples require dated, local, like-for-like primary market evidence that is not contained here.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-07, GATE-10, GATE-11
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-18-A02` → `/artikel/inspeksi-independen-saat-hasil-diperdebatkan.html` — Inspeksi Independen saat Hasil Bengkel Diperdebatkan
-- `BKL-18-A03` → `/artikel/rework-replace-refund-atau-kompensasi.html` — Rework, Replace, Refund, atau Kompensasi: Memetakan Pilihan Penyelesaian
-- `BKL-18-A05` → `/artikel/eskalasi-sengketa-jasa-bengkel.html` — Negosiasi, Mediasi, BPSK, atau Pengadilan: Kapan Mencari Bantuan Hukum
-- `BKL-18-A06` → `/artikel/ulasan-publik-bengkel-yang-faktual.html` — Ulasan Publik tentang Bengkel: Faktual, Proporsional, dan Menjaga Privasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tulis keadaan yang dapat diamati: bagian mana, kapan ditemukan, siapa yang melihat, dan perubahan apa yang sudah terjadi. Foto dari jarak umum lalu detail, sertakan skala yang tidak merusak benda, dan simpan waktu pengambilan. Catat juga apa yang belum dapat diperiksa—misalnya bagian tertutup atau mesin belum aman dihidupkan. Jangan menulis “pasti salah pasang” hanya karena ada retak; itu hipotesis, bukan fakta.
+
+Buat lembar kondisi awal dengan nomor unik. Hubungkan nomor tersebut ke foto, video, formulir penerimaan, percakapan, dan permintaan kerja. Simpan salinan asli tanpa filter; hasil kompresi atau anotasi menjadi salinan kerja. Jika ada perubahan permintaan, tulis permintaan, alasan, dampak waktu/biaya, pihak yang menyetujui, dan nomor revisinya. Total harga saja tidak menjelaskan ruang lingkup pekerjaan atau dokumentasinya, sehingga riwayat perubahan perlu dipertahankan ([UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)).
+
+Gunakan penamaan yang konsisten, misalnya `BKL-18-A04-20260528-01`, pada wadah dan berkas. Catat zona waktu bila perangkat atau pihak berbeda lokasi. Daftar inventaris singkat mencegah part tertukar dengan barang lain yang bentuknya mirip. Untuk dokumen cetak, buat salinan baca saja dan simpan halaman yang memuat tanda tangan, stempel, atau lampiran; jangan menulis catatan langsung pada naskah asli.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bukti tidak boleh dipertahankan dengan cara yang menciptakan bahaya baru. Isolasi energi, cairan, panas, benda tajam, atau komponen yang bisa jatuh sesuai prosedur tempat kerja. Batasi akses dan beri tahu orang yang bertanggung jawab. Bila pengoperasian ulang dapat memperparah kerusakan, hentikan dan minta pemeriksaan kompeten; jangan menyalakan alat hanya untuk “membuktikan” keluhan.
+
+Simpan part di wadah yang tidak menimbulkan korosi atau kontaminasi, tetapi jangan mencuci, mengamplas, mengecat, memotong, atau membuka segel tanpa alasan keselamatan yang terdokumentasi. Labeli wadah dengan nomor barang, tanggal, kondisi saat diterima, dan nama pemegang. Kawan Bengkel.co.id, jika keselamatan menuntut pemindahan atau pembongkaran, foto kondisi sebelum dan sesudah tindakan, catat siapa yang mengizinkan, serta bagian mana yang mungkin berubah.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelompokkan kemungkinan tanpa mengunci diagnosis: kerusakan awal, pemasangan atau penggunaan, lingkungan, interaksi dengan pekerjaan sebelumnya, dan kerusakan yang timbul saat penanganan. Untuk setiap kelompok, tulis bukti yang mendukung dan yang belum ada. Part lama dapat menunjukkan kondisi sebelum pekerjaan, sedangkan foto dan chat menunjukkan urutan kejadian; tidak satu pun sendirian menetapkan penyebab atau pihak yang bertanggung jawab.
+
+Jaga rantai penguasaan (custody), yakni catatan perpindahan barang dan berkas. Gunakan log sederhana: nomor bukti, pemilik atau pengirim, penerima, waktu, tujuan, kondisi segel, dan tanda tangan atau konfirmasi. Jika part dikirim, foto kemasan dan simpan nomor pengiriman. Jangan mengandalkan ingatan ketika sengketa mulai memanas.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari observasi dan dokumen yang paling aman, kemudian pemeriksaan non-destruktif: pencahayaan, pengukuran tanpa membongkar, pembacaan kode, atau uji fungsi yang memang disetujui. Tentukan kriteria berhenti sebelum tes, termasuk kondisi yang memerlukan teknisi atau laboratorium. Ambil sampel hanya bila ada metode, jumlah, identifikasi, dan persetujuan yang jelas; sisakan bagian pembanding.
+
+Ekspor chat dan dokumen dalam format asli bila tersedia, bukan hanya tangkapan layar. Simpan percakapan lengkap yang memberi konteks, metadata ekspor, serta salinan cadangan di lokasi terpisah. Tangkapan layar boleh menjadi indeks, tetapi jangan menghapus pesan sumber. Redaksi nomor telepon, alamat, atau identitas pelanggan pada salinan yang dibagikan; pertahankan salinan asli dengan akses terbatas dan catatan siapa yang membukanya.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan empat kolom: hasil pengamatan atau tes, kriteria yang disepakati, kemungkinan sebab, dan keputusan berikutnya. Sebuah checklist atau sertifikat hanya bermakna bila mengidentifikasi barang, revisi, penerbit, tanggal, dasar pemeriksaan, hasil, dan otorisasi. Prinsip dokumentasi dan status yang dapat dilacak juga tampak dalam ringkasan resmi ISO 3834-6:2024; itu bukan bukti bahwa pekerjaan tertentu otomatis memenuhi standar ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
+
+Tulis fakta sebagai fakta, dugaan sebagai dugaan, dan permintaan sebagai permintaan. Jika hasil berubah setelah part dibuka, catat perubahan itu dan siapa yang mengesahkan. Jangan menyimpulkan “gagal” hanya dari foto, atau “aman” hanya dari alat yang kembali menyala. Teman Bengkel.co.id, minta pihak teknis menjelaskan keterbatasan metode dan apakah hasilnya cukup untuk keputusan yang hendak dibuat.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Menjaga Barang Rusak, Part Lama, Foto, Chat, dan Dokumen sebagai Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara dapat berupa isolasi, penutupan akses, atau penyimpanan; pemantauan berarti menetapkan apa yang diukur dan kapan ditinjau; perbaikan atau penggantian harus menunggu lingkup dan otorisasi yang jelas. Sebelum ada tindakan yang mengubah bukti, kirim ringkasan kondisi, daftar barang yang ditahan, foto, log custody, dan pertanyaan yang perlu dijawab. Minta persetujuan tertulis untuk membuka, menguji, memindahkan, atau membuang part.
 
-## Objection or shortcut to address
+Simpan satu paket ringkas untuk komunikasi dan satu arsip lengkap untuk pemeriksaan. Paket komunikasi sebaiknya hanya berisi data yang diperlukan, sedangkan arsip mencatat versi, tanggal pencadangan, dan perubahan akses. Jika Anda membutuhkan konteks layanan umum, halaman [Bengkel.co.id](/) dapat menjadi titik kembali; jangan menganggapnya sebagai pengganti kontrak, berita acara, atau laporan pemeriksa. Tautan yang sama juga berguna saat mengirim instruksi penyimpanan kepada anggota tim yang perlu melihat konteks situs tanpa membuka arsip privat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika para pihak berbeda pendapat tentang kondisi atau hasil, pertimbangkan pemeriksa teknis independen. Jika muncul pertanyaan hak konsumen, kontrak, atau forum penyelesaian, cari nasihat hukum Indonesia yang sesuai fakta dan dokumen; artikel ini tidak menetapkan kewajiban, tenggat, ganti rugi, atau hasil sengketa ([UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)).
 
-## Required conclusion
+Bila perlu memahami konteks penyedia layanan sebelum meneruskan pemeriksaan atau meminta penjelasan, lihat halaman [Tentang Kami](/tentang-kami) sambil tetap menyimpan arsip bukti dan persetujuan perubahan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering merugikan
 
-## Draft completion checklist
+Menghapus chat lama, mengirim hanya foto yang paling dramatis, atau langsung mengganti part memang terasa cepat. Namun tindakan itu memutus konteks dan mengubah kondisi pembanding. Alternatif yang lebih aman adalah membuat salinan, mengunci akses, memberi label, dan meminta persetujuan sebelum perubahan. Perbaikan darurat demi keselamatan tetap boleh diperlukan, tetapi dokumentasikan alasan, waktu, bagian yang disentuh, dan bukti sebelum tindakan sejauh aman dilakukan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Menjaga barang rusak, part lama, foto, chat, dan dokumen berarti menjaga kondisi awal, identitas, urutan penguasaan, serta jejak setiap perubahan. Hari ini, buat nomor bukti, foto kondisi, simpan part dan berkas asli, ekspor serta cadangkan data, lalu kirim daftar tindakan yang memerlukan persetujuan. Berhenti ketika keselamatan, privasi, atau kompetensi menjadi batas; kelengkapan catatan membantu pemeriksaan, tetapi tidak menjamin putusan atau keberterimaan hukum.

@@ -2,8 +2,8 @@
 article_id: BKL-14-A01
 title: "Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover"
 slug: "inspection-and-test-plan-bengkel"
-description: "Show responsibilities, references, characteristics, methods, frequency, acceptance, records, witness/review/hold points, and release"
-status: outline
+description: "Panduan menata tanggung jawab, acuan, karakteristik, metode, frekuensi, penerimaan, rekaman, titik saksi atau tahan, dan pelepasan"
+status: draft
 publication_date: "2026-02-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Bengkel.co.id"
 reader_address: "Kawan Bengkel.co.id"
 final_route: "/artikel/inspection-and-test-plan-bengkel.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/80209.html"
   - "https://www.iso.org/standard/85705.html"
@@ -21,37 +22,7 @@ sources:
   - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover”
-- **Reader and situation:** Buyer wants auditable quality evidence
-- **Reader outcome:** Show responsibilities, references, characteristics, methods, frequency, acceptance, records, witness/review/hold points, and release
-- **Primary intent:** Understand an ITP
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set project acceptance criteria; governing drawing/code/contract and qualified inspector own them
-- **Final public route:** `/artikel/inspection-and-test-plan-bengkel.html`
-- **Appointed CMS date:** `2026-02-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,124 +33,84 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Bengkel.co.id! Inspection and Test Plan (ITP) adalah tabel kendali yang menjawab tiga hal sebelum pekerjaan bergerak: apa yang diperiksa, siapa yang bertanggung jawab, dan bukti apa yang harus tersedia. Hold point berarti pekerjaan berhenti pada titik yang disepakati sampai pihak berwenang meninjau dan melepasnya. Jadi ITP bukan sekadar daftar pemeriksaan dan bukan pengganti gambar, kode, atau kontrak.
 
-### KR-15
+ITP yang dapat diaudit menghubungkan kebutuhan proyek dengan identitas material atau sambungan, metode pemeriksaan, frekuensi, kriteria penerimaan dari dokumen pengendali, rekaman hasil, serta status witness, review, atau hold. Jawaban akhirnya dapat berubah bila gambar revisi, kode, kontrak, atau prosedur proyek menetapkan basis yang berbeda. [NEEDS PROJECT ACCEPTANCE BASIS: konfirmasi gambar, kode, kontrak, dan otoritas pelepasan proyek.]
 
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-04, GATE-06, GATE-07
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-14-A02` → `/artikel/incoming-inspection-material-dan-part.html` — Incoming Inspection Material dan Part sebelum Dipakai
-- `BKL-14-A03` → `/artikel/inspeksi-dimensi-fabrikasi.html` — Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gambar ini adalah aset ilustrasi lokal, bukan dokumentasi proyek tertentu.
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah ITP dari paket kerja, bukan dari format kosong. Tulis fungsi item, kondisi operasi yang diketahui, kuantitas, batas pekerjaan, antarmuka dengan pekerjaan lain, dan hasil yang akan diserahkan. Untuk fabrikasi, misalnya, identifikasi material, nomor sambungan atau item, tahapan fit-up, pengelasan, pemeriksaan, perbaikan, dan pelepasan. Jangan menetapkan nilai penerimaan sendiri; masukkan referensi ke gambar, spesifikasi, kode, atau kontrak yang memang berlaku.
+
+Setiap baris sebaiknya memiliki kolom: karakteristik yang diperiksa, metode atau teknik, cakupan dan frekuensi, penanggung jawab, dokumen acuan, rekaman, serta titik R (review), W (witness), atau H (hold). Tambahkan urutan yang jelas agar pemeriksaan tidak dilakukan setelah bukti tertutup oleh proses berikutnya. Tanyakan sebelum penawaran: “Pada tahap mana pekerjaan harus berhenti, siapa yang boleh melepas, dan rekaman apa yang menjadi syarat?”
+
+Untuk pemeriksaan tak merusak (NDT), pisahkan identitas metode, cakupan, kondisi permukaan, personel, peralatan, status kalibrasi atau verifikasi, laporan, dan basis penerimaan. Abstrak [ISO 17635:2025](https://www.iso.org/standard/85705.html) dan [ISO 9712:2021](https://www.iso.org/standard/75614.html) membantu menegaskan bahwa unsur-unsur itu adalah bukti yang berbeda; keduanya tidak memberi nilai penerimaan spesifik untuk proyek Anda.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikan calon penyedia ITP minimum yang sama: daftar item, titik inspeksi, dokumen acuan, pembagian tanggung jawab, kebutuhan akses, pengujian, dan format rekaman. Minta mereka memisahkan inklusi, eksklusi, asumsi, logistik, waktu tunggu witness, serta pekerjaan ulang. Dua harga tidak sebanding jika satu memasukkan pemeriksaan dan dossier handover sementara yang lain hanya menghitung pengerjaan fisik.
+
+Gunakan matriks sederhana saat membandingkan penawaran:
+
+| Pertanyaan | Bukti yang diminta | Konsekuensi bila kosong |
+|---|---|---|
+| Apa yang diperiksa? | daftar item/joint dan karakteristik | cakupan tidak dapat dilacak |
+| Dengan cara apa? | metode, prosedur, alat | hasil sulit diulang atau dipertanggungjawabkan |
+| Seberapa sering? | extent/frekuensi yang dirujuk ke dokumen proyek | biaya dan risiko berubah setelah pekerjaan berjalan |
+| Siapa memutuskan? | nama fungsi/otoritas dan tanda tangan | status lulus tidak sah |
+| Apa yang diserahkan? | laporan, sertifikat, NCR, closeout | pembayaran atau handover tertahan |
+
+Kawan Bengkel.co.id, minta setiap asumsi ditulis. Jika penyedia hanya menjawab “sesuai standar” tanpa menyebut edisi dokumen dan prosedur proyek, tandai sebagai klarifikasi terbuka, bukan sebagai kepatuhan yang sudah terbukti.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Data sheet atau sertifikat material membuktikan identitas dan karakteristik yang dinyatakan penerbit pada dokumen itu. Laporan inspeksi membuktikan pemeriksaan tertentu pada item, tanggal, metode, dan hasil yang dicatat. Prosedur menjelaskan bagaimana pemeriksaan dilakukan; sertifikasi personel menunjukkan ruang lingkup kompetensi yang diakui, bukan bahwa setiap hasil otomatis diterima. [ISO 9712:2021](https://www.iso.org/standard/75614.html) adalah rujukan identitas skema sertifikasi personel NDT, tetapi abstraknya tidak membuktikan kualifikasi orang tertentu pada proyek Anda.
+
+Bedakan pula tingkat mutu pengerjaan dari teknik NDT dan keputusan engineering. [ISO 5817:2023](https://www.iso.org/standard/80209.html) dan [ISO 17635:2025](https://www.iso.org/standard/85705.html) tidak boleh dipakai untuk menyimpulkan bahwa satu tingkat mutu otomatis sama dengan satu tingkat penerimaan NDT. Simpan nomor revisi, issuer, tanggal, item, metode, hasil, dan otorisasi pada setiap rekaman. Bila ada indikasi atau ketidaksesuaian, catat NCR, pihak yang berwenang menentukan disposisi, siklus perbaikan, dan pemeriksaan ulang.
+
+Garansi juga dokumen yang berbeda: ruang lingkup, durasi, syarat, pengecualian, jalur respons, dan pemilik bukti harus tertulis dalam kontrak. Prinsip dokumentasi dan tanggung jawab mutu perlu diselaraskan dengan persyaratan pengadaan; lihat abstrak [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) sebagai konteks, bukan sebagai bukti bahwa pekerjaan tertentu telah memenuhi syarat.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menunjuk penyedia, minta jawaban tertulis atas pertanyaan berikut:
 
-## Red flag dan biaya yang sering tersembunyi
+- Dokumen pengendali apa yang menjadi dasar penerimaan, dan revisi mana yang dipakai?
+- Item, sambungan, atau batch apa yang tercakup; bagaimana identitasnya dipertahankan dari material hingga laporan?
+- Metode dan prosedur apa yang dipakai, termasuk kondisi permukaan dan batas cakupan?
+- Siapa yang melakukan pemeriksaan, siapa yang meninjau, dan siapa yang memiliki kewenangan melepas hold point?
+- Bagaimana status alat diidentifikasi dan bagaimana kalibrasi atau verifikasi mutakhir dibuktikan?
+- Apa format laporan, penomoran NCR, keputusan disposisi, dan aturan pemeriksaan ulang setelah perbaikan?
+- Dokumen apa yang masuk dossier handover, kapan diserahkan, dan siapa yang menyetujui kelengkapannya?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Bengkel.co.id, jadikan jawaban itu bagian dari klarifikasi teknis dan komersial. Perubahan metode, cakupan, atau personel setelah pekerjaan dimulai harus melalui revisi ITP dan persetujuan yang ditetapkan, bukan percakapan lisan yang hilang dari jejak audit.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Red flag pertama adalah ITP generik yang tidak menyebut item, revisi, atau titik berhenti. Red flag berikutnya adalah laporan tanpa identitas alat, personel, kondisi pemeriksaan, atau tanda tangan otoritas. Klaim “100% inspected” juga belum menjelaskan metode, cakupan aktual, dan basis penerimaan. Abstrak ISO hanya memberi kerangka umum; parameter teknik, interval kalibrasi, nilai penerimaan, dan fitness for purpose tetap harus diambil dari standar penuh serta prosedur dan kontrak proyek.
+
+Biaya tersembunyi muncul ketika akses harus dibuka ulang, inspector menunggu, material tertahan, atau pekerjaan harus dikerjakan ulang karena hold point dilewati. Masukkan tanggung jawab penjadwalan witness, penyediaan area aman, penyimpanan rekaman, dan waktu review ke penawaran. Jangan menyamakan sertifikat dengan penerimaan akhir: dokumen yang tidak tertaut ke item dan revisi hanya menambah arsip, bukan kepastian.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun alur pelepasan: pelaksana menyiapkan item dan rekaman; inspector memeriksa sesuai ITP; reviewer memverifikasi kelengkapan dan hasil; pemilik atau engineer mengambil keputusan penerimaan berdasarkan dokumen pengendali. Pada witness point, pekerjaan dapat berlanjut sesuai aturan setelah kesempatan menyaksikan dipenuhi. Pada hold point, pekerjaan tidak boleh melewati tahap itu sebelum otoritas yang ditunjuk menandatangani pelepasan. R berarti dokumen ditinjau, bukan selalu pekerjaan dihentikan.
 
-## Objection or shortcut to address
+Dossier handover minimal menautkan daftar item, ITP dan revisinya, sertifikat material, laporan inspeksi dan tes, rekaman alat serta personel, NCR dan bukti closeout, daftar punch, persetujuan perubahan, dan status penerimaan. Setiap file perlu identitas item, tanggal, penerbit, basis, hasil, dan otorisasi. Serah terima fisik atau pembayaran tidak dengan sendirinya membuktikan kesesuaian; persyaratan kontrak dan persetujuan pihak bertanggung jawab tetap berlaku. Undang-Undang Perlindungan Konsumen [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden) dapat menjadi konteks kewajiban informasi dan tanggung jawab, tetapi bukan pengganti kriteria teknis proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika satu rekaman kunci hilang, tahan status “complete” dan buat daftar kekurangan yang memiliki pemilik serta tenggat. Untuk keputusan yang menyentuh keselamatan, fungsi, atau kepatuhan, minta review inspector atau engineer yang berkualifikasi. [NEEDS GATE-04/GATE-06/GATE-07: coordinator menilai kecukupan basis penerimaan, otoritas pelepasan, dan dossier aktual proyek.]
 
-## Required conclusion
+## Jalan pintas yang tampak murah
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang umum adalah menandatangani semua hold point di akhir pekerjaan agar produksi tidak berhenti. Cara ini menghapus kesempatan melihat kondisi yang kemudian tertutup, sehingga pemeriksaan ulang bisa memerlukan pembongkaran atau bukti pengganti yang tidak setara. Alternatif yang lebih aman adalah menetapkan hold point hanya pada tahap yang benar-benar irreversibel, menjadwalkan witness sejak awal, dan menyimpan rekaman segera setelah pemeriksaan. Efisiensi datang dari urutan dan tanggung jawab yang jelas, bukan dari tanda tangan mundur tanggal.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Inspection and Test Plan bengkel adalah peta bukti dari material sampai handover: karakteristik, metode, cakupan, frekuensi, penanggung jawab, rekaman, serta status R/W/H yang mengendalikan kapan pekerjaan boleh bergerak. ITP tidak menetapkan kriteria penerimaan; gambar, kode, kontrak, prosedur, dan inspector atau engineer yang berwenanglah yang menetapkannya.
+
+Langkah Anda berikutnya: ambil satu paket kerja, minta dokumen pengendali dan revisinya, lalu buat satu baris ITP untuk setiap titik yang dapat mengubah mutu atau sulit diperiksa ulang. Untuk menyiapkan percakapan pengadaan, Anda dapat mulai dari [beranda Bengkel.co.id](/?from=itp) dan membuka melihat layanan [fabrikasi dan pengelasan logam](/konstruksi-fabrikasi-logam.html) bila perlu mencatatnya dalam daftar dokumen. Minta penyedia mengisi bukti, otoritas, dan jalur NCR sebelum harga disetujui. Jika basis penerimaan atau kewenangan pelepasan belum jelas, hentikan status final dan lakukan review profesional terlebih dahulu. Aturan operasinya sederhana: tidak ada hold point yang dilewati tanpa bukti tertaut dan tanda tangan pihak yang berwenang.

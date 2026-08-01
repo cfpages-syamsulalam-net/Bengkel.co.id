@@ -1,9 +1,10 @@
 ---
 article_id: BKL-13-A04
+writing_contract_version: "native-id-v2"
 title: "Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel"
 slug: "transport-rigging-dan-temporary-support"
-description: "Map mass/center information, route, lifting points, packaging, equipment, competent roles, temporary stability, handoff, and damage inspection"
-status: outline
+description: "Panduan memetakan massa dan titik berat, rute, titik angkat, perlengkapan, peran, kestabilan sementara, serah-terima, serta pemeriksaan kerusakan"
+status: draft
 publication_date: "2026-01-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +16,14 @@ final_route: "/artikel/transport-rigging-dan-temporary-support.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
+  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
-  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel”
-- **Reader and situation:** Fabricated item or machine part must be moved
-- **Reader outcome:** Map mass/center information, route, lifting points, packaging, equipment, competent roles, temporary stability, handoff, and damage inspection
-- **Primary intent:** Identify logistics interfaces
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No rigging plan, lift calculation, or temporary support design; qualified lifting/structural roles own them
-- **Final public route:** `/artikel/transport-rigging-dan-temporary-support.html`
-- **Appointed CMS date:** `2026-01-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,126 +34,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Bengkel.co.id! Benda yang selesai difabrikasi belum benar-benar siap dipakai hanya karena las, machining, atau pengecatannya selesai. Begitu benda itu harus dipindahkan, diangkat, ditopang sementara, lalu diserahkan ke area operasi, muncul interface baru: informasi massa dan titik berat harus bertemu dengan rute, titik angkat, alat, orang yang berwenang, dan kondisi tempat.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: perlakukan transport, rigging, dan *temporary support* (penyangga sementara) sebagai satu alur serah-terima, bukan pekerjaan tambahan yang dipikirkan saat truk datang. Kumpulkan data benda, setujui metode oleh personel berkualifikasi, stabilkan benda pada setiap jeda, dan dokumentasikan pemeriksaan sebelum serta sesudah perpindahan. Jika data massa, titik berat, kapasitas alat, kondisi lantai, atau kewenangan pelaksana belum jelas, pekerjaan berhenti untuk review—bukan dilanjutkan dengan perkiraan. [NEEDS TECHNICAL REVIEW: rigging plan, lift calculation, dan desain temporary support belum dapat ditetapkan dari artikel ini.]
 
-### KR-14
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-10
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
-
-### KR-13
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 12944-3:2017 — official ISO abstract](https://www.iso.org/standard/64835.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Treat gates, railings, stairs, canopies, grilles, frames, furniture, and similar products as installed systems rather than decorative workshop objects.
-- **Safe grounded facts:** Function and risk can depend on use, users, geometry, edges and entrapment, load and impact, support/anchor substrate, drainage and water traps, dissimilar materials, exposure, access, operation/hardware, coating repair, erection, and future maintenance.
-- **Limits:** The cited sources do not provide application-specific dimensions, loads, anchors, child-safety rules, accessibility requirements, or local approvals. Resolve those from the actual project and current governing rules.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-08, GATE-09
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-13-A02` → `/artikel/site-survey-pekerjaan-bengkel-di-lokasi.html` — Site Survey untuk Pekerjaan Bengkel di Rumah, Pabrik, atau Area Komersial
-- `BKL-13-A03` → `/artikel/melindungi-area-terpakai-saat-pekerjaan-bengkel.html` — Melindungi Area Terpakai dari Percikan, Debu, Asap, dan Kerusakan
-- `BKL-13-A05` → `/artikel/biaya-mobilisasi-pekerjaan-lapangan.html` — Biaya Mobilisasi Bengkel: Apa yang Membuat Pekerjaan Lapangan Berbeda
-- `BKL-13-A06` → `/artikel/penutupan-hot-work-dan-pemeriksaan-area.html` — Penutupan Hot Work: Fire Watch, Housekeeping, dan Pemeriksaan Area
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahpahaman yang paling mahal adalah menganggap bengkel hanya bertanggung jawab sampai barang berada di pintu. Pada kenyataannya, cara barang keluar dapat mengubah kondisi permukaan, geometri, sambungan, dan kesiapan pemasangan. Beban yang aman di lantai belum tentu aman ketika diangkat dari satu sisi; benda yang stabil di jig belum tentu stabil di bak kendaraan; dan penyangga yang cukup untuk menunggu beberapa menit belum tentu cukup selama perjalanan.
+
+Karena itu, titik keputusan harus dibuat sebelum mobilisasi: siapa pemilik data, siapa yang menyusun dan menyetujui metode angkat, siapa yang mengendalikan area, dan siapa yang menerima barang. Undang-Undang Keselamatan Kerja menempatkan keselamatan kerja sebagai tanggung jawab yang harus dikelola di tempat kerja, sehingga pembagian peran dan kondisi lapangan perlu ditetapkan, bukan diasumsikan ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970)). Untuk konteks pekerjaan bengkel lain, Anda dapat mulai dari [beranda Bengkel.co.id](/) dan memastikan siapa pemilik keputusan di lokasi.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk memahami lingkup layanan dan pihak yang dapat diajak berkoordinasi, lihat [profil Bengkel.co.id](/tentang-kami).
+
+**Transport** adalah perpindahan melalui rute yang disepakati, termasuk pemuatan, pengikatan, perjalanan, pembongkaran, dan akses menuju titik serah-terima. **Rigging** adalah pemilihan serta penggunaan perlengkapan angkat dan pengikatan untuk mengendalikan beban. **Temporary support** adalah penyangga sementara yang menjaga orientasi dan kestabilan selama menunggu, bergerak, atau dipasang.
+
+Artikel ini membahas interface informasinya: data apa yang harus ikut bersama benda dan pemeriksaan apa yang harus dilakukan. Ini bukan rigging plan, perhitungan kapasitas, gambar support, atau izin kerja. Nilai kapasitas, konfigurasi sling, sudut, faktor dinamis, stabilitas kendaraan, serta detail anchor harus ditetapkan oleh orang kompeten berdasarkan benda dan lokasi yang nyata. Persyaratan teknis peralatan dan pekerjaan penanganan material perlu diverifikasi terhadap ketentuan Indonesia yang berlaku, termasuk [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016) dan pembaruan yang relevan ([Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari lembar identitas benda. Cantumkan dimensi luar, massa aktual atau basis datanya, titik berat jika diketahui, orientasi pengangkatan yang diizinkan, titik angkat yang dirancang, bagian yang rapuh, dan permukaan yang tidak boleh terkena sling. Tandai juga pusat gravitasi yang belum terverifikasi sebagai isu terbuka; jangan mengubah dugaan menjadi angka di lapangan.
+
+Berikutnya, petakan rute. Ukur atau konfirmasi bukaan, belokan, elevasi, kemampuan lantai, ruang untuk alat, lalu lintas orang, dan lokasi berhenti sementara. Rute bukan sekadar jarak terpendek. Satu belokan sempit dapat memaksa perubahan orientasi; perubahan itu dapat memindahkan proyeksi titik berat dan membuat metode awal tidak berlaku.
+
+Setelah data dan rute cocok, peran ditetapkan. Pemilik pekerjaan menyetujui tujuan dan batas area; pengendali angkat atau personel kompeten menyusun metode; operator menjalankan alat sesuai kewenangan; petugas pengawas menjaga zona; dan penerima memeriksa kondisi saat handoff. Nama serta kanal berhenti kerja sebaiknya tertulis pada lembar serah-terima.
+
+Pada hari pelaksanaan, lakukan *pre-use check* pada alat dan perlengkapan, kosongkan rute, komunikasikan aba-aba, dan pastikan support sementara terpasang sebelum ikatan utama dilepas. Setiap perubahan cuaca, lantai, akses, atau konfigurasi berarti metode harus dikaji ulang. Untuk mesin yang akan diservis, energi harus diidentifikasi dan dikendalikan sebelum pekerjaan berlanjut; prinsip pengendalian energi berbahaya dijelaskan dalam [OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), tetapi urutan isolasi Indonesia dan persyaratan OEM/site tetap menjadi acuan yang harus disetujui pihak berwenang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Faktor pertama adalah benda. Pintu, panel tipis, bearing, nozzle, lapisan coating, atau bagian menonjol dapat rusak bila menjadi titik kontak yang tidak dirancang. Massa total saja tidak menjelaskan perilaku; distribusi massa, pusat gravitasi, dan perubahan orientasi ikut menentukan.
+
+Faktor kedua adalah lingkungan. Lantai miring, drainase, angin, hujan, pencahayaan, kabel melintang, aktivitas produksi, dan akses publik dapat mengubah stabilitas serta komunikasi. Kondisi area saat survei harus dibandingkan dengan kondisi saat pekerjaan—terutama bila ada jeda atau pergantian shift.
+
+Faktor ketiga adalah waktu. Support yang dipasang untuk pemuatan mungkin tidak cocok untuk perjalanan atau penyimpanan semalam. Cantumkan durasi, inspeksi ulang, dan pemicu pembongkaran. Jangan melepas support hanya karena benda sudah “terlihat” berada di posisi.
+
+Faktor keempat adalah bukti. Foto sebelum pemuatan, catatan kerusakan awal, daftar alat, dan tanda tangan penerima membuat perubahan dapat ditelusuri. Bukti tersebut tidak menggantikan pemeriksaan teknis, tetapi mencegah perdebatan tentang kapan kerusakan terjadi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan pertanyaan berikut sebagai gerbang keputusan, bukan sebagai pengganti perhitungan:
+
+| Pertanyaan | Jika jawabannya belum jelas | Tindakan |
+|---|---|---|
+| Apakah massa, titik berat, dan orientasi angkat terdokumentasi? | Data hanya perkiraan atau berasal dari benda yang berbeda | Tahan pemuatan; minta verifikasi dan metode angkat tertulis. |
+| Apakah seluruh rute dan titik berhenti sudah diperiksa? | Ada bukaan, lantai, atau lalu lintas yang belum dikonfirmasi | Survei ulang dan tetapkan pengendalian area. |
+| Apakah titik angkat serta permukaan kontak ditandai? | Sling mungkin menyentuh bagian rapuh | Minta instruksi pengikatan dan pelindung yang disetujui. |
+| Apakah benda stabil pada setiap jeda? | Support hanya tersedia saat di jig | Rancang/validasi support sementara oleh peran struktural yang kompeten. |
+| Apakah penerima siap memeriksa? | Tidak ada orang atau formulir handoff | Tunda pelepasan ikatan dan tetapkan penerima. |
+
+Contohnya, bila komponen harus diputar agar melewati pintu, keputusan bukan “tambahkan orang untuk mendorong”. Perubahan orientasi memerlukan peninjauan ulang titik berat, alat, zona eksklusi, dan support. Sobat Bengkel.co.id, bila satu jawaban di atas kosong, biaya menunggu biasanya lebih kecil daripada memulihkan benda atau area yang rusak.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Transport, Rigging, dan Temporary Support sebagai Interface Pekerjaan Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menulis “berat ±sekian” tanpa basis. Periksa sumber massa, tanggal penimbangan, komponen yang ikut atau dilepas, dan siapa yang menyetujui.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memilih titik angkat dari lokasi yang paling mudah dicapai. Cocokkan tanda pada gambar/fabrikasi dengan kondisi aktual; jangan memakai handrail, pipa, cover, atau bagian yang tidak dirancang sebagai titik angkat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap tali pengikat sebagai penyangga. Ikatan mengendalikan gerak sesuai metode yang disetujui; ia bukan bukti bahwa benda aman ditinggal tanpa support. Minta inspeksi ulang setelah kendaraan berhenti, rute berubah, atau terjadi hentakan.
 
-## Required conclusion
+Kesalahan keempat adalah handoff tanpa pemeriksaan kerusakan. Bandingkan foto awal dan akhir, periksa deformasi, goresan, coating terkelupas, bagian longgar, serta kelengkapan pelindung. Catat pengecualian sebelum tanda terima ditandatangani.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sebaiknya ditolak
 
-## Draft completion checklist
+Jalan pintas yang sering dipilih adalah “angkat dulu, dokumen menyusul” karena truk atau crane sudah tersedia. Cara ini gagal ketika data baru ditemukan setelah beban menggantung: rute mungkin tidak cukup, titik berat berbeda, atau support belum siap. Keputusan yang lebih andal adalah *hold point* singkat sebelum pemuatan: data, rute, alat, peran, dan penerima diverifikasi bersama. Bila salah satunya berubah, hentikan dan minta review ulang. Jika perlu menyelaraskan pekerjaan berikutnya, kembali ke kanal kerja yang disepakati untuk memulai percakapan dengan pihak yang bertanggung jawab.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Transport, rigging, dan temporary support adalah interface yang menghubungkan hasil bengkel dengan kondisi nyata di lapangan. Kualitas interface terlihat dari data benda yang lengkap, rute yang diperiksa, metode angkat yang disetujui, stabilitas pada setiap jeda, serta handoff dan inspeksi yang dapat ditelusuri—bukan dari seberapa cepat benda meninggalkan bengkel.
+
+Langkah berikutnya: buat satu lembar serah-terima untuk benda tersebut, lampirkan data massa/titik berat dan gambar titik angkat, petakan rute serta titik berhenti, lalu minta personel lifting/struktural yang berwenang memvalidasi rigging plan dan temporary support. Kawan Bengkel.co.id, jangan lepaskan ikatan atau membuka area operasi sebelum penerima menyatakan kondisi dan pengecualian secara tertulis. Aturan operasinya sederhana: data tidak lengkap atau kondisi berubah berarti berhenti untuk review teknis.

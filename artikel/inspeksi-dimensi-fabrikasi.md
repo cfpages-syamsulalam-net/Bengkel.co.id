@@ -2,8 +2,9 @@
 article_id: BKL-14-A03
 title: "Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan"
 slug: "inspeksi-dimensi-fabrikasi"
-description: "Link drawing revision, characteristic, datum, instrument, calibration, environment, reading, tolerance, disposition, and report"
-status: outline
+description: "Panduan menghubungkan revisi gambar, karakteristik, datum, alat ukur, kalibrasi, lingkungan, pembacaan, toleransi, disposition, dan laporan."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-02-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,37 +22,99 @@ sources:
   - "https://www.iso.org/standard/83335.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan
 
-## Assignment lock
+Halo, Sobat Bengkel.co.id! Komponen hasil fabrikasi tidak cukup dinyatakan “sudah diukur”. Agar dapat dipasang pada interface, pemeriksaan harus menghubungkan revisi gambar, karakteristik yang diperiksa, datum, alat dan status kalibrasinya, kondisi pengukuran, pembacaan, toleransi yang berlaku, keputusan disposition, serta laporan yang bisa ditelusuri. Jika salah satu mata rantai itu hilang, angka yang tampak rapi belum menjadi bukti penerimaan.
 
-- **Writer task:** Expand this file into one complete article answering: “Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan”
-- **Reader and situation:** Fabricated item must fit an interface
-- **Reader outcome:** Link drawing revision, characteristic, datum, instrument, calibration, environment, reading, tolerance, disposition, and report
-- **Primary intent:** Plan dimensional acceptance
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No tolerance creation or instrument procedure; BKL-07-A02 owns requirements and metrology expert owns method
-- **Final public route:** `/artikel/inspeksi-dimensi-fabrikasi.html`
-- **Appointed CMS date:** `2026-02-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: bekukan dulu identitas dokumen dan objek, tetapkan datum serta karakteristik dari gambar yang disetujui, cocokkan alat dan kondisi pengukuran, catat pembacaan terhadap toleransi yang memang ditetapkan proyek, lalu minta otoritas yang berwenang menetapkan terima, tolak, atau perbaikan. Batas toleransi dan metode pengukuran tidak dibuat di halaman ini; keduanya mengikuti gambar, kontrak, prosedur tertulis, dan tinjauan ahli metrologi. Bila dasar penerimaan belum tersedia, tandai **[NEEDS PROJECT ACCEPTANCE BASIS]** dan jangan mengubah hasil ukur menjadi keputusan final.
 
-## Opening instructions
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi aset lokal situs, bukan dokumentasi proyek tertentu.*
 
+## Tentukan objek, kondisi, dan tahap siklus hidup
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Mulai dari satu identitas yang tidak ambigu: nomor item atau work order, drawing revision, serial atau batch bila memang digunakan, dan tahap pemeriksaan (incoming, in-process, final, atau setelah perbaikan). Simpan salinan gambar yang dipakai dan catat siapa yang menyetujuinya. Revisi yang berbeda dapat mengubah karakteristik, datum, maupun toleransi; karena itu tanggal pemeriksaan tanpa revisi dokumen belum cukup.
+
+Tuliskan kondisi benda saat diukur: sudah dibersihkan atau belum, terpasang atau bebas, ada pelapisan atau perlakuan yang memengaruhi ukuran, dan apakah pemeriksaan dilakukan sebelum atau sesudah proses lanjutan. Kondisi tersebut bukan hiasan laporan. Ia menjelaskan apa yang sebenarnya diwakili oleh angka dan membantu orang berikutnya mengulang pemeriksaan pada keadaan yang sebanding.
+
+Untuk pekerjaan yang juga melibatkan pemeriksaan sambungan atau NDT, jangan menyatukan istilah mutu pengerjaan, teknik pemeriksaan, kualifikasi personel, dan penerimaan rekayasa. Abstrak [ISO 17635:2025](https://www.iso.org/standard/85705.html) memisahkan unsur-unsur itu dan mengingatkan bahwa level penerimaan NDT tidak diterjemahkan satu banding satu menjadi level mutu ISO 5817. Jadi, cantumkan basis yang benar untuk objek ini; jangan menyalin tabel dari pekerjaan lain.
+
+## Mekanisme perubahan atau penurunan kinerja
+
+Dimensi dapat berubah karena urutan proses, pelepasan dari jig, pemanasan, pendinginan, beban, benturan, korosi, pelapisan, atau penyetelan ulang. Artikel ini tidak menetapkan laju perubahan atau umur layanan. Tugasnya adalah memastikan perubahan yang mungkin terjadi dipertimbangkan saat menentukan kapan dan dalam kondisi apa pengukuran dilakukan.
+
+Bandingkan tahap yang relevan: ukuran sebelum proses, sesudah proses, dan setelah transportasi atau perbaikan bila kontrak memintanya. Jika komponen diukur bebas tetapi berfungsi dalam kondisi terpasang, catat perbedaan kondisi itu dan minta keputusan engineering apakah hasil tersebut mewakili fungsi. Jangan menyimpulkan kelayakan interface hanya dari satu angka yang kebetulan berada di dalam toleransi.
+
+Kawan Bengkel.co.id, perlakukan lingkungan sebagai bagian dari data. Suhu, kebersihan permukaan, kestabilan benda, akses, dan cara penempatan dapat memengaruhi pembacaan. Bila kondisi tidak dikendalikan atau tidak diketahui, nyatakan keterbatasannya dan minta pemeriksaan ulang, bukan memperhalus angka agar terlihat pasti.
+
+## Inspeksi dan data yang perlu dicatat
+
+Buat lembar karakteristik yang menautkan setiap nomor item pada gambar ke datum yang dipakai, alat, pembacaan, satuan, dan status hasil. Kolom minimum yang praktis adalah:
+
+| Elemen | Yang dicatat | Mengapa penting |
+|---|---|---|
+| Identitas | item, serial/batch, drawing revision | mencegah data tertukar |
+| Karakteristik | nomor atau deskripsi fitur | menunjukkan apa yang benar-benar diperiksa |
+| Referensi | datum dan orientasi benda | membuat pembacaan dapat diulang |
+| Instrumen | jenis, ID aset, resolusi yang disetujui | mengikat angka pada alat tertentu |
+| Status alat | kalibrasi/verifikasi dan tanggal berlaku | menunjukkan alat berstatus terkendali |
+| Kondisi | suhu, permukaan, pemasangan, akses | memberi konteks pembacaan |
+| Hasil | nilai, satuan, toleransi rujukan | memisahkan fakta dari keputusan |
+| Tindak lanjut | terima, tahan, NCR, perbaikan, ukur ulang | menjelaskan disposition dan otoritasnya |
+
+Alat tidak otomatis layak hanya karena dapat menampilkan angka. ISO 17635 dan [ISO 9712:2021](https://www.iso.org/standard/75614.html) menempatkan equipment identity, calibration/verification status, kondisi permukaan, teknik, cakupan, dan kompetensi personel sebagai bukti yang terpisah. Untuk inspeksi dimensi, terapkan prinsip pencatatan yang sama: ID alat dan status terkini harus terlihat, sedangkan interval atau prosedur kalibrasinya mengikuti sistem metrologi yang berwenang.
+
+Jika status alat belum jelas, ikuti prosedur verifikasi alat bengkel sebagai langkah penyiapan, lalu kembali ke prosedur metrologi proyek sebelum mengambil pembacaan. Untuk pekerjaan yang memerlukan penanganan komponen setelah pemeriksaan, rujuk [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) sesuai ruang lingkupnya.
+
+Tandai pembacaan yang meragukan, akses yang tidak ideal, atau datum yang tidak dapat direalisasikan. Jangan mengganti nilai dengan rata-rata atau pembulatan yang tidak disahkan prosedur. Jika angka dekat batas dan aturan keputusan tidak tertulis, tahan statusnya sebagai **[NEEDS TECHNICAL REVIEW: DECISION RULE]**.
+
+## Pilihan perawatan atau intervensi
+
+Hasil inspeksi bukan selalu “lulus” atau “gagal”. Pilih jalur berdasarkan fakta dan otoritas:
+
+1. **Terima:** seluruh karakteristik yang dipersyaratkan memiliki bukti yang dapat ditelusuri dan otoritas menyetujui.
+2. **Tahan untuk klarifikasi:** gambar, datum, kondisi, atau aturan keputusan belum cukup jelas.
+3. **Perbaiki lalu ukur ulang:** ada penyimpangan yang secara kontrak boleh diperbaiki; metode dan batasnya harus disetujui pihak berwenang.
+4. **NCR atau tolak:** penyimpangan tidak dapat diterima atau tidak ada otorisasi untuk memakai secara menyimpang.
+5. **Hentikan pemeriksaan:** alat, kondisi, atau personel tidak memenuhi prasyarat sehingga data tidak dapat dipertanggungjawabkan.
+
+Disposition bukan kewenangan pemeriksa seorang diri. Catat nama atau fungsi pemberi keputusan, dasar persetujuan, dan siklus perbaikan. [ISO 5817:2023](https://www.iso.org/standard/80209.html) dapat menjadi rujukan identitas standar mutu pengelasan, tetapi abstraknya tidak memberi tabel batas imperfection untuk dipakai sebagai toleransi dimensi. Dapatkan dokumen proyek yang lengkap sebelum menetapkan status.
+
+## Cara menentukan prioritas
+
+Dahulukan karakteristik yang mengunci interface, keselamatan, fungsi, atau tahapan berikutnya. Setelah itu, pertimbangkan akses pengukuran, risiko perubahan karena proses lanjutan, biaya membuka kembali pekerjaan, dan siapa yang memiliki otoritas engineering. Prioritas bukan berarti mengabaikan fitur lain; artinya memastikan bukti kritis tersedia sebelum komponen dilepas ke tahap berikutnya.
+
+Gunakan pertanyaan keputusan berikut:
+
+- Apakah revisi gambar dan datum sudah disetujui?
+- Apakah karakteristik kritis dapat diukur dalam kondisi yang mewakili fungsi?
+- Apakah alat dan personel memiliki status yang dapat dibuktikan?
+- Apakah penyimpangan punya jalur disposition tertulis?
+
+Jika jawaban terakhir belum ada, status praktisnya adalah tahan, bukan lulus bersyarat yang tidak jelas. Untuk konteks fabrikasi yang lebih luas, pembaca dapat melihat [alur konstruksi dan fabrikasi logam](/konstruksi-fabrikasi-logam.html) sebagai konteks pekerjaan; keputusan dimensi tetap mengikuti gambar dan persetujuan proyek ini.
+
+## Rekaman, serah terima, dan pemicu pemeriksaan ulang
+
+Laporan akhir harus memungkinkan peninjau mengulang jejak dari item ke gambar, datum, alat, pembacaan, toleransi rujukan, dan keputusan. Lampirkan revisi dokumen, daftar karakteristik, identitas alat, status kalibrasi atau verifikasi, kondisi pengukuran, nama pemeriksa, tanggal, hasil, NCR atau catatan perbaikan, serta persetujuan disposition. Jangan menghapus data awal setelah perbaikan; simpan hubungan antara hasil awal, tindakan, dan ukur ulang.
+
+Handover adalah paket bukti dan status diterima, bukan sekadar menyerahkan benda atau menutup pembayaran. [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden) memberi kerangka perlindungan konsumen, tetapi tidak otomatis menetapkan isi dossier proyek Anda. [ISO 3834-6:2024](https://www.iso.org/standard/83335.html) juga tidak boleh dipakai untuk mengarang garansi. Ruang lingkup, durasi, pengecualian, jalur respons, dan tanggung jawab bukti harus mengikuti kontrak serta persetujuan pihak terkait.
+
+Jadwalkan pemeriksaan ulang ketika drawing revision berubah, komponen dipindah atau diperbaiki, alat keluar dari status kendali, kondisi lingkungan menyimpang, terjadi benturan atau deformasi, atau laporan menunjukkan data tidak lengkap. Pemicu tersebut menjaga baseline tetap jujur tanpa menetapkan interval universal yang tidak ada di paket proyek.
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang tampak hemat adalah mengukur satu-dua ukuran dengan alat yang tersedia, lalu menempelkan stempel “OK” pada laporan lama. Cara ini gagal ketika datum berbeda, revisi gambar berubah, alat tidak berstatus, atau satu pengukuran tidak mewakili fitur yang menentukan interface. Abstrak ISO 17635 menegaskan bahwa metode, cakupan, teknik, personel, equipment, kondisi, dan acceptance basis adalah unsur terpisah; menggabungkannya menjadi satu angka menghilangkan jejak keputusan.
+
+Alternatif yang lebih aman adalah membuat matriks karakteristik singkat, mengunci prasyarat sebelum mengukur, dan menahan item yang belum memiliki dasar penerimaan. Teman Bengkel.co.id, satu catatan “perlu review” yang terlihat lebih dapat dipertanggungjawabkan daripada tanda lulus yang tidak bisa dijelaskan saat handover.
+
+## Kesimpulan dan langkah berikutnya
+
+Inspeksi dimensi yang dapat diterima menghubungkan gambar dan revisinya dengan karakteristik, datum, alat berstatus terkendali, kondisi pengukuran, pembacaan, toleransi yang disahkan, disposition, dan laporan. Ia tidak menciptakan toleransi baru atau menggantikan prosedur metrologi.
+
+Langkah berikutnya: minta drawing revision dan acceptance basis proyek, susun daftar karakteristik serta datum, verifikasi status alat dan kompetensi pemeriksa, kemudian lakukan pengukuran dengan kondisi yang dicatat. Serahkan laporan lengkap kepada otoritas engineering/QA untuk keputusan akhir. Jika revisi atau status komponen berubah, ulangi pemeriksaan berdasarkan dokumen yang berlaku. Jika salah satu dasar itu belum tersedia, pertahankan penanda **[NEEDS PROJECT ACCEPTANCE BASIS]** dan jangan lepaskan komponen sebagai “diterima”.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,126 +125,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-15
-
-- **Original sources:** [ISO 5817:2023 — official ISO abstract](https://www.iso.org/standard/80209.html), [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Keep QA articles from confusing workmanship levels, NDT technique, indication evaluation, personnel certification, equipment status, and engineering acceptance.
-- **Safe grounded facts:** A quality plan needs the governing acceptance basis, joint and examination identification, method/technique and extent, written procedure where required, personnel scope, equipment identity and current calibration/verification, surface/test conditions, report traceability, result, nonconformance, disposition authority, repair cycle, and closeout.
-- **Limits:** Do not publish imperfection limits, acceptance tables, technique settings, calibration intervals, or certification equivalence from abstracts. Obtain full current standards and project procedures.
-
-### KR-04
-
-- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
-- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
-- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
-- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
-
-### KR-18
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Define handover as an evidence package and accepted status, not merely physical delivery or payment.
-- **Safe grounded facts:** Warranty scope, duration, conditions, exclusions, response path, and evidence responsibilities should be explicit. A certificate or checklist is meaningful only if it identifies the item, revision, issuer, date, basis, result, and authorization.
-- **Limits:** Do not invent a warranty or imply that a generic dossier proves compliance or fitness. Contract requirements, responsible-party approvals, and actual records govern.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-04, GATE-06, GATE-07
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/konstruksi-fabrikasi-logam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-14-A01` → `/artikel/inspection-and-test-plan-bengkel.html` — Inspection and Test Plan Bengkel: Hold Point dari Material sampai Handover
-- `BKL-14-A02` → `/artikel/incoming-inspection-material-dan-part.html` — Incoming Inspection Material dan Part sebelum Dipakai
-- `BKL-14-A04` → `/artikel/kalibrasi-verifikasi-dan-cek-alat-bengkel.html` — Kalibrasi, Verifikasi, dan Cek Harian Alat Bengkel: Bedanya Apa
-- `BKL-14-A05` → `/artikel/visual-dimensional-functional-dan-ndt.html` — Visual, Dimensional, Functional, dan NDT: Memilih Bukti yang Sesuai
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Tentukan objek, kondisi, dan tahap siklus hidup
-
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Mekanisme perubahan atau penurunan kinerja
-
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Inspeksi dan data yang perlu dicatat
-
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Dimensi: Gambar, Datum, Alat Ukur, dan Laporan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

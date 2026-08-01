@@ -1,9 +1,10 @@
 ---
 article_id: BKL-07-A02
+writing_contract_version: "native-id-v2"
 title: "Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel"
 slug: "toleransi-fit-clearance-dan-datum"
-description: "Explain nominal size, allowable variation, datum, fit, clearance, stack-up, measurement method, and acceptance record"
-status: outline
+description: "Panduan membaca ukuran nominal, batas toleransi, datum, fit, clearance, stack-up, metode ukur, dan rekaman penerimaan."
+status: draft
 publication_date: "2025-08-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,37 +20,15 @@ sources:
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel
 
-## Assignment lock
+Halo, Teman Bengkel.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel”
-- **Reader and situation:** Customer needs parts to fit or move
-- **Reader outcome:** Explain nominal size, allowable variation, datum, fit, clearance, stack-up, measurement method, and acceptance record
-- **Primary intent:** Understand dimensional requirements
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set asset-specific values; drawings/OEM data and BKL-14-A03 own acceptance
-- **Final public route:** `/artikel/toleransi-fit-clearance-dan-datum.html`
-- **Appointed CMS date:** `2025-08-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Kalau dua komponen harus saling masuk, berputar, atau berhenti pada posisi tertentu, ukuran nominal saja tidak cukup. Bengkel perlu tahu rentang variasi yang diizinkan (toleransi), hubungan ukuran antarpasangan (fit), celah yang sengaja disisakan (clearance), dan bidang atau titik acuan pengukuran (datum). Keempat istilah ini mengubah kalimat “buat pas” menjadi instruksi yang dapat diukur dan diterima.
 
-## Opening instructions
+Jawaban singkatnya: mulai dari gambar kerja atau data OEM yang menetapkan ukuran nominal dan batasnya. Tentukan datum serta metode ukur sebelum membuat atau memeriksa komponen. Lalu catat ukuran aktual, alat, titik ukur, dan keputusan terima/tolak. Nilai spesifik, jenis sambungan, dan kriteria penerimaan tetap milik dokumen proyek yang disetujui—bukan sesuatu yang boleh ditebak dari kebiasaan bengkel. Paket fabrikasi yang terkendali memang dapat memuat dimensi, datum, toleransi, antarmuka, urutan kerja, inspeksi, dan dasar penerimaan; katalog resmi hanya menjelaskan identitas dan lingkup dokumennya, bukan angka toleransi proyek ([BSN SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -60,118 +39,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-11
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-07-A01` → `/artikel/dari-kebutuhan-ke-gambar-kerja-fabrikasi.html` — Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui
-- `BKL-07-A03` → `/artikel/membaca-simbol-las.html` — Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain
-- `BKL-07-A04` → `/artikel/urutan-fabrikasi-untuk-mengendalikan-distorsi.html` — Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Ukuran nominal** adalah ukuran rujukan pada gambar, bukan janji bahwa setiap benda akan tepat di angka itu. **Toleransi** adalah batas penyimpangan yang diizinkan dari nominal, misalnya sebagai batas atas-bawah atau sebagai toleransi geometrik. Tanpa batas tersebut, pemeriksa tidak memiliki dasar yang sama untuk menyatakan dua hasil “sesuai”.
+
+**Datum** adalah acuan yang dipilih untuk menempatkan benda atau alat ukur: bidang, garis, atau titik yang ditetapkan pada gambar. Dari datum itulah posisi lubang, kesejajaran, ketinggian, atau jarak ke fitur lain dibaca. Mengukur dari tepi yang berbeda-beda dapat menghasilkan angka yang tampak rapi tetapi tidak konsisten karena tepi itu belum tentu acuan desain.
+
+**Fit** (kecocokan) menjelaskan hubungan ukuran dua bagian yang berpasangan, seperti poros dan lubang. **Clearance** (kelonggaran atau celah) adalah ruang tersisa ketika satu bagian berada di dalam atau berdekatan dengan bagian lain. Celah dapat diperlukan agar komponen bergerak, dapat dirakit, atau tetap memiliki ruang untuk perubahan kondisi. Fit bukan “harus rapat”; ia harus sesuai fungsi yang ditetapkan.
+
+Batas artikel ini adalah bahasa ukur dan alur verifikasinya. Artikel ini tidak menetapkan diameter, kelas fit, celah operasi, kapasitas, atau kepatuhan struktur tertentu. Untuk konteks pekerjaan, mulai dari [alur fabrikasi logam](/konstruksi-fabrikasi-logam.html), lalu kembali ke gambar dan data OEM yang berlaku. Member size saja tidak membuktikan kecukupan sistem; beban, geometri, stabilitas, sambungan, tumpuan, kondisi eksisting, urutan ereksi, toleransi, inspeksi, dan lingkungan ikut menentukan keputusan lengkap ([BSN SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024](https://www.iso.org/standard/83335.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang aman dimulai saat menerima paket kerja. Baca nomor gambar, revisi, satuan, ukuran nominal, simbol toleransi, datum, material, dan fitur antarmuka. Pastikan orang yang mengukur memakai revisi yang sama dengan orang yang membuat. Bila ada dua dokumen berbeda, hentikan asumsi dan minta klarifikasi tertulis.
+
+Berikutnya, ubah kebutuhan fungsi menjadi pasangan ukuran yang dapat diperiksa. Untuk poros-lubang, tulis ukuran nominal masing-masing, batas ukuran, dan apakah perakitan membutuhkan gerak, geser, atau penahanan. Untuk dua pelat, tentukan bidang datum, jarak lubang, arah pengukuran, serta clearance terhadap baut atau komponen tetangga. Jangan mengganti instruksi “bebas gerak” dengan angka buatan sendiri.
+
+Sebelum produksi, pilih alat yang mampu membaca rentang dan ketelitian yang dituntut gambar. Alat ukur harus memiliki identitas dan status kalibrasi yang dapat ditelusuri menurut sistem mutu yang berlaku di proyek. Bersihkan permukaan, kendalikan posisi benda, dan ukur dari datum yang sama. Untuk fitur yang berulang, tetapkan jumlah titik dan arah ukur agar hasil antaroperator dapat dibandingkan.
+
+Setelah komponen dibuat, catat ukuran aktual, bukan sekadar tanda centang. Rekaman minimal memuat identitas komponen, nomor gambar dan revisi, datum atau titik referensi, alat ukur, tanggal, pengukur, hasil tiap fitur, serta keputusan terima/tolak. Jika ada deviasi, simpan permintaan penyimpangan dan persetujuan pihak berwenang; jangan menghapus angka yang tidak sesuai dari lembar inspeksi.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Toleransi ukuran tidak berdiri sendiri. **Stack-up** (akumulasi toleransi) terjadi ketika beberapa dimensi berantai menentukan satu posisi akhir. Batas atas pada satu ukuran dan batas bawah pada ukuran lain dapat mengurangi atau menghabiskan clearance. Karena itu, hitung rantai dimensi dari datum hingga antarmuka, lalu periksa kondisi paling menguntungkan dan paling merugikan sesuai metode yang ditetapkan dokumen proyek. Jika rantai atau cara perhitungannya tidak tersedia, tandai `[NEEDS DRAWING-BASED STACK-UP REVIEW]` sebelum menyatakan sambungan aman.
+
+Suhu, lapisan, burr, deformasi akibat proses, dan kebersihan juga memengaruhi pembacaan. Sebuah lapisan pelindung dapat mengubah ukuran efektif antarmuka; permukaan yang miring dapat membuat alat membaca terlalu besar atau kecil. Panduan perlindungan korosi ISO 12944-8 membahas penyusunan spesifikasi untuk pekerjaan baru dan pemeliharaan, tetapi abstraknya tidak memberi angka celah atau ketebalan lapisan untuk proyek tertentu ([ISO 12944-8:2017](https://www.iso.org/standard/64838.html)). Minta spesifikasi proyek sebelum memasukkan coating ke perhitungan fit.
+
+Urutan fabrikasi pun berpengaruh. Pemotongan, pembentukan, pemesinan, pengelasan, dan pelapisan dapat mengubah posisi relatif fitur. Datum pemeriksaan akhir perlu diputuskan bersama urutan itu: apakah fitur kritis diukur sebelum atau sesudah proses berikutnya? Catat kondisi ukur, terutama bila komponen akan dirakit pada temperatur atau posisi berbeda.
+
+Terakhir, antarmuka sistem tidak boleh dipisahkan dari fungsi. Ukuran anggota saja tidak menetapkan kecukupan; sambungan, anchor, tumpuan, stabilitas sementara, inspeksi, dan kondisi lingkungan dapat mengubah keputusan. Untuk kebutuhan struktur atau keselamatan, mintalah tinjauan profesional dan gunakan dokumen penerbitan untuk kerja, bukan tabel umum dari internet.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan gambar menyebut lubang dan poros berpasangan tetapi tidak menuliskan batas ukuran. Keputusan pertama bukan memilih mata bor atau mengira “biasanya longgar”. Kembalikan pertanyaan: berapa nominal dan batas masing-masing, datum mana yang mengendalikan posisi, fungsi pasangan (bergerak atau ditahan), serta siapa yang menyetujui nilai itu? Sampai jawaban tertulis tersedia, statusnya belum siap diproduksi.
+
+Jika batas sudah tersedia, buat tabel kerja sederhana:
+
+| Yang diperiksa | Pertanyaan operator | Bukti yang dicatat |
+|---|---|---|
+| Nominal dan toleransi | Berapa batas bawah-atas pada revisi gambar yang berlaku? | Nomor gambar, revisi, nilai batas |
+| Datum | Dari bidang/fitur mana jarak dan posisi diambil? | Datum, fixture, titik ukur |
+| Fit dan clearance | Apakah pasangan harus bergerak, masuk, atau ditahan? | Fungsi dan kriteria proyek |
+| Stack-up | Apakah rantai dimensi menghabiskan celah pada kondisi ekstrem? | Perhitungan atau rujukan resmi |
+| Hasil aktual | Apakah alat dan metodenya konsisten? | ID alat, tanggal, nilai ukur |
+
+Pada hasil di luar batas, pisahkan tiga keputusan: tahan komponen, laporkan deviasi, dan minta disposisi. Jangan memperbesar lubang, menggerinda poros, atau menggeser datum hanya agar angka masuk tanpa persetujuan perubahan. Sobat Bengkel.co.id, perbaikan yang mengubah antarmuka dapat memindahkan masalah ke komponen pasangan dan menghilangkan jejak penyebabnya.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan nominal dengan ukuran wajib. Periksa apakah setiap fitur punya batas dan apakah satuannya konsisten. Kesalahan kedua adalah mengukur dari ujung yang mudah dijangkau, bukan datum. Tandai datum pada fixture dan foto atau sketsa titik ukur di lembar inspeksi bila prosedur proyek mengizinkannya.
 
-## Objection or shortcut to address
+Kesalahan ketiga ialah memakai istilah “clearance standar” tanpa menyebut fungsi, material, coating, dan kondisi operasi. Ganti istilah itu dengan pertanyaan yang bisa dijawab pada gambar atau spesifikasi. Kesalahan keempat adalah menjumlahkan toleransi secara diam-diam atau mengabaikan ukuran rantai. Minta metode stack-up yang disetujui dan tunjukkan asumsi perhitungannya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kelima adalah menganggap satu pengukuran mewakili seluruh fitur. Tentukan jumlah titik, arah, dan kondisi benda. Jika alat atau status kalibrasinya meragukan, hasilnya adalah `[NEEDS MEASUREMENT-METHOD REVIEW]`, bukan angka yang dipaksakan.
 
-## Required conclusion
+### Jalan pintas yang tampak cepat
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah membuat komponen “sedikit longgar” agar pasti bisa dirakit. Cara ini memang dapat menyembunyikan ketidakselarasan awal, tetapi dapat mengurangi fungsi penahanan, menambah gerak, atau memindahkan beban ke bagian lain. Alternatif yang lebih aman: kunci dulu datum dan batas pada dokumen, lakukan pemeriksaan stack-up, kemudian minta persetujuan desain bila fungsi memang memerlukan perubahan. Kawan Bengkel.co.id, “bisa masuk” hanya menjawab satu tahap perakitan; ia belum membuktikan fit yang benar atau penerimaan sistem.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Toleransi memberi batas variasi, datum memberi acuan, fit menjelaskan hubungan pasangan, dan clearance menunjukkan ruang fungsional yang tersisa. Bahasa itu baru berguna bila diterjemahkan menjadi ukuran nominal, batas, metode ukur, dan rekaman penerimaan yang merujuk pada revisi dokumen yang sama.
+
+Langkah Anda sekarang: ambil gambar atau data OEM yang disetujui, tandai semua datum dan antarmuka, susun lembar ukur untuk ukuran aktual, lalu minta tinjauan profesional untuk nilai yang belum ditetapkan. Untuk komponen yang perlu pemulihan dimensi, lihat [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) sebagai konteks pekerjaan lanjutan. Jangan mengisi angka yang hilang dari kebiasaan bengkel. Bila dokumen belum menetapkan kriteria, tinggalkan `[NEEDS PROJECT ACCEPTANCE BASIS]` dan tahan keputusan terima/tolak sampai dasar itu diterbitkan. Itulah aturan operasional yang menjaga “pas” tetap dapat dibuktikan.

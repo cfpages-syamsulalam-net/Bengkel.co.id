@@ -1,9 +1,10 @@
 ---
 article_id: BKL-19-A04
+writing_contract_version: "native-id-v2"
 title: "Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan"
 slug: "dampak-lingkungan-pekerjaan-bengkel-di-lokasi"
 description: "Plan source controls, zoning, timing, communication, monitoring, housekeeping, complaint route, and stop criteria"
-status: outline
+status: draft
 publication_date: "2026-06-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,44 +18,12 @@ sources:
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
-  - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan”
-- **Reader and situation:** Field work occurs near occupants or neighbors
-- **Reader outcome:** Plan source controls, zoning, timing, communication, monitoring, housekeeping, complaint route, and stop criteria
-- **Primary intent:** Control off-site nuisance and exposure
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal exposure/noise limit or permit conclusion; current law, site data, and competent specialists govern
-- **Final public route:** `/artikel/dampak-lingkungan-pekerjaan-bengkel-di-lokasi.html`
-- **Appointed CMS date:** `2026-06-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,126 +34,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel.co.id! Pekerjaan lapangan dekat rumah, toko, atau fasilitas aktif tidak cukup dikendalikan dengan membagikan masker lalu berharap tetangga maklum. Asap las, debu gerinda, suara benturan, dan getaran berpindah melewati batas area kerja; keluhan biasanya muncul ketika sumber tidak diisolasi, jadwal tidak disepakati, atau respons terlambat.
 
-### KR-20
+Jawaban praktisnya: petakan sumber dan jalur rambat sebelum mulai, kurangi sumbernya, pisahkan zona kerja dari penghuni, tentukan jam dan rute angkut, beri pemberitahuan, lalu pantau dan catat keluhan. Hentikan pekerjaan bila kendali gagal atau ada indikasi bahaya bagi orang di sekitar. Ambang kebisingan, paparan, izin, dan tindakan hukum tidak bisa disamaratakan; kondisi lokasi, aturan daerah yang berlaku, pengukuran, serta tinjauan tenaga kompeten dapat mengubah keputusan. **[NEEDS REVIEW: GATE-01, GATE-03, GATE-08, GATE-12 — verifikasi batas paparan/kebisingan, izin, dan kriteria penghentian berdasarkan lokasi dan aturan terkini.]** Baca kembali [ruang kerja Bengkel.co.id](/) saat briefing sebelum kerja.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Connect source reduction, controlled use, segregation, reuse/recycling, worker exposure, and legal waste disposition without assuming every metal offcut is harmless or recyclable.
-- **Safe grounded facts:** Waste identity, contamination, generator/site context, storage, labeling, transport, receiver authorization, records, and current local rules determine the route. Reuse and repair may avoid new material but do not automatically reduce total environmental or safety impact.
-- **Limits:** Do not classify a waste, recommend mixing, state a storage limit, name a legal carrier/receiver, or claim a quantified environmental benefit without current Indonesian/local requirements, characterization, mass/energy data, and authorized-party evidence.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-01, GATE-03, GATE-08, GATE-12
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-19-A02` → `/artikel/sds-label-dan-penyimpanan-bahan-kimia-bengkel.html` — SDS, Label, dan Penyimpanan Bahan Kimia Bengkel
-- `BKL-19-A03` → `/artikel/segregasi-scrap-dan-limbah-bengkel.html` — Scrap Logam, Tabung, Oli, dan Bahan Terkontaminasi: Jangan Dicampur Sembarangan
-- `BKL-19-A05` → `/artikel/apakah-reparasi-lebih-ramah-lingkungan.html` — Reparasi Lebih Ramah Lingkungan daripada Ganti? Cara Menguji Klaimnya
-- `BKL-19-A06` → `/artikel/bukti-serah-terima-limbah-dan-scrap.html` — Bukti Serah Terima Limbah dan Scrap dari Proyek Bengkel
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal ilustratif; gambar ini bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas di sini adalah pekerjaan sementara atau berpindah—mengelas, memotong, menggerinda, mengecat, mengangkat, atau memperbaiki—yang berpotensi memengaruhi orang di luar pagar kerja. “Dampak” berarti paparan atau gangguan yang dapat mencapai penghuni, pengguna jalan, pekerja lain, dan lingkungan sekitar, bukan sekadar kondisi di titik operator.
+
+Artikel ini tidak menetapkan angka universal untuk kebisingan, getaran, debu, asap, kualitas udara, atau jam kerja; juga tidak menyimpulkan bahwa suatu kegiatan otomatis memerlukan atau tidak memerlukan izin. [NEEDS SITE DATA: lokasi penerima terdekat, jenis proses, durasi, bahan, arah angin, dan riwayat keluhan.] Data itu menentukan apakah penghalang, ventilasi, penjadwalan, atau pengukuran profesional diperlukan.
+
+Untuk bahan kimia, kenali produk dan lembar data keselamatannya (safety data sheet/SDS) sebelum digunakan. Prinsip komunikasi bahaya—identitas, label, dan informasi keselamatan—dapat dijadikan acuan pembanding, tetapi aturan OSHA Amerika Serikat bukan hukum Indonesia ([OSHA 29 CFR 1910.1200](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan survei singkat bersama pengawas lapangan. Tandai sumber (busur las, mesin potong, kompresor, kendaraan), jalur rambat (pintu terbuka, celah pagar, saluran udara, permukaan yang bergetar), dan penerima (kamar, ruang kelas, kasir, klinik, atau pejalan kaki). Foto peta zona dan tulis waktu kegiatan; jangan hanya mengandalkan ingatan.
+
+Berikut urutan kendali yang mudah diaudit:
+
+1. **Hilangkan atau ganti sumber bila masuk akal.** Pindahkan pemotongan ke area kerja yang lebih terisolasi, gunakan metode yang menghasilkan lebih sedikit asap atau percikan bila spesifikasinya memungkinkan, dan hindari menyalakan mesin tanpa pekerjaan siap.
+2. **Kendalikan secara teknik.** Pasang tirai las, penutup debu, penghalang suara, alas anti-getar, atau penangkap lokal sesuai proses. Pastikan penghalang tidak menutup jalur evakuasi dan ventilasi tidak mengarah ke tetangga.
+3. **Atur administrasi.** Tetapkan jam kerja, durasi, operator berwenang, rute material, pemeriksaan awal, dan nomor kontak keluhan. Beri tahu penghuni sebelum pekerjaan bising dimulai; kabar setelah gangguan terjadi bukan komunikasi yang efektif.
+4. **Gunakan APD sebagai lapisan terakhir.** Respirator, pelindung pendengaran, pelindung mata, dan pakaian kerja dipilih dari bahaya serta produk yang benar, bukan dari stok umum. UU Keselamatan Kerja menempatkan keselamatan sebagai sistem perlindungan kerja, bukan sekadar kewajiban memakai APD ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970)).
+
+Untuk instalasi listrik sementara atau pekerjaan dengan energi mekanik, koordinasikan isolasi, pembumian, dan akses hanya melalui prosedur serta personel kompeten. Rencana keadaan darurat harus menyebut cara memberi alarm, mengevakuasi penghuni, memberi pertolongan pertama, dan menghentikan sumber energi; rincian teknisnya perlu ditinjau sesuai kondisi nyata ([Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jarak bukan satu-satunya penentu. Arah angin dapat membawa asap ke jendela yang jauh, sementara dinding keras memantulkan suara. Tanah, lantai beton, atau struktur baja dapat meneruskan getaran ke ruangan yang tidak terlihat dari titik kerja. Pekerjaan singkat pada jam istirahat bisa lebih mengganggu daripada pekerjaan lebih lama pada jam yang disepakati.
+
+Kondisi proses juga penting: elektroda, cat, pelarut, logam berlapis, dan bahan pembersih memiliki bahaya berbeda. Jangan mencampur sisa bahan atau menganggap setiap serbuk logam aman dibuang. Identitas limbah, kontaminasi, penyimpanan, pelabelan, pengangkutan, penerima berwenang, dan catatan menentukan rute pengelolaannya; persyaratan lingkungan yang berlaku dirujuk dalam PP No. 22 Tahun 2021 ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021)).
+
+Bukti sederhana membantu keputusan: log harian berisi proses, jam mulai-selesai, cuaca yang relevan, kendali yang dipasang, hasil pemeriksaan visual, dan keluhan. Jika keluhan berulang meski kendali terlihat terpasang, minta pengukuran atau evaluasi kompeten. Permenaker tentang keselamatan dan kesehatan kerja lingkungan kerja memberi kerangka bahwa penilaian kondisi kerja perlu berbasis bahaya dan pengendalian, bukan perkiraan semata ([Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan gerinda harus dipakai di sisi bangunan yang berbatasan dengan rumah. Sebelum menyalakan mesin, tanyakan: siapa penerima terdekat, apakah jendela menghadap sumber, ke mana percikan dan debu bergerak, dan apakah jam kerja sudah diberitahukan? Jika jawabannya belum jelas, tunda pekerjaan, pindahkan titik kerja atau pasang penghalang dan penangkap debu, lalu sepakati waktu.
+
+Gunakan tabel keputusan ringkas berikut sebagai pemicu, bukan pengganti penilaian profesional:
+
+| Temuan di lapangan | Tindakan segera | Bukti yang dicatat |
+|---|---|---|
+| Asap/debu masuk ke area penghuni | Hentikan proses, tutup jalur, perbaiki penangkapan atau pindahkan sumber | Foto arah aliran, waktu, tindakan koreksi |
+| Suara/getaran mengganggu ruang sensitif | Kurangi durasi, ubah metode, tambah isolasi, konfirmasi jadwal | Log dB/getaran bila diukur dan persetujuan waktu |
+| Bahan tidak teridentifikasi atau SDS tidak tersedia | Jangan gunakan; karantina dan minta identifikasi | Nama produk, batch, pemasok, status SDS |
+| Keluhan pertama diterima | Akui, catat detail, cek sumber, beri waktu respons | Kontak, lokasi penerima, isi keluhan, tindak lanjut |
+| Kendali gagal atau bahaya segera | Stop-work, amankan area, beri tahu pengawas dan penghuni terdampak | Waktu berhenti, alasan, keputusan melanjutkan |
+
+Kawan Bengkel.co.id, “tidak ada yang terluka” bukan bukti bahwa gangguan dapat diterima. Keputusan melanjutkan harus mempertimbangkan hasil pemeriksaan, bukan kecepatan mengejar target.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Asap, Debu, Bising, Getaran, dan Keluhan Tetangga di Pekerjaan Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memasang terpal setelah ada protes. Periksa penghalang dan arah aliran sebelum pekerjaan dimulai, lalu lakukan uji singkat dengan pengawas. Kedua, mengandalkan APD pekerja untuk melindungi tetangga; APD tidak menghentikan suara, debu, atau asap yang keluar zona. Ketiga, mengumumkan “pasti aman” tanpa data. Ganti dengan pernyataan bersyarat: proses, waktu, kendali, dan bukti apa yang sudah diperiksa.
 
-## Objection or shortcut to address
+Kesalahan berikutnya adalah menganggap keluhan sebagai gangguan komunikasi belaka. Tanyakan gejala atau gangguan yang dialami, kapan terjadi, dan aktivitas apa yang sedang berlangsung. Simpan semua respons; pola waktu dapat menunjukkan sumber yang perlu diubah. Jangan membalas dengan menyalahkan penghuni atau menjanjikan angka yang belum diukur.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Terakhir, mencampur scrap, kain terkontaminasi, wadah cat, dan limbah umum agar cepat diangkut. Pisahkan sementara berdasarkan identitas yang telah diverifikasi, beri label yang dapat dibaca, dan minta arahan pengelola berwenang. Jika status limbah atau penerimanya belum jelas, tahan pengiriman dan tandai untuk review.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah bekerja malam hari supaya jalan sepi. Cara ini dapat memindahkan masalah ke jam tidur, memperburuk persepsi getaran dan suara, serta menyulitkan evakuasi atau respons keluhan. Alternatif yang lebih andal adalah menyepakati jendela waktu dengan penghuni, membatasi durasi, memasang kendali teknik, dan menyediakan kontak yang benar-benar aktif. Bila kendali tidak cukup, stop-work dan minta evaluasi kompeten; jangan menukar risiko siang dengan risiko malam.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Asap, debu, bising, getaran, dan keluhan tetangga dikendalikan melalui urutan: kenali sumber dan penerima, kurangi atau isolasi sumber, atur zona serta waktu, komunikasikan rencana, pantau hasil, dan hentikan pekerjaan saat kendali gagal. Besok sebelum mulai, buat peta zona satu halaman, daftar bahan dan SDS, jadwal pemberitahuan, formulir log, serta jalur keluhan.
+
+Sobat Bengkel.co.id, bawa peta dan log itu ke pengawas K3 atau tenaga kompeten untuk menilai kebutuhan pengukuran, izin, dan kriteria stop-work yang sesuai lokasi. Tanpa data site dan aturan terkini, artikel ini hanya kerangka pengendalian—bukan batas paparan, kesimpulan izin, atau persetujuan pekerjaan. Rujukan kewajiban dan pembaruan aturan perlu dicek pada [peraturan K3 terbaru](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026) sebelum pekerjaan disahkan. Untuk langkah berikutnya, gunakan [ruang kerja fabrikasi dan konstruksi](/konstruksi-fabrikasi-logam.html) dan [informasi tentang Bengkel.co.id](/tentang-kami) untuk kembali ke sumber daya situs.

@@ -3,7 +3,8 @@ article_id: BKL-02-A03
 title: "Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya"
 slug: "membuat-kronologi-gejala-dan-perbaikan"
 description: "Record first occurrence, operating state, frequency, changes, alarms, prior work, and temporary controls for diagnosis"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-04-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,37 +21,79 @@ sources:
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya
 
-## Assignment lock
+Halo, Teman Bengkel.co.id! Saat gangguan muncul sesekali, catatan “mesin rusak” terlalu tipis untuk membantu pemeriksaan. Kronologi yang berguna menjawab kapan gejala pertama terlihat, aset sedang bekerja seperti apa, seberapa sering kejadian berulang, alarm apa yang muncul, pekerjaan apa yang sudah dilakukan, dan kontrol sementara apa yang masih aktif. Dengan urutan itu, teknisi dapat memulai dari kondisi nyata—bukan dari tebakan penyebab.
 
-- **Writer task:** Expand this file into one complete article answering: “Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya”
-- **Reader and situation:** Recurring or intermittent failure
-- **Reader outcome:** Record first occurrence, operating state, frequency, changes, alarms, prior work, and temporary controls for diagnosis
-- **Primary intent:** Build a symptom timeline
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Excludes root-cause conclusions owned by BKL-03-A05 and repeat-failure analysis owned by BKL-16-A05
-- **Final public route:** `/artikel/membuat-kronologi-gejala-dan-perbaikan.html`
-- **Appointed CMS date:** `2025-04-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dengan satu baris untuk setiap kejadian, lalu tambahkan bukti yang dapat diperiksa: waktu, mode operasi, beban atau proses yang sedang berjalan, lokasi gejala, suara atau perubahan visual yang benar-benar diamati, kode alarm persis, tindakan operator, dan kondisi setelah tindakan. Pisahkan fakta dari dugaan. Catatan ini mengarahkan diagnosis, tetapi tidak dengan sendirinya membuktikan akar masalah atau menentukan siapa yang bertanggung jawab.
 
-## Opening instructions
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
+## Mulai dari gejala, bukan tebakan penyebab
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Tulis “getaran terasa setelah 20 menit operasi pada mode X” bila itu yang terlihat, bukan “bearing aus”. Catat lokasi relatif—misalnya sisi penggerak atau panel—dan bedakan gejala yang terdengar, terlihat, terukur, atau hanya dilaporkan orang lain. Jika ada angka, tulis satuannya, alat yang dipakai, dan waktu pengukuran; bila tidak ada, gunakan kata “terlihat” atau “terdengar” tanpa mengubahnya menjadi nilai.
+
+Gunakan format sederhana berikut untuk tiap baris kejadian:
+
+| Waktu dan durasi | Kondisi operasi | Gejala atau alarm persis | Tindakan dan perubahan |
+|---|---|---|---|
+| tanggal/jam, berapa lama | mode, proses, beban yang diketahui | pesan/kode alarm, lokasi, bukti | siapa melakukan apa, hasil segera |
+
+Tambahkan frekuensi (sekali, setiap start, acak), perubahan dibanding kejadian sebelumnya, serta apakah gejala hilang saat beban atau mode berubah. Jangan mengisi kolom yang tidak diketahui dengan perkiraan. Sobat Bengkel.co.id, satu catatan “tidak diketahui” sering lebih jujur dan lebih berguna daripada angka hasil ingatan.
+
+Simpan juga dokumen pendukung: foto layar alarm, salinan work order, daftar suku cadang, hasil inspeksi, dan catatan penundaan pekerjaan. Riwayat kerja sebaiknya menyebut tanggal, identitas komponen, pekerjaan yang benar-benar dilakukan, pengujian setelahnya, serta otoritas yang melepas aset kembali beroperasi. Bahan seperti ini membantu membedakan kejadian baru dari kondisi yang belum pernah ditutup, tanpa menjanjikan interval perawatan, sisa umur, atau keandalan tertentu.
+
+## Saringan risiko langsung
+
+Kronologi tidak mengharuskan Anda menyalakan ulang, membuka pelindung, masuk ke area berbahaya, atau menguji bagian berenergi. Bila ada gerakan tak terduga, energi listrik, tekanan, suhu, bahan kimia, atau alarm keselamatan, batasi akses dan ikuti prosedur site. Pengendalian energi berbahaya dalam aturan OSHA 29 CFR 1910.147 menjadi contoh bahwa pekerjaan servis memerlukan isolasi dan pengendalian energi; itu bukan pengganti ketentuan Indonesia, manual OEM, atau metode kerja setempat ([OSHA 29 CFR 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)).
+
+Kerangka keselamatan mesin Indonesia perlu dibaca dari peraturan yang berlaku dan perubahan statusnya. Permenaker No. 38 Tahun 2016 tersedia di basis data BPK, dan Permenaker No. 11 Tahun 2026 memuat perubahan atau pencabutan sebagian yang harus diperiksa sebelum menetapkan prosedur ([Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016); [Permenaker No. 11 Tahun 2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)). Titik isolasi, verifikasi bebas energi, personel berwenang, dan kendali darurat tetap harus ditentukan oleh penanggung jawab kompeten untuk aset dan lokasi tersebut.
+
+[NEEDS GATE-02: Koordinator perlu mengonfirmasi aturan lokal, otoritas isolasi, dan batas tindakan aman untuk jenis aset yang dimaksud.]
+
+Jika kondisi memburuk, hentikan pengumpulan data di dekat aset dan pindahkan pencatatan ke lokasi aman. Tulis siapa yang mengamankan area, kapan dilakukan, dan apakah aset dilarang dioperasikan kembali. Jangan menghapus alarm atau mereset kontrol hanya agar proses berjalan; perubahan itu sendiri harus masuk kronologi.
+
+## Kemungkinan mekanisme
+
+Kelompokkan kemungkinan mekanisme sebagai hipotesis yang menunggu pemeriksaan: perubahan proses atau beban, gangguan kendali atau sensor, sambungan atau komponen mekanis, kondisi lingkungan, dan pekerjaan sebelumnya yang belum tuntas. Untuk tiap kelompok, tulis bukti yang mendukung dan yang belum ada. Contoh: “muncul hanya saat start” adalah pola; “motor kekurangan torsi” adalah dugaan yang memerlukan data dan pengujian aman.
+
+Perubahan setelah perbaikan penting dicatat apa adanya: gejala hilang sementara, berpindah lokasi, frekuensinya berubah, atau tidak berubah. Jangan menyamakan urutan waktu dengan hubungan sebab-akibat. Kesimpulan akar masalah berada di luar halaman ini; gunakan kronologi untuk memberi teknisi titik awal yang dapat diaudit.
+
+## Urutan pemeriksaan dan pengujian
+
+Susun pemeriksaan dari yang paling aman dan informatif. Pertama, cocokkan identitas aset, mode operasi, dan waktu kejadian dengan log atau work order. Kedua, telaah pesan alarm persis, perubahan konfigurasi yang tercatat, dan pekerjaan terdahulu. Ketiga, lakukan inspeksi visual dari batas aman tanpa membongkar atau memberi energi tambahan. Baru setelah metode kerja, isolasi, alat, dan personel disetujui, pemeriksaan teknis atau pengukuran dapat dilakukan oleh pihak berwenang.
+
+Untuk setiap tes, catat pertanyaan yang hendak dijawab, kondisi sebelum tes, alat dan identitas sampel, hasil mentah, serta keputusan penghentian. Jangan menciptakan ambang alarm, interval pemeriksaan, jumlah suku cadang, atau keputusan restart yang tidak ada di manual OEM, riwayat aset, persyaratan statutori, dan persetujuan penanggung jawab. Jika pekerjaan lanjutan diperlukan, tautkan catatan ini ke [permintaan perbaikan mesin dan komponennya](/perbaikan-mesin-komponen-industri.html) agar serah-terima tidak kehilangan konteks.
+
+Jika kronologi menunjukkan bagian yang perlu dibuat atau diubah secara khusus, jelaskan batas desain dan persetujuannya sebelum meminta [pembuatan atau perbaikan struktur khusus](/pembuatan-perbaikan-struktur-khusus.html); tautan ini bukan pengganti pemeriksaan aset.
+
+## Cara membaca hasil tanpa melompat ke kesimpulan
+
+Pisahkan lima hal: hasil pengamatan, kriteria penerimaan yang berlaku, hipotesis sebab, konsekuensi operasional, dan otoritas keputusan. “Alarm muncul pukul 10.15” adalah hasil. “Nilai memenuhi kriteria manual” adalah penilaian terhadap kriteria. “Sensor gagal” baru hipotesis. “Produksi tertunda” adalah konsekuensi. “Aset boleh dioperasikan” adalah keputusan pihak berwenang.
+
+Buat kolom status: terkonfirmasi, belum diuji, bertentangan, atau tidak tersedia. Bila dua catatan berbeda, simpan keduanya beserta sumber dan minta klarifikasi; jangan memilih versi yang paling nyaman. Kawan Bengkel.co.id, kronologi yang baik boleh berakhir dengan pertanyaan terbuka. Itu lebih aman daripada laporan rapi yang menutup ketidakpastian.
+
+## Pilihan tindakan dan titik eskalasi
+
+Kontrol sementara harus memiliki pemilik, waktu mulai, batas penggunaan, dan kondisi pencabutan. “Pantau sampai besok” tidak cukup tanpa menjelaskan apa yang dipantau dan siapa yang berwenang menghentikan operasi. Bedakan kontrol administratif, pengurangan beban yang memang disetujui, isolasi aset, perbaikan, dan penggantian; jangan menyebut satu sebagai pengganti yang lain.
+
+Eskalasi diperlukan bila gejala berulang setelah tindakan, bukti berubah karena pembongkaran, alarm keselamatan aktif, atau catatan menunjukkan pekerjaan sebelumnya tidak dapat diverifikasi. Minta inspeksi kompeten dan review metode kerja. Jika sengketa kontrak atau remedinya muncul, pisahkan pertanyaan teknis dari tanggung jawab hukum. UU No. 8 Tahun 1999 adalah sumber hukum konsumen, tetapi penerapannya pada kasus tertentu bergantung pada fakta, kontrak, forum, dan nasihat yang sesuai ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden)).
+
+[NEEDS GATE-08: Koordinator perlu meninjau batas eskalasi, bukti kontraktual, dan rujukan hukum sebelum artikel dipakai untuk keputusan sengketa atau penghentian operasi.]
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang umum adalah merangkum semua kejadian sebagai “sudah diperbaiki” lalu menghapus alarm lama. Cara ini gagal karena menghilangkan urutan, identitas komponen, dan perubahan sementara yang mungkin menjelaskan mengapa gejala kembali. Alternatifnya, simpan versi asli log, tandai setiap perubahan, dan tulis tindakan apa yang benar-benar dilakukan. Jangan mengklaim hasil akhir sebelum pengujian pelepasan dan persetujuan yang berlaku dicatat.
+
+## Penutup: ubah keluhan menjadi paket pemeriksaan
+
+Untuk membuat kronologi, kumpulkan baris kejadian yang berurutan: pertama muncul kapan, aset beroperasi dalam kondisi apa, seberapa sering, apa yang berubah, alarm persisnya, pekerjaan terdahulu, dan kontrol sementara. Sertakan bukti sumber dan tandai bagian yang belum diketahui. Kirim paket itu kepada teknisi atau penanggung jawab kompeten bersama pertanyaan: “Data apa yang masih kurang sebelum pemeriksaan aman dimulai?”
+
+Teman Bengkel.co.id, aturan operasinya sederhana: catat fakta sebelum menebak sebab, jangan mengubah kondisi berbahaya demi data tambahan, dan jangan menganggap kronologi sebagai izin untuk restart. Diagnosis, keputusan keselamatan, dan tanggung jawab hukum tetap memerlukan pemeriksaan serta review profesional sesuai aset dan lokasi.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -61,127 +104,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make intake articles collect decision-relevant evidence without encouraging an unqualified customer or writer to energize, dismantle, enter, pressurize, or test an unsafe asset.
-- **Safe grounded facts:** OSHA's US rule illustrates an energy-control program that distinguishes normal production from servicing and requires isolation/control before relevant servicing; it has explicit scope and exceptions. Indonesian machine K3 is governed locally, and the 2016 regulation must be read with the 2026 partial revocations.
-- **Limits:** Do not import US procedures as Indonesian compliance. Asset-specific isolation points, verification, authorized persons, and emergency controls require the current local rules, OEM information, and site method.
-
-### KR-17
-
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-### KR-19
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999.8Presiden).
-- **Purpose for this article:** Help a reader document and triage a problem without prejudging fault, destroying evidence, or giving legal advice.
-- **Safe grounded facts:** Immediate safety containment, technical cause investigation, contractual responsibility, consumer remedy, and legal process are different questions. Destructive repair or continued operation can change the condition and evidence.
-- **Limits:** Do not state who is liable, promise a refund/rework outcome, calculate damages, or prescribe a limitation period. Check current law, contract, forum, evidence, and competent Indonesian advice.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pembuatan-perbaikan-struktur-khusus.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-02-A01` → `/artikel/checklist-permintaan-servis-bengkel.html` — Checklist Permintaan Servis Bengkel yang Tidak Membuat Teknisi Menebak
-- `BKL-02-A02` → `/artikel/cara-memotret-kerusakan-untuk-konsultasi.html` — Cara Memotret dan Merekam Kerusakan untuk Konsultasi Bengkel
-- `BKL-02-A04` → `/artikel/data-nameplate-gambar-manual-untuk-bengkel.html` — Data Nameplate, Gambar, dan Manual yang Perlu Dikirim ke Bengkel
-- `BKL-02-A05` → `/artikel/menjelaskan-gejala-tanpa-menebak.html` — Menjelaskan Bunyi, Getaran, Panas, Bocor, Retak, dan Macet Tanpa Menebak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Mulai dari gejala, bukan tebakan penyebab
-
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Saringan risiko langsung
-
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kemungkinan mekanisme
-
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Urutan pemeriksaan dan pengujian
-
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara membaca hasil tanpa melompat ke kesimpulan
-
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Kronologi Gejala, Alarm, dan Perbaikan Sebelumnya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

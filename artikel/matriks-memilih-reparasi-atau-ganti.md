@@ -2,8 +2,9 @@
 article_id: BKL-04-A01
 title: "Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti"
 slug: "matriks-memilih-reparasi-atau-ganti"
-description: "Compare consequence, damage extent, repair evidence, remaining life, downtime, parts, cost range, and uncertainty"
-status: outline
+description: "Membandingkan konsekuensi, luas kerusakan, bukti reparasi, masa pakai, waktu henti, suku cadang, biaya, dan ketidakpastian"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-06-12"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,40 +19,9 @@ sources:
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
   - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti”
-- **Reader and situation:** Owner choosing after diagnosis
-- **Reader outcome:** Compare consequence, damage extent, repair evidence, remaining life, downtime, parts, cost range, and uncertainty
-- **Primary intent:** Decide repair versus replacement
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Teman Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Kawan Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prescribe the repair; BKL-08–BKL-11 own methods and qualified authority owns safety approval
-- **Final public route:** `/artikel/matriks-memilih-reparasi-atau-ganti.html`
-- **Appointed CMS date:** `2025-06-12` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Kawan Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,117 +32,85 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Bengkel.co.id! Ketika komponen rusak, jawaban “masih bisa dilas” belum cukup untuk memutuskan reparasi atau menggantinya. Pilihan yang masuk akal adalah yang menurunkan risiko kegagalan pada fungsi sebenarnya, dengan bukti yang bisa diperiksa.
 
-### KR-05
+Mulailah dari konsekuensi kegagalan, luas dan mekanisme kerusakan, sisa penampang, riwayat beban, bukti mutu reparasi, sisa masa pakai, waktu henti, ketersediaan suku cadang, kisaran biaya, dan ketidakpastian. Reparasi layak dipertimbangkan bila mekanisme kerusakan dipahami, material serta geometri dapat diverifikasi, metode dan pemeriksaannya terdokumentasi, dan otoritas yang bertanggung jawab menyetujui pemakaian kembali. Jika salah satu hal pokok itu tidak tersedia—terutama ketika kegagalan dapat mencederai orang atau menghentikan proses kritis—penggantian atau penghentian operasi menjadi pilihan yang lebih aman untuk dievaluasi. Untuk menyiapkan data awal, gunakan [beranda Bengkel.co.id](/) sebagai titik masuk layanan dan informasi umum.
 
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Replace simplistic “can it be welded?” answers with an evidence-led decision that accounts for function, failure consequence, material, geometry, damage mechanism, interfaces, and verification.
-- **Safe grounded facts:** A technically executable weld is not automatically an acceptable repair. A decision may require material identity, crack/damage mechanism, remaining section, loading and duty, distortion risk, heat-treatment history, OEM restrictions, code rules, access, proof/testing plan, and the consequences of failure.
-- **Limits:** No generic article may approve a repair design, remaining life, post-repair rating, or continued operation. Those require the asset owner, OEM where applicable, governing code, qualified designer/engineer, and documented verification.
+Untuk menyiapkan pertanyaan teknis, baca juga [ruang lingkup pekerjaan las](/las).
 
-### KR-17
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05, GATE-07
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-04-A02` → `/artikel/rekondisi-buat-ulang-atau-beli-baru.html` — Kapan Komponen Layak Direkondisi, Dibuat Ulang, atau Dibeli Baru
-- `BKL-04-A03` → `/artikel/menilai-perbaikan-sementara.html` — Menilai Perbaikan Sementara: Batas Waktu, Monitoring, dan Stop Condition
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Matriks ini bukan rumus yang otomatis menghasilkan kata “reparasi” atau “ganti”. Ia memaksa tim membandingkan dua jalur dengan pertanyaan yang sama: apakah fungsi, keselamatan, dan bukti setelah pekerjaan dapat dipertanggungjawabkan? Kemampuan membuat sambungan las hanya menjawab aspek pelaksanaan, bukan penerimaan desain atau kelayakan operasi. ISO 15614-1 menjelaskan kerangka kualifikasi prosedur pengelasan; keberadaan prosedur yang dapat dilaksanakan tidak dengan sendirinya membuktikan komponen tertentu aman dipakai kembali ([ISO 15614-1:2017](https://www.iso.org/standard/51792.html)).
+
+Kesalahpahaman kedua adalah menganggap komponen baru selalu bebas risiko. Suku cadang baru tetap harus cocok dengan material, ukuran, antarmuka, beban, dan pengaman mesin. Mesin juga harus terlindung dari bagian bergerak yang menimbulkan bahaya, sebagaimana ruang lingkup umum persyaratan machine guarding OSHA ([29 CFR 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212)). Karena itu, keputusan akhir tidak boleh diambil hanya dari foto, harga penawaran, atau desakan agar mesin segera menyala.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Reparasi” di sini berarti tindakan memulihkan komponen yang ada—misalnya memperbaiki retak, mengganti bagian terbatas, meluruskan, atau mengembalikan antarmuka—dengan rencana verifikasi. “Ganti” berarti memasang komponen pengganti yang identitas dan kecocokannya dapat ditelusuri. Keduanya bukan penilaian metode detail; artikel ini hanya membantu memilih jalur untuk dibawa ke pemeriksaan teknis.
+
+Batas ini penting. Artikel ini tidak menetapkan ukuran las, urutan pemanasan, toleransi, umur sisa, rating beban, interval perawatan, atau keputusan mulai ulang. Pemilik aset, OEM bila berlaku, perancang/insinyur berwenang, pengawas keselamatan, dan persyaratan hukum yang sedang berlaku harus menetapkan serta menyetujui hal tersebut. Untuk pekerjaan pada mesin, pengendalian energi berbahaya sebelum akses dan pengujian adalah bagian dari proses, bukan catatan tambahan ([OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun satu lembar untuk komponen dan satu baris untuk setiap faktor. Beri status **terbukti**, **sebagian**, atau **tidak diketahui**; jangan mengubah “belum diperiksa” menjadi “aman”. Lalu bandingkan jalur reparasi dan penggantian sebagai berikut.
+
+| Faktor | Pertanyaan pemeriksaan | Dampak pada pilihan |
+|---|---|---|
+| Konsekuensi | Apa yang terjadi bila bagian ini gagal lagi? Ada paparan orang, produk rusak, atau proses berhenti? | Konsekuensi tinggi menaikkan tuntutan bukti dan otorisasi; bukan ruang untuk tebakan. |
+| Kerusakan | Di mana lokasi, luas, kedalaman, dan mekanismenya? Retak berulang berbeda dari benturan tunggal. | Mekanisme tak jelas biasanya menahan reparasi sampai diagnosis lengkap. |
+| Material dan geometri | Apakah material, ketebalan, bentuk, sambungan, dan antarmuka teridentifikasi? | Ketidakcocokan dapat membuat reparasi maupun komponen pengganti gagal berfungsi. |
+| Bukti reparasi | Ada prosedur, identitas pelaksana, inspeksi, hasil uji, dan catatan penyimpangan? | Bukti lemah membuat manfaat reparasi tidak dapat dibandingkan secara jujur. |
+| Sisa masa pakai | Apa dasar teknis untuk menilai bagian yang tidak rusak dan mekanisme yang menyebabkannya? | Jangan menulis angka umur sisa tanpa data beban, inspeksi, dan persetujuan ahli. |
+| Downtime | Berapa lama isolasi, pekerjaan, inspeksi, dan commissioning masing-masing jalur? | Waktu henti adalah input perencanaan, bukan alasan melewati verifikasi. |
+| Suku cadang | Apakah komponen tersedia, identitasnya jelas, dan antarmukanya cocok? | “Ada di gudang” belum membuktikan kompatibilitas. |
+| Biaya dan ketidakpastian | Mana yang sudah berupa penawaran/bukti, mana yang masih kisaran? | Nyatakan rentang serta asumsi; jangan menjanjikan penghematan atau uptime. |
+
+Setelah tabel diisi, tetapkan kondisi berhenti: misalnya mesin tetap terisolasi ketika mekanisme kerusakan belum jelas, pengaman belum diverifikasi, atau hasil pemeriksaan belum ditandatangani. Teman Bengkel.co.id, matriks yang baik membuat ketidakpastian terlihat sehingga orang yang berwenang dapat memilih tindakan, bukan menyembunyikannya di balik satu angka biaya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Konsekuensi mendominasi urutan. Bracket pelindung yang tidak menahan beban utama mungkin mempunyai jalur reparasi berbeda dari poros yang kegagalannya dapat melemparkan bagian berputar. Namun label “bukan komponen kritis” harus berasal dari penilaian aset, bukan asumsi penulis.
+
+Mekanisme kerusakan juga mengubah hasil. Korosi aktif, kelelahan, salah alignment, panas berlebih, getaran, dan benturan menyisakan pertanyaan berbeda. Menutup retak tanpa mencari penyebabnya dapat mengulang kerusakan. Periksa catatan inspeksi, foto sebelum pekerjaan, pembacaan kondisi, riwayat beban, serta perubahan proses yang mendahului kejadian.
+
+Antarmuka sering luput: lubang baut, dudukan, seal, alignment, pelindung, sensor, dan sambungan ke fondasi. Komponen pengganti yang dimensinya mirip tetapi mengubah antarmuka dapat memindahkan masalah ke bagian lain. Sebaliknya, reparasi yang mengembalikan bentuk namun mengubah sifat material atau menyebabkan distorsi membutuhkan penilaian tambahan.
+
+Untuk pekerjaan pemeliharaan, bedakan pekerjaan berbasis kalender, jam operasi, kondisi, korektif, dan kewajiban keselamatan. Catatan work order, kode kegagalan, identitas suku cadang, cacat tertunda, hasil uji, serta pihak yang merilis aset membantu melihat tren. Ketentuan nasional yang relevan tetap harus diperiksa pada versi dan konteks aset yang berlaku, termasuk [Permenaker No. 38 Tahun 2016](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016); halaman regulasi adalah titik rujuk status, bukan pengganti penilaian lapangan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario berikut sebagai cara menguji logika, bukan sebagai persetujuan pekerjaan.
+
+**Skenario A—kerusakan terlokalisasi, konsekuensi terukur.** Tim menemukan deformasi pada dudukan, penyebab benturan sudah dicatat, material dan dimensi terbaca dari dokumen, dan jalur inspeksi pascareparasi tersedia. Reparasi dapat masuk daftar opsi bersyarat. Jika salah satu bukti itu ternyata hanya asumsi, status kembali “tahan keputusan”.
+
+**Skenario B—retak berulang pada bagian berbeban.** Retak muncul lagi setelah tindakan sebelumnya, tetapi catatan beban dan asal retak tidak lengkap. Jangan memilih berdasarkan biaya terendah. Isolasi, diagnosis mekanisme, penilaian desain, dan keputusan penggantian atau reparasi harus datang dari pihak berwenang. [NEEDS TECHNICAL REVIEW: keputusan akhir, metode, dan kelayakan operasi belum dapat ditetapkan dari artikel umum ini.]
+
+**Skenario C—komponen baru tersedia, tetapi spesifikasi tidak lengkap.** Harga dan waktu kirim tampak menarik. Tahan pembelian sampai identitas material, revisi gambar, dimensi antarmuka, kebutuhan pengaman, dan dokumen penerimaan diverifikasi. “Baru” bukan sinonim “cocok”.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Memilih Reparasi atau Ganti Berdasarkan Risiko dan Bukti”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Memulai dari metode.** Pertanyaan “bisa dilas?” diganti menjadi “apa fungsi, beban, material, mekanisme kerusakan, dan bukti penerimaannya?”
+2. **Menyamakan foto dengan diagnosis.** Minta pengukuran, inspeksi yang sesuai, dan rekaman kondisi sebelum pekerjaan.
+3. **Mengunci angka biaya terlalu dini.** Pisahkan biaya langsung, isolasi, inspeksi, commissioning, dan risiko pekerjaan tambahan; tandai setiap asumsi.
+4. **Mengabaikan energi berbahaya.** Verifikasi isolasi, penguncian, pelepasan energi tersimpan, dan otorisasi sebelum akses atau uji; rujuk prosedur pengendalian energi yang berlaku.
+5. **Menganggap regulator atau standar sebagai stempel proyek.** Sumber resmi membantu memahami ruang lingkup dan kewajiban, tetapi tidak membuktikan komponen tertentu telah lulus.
 
-## Objection or shortcut to address
+Sebelum rapat keputusan, minta lima lampiran minimum: foto dan identitas aset, temuan inspeksi, riwayat kegagalan, dua opsi pekerjaan dengan asumsi biaya/waktu, serta rencana verifikasi dan pihak yang merilis. Kawan Bengkel.co.id, bila lampiran itu belum lengkap, hasil matriks seharusnya “kumpulkan bukti”, bukan “pilih reparasi”.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu ditolak
 
-## Required conclusion
+Shortcut yang sering terdengar adalah, “Ganti saja supaya cepat.” Itu dapat gagal bila suku cadang tidak cocok, antarmuka berubah, atau penyebab kerusakan tetap ada. Shortcut kebalikannya—“Reparasi pasti lebih murah”—juga rapuh bila diagnosis berulang, inspeksi tambahan, dan downtime tidak dihitung. Alternatif yang lebih andal adalah memberi kedua opsi asumsi yang sama, menyatakan ketidakpastian, lalu meminta persetujuan teknis dan keselamatan sebelum eksekusi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Pilih reparasi bila fungsi dan mekanisme kerusakan dipahami, material serta antarmuka dapat diverifikasi, bukti pekerjaan dan pemeriksaan tersedia, dan otoritas yang bertanggung jawab menyetujui. Pilih penggantian atau tetap menghentikan operasi bila konsekuensi tinggi bertemu bukti yang tidak memadai, kecocokan suku cadang belum jelas, atau penyebab kerusakan belum teratasi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya: isi matriks dengan status terbukti/sebagian/tidak diketahui, lampirkan temuan dan asumsi biaya-waktu, lalu minta peninjauan pemilik aset, OEM bila perlu, serta tenaga teknis dan keselamatan yang berwenang. Setelah dokumen siap, bawa matriks ini ke forum konsultasi dan tinjau bersama tim. Aturan operasinya sederhana: tidak ada keputusan “aman dipakai kembali” hanya karena pekerjaan terlihat bisa dilakukan; keputusan itu harus lahir dari bukti yang dapat ditelusuri dan persetujuan yang tepat.

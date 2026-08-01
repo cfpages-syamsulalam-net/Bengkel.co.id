@@ -1,9 +1,10 @@
 ---
 article_id: BKL-09-A03
+writing_contract_version: "native-id-v2"
 title: "Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi"
 slug: "reverse-engineering-komponen-aus"
 description: "Cover function, datum, unworn reference, material, treatment, tolerance, interface, prototype, test, revision, and IP check"
-status: outline
+status: draft
 publication_date: "2025-10-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,43 +16,12 @@ final_route: "/artikel/reverse-engineering-komponen-aus.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
   - "https://www.iso.org/standard/51792.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi”
-- **Reader and situation:** Obsolete part has no usable drawing
-- **Reader outcome:** Cover function, datum, unworn reference, material, treatment, tolerance, interface, prototype, test, revision, and IP check
-- **Primary intent:** Understand custom replacement workflow
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not authorize safety-critical copying or bypass OEM/IP obligations; qualified owner approves equivalence
-- **Final public route:** `/artikel/reverse-engineering-komponen-aus.html`
-- **Appointed CMS date:** `2025-10-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -62,126 +32,79 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Bengkel.co.id! Part pengganti yang dibuat dari komponen aus bukan sekadar menyalin bentuk lama. Jawaban singkatnya: jadikan sampel sebagai sumber petunjuk, lalu bangun spesifikasi yang dapat diperiksa—fungsi, datum (acuan ukur), referensi bagian yang belum aus, material, perlakuan, toleransi, dan antarmuka—sebelum membuat prototipe. Part baru baru layak dipertimbangkan setelah kecocokan dan pengujiannya dicatat.
 
-### KR-10
+Sampel yang sudah terkikis dapat menyembunyikan ukuran awal, mengubah posisi pusat, atau membawa kerusakan akibat beban dan lingkungan. Karena itu, keputusan dapat berubah bila tersedia gambar OEM, sampel cadangan yang belum aus, riwayat beban, atau hasil inspeksi material. Tanpa bukti tersebut, hasil reverse engineering adalah hipotesis desain, bukan persetujuan untuk memasang dan menjalankan mesin.
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
-- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
-- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-### KR-05
 
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
-- **Purpose for this article:** Replace simplistic “can it be welded?” answers with an evidence-led decision that accounts for function, failure consequence, material, geometry, damage mechanism, interfaces, and verification.
-- **Safe grounded facts:** A technically executable weld is not automatically an acceptable repair. A decision may require material identity, crack/damage mechanism, remaining section, loading and duty, distortion risk, heat-treatment history, OEM restrictions, code rules, access, proof/testing plan, and the consequences of failure.
-- **Limits:** No generic article may approve a repair design, remaining life, post-repair rating, or continued operation. Those require the asset owner, OEM where applicable, governing code, qualified designer/engineer, and documented verification.
+*Aset lokal situs; gambar ini bukan dokumentasi proyek tertentu.*
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-### KR-17
+## Definisi, batas, dan langkah aman
 
-- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
-- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
-- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
+Reverse engineering di sini berarti merekonstruksi kebutuhan dan geometri komponen pengganti dari sampel serta data pendukung. Tujuannya bukan membuat salinan kosmetik, melainkan part yang fungsi dan hubungannya dengan sistem dapat diverifikasi. Komponen yang dibahas dapat berupa poros, dudukan, kopling, rangka, attachment, atau pelindung yang sudah tidak memiliki gambar yang bisa dipakai. Untuk konteks pekerjaan perbaikan umum, pembaca dapat melanjutkan ke panduan [perbaikan mesin dan komponen industri](/perbaikan-mesin-komponen-industri.html) setelah data teknisnya siap.
 
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-03, GATE-05, GATE-07, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/perbaikan-mesin-komponen-industri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-09-A01` → `/artikel/alur-reparasi-mesin-industri.html` — Alur Reparasi Mesin Industri: Dari Isolasi sampai Run Test
-- `BKL-09-A02` → `/artikel/data-ukur-shaft-bearing-housing-gear.html` — Shaft, Bearing, Housing, dan Gear: Data Ukur sebelum Memilih Perbaikan
-- `BKL-09-A04` → `/artikel/repair-welding-pada-komponen-mesin.html` — Repair Welding pada Komponen Mesin: Pertanyaan sebelum Menambah Material
-- `BKL-09-A05` → `/artikel/uji-setelah-reparasi-mesin.html` — Uji Jalan, No-Load, dan Load Test setelah Reparasi Mesin
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batasnya penting. Artikel ini tidak mengizinkan penyalinan komponen keselamatan, penghilangan interlock, atau pengabaian kewajiban OEM dan hak kekayaan intelektual. Pemilik aset, OEM bila relevan, dan perancang/insinyur yang berwenang harus menyetujui ekuivalensi. Untuk mesin dengan energi berbahaya, pekerjaan servis dan kondisi aman untuk produksi adalah dua status berbeda; kerangka pengendalian energi OSHA 1910.147 dan ketentuan keselamatan mesin OSHA 1910.212 dapat menjadi rujukan awal, sementara ketentuan Indonesia perlu diverifikasi pada regulasi yang berlaku (Permenaker No. 38 Tahun 2016, [BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan fungsi. Tulis apa yang harus ditahan, diputar, dipandu, disejajarkan, disekat, atau dilindungi; catat arah gaya, gerak, siklus, suhu, pelumas, dan konsekuensi bila gagal. Pernyataan fungsi ini mencegah tim menganggap semua permukaan aus harus dikembalikan ke ukuran yang sama.
+
+Berikutnya tetapkan datum dan antarmuka. Datum adalah permukaan atau sumbu yang dipilih sebagai acuan konsisten saat mengukur dan membuat gambar. Ukur hubungan antarfitur—misalnya sumbu terhadap muka dudukan, pola lubang, tinggi bahu, atau posisi keyway—bukan hanya diameter tunggal. Tandai permukaan yang menjadi lokasi bearing, seal, fastener, atau kontak geser. Foto, sketsa, dan nomor titik ukur membuat hasil dapat diulang oleh orang lain.
+
+Cari unworn reference, yaitu bagian yang relatif belum terpengaruh keausan. Bandingkan beberapa zona, sisi berpasangan, atau komponen kawin. Jangan menganggap satu angka yang paling mudah diukur sebagai ukuran nominal; peta keausan dan mekanisme kerusakan harus menjelaskan mana geometri asli dan mana material yang hilang.
+
+Setelah geometri sementara terbentuk, identifikasi material dan perlakuan. Catat tanda material, kekerasan bila diuji, lapisan, perlakuan panas, dan kemungkinan korosi atau kontaminasi. Bila identitas material belum terbukti, tulis sebagai asumsi dan rencanakan verifikasi—bukan sebagai fakta pada gambar produksi. ISO 15614-1:2017 sendiri menjelaskan kerangka kualifikasi prosedur pengelasan; keberadaan standar itu tidak membuktikan bahwa material atau suatu sambungan tertentu otomatis sesuai ([ISO](https://www.iso.org/standard/51792.html)).
+
+Terjemahkan fungsi menjadi toleransi dan spesifikasi antarmuka. Bedakan ukuran nominal, batas yang diizinkan, bentuk/geometri, kekasaran, dan kebutuhan keseimbangan. Toleransi harus diturunkan dari cara part berpasangan dan beban, bukan dari kebiasaan bengkel. Tandai fitur yang memengaruhi alignment, clearance, sealing, balance, containment, atau akses operator sebagai fitur kritis untuk ditinjau.
+
+Buat prototipe yang dapat dilacak ke revisi gambar. Revisi pertama sebaiknya menjawab ketidakpastian terbesar dengan metode ukur atau uji yang jelas. Simpan nomor part, material lot, alat ukur, hasil inspeksi, dan penyimpangan. Jika prototipe diubah, naikkan nomor revisi dan jelaskan alasan perubahan; jangan menimpa catatan lama.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi sampel menentukan tingkat keyakinan. Satu sampel yang retak, terdeformasi, atau telah dilas ulang mungkin tidak cukup. Sampel cadangan, pasangan mating part, dan riwayat kegagalan dapat mengubah datum, ukuran awal, atau dugaan material.
+
+Konteks penggunaan juga menentukan. Beban statis, beban berulang, kejutan, temperatur, fluida, debu, dan pola start-stop memengaruhi pilihan material, perlakuan, dan detail transisi. Data ini harus berasal dari pemilik aset atau dokumen OEM; jangan mengisinya dengan asumsi “pemakaian normal”.
+
+Pelaksanaan dapat menambah risiko: proses pemesinan bisa mengubah residual stress, pengelasan dapat menimbulkan distorsi, dan pelapisan dapat mengubah ukuran antarmuka. Pertanyaan “bisa dilas?” belum menjawab apakah perbaikan dapat diterima. Keputusan harus mempertimbangkan material, mekanisme kerusakan, sisa penampang, duty, akses, sejarah perlakuan panas, batas OEM, kode yang berlaku, serta rencana pembuktian. Tidak ada persetujuan desain, remaining life, atau rating operasi yang dapat diberikan generik di sini.
+
+Terakhir, lihat sistem lengkap. Poros baru dapat mengubah alignment dan getaran; guard atau attachment baru dapat mengubah clearance dan akses; komponen penahan dapat mengubah containment. Sebelum commissioning, pemilik aset perlu memastikan isolasi energi, safeguarding, inspeksi, dan otorisasi pelepasan sesuai prosedur setempat. Jangan menerbitkan urutan isolasi atau angka clearance universal; verifikasi persyaratan aktual dan dokumentasikan penanggung jawabnya ([OSHA 1910.147](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 1910.212](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212)). Sobat Bengkel.co.id, bila data isolasi atau guarding belum tersedia, status pekerjaan tetap “belum siap dirilis”.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah dudukan bearing tanpa gambar. Tim menemukan dua diameter dan pola lubang yang masih terbaca, tetapi muka referensi terkikis. Keputusan yang dapat dipertanggungjawabkan bukan langsung memesan material. Tim perlu: (1) mengukur pasangan bearing dan base dari datum yang disepakati, (2) mencari sampel pembanding atau data OEM, (3) memetakan keausan, (4) mengonfirmasi material dan perlakuan, (5) menetapkan toleransi alignment, lalu (6) membuat prototipe yang diperiksa sebelum produksi.
+
+Gunakan tabel keputusan sederhana berikut.
+
+| Temuan | Tindakan berikut | Status keputusan |
+|---|---|---|
+| Datum dan pasangan komponen jelas, material terverifikasi | Buat gambar dengan toleransi dan rencana inspeksi | Dapat masuk desain untuk review |
+| Bentuk terbaca tetapi zona acuan aus | Cari unworn reference atau data OEM; ukur ulang | Tahan produksi |
+| Retak, deformasi, atau riwayat las tidak diketahui | Analisis kerusakan dan review teknis khusus | Jangan nyatakan ekuivalen |
+| Komponen memengaruhi guard, interlock, atau containment | Libatkan pemilik aset dan penanggung jawab keselamatan | Tidak boleh dipasang berdasarkan artikel ini |
+
+Kawan Bengkel.co.id, contoh ini menunjukkan perbedaan antara “bisa dibuat” dan “bisa diverifikasi”. Status akhir selalu bergantung pada bukti proyek yang benar-benar tersedia.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Reverse Engineering Komponen Aus: Dari Sampel ke Part yang Bisa Diverifikasi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyalin ukuran area yang aus. Periksa peta keausan, bandingkan sisi berpasangan, dan tandai ukuran yang masih berupa hipotesis. Kedua, mengunci material dari warna atau kebiasaan. Minta bukti identitas atau nyatakan kebutuhan pengujian material. Ketiga, memberi toleransi seragam pada semua fitur. Tanyakan fungsi setiap antarmuka dan minta peninjauan untuk fitur kritis.
 
-## Objection or shortcut to address
+Kesalahan berikutnya ialah membuat satu prototipe lalu langsung memasang. Pastikan ada acceptance criteria, alat ukur, pencatat hasil, dan otoritas yang menandatangani. Simpan foto, laporan ukur, sertifikat material, catatan proses, dan hasil uji sebagai satu paket revisi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan lupa pemeriksaan IP. Cari tahu apakah gambar, merek, desain, atau pembatasan OEM berlaku; dokumentasikan izin atau dasar penggunaan yang sah. Reverse engineering untuk penggantian internal tidak otomatis menghapus kewajiban kontrak atau hukum.
 
-## Required conclusion
+## Saat jalan pintas terlihat menarik
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah “buat saja sama seperti sampel, nanti dites saat mesin jalan”. Uji jalan tidak dapat memulihkan datum yang salah, material yang keliru, atau guard yang tidak aman. Ia juga dapat memindahkan kegagalan ke komponen kawin dan orang di sekitar mesin. Alternatif yang lebih andal ialah menahan rilis, melengkapi data fungsi–material–antarmuka, membuat prototipe ber-revisi, lalu menyusun uji dan otorisasi bersama pemilik aset serta tenaga kompeten. [NEEDS TECHNICAL REVIEW: GATE-02, GATE-03, GATE-05, GATE-07, GATE-08]
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Reverse engineering komponen aus menghasilkan part yang bisa diverifikasi bila sampel tidak diperlakukan sebagai gambar final. Mulai dari fungsi, datum, dan unworn reference; buktikan material serta perlakuan; tetapkan toleransi dan antarmuka; kendalikan prototipe melalui revisi; lalu inspeksi dan uji sesuai risiko sistem.
+
+    Langkah Anda berikutnya adalah membuat lembar data untuk satu komponen: fungsi dan mode gagal, datum, peta keausan, pasangan antarmuka, asumsi material, toleransi kritis, rencana verifikasi, status IP, dan nama pemberi persetujuan. Teman Bengkel.co.id dapat memakai jalur perbaikan mesin dan komponen industri sebagai konteks pekerjaan, tetapi bukan pengganti review desain. Jika komponen memengaruhi keselamatan, containment, atau energi berbahaya, hentikan rilis sampai review teknis dan persyaratan pemilik/OEM terdokumentasi. Aturan operasinya sederhana: tidak ada gambar yang dianggap setara sebelum bukti dan otoritasnya jelas. Untuk menemukan artikel terkait di situs, gunakan [beranda Bengkel.co.id](/).

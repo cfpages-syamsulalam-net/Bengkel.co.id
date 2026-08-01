@@ -1,9 +1,10 @@
 ---
 article_id: BKL-08-A03
+writing_contract_version: "native-id-v2"
 title: "Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi"
 slug: "fit-up-tack-sequence-dan-catatan-las"
 description: "Cover preparation, alignment, tack acceptance, WPS availability, consumable control, preheat/interpass concepts, sequence, weather, and logs"
-status: outline
+status: draft
 publication_date: "2025-09-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,46 +18,15 @@ sources:
   - "https://www.iso.org/standard/51792.html"
   - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/83335.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
   - "https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
   - "https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi”
-- **Reader and situation:** Supervisor wants repeatable fabrication evidence
-- **Reader outcome:** Cover preparation, alignment, tack acceptance, WPS availability, consumable control, preheat/interpass concepts, sequence, weather, and logs
-- **Primary intent:** Understand in-process welding control
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Kawan Bengkel.co.id`
-- **Natural variants:** `Sobat Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal settings; approved WPS and qualified personnel govern production
-- **Final public route:** `/artikel/fit-up-tack-sequence-dan-catatan-las.html`
-- **Appointed CMS date:** `2025-09-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Bengkel.co.id`, `Sobat Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,138 +37,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Bengkel.co.id! Pada produksi las, hasil yang dapat diulang tidak dimulai dari menekan tombol mesin, melainkan dari fit-up (penyetelan dan penjajaran sambungan), tack (las titik penahan), urutan pengelasan, serta catatan yang membuat setiap keputusan bisa ditelusuri. Jalan pintas seperti “asal rapat lalu las penuh” dapat menyembunyikan celah, salah posisi, atau perubahan material yang baru terlihat saat inspeksi.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: tetapkan dahulu gambar kerja dan batas penerimaan, cocokkan material serta WPS (Welding Procedure Specification atau spesifikasi prosedur pengelasan) yang disetujui, verifikasi fit-up dan tack sebelum pengelasan penuh, lalu ikuti sequence dan rentang parameter yang berlaku. WPS, kualifikasi prosedur, kualifikasi welder, inspeksi, dan penerimaan sambungan adalah bukti yang berbeda; satu kartu welder tidak menggantikan dokumen lainnya. Kerangka pembedaan ini selaras dengan penjelasan resmi ISO 15614-1, ISO 9606-1, dan ISO 3834-6, tetapi rentang kualifikasi dan persyaratan uji tetap harus dibaca dari edisi standar berlisensi serta spesifikasi proyek ([ISO 15614-1](https://www.iso.org/standard/51792.html), [ISO 9606-1](https://www.iso.org/standard/54936.html), [ISO 3834-6](https://www.iso.org/standard/83335.html)).
 
-### KR-09
+[NEEDS IMAGE REVIEW: LOCAL-001]
 
-- **Original sources:** [ISO 15614-1:2017 — official ISO abstract](https://www.iso.org/standard/51792.html), [ISO 9606-1:2012 — official ISO abstract](https://www.iso.org/standard/54936.html), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Prevent an article from treating a welder card, a WPS, a procedure test, workmanship, and the finished joint's acceptance as interchangeable.
-- **Safe grounded facts:** Procedure qualification, production WPS, welder/operator qualification, material/process/position/thickness/diameter range, continuity/validity, equipment condition, consumable control, preheat/interpass control, inspection, and final acceptance are distinct records.
-- **Limits:** Both welding-qualification standards are current at verification but under revision. The public abstracts do not provide qualification ranges or test requirements; recheck editions and use licensed text plus the project specification.
-
-### KR-07
-
-- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
-- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
-- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
-- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.252 — welding, cutting, and brazing](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Help readers compare controlled shop fabrication with field work where the environment, interfaces, access, occupants, combustibles, weather, and permits can change the method and risk.
-- **Safe grounded facts:** Moving work on site can change fit-up control, position, access, lifting, weather, electrical supply, fume dispersion, fire exposure, nearby operations, traffic/public interface, coating conditions, inspection access, and restoration. A field weld is not justified merely because transport is inconvenient.
-- **Limits:** Do not import US distances, permits, or prescriptions. The responsible Indonesian site/K3 authority must approve the current task-specific controls.
-
-### KR-16
-
-- **Original sources:** [UU No. 1 Tahun 1970 — BPK](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 12 Tahun 2015 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015), [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Provide a systems view of workshop K3 instead of reducing safety to personal protective equipment.
-- **Safe grounded facts:** A controlled task starts with elimination/substitution and engineering/administrative controls, then suitable PPE; product identity and current safety data matter for chemicals. Emergency planning must reflect the actual energy, fire, exposure, first-aid, evacuation, communication, and rescue scenario.
-- **Limits:** This file supplies no exposure limit, PPE selection, ventilation rate, electrical protection setting, cylinder separation, fire-watch duration, or emergency procedure. Resolve them from current Indonesian rules, site conditions, exact products, and competent K3 review.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-03, GATE-04, GATE-06, GATE-08
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/las-stainless-steel-aluminium.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-portable.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-besi-baja.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/teralis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/tangki-silinder` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-08-A01` → `/artikel/memilih-proses-fabrikasi-komponen.html` — Memilih Proses Potong, Bentuk, Machining, dan Sambung untuk Satu Komponen
-- `BKL-08-A02` → `/artikel/wps-kualifikasi-prosedur-dan-welder.html` — WPS, Kualifikasi Prosedur, dan Kualifikasi Welder: Dokumen yang Berbeda
-- `BKL-08-A04` → `/artikel/workshop-welding-atau-field-welding.html` — Workshop Welding atau Field Welding: Pengaruh Cuaca, Akses, dan Kontrol
-- `BKL-08-A05` → `/artikel/rework-las-dan-bukti-pengulangan.html` — Rework Las: Kapan Diperbolehkan dan Bukti Apa yang Harus Diulang
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil akhir yang dicari supervisor bukan hanya manik las yang tampak rapi, melainkan paket bukti: komponen teridentifikasi, sambungan terpasang sesuai gambar, tack diterima, pengelasan mengikuti WPS, material dan consumable dapat ditelusuri, inspeksi tercatat, dan setiap penyimpangan memiliki keputusan. Orang yang menyetujui fit-up, orang yang mengelas, serta pemeriksa tidak otomatis memiliki kewenangan yang sama. Tetapkan peran itu di awal.
 
-## Langkah 1 — tetapkan scope
+Sebelum pekerjaan dibuka, siapkan revisi gambar, detail sambungan, WPS yang relevan, rekaman kualifikasi prosedur dan welder yang masih berlaku untuk lingkup pekerjaan, alat ukur yang layak, formulir inspeksi, serta identitas material dan bahan tambah. Bila salah satu dokumen inti belum tersedia, status yang jujur adalah “tahan untuk klarifikasi”, bukan mengisi angka dari kebiasaan bengkel. [NEEDS REVIEW: edisi standar dan rentang kualifikasi proyek harus dikonfirmasi dari dokumen berlisensi dan spesifikasi yang berlaku.]
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Bengkel.co.id, anggap catatan sebagai bagian dari produk. Catat nomor komponen, nomor sambungan, tanggal, welder, WPS, material, consumable, pemeriksa, dan keputusan hold point. Dengan begitu, ketika ada pertanyaan tentang satu sambungan, tim tidak perlu menebak dari ingatan.
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Mulailah dari batas fisik dan batas keputusan. Tandai sambungan mana yang dibuat di workshop, mana yang mungkin berpindah ke lapangan, antarmuka dengan komponen lain, area yang harus tetap dapat diinspeksi, serta pekerjaan yang tidak termasuk dalam lembar kerja. Jangan menyamakan “bisa dipindahkan” dengan “boleh dilas di lapangan”. Perpindahan lokasi dapat mengubah akses, posisi, cuaca, pasokan listrik, ventilasi asap, bahaya kebakaran, lalu lintas orang, dan rencana inspeksi. UU Keselamatan Kerja Indonesia dan ketentuan K3 yang relevan menuntut pengendalian berdasarkan kondisi pekerjaan yang nyata; panduan OSHA tentang pengelasan hanya ilustrasi bahaya, bukan pengganti persetujuan K3 Indonesia ([UU No. 1 Tahun 1970](https://peraturan.bpk.go.id/Details/47614/uu-no-1-tahun-1970), [Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [OSHA 1910.252](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.252)).
+
+Tentukan juga apa yang menjadi syarat berhenti: gambar tidak jelas, material tidak cocok, WPS tidak tersedia, tack retak, celah di luar batas dokumen, atau lingkungan tidak aman. Nilai penerimaan harus diambil dari gambar, WPS, spesifikasi, dan rencana inspeksi proyek—bukan dari angka universal.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada pemeriksaan material, cocokkan penandaan komponen dengan daftar material dan sertifikat atau laporan yang diwajibkan proyek. Simpan identitas heat atau batch bila diminta, dimensi, dan lokasi pemakaian. Untuk consumable, periksa klasifikasi, batch, kondisi kemasan, penyimpanan, serta rekaman pengeluaran atau pengeringan sesuai instruksi produk dan WPS. Jangan menebak kompatibilitas, masa simpan, atau kondisi pengeringan dari label generik. ISO 3834-6 menempatkan pengendalian sumber daya dan rekaman sebagai bagian dari sistem mutu pengelasan, bukan pekerjaan administrasi yang boleh dilewati ([ISO 3834-6](https://www.iso.org/standard/83335.html)).
+
+Lembar fit-up sebaiknya memuat identitas sambungan, orientasi, jenis dan ukuran material, kebersihan permukaan, root opening atau celah akar, alignment atau mismatch, panjang dan lokasi tack, serta alat ukur yang digunakan. Angka penerimaan hanya boleh diisi jika memang ditentukan dokumen proyek. Foto dapat membantu konteks, tetapi tidak menggantikan pengukuran dan tanda tangan pemeriksa.
+
+Bedakan empat pertanyaan berikut: apakah prosedurnya memenuhi syarat, apakah welder berwenang mengerjakan lingkup itu, apakah pelaksanaan mengikuti prosedur, dan apakah hasil akhirnya diterima. Sobat Bengkel.co.id, empat jawaban tersebut perlu empat jejak bukti yang dapat dirujuk silang; mencampurnya membuat rework sulit dianalisis.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan konseptualnya sederhana, tetapi disiplin di setiap gerbang penting. Pertama, bersihkan permukaan dan pastikan orientasi komponen sesuai gambar. Kedua, lakukan fit-up dengan jig atau penahan yang tidak merusak material, ukur celah dan alignment, lalu minta pemeriksaan. Ketiga, buat tack sesuai WPS atau instruksi kerja: lokasi, jumlah, ukuran, dan siapa yang memeriksa harus tercatat. Tack yang retak, berpori, terlepas, atau mengganggu jalur las tidak boleh ditutup begitu saja; bersihkan dan putuskan perbaikannya sebelum lanjut.
 
-## Hold point dan kondisi berhenti
+Keempat, pastikan identitas WPS, proses, posisi, material, dan rentang ketebalan sesuai sambungan. Kelima, kendalikan consumable dan peralatan: jenis bahan tambah, polaritas atau mode mesin bila tercantum, kabel, massa, dan kondisi alat. Keenam, ikuti sequence yang dirancang untuk mengelola penyusutan dan distorsi—misalnya urutan seimbang atau berpindah antarbagian sesuai instruksi yang disetujui—tanpa mengarang pola baru di tengah pekerjaan.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Preheat dan interpass bukan angka hafalan. Keduanya adalah konsep pengendalian temperatur yang harus mengikuti WPS, material, ketebalan, metode ukur, dan keputusan personel berwenang. Catat kondisi aktual dan alat ukurnya; jika temperatur di luar rentang, hentikan dan minta keputusan. Parameter arus, tegangan, kecepatan, atau heat input juga dicatat sebagai nilai aktual bila formulir proyek memintanya, bukan diisi ulang dari angka rencana setelah pekerjaan selesai.
 
-## Verifikasi hasil dan handover
+Jika pekerjaan berpindah ke lapangan, lakukan penilaian ulang. Angin, hujan, permukaan basah, akses sempit, sumber listrik, material mudah terbakar, dan orang di sekitar dapat mengubah pengendalian. Ketentuan K3 Indonesia dan rencana kerja setempat harus menentukan izin, penghalang, ventilasi, pemadam, pengawasan api, serta prosedur darurat; artikel ini tidak menyediakan jarak atau durasi universal.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Fit-Up, Tack, Sequence, dan Catatan Parameter saat Produksi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik tahan dan kondisi berhenti
 
-## Objection or shortcut to address
+Tahan pekerjaan sebelum las penuh jika identitas material tidak cocok, WPS atau kualifikasi tidak dapat ditunjukkan, fit-up di luar batas, tack belum diterima, alat ukur atau mesin bermasalah, consumable tidak terlacak, atau kondisi lingkungan berubah. Tahan juga saat ditemukan retak, indikasi cacat, distorsi yang mengubah geometri, atau kehilangan catatan parameter. Beri status jelas—menunggu pemeriksaan, menunggu engineering, atau menunggu keputusan K3—dan jangan menghapus jejak perubahan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Keputusan membuka kembali pekerjaan harus datang dari fungsi yang ditetapkan proyek. Untuk persoalan keselamatan, gunakan pengendalian berjenjang: hilangkan atau ubah bahaya bila mungkin, gunakan pengendalian teknis dan administratif, lalu pilih PPE yang sesuai. [Permenaker No. 12 Tahun 2015](https://jdih.kemnaker.go.id/peraturan/detail/610/peraturan-menteri-nomor-12-tahun-2015) dan kerangka K3 nasional perlu dibaca bersama kondisi aktual; [NEEDS REVIEW: detail ventilasi, perlindungan listrik, pemisahan tabung, fire watch, dan rencana penyelamatan belum disediakan dalam paket ini.]
 
-## Required conclusion
+## Verifikasi hasil dan serah terima
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum handover, cocokkan daftar sambungan dengan status fit-up, tack, pengelasan, inspeksi visual, dan pemeriksaan tambahan yang diwajibkan proyek. Pastikan setiap reparasi memiliki referensi sambungan, alasan, metode yang disetujui, pemeriksaan ulang, dan persetujuan penutupan. Satukan log welder, WPS, consumable, temperatur bila diwajibkan, kondisi cuaca untuk pekerjaan lapangan, nomor alat, serta nama pemeriksa.
 
-## Draft completion checklist
+Buat ringkasan penyimpangan yang mudah dibaca: apa yang berubah, kapan ditemukan, siapa yang memutuskan, bukti apa yang mendukung, dan apakah dampaknya sudah diverifikasi. Handover yang baik memungkinkan tim berikutnya memahami batas pekerjaan tanpa mengandalkan cerita lisan. Untuk kebutuhan pembaca yang sedang menyiapkan pekerjaan khusus, rujukan layanan seperti [las besi dan baja](/las-besi-baja.html) dapat menjadi langkah awal memahami jenis pekerjaan. Jika koordinasi perlu dilakukan di lokasi dengan akses berubah, penjelasan tentang [layanan las portable](/las-portable.html) membantu membedakan kebutuhan mobilitas dari persetujuan teknis; keputusan akhir tetap mengikuti spesifikasi dan pemeriksaan proyek.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Jalan pintas yang sering menggoda
+
+“Tack saja dulu, dokumen menyusul” terdengar cepat, tetapi mengunci kesalahan geometri ke dalam sambungan dan menghilangkan konteks siapa yang menyetujui. Jalan pintas lain adalah menyalin parameter dari pekerjaan lama karena material terlihat sama. Perbedaan ketebalan, posisi, proses, batch consumable, atau kondisi lingkungan dapat membuat salinan itu tidak berlaku. Alternatif yang lebih andal adalah menghentikan di hold point, melengkapi bukti, lalu meminta penyesuaian WPS atau keputusan engineering yang tercatat.
+
+## Kesimpulan dan tindakan berikutnya
+
+Fit-up, tack, sequence, dan catatan parameter membentuk satu rantai pengendalian: geometri diverifikasi, penahan diterima, prosedur dan welder cocok, bahan serta alat terlacak, urutan dijalankan, kondisi dicatat, dan hasil diperiksa. Tidak ada setelan universal yang dapat menggantikan WPS yang disetujui dan personel berkualifikasi.
+
+Teman Bengkel.co.id, sebelum membuka busur berikutnya, minta supervisor menandatangani lembar fit-up dan tack, tunjukkan WPS serta bukti kualifikasi yang relevan, lalu pastikan log aktual dan rencana inspeksi tersedia. Jika salah satu gerbang belum jelas, berhenti dan minta review teknis/K3. Aturan operasinya: pekerjaan boleh maju hanya ketika bukti untuk tahap sebelumnya lengkap dan kondisi aktual masih berada dalam batas yang disetujui.

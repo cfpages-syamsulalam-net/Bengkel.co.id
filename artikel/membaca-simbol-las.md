@@ -3,7 +3,8 @@ article_id: BKL-07-A03
 title: "Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain"
 slug: "membaca-simbol-las"
 description: "Decode location, joint, size concept, length, contour, field/shop notation, and reference hierarchy"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-31"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,37 +20,13 @@ sources:
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+Halo, Sobat Bengkel.co.id!
 
-# Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain
+Simbol las pada gambar kerja adalah bahasa komunikasi, bukan izin untuk mengubah desain. Bacalah dari garis referensi, panah, dan posisi simbol, kemudian cocokkan dengan ukuran konseptual, panjang, kontur, serta catatan lapangan atau bengkel. Jika gambar tidak menyebut acuan, revisi, material, atau detail sambungan dengan jelas, pekerjaan berhenti pada klarifikasi—bukan pada tebakan juru las.
 
-## Assignment lock
+Jadi, pembeli atau supervisor boleh memastikan apakah pesan gambar sudah terbaca, tetapi tidak boleh menyimpulkan bahwa suatu ukuran las pasti aman hanya dari simbolnya. Kecukupan sambungan tetap bergantung pada beban, geometri, stabilitas, tumpuan, urutan ereksi, toleransi, lingkungan, dan pemeriksaan sistem lengkap. Katalog resmi SNI 1729:2020 dan abstrak ISO 3834-6:2024 membantu menunjukkan pentingnya paket dokumen yang terkendali, tetapi halaman katalog tersebut tidak memuat nilai proyek atau klausul yang dapat menggantikan dokumen berlisensi. ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024](https://www.iso.org/standard/83335.html))
 
-- **Writer task:** Expand this file into one complete article answering: “Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain”
-- **Reader and situation:** Buyer or supervisor reviewing fabrication drawing
-- **Reader outcome:** Decode location, joint, size concept, length, contour, field/shop notation, and reference hierarchy
-- **Primary intent:** Interpret drawing communication
-- **Reader community:** `Bengkel.co.id`
-- **Primary friendly address:** `Sobat Bengkel.co.id`
-- **Natural variants:** `Kawan Bengkel.co.id` and `Teman Bengkel.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No weld sizing or procedure selection; BKL-10 owns engineering and BKL-08 owns WPS
-- **Final public route:** `/artikel/membaca-simbol-las.html`
-- **Appointed CMS date:** `2025-08-31` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Bengkel.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Bengkel.co.id`, `Kawan Bengkel.co.id`, or `Teman Bengkel.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -60,124 +37,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `bg bengkel` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi bg bengkel](/wp-content/uploads/2024/06/bg-bengkel.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal Bengkel.co.id; bukan dokumentasi proyek tertentu.*
 
-### KR-08
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html).
-- **Purpose for this article:** Ground fabrication planning in defined requirements rather than verbal descriptions, copied details, or unverified workshop habit.
-- **Safe grounded facts:** A controlled fabrication package can need governing documents and revision, function, dimensions/datums, material and joint identity, loads/interfaces, tolerances, fabrication sequence, weld/fastener/coating requirements, inspection and hold points, acceptance basis, handling, installation, and approved deviations.
-- **Limits:** The BSN page does not reveal clauses, tolerances, combinations, connection design, execution rules, or acceptance values. Obtain the licensed governing standards and issued-for-work project documents.
-
-### KR-11
-
-- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
-- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
-- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** GATE-02, GATE-04, GATE-05
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/las-stainless-steel-aluminium.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-portable.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las-besi-baja.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/teralis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/las/tangki-silinder` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BKL-07-A01` → `/artikel/dari-kebutuhan-ke-gambar-kerja-fabrikasi.html` — Dari Kebutuhan ke Gambar Kerja: Alur Brief Fabrikasi yang Bisa Disetujui
-- `BKL-07-A02` → `/artikel/toleransi-fit-clearance-dan-datum.html` — Toleransi, Fit, Clearance, dan Datum: Bahasa Ukur untuk Bengkel
-- `BKL-07-A04` → `/artikel/urutan-fabrikasi-untuk-mengendalikan-distorsi.html` — Urutan Potong, Bentuk, Machining, dan Las untuk Mengendalikan Distorsi
-- `BKL-07-A05` → `/artikel/jig-fixture-mockup-dan-first-article.html` — Jig, Fixture, Mockup, dan First Article: Kapan Biayanya Layak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+# Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari saat membaca simbol adalah daftar instruksi gambar yang tidak ambigu: sambungan mana yang dimaksud, di sisi mana las berada, apakah simbol menunjukkan las di lapangan atau di bengkel, dan catatan apa yang masih harus dirujuk. Wewenang Anda sebagai pembeli atau supervisor adalah memeriksa komunikasi dan meminta klarifikasi; wewenang desain tetap pada perencana atau penanggung jawab teknis.
 
-## Langkah 1 — tetapkan scope
+Jika tindak lanjutnya berupa pekerjaan pada material baja, Anda dapat melihat konteks layanan [las besi dan baja](/las-besi-baja.html). Untuk kebutuhan yang harus dikerjakan di lokasi, rujuk penjelasan [layanan las portable](/las-portable.html) setelah gambar dan persetujuan teknisnya jelas.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menafsirkan, siapkan gambar edisi terakhir, daftar revisi, tampak dan potongan yang dirujuk, spesifikasi material, catatan umum, serta dokumen persetujuan. Paket fabrikasi yang terkendali semestinya dapat menautkan dokumen pengendali, dimensi dan datum, identitas material dan sambungan, urutan fabrikasi, persyaratan las, pemeriksaan, titik tahan (*hold point*), dasar penerimaan, dan penyimpangan yang disetujui. ([ISO 3834-6:2024](https://www.iso.org/standard/83335.html))
+
+## Langkah 1 — tetapkan cakupan
+
+Mulailah dengan menandai objek yang benar: nomor detail, garis sambungan, dan antarmuka dengan bagian lain. Bedakan “membaca pesan” dari “menentukan desain”. Artikel ini membantu Anda memahami lokasi dan struktur notasi; artikel ini tidak menentukan ukuran efektif, kapasitas, jenis elektroda, parameter pengelasan, atau prosedur kerja. BKL-10 tetap menjadi ruang untuk rekayasa, sedangkan BKL-08 menangani WPS.
+
+Tanyakan tiga hal pada lembar tersebut: apakah panah menunjuk sambungan yang dimaksud, apakah sisi panah dan sisi berlawanan dibedakan konsisten, dan apakah simbol tambahan memiliki legenda atau standar rujukan. Jika ada dua tampak yang seolah memberi pesan berbeda, tandai nomor detail dan minta satu jawaban tertulis pada revisi. Jangan memilih tafsir yang paling mudah dikerjakan.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baca simbol dalam urutan tetap. Garis referensi menjadi jalur baca; panah menghubungkannya ke lokasi sambungan. Posisi simbol terhadap garis itu menyampaikan sisi yang dimaksud menurut sistem gambar yang dipakai. Simbol dasar mengidentifikasi konsep sambungan (misalnya fillet, groove, atau plug), sementara ekor simbol biasanya membawa rujukan proses, spesifikasi, atau catatan.
+
+Setelah lokasi dan tipe konsep terbaca, periksa angka di kiri atau kanan simbol. Perlakukan angka sebagai ukuran atau panjang yang harus dicocokkan dengan legenda dan satuan gambar, bukan sebagai rekomendasi baru. Catatan panjang, jarak terputus, atau pengulangan dapat mengubah cara pesan diterapkan sepanjang garis sambungan. Tanda kontur dan metode penyelesaian memberi tahu bentuk permukaan yang diminta; tanda itu tidak membuktikan hasil akhir sudah memenuhi penerimaan.
+
+Cari pula notasi “field” atau bendera lapangan. Bendera menandakan pekerjaan dilakukan di lokasi ereksi, sedangkan ketiadaannya biasanya mengarah pada pekerjaan bengkel dalam sistem gambar tersebut. Pastikan kebiasaan perusahaan tidak bertentangan dengan legenda proyek. Untuk setiap pembacaan, tulis pasangan “simbol—lokasi—catatan rujukan” agar operator berikutnya tidak harus mengandalkan ingatan.
+
+Kawan Bengkel.co.id, cocokkan juga simbol dengan potongan dan daftar material. Memberi tanda las pada garis yang salah dapat membuat sambungan tampak lengkap padahal antarmukanya berbeda. Jika material, beban, atau kondisi korosi tidak tersedia, statusnya adalah belum dapat diputuskan. ISO 12944-8:2017 menempatkan perencanaan perlindungan korosi dalam konteks proyek dan lingkungan; abstraknya tidak memberi sistem pelapisan atau kelas paparan untuk kasus Anda. ([ISO 12944-8:2017](https://www.iso.org/standard/64838.html))
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan alur pemeriksaan berikut saat meninjau satu detail:
 
-## Hold point dan kondisi berhenti
+1. Kunci nomor gambar, revisi, dan unit.
+2. Lingkari panah serta titik ujungnya pada tampak yang relevan.
+3. Baca simbol dasar, posisi terhadap garis referensi, dan simbol tambahan.
+4. Salin angka ukuran konseptual, panjang, atau pitch beserta catatan satuannya; jangan mengolahnya menjadi ukuran desain baru.
+5. Baca ekor, legenda, spesifikasi, dan penanda bengkel/lapangan.
+6. Cocokkan dengan potongan, material, urutan pemasangan, dan titik pemeriksaan.
+7. Rekam pertanyaan yang tidak terjawab sebelum gambar dilepas ke fabrikasi.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Contoh praktis: simbol pada sambungan pelat mungkin terbaca sebagai las di sisi panah dengan panjang tertentu dan kontur tertentu. Itu menjawab “apa yang diminta gambar”, bukan “apakah sambungan cukup menahan beban”. Bila gambar juga menunjukkan baut, pelat penutup, atau tumpuan yang berubah, minta perencana mengonfirmasi hierarki detail yang berlaku.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Membaca Simbol Las tanpa Mengubah Tanggung Jawab Desain”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pelepasan pekerjaan bila nomor revisi tidak sama antara gambar, daftar material, dan instruksi kerja; panah tidak menunjuk lokasi unik; simbol, angka, atau satuan terpotong; legenda standar tidak tersedia; atau catatan lapangan bertentangan dengan urutan ereksi. Hentikan juga bila seseorang meminta Anda mengubah ukuran simbol agar “lebih aman” tanpa perhitungan dan persetujuan.
 
-## Objection or shortcut to address
+Ada batas yang belum bisa ditutup dari paket bukti ini: **[NEEDS GATE-02/GATE-04/GATE-05: konfirmasi gambar IFC/issued-for-work, standar pengelasan yang berlaku, dan persetujuan penanggung jawab desain sebelum fabrikasi]**. Jangan menyebut struktur “SNI compliant” atau menjamin kapasitas sambungan hanya berdasarkan pembacaan simbol. Kecukupan sistem juga dipengaruhi beban, kombinasi, stabilitas, koneksi, angkur, kondisi eksisting, toleransi, kebakaran/korosi, inspeksi, dan pemeliharaan. ([BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html))
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Serahkan lembar tinjauan dengan kolom: nomor detail dan revisi, lokasi sambungan, sisi panah, simbol dasar dan tambahan, ukuran/panjang sebagaimana tertulis, penanda field/shop, rujukan spesifikasi, status cocok atau tidak, serta nama pihak yang menjawab. Lampirkan sketsa atau potongan yang diberi lingkaran, bukan foto yang tidak memiliki referensi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum handover, pastikan pertanyaan terbuka memiliki jawaban pada revisi resmi atau instruksi tertulis. Pastikan pemeriksa dan pelaksana menggunakan edisi yang sama, titik tahan inspeksi diketahui, dan penyimpangan dicatat sebagai penyimpangan—bukan dihapus dari gambar. Jika jawaban mengubah geometri, beban, material, atau urutan ereksi, kembalikan ke review desain.
 
-## Draft completion checklist
+## Jalan pintas yang sering gagal
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Bengkel.co.id!` and uses friendly `Bengkel.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang menggoda adalah menganggap semua simbol segitiga berarti “las fillet standar”, lalu mengulang ukuran dari proyek lama. Cara itu gagal karena simbol hanya menyampaikan maksud pada konteks gambar tertentu; garis referensi, sisi, panjang, kontur, material, dan catatan dapat berbeda. Proyek lama juga tidak membuktikan kondisi beban atau lingkungan proyek baru.
+
+Alternatif yang lebih aman ialah membuat satu kartu pembacaan per detail, mengutip sumber rujukannya, lalu meminta konfirmasi tertulis untuk bagian yang kosong. Teman Bengkel.co.id, kecepatan review datang dari urutan yang konsisten, bukan dari menebak isi simbol yang tidak lengkap.
+
+## Kesimpulan
+
+Membaca simbol las berarti menerjemahkan lokasi, konsep sambungan, ukuran dan panjang sebagaimana tertulis, kontur, serta notasi bengkel/lapangan ke daftar kerja yang dapat dilacak. Tindakan itu tidak memindahkan tanggung jawab desain kepada pembeli, supervisor, atau juru las.
+
+Langkah Anda berikutnya: kunci gambar dan revisinya, isi kartu pembacaan, lalu minta penanggung jawab desain menutup marker **[NEEDS GATE-02/GATE-04/GATE-05]** beserta standar dan dokumen issued-for-work yang berlaku. Aturan operasionalnya sederhana: bila simbol tidak dapat ditautkan ke lokasi, catatan, dan persetujuan yang jelas, pekerjaan belum siap dimulai.
